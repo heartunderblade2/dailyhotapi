@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # 你的专属 Vercel API 地址（请确保没有拼写错误）
-API_URL = "https://my-dailyhotapi-vercel.vercel.app/zhihu"
+API_URL = "https://my-dailyhotapi-vercel.vercel.app/bilibili"
 
 def fetch_and_save():
     print(f"开始抓取数据: {API_URL}")
