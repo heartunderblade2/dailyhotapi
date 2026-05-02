@@ -23,7 +23,7 @@ def fetch_and_save():
             
             # 自动获取当天的日期作为文件名
             today_str = datetime.now().strftime("%Y-%m-%d")
-            filename = f"data/zhihu_{today_str}.json"
+            filename = f"data/bilibili_{today_str}.json"
             
             # 把抓下来的数据妥善存进 JSON 文件里
             with open(filename, "w", encoding="utf-8") as f:
