@@ -1,8 +1,8 @@
 name: 自动抓取热榜数据
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
+  # schedule:
+  #   - cron: '*/15 * * * *'
   workflow_dispatch: 
 
 permissions:
