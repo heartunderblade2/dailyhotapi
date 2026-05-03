@@ -3,7 +3,7 @@ name: 自动抓取热榜数据
 on:
   schedule:
     # 每天 UTC 凌晨 2:00 (北京时间早上 10:00) 运行
-    - cron: '20 2 * * *'
+    - cron: '35 2 * * *'
   workflow_dispatch: 
     # 允许手动点击触发
 
