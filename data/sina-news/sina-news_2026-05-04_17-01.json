@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-04T09:01:18.359Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信",
+      "author": "新华社",
+      "hot": 245,
+      "timestamp": 1777825839000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-03/doc-inhwrhff1437192.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-03/doc-inhwrhff1437192.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "以军持续对黎南部发动袭击 真主党称打击多个以军目标",
+      "author": "滚动播报",
+      "hot": 530,
+      "timestamp": 1777882563000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsuhr0140173.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsuhr0140173.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "英国伦敦发生“无差别”枪击事件 1人生命垂危",
+      "author": "滚动播报",
+      "hot": 536,
+      "timestamp": 1777853370000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwrxav4393855.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwrxav4393855.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "特朗普：美国开启霍尔木兹海峡船只通行自由行动将于中东时间周一上午启动。",
+      "author": "滚动播报",
+      "hot": 539,
+      "timestamp": 1777869476000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4188316.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4188316.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "一季度末股东户数下降公司排行：16家公司降逾40%",
+      "author": "e公司",
+      "hot": 541,
+      "timestamp": 1777882278000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwsuhp0750563.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwsuhp0750563.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "英国警方称，英格兰南部发生爆炸，已造成2人死亡、3人受伤。",
+      "author": "滚动播报",
+      "hot": 541,
+      "timestamp": 1777852642000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-03/doc-inhwrxav4390927.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-03/doc-inhwrxav4390927.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "联合海事情报中心：伊朗锡里克以西11海里海域发生事故，船员已确认安全。",
+      "author": "滚动播报",
+      "hot": 541,
+      "timestamp": 1777858654000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckv1061563.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckv1061563.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "世界卫生组织：1例汉坦病毒感染已得到实验室确诊，另有5例疑似病例。",
+      "author": "滚动播报",
+      "hot": 541,
+      "timestamp": 1777867462000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisv0345136.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisv0345136.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "英国唐宁街：首相斯塔默和泽连斯基讨论了乌克兰的国防问题。",
+      "author": "滚动播报",
+      "hot": 542,
+      "timestamp": 1777853587000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwrxaz0553021.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwrxaz0553021.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "挪威国家石油Equinor续签总额18亿美元的钻井及修井服务合同。",
+      "author": "滚动播报",
+      "hot": 544,
+      "timestamp": 1777905500000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwtewe8014590.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwtewe8014590.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "山西大同“订婚强奸”案男子3年刑满出狱，父母：将带儿子去旅游散心，帮其调整心态",
+      "author": "极目新闻",
+      "hot": 545,
+      "timestamp": 1777905193000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtewe8012335.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtewe8012335.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "伊朗外交部发言人顾问：与华盛顿的任何谈判都必须在战事结束之后进行。",
+      "author": "滚动播报",
+      "hot": 549,
+      "timestamp": 1777857844000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckt4281553.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckt4281553.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "斯图里奇：应该给斯洛特机会，让他去贯彻自己的哲学",
+      "author": "新浪新闻综合",
+      "hot": 552,
+      "timestamp": 1777881062000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwspyr0874597.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwspyr0874597.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美联航一客机降落时撞上路灯杆 联邦航空管理局展开调查",
+      "author": "央视新闻客户端",
+      "hot": 553,
+      "timestamp": 1777877784000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwspyn8224892.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwspyn8224892.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "[小炮APP]竞彩情报：切尔西两员大将有望复出",
+      "author": "新浪彩票",
+      "hot": 565,
+      "timestamp": 1777888277000,
+      "url": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsuhm4010065.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsuhm4010065.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "班凯罗：首轮出局是不可接受的 赢球的习惯要从九十月就开始建立",
+      "author": "NBA综合",
+      "hot": 566,
+      "timestamp": 1777883419000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-04/doc-inhwsuhk8123680.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-04/doc-inhwsuhk8123680.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "英国和欧盟将于周一就乌克兰贷款计划展开正式谈判。",
+      "author": "滚动播报",
+      "hot": 567,
+      "timestamp": 1777872676000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4197658.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4197658.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "大西洋一邮轮暴发“严重疾病”，世卫组织紧急发声",
+      "author": "券商中国",
+      "hot": 576,
+      "timestamp": 1777902138000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewf3839615.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewf3839615.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "048期山哥大乐透预测奖号：前区四号球",
+      "author": "新浪彩票",
+      "hot": 581,
+      "timestamp": 1777895093000,
+      "url": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqi3899292.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqi3899292.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "租车提前还车被告知要再给62元 出租方：优惠减免条件变动",
+      "author": "快科技",
+      "hot": 599,
+      "timestamp": 1777850516000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-03/doc-inhwrxau8516064.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-03/doc-inhwrxau8516064.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "炸裂！顶级量化巨头员工人均年薪1800万！他们的钱，真的是大风刮来的吗？",
+      "author": "市场资讯",
+      "hot": 612,
+      "timestamp": 1777881992000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwsuhr0136860.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwsuhr0136860.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "鲍威尔留任理事的双刃剑：每一票都被政治解读，还可能成为政府靶子",
+      "author": "市场资讯",
+      "hot": 615,
+      "timestamp": 1777890973000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-04/doc-inhwsyqp0068370.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-04/doc-inhwsyqp0068370.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "德比斯退赛，张雪：遇到机械故障，初步排查发动机机油压力下降",
+      "author": "新浪新闻综合",
+      "hot": 664,
+      "timestamp": 1777842837000,
+      "url": "https://news.sina.com.cn/o/2026-05-03/doc-inhwrsuw8604230.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-03/doc-inhwrsuw8604230.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "伊朗正“审议”美方对14点提议所作回应",
+      "author": "央视",
+      "hot": 671,
+      "timestamp": 1777857167000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwscks8417889.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwscks8417889.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "048期昊天大乐透预测奖号：后区数据分析",
+      "author": "新浪彩票",
+      "hot": 677,
+      "timestamp": 1777895109000,
+      "url": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqp0073357.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqp0073357.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "特朗普：美国开启霍尔木兹海峡船只通行自由行动将于中东时间周一上午启动",
+      "author": "环球市场播报",
+      "hot": 686,
+      "timestamp": 1777869724000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4188990.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisr4188990.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "大型邮轮暴发病毒感染，6名患者中3人死亡，世卫组织正做病毒测序工作，该病毒曾引发好莱坞明星夫妇死亡",
+      "author": "极目新闻",
+      "hot": 690,
+      "timestamp": 1777900511000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewe7983797.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewe7983797.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "柳相岱：市场普遍认为，目前的汇率水平并无问题。",
+      "author": "滚动播报",
+      "hot": 692,
+      "timestamp": 1777886260000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsuhm3998267.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsuhm3998267.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "4家续展失败！支付行业持续洗牌",
+      "author": "滚动播报",
+      "hot": 714,
+      "timestamp": 1777864558000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckx0466702.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckx0466702.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "4岁男童11楼意外坠落奇迹生还 父母：当时感觉天都塌了，没有医护人员，我们真的走不下来",
+      "author": "新浪新闻综合",
+      "hot": 716,
+      "timestamp": 1777890769000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqi3894160.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqi3894160.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "特朗普接受以色列媒体访问时表示：请转告你们的总统赦免内塔尼亚胡。他是战时总理。",
+      "author": "滚动播报",
+      "hot": 727,
+      "timestamp": 1777858577000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckt4284064.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsckt4284064.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "时政微纪录丨总书记深情寄语 中国青年正当其时",
+      "author": "央视",
+      "hot": 753,
+      "timestamp": 1777885465000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-04/doc-inhwsuhp0770379.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-04/doc-inhwsuhp0770379.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "阿贝尔详解伯克希尔能源低碳转型立场",
+      "author": "滚动播报",
+      "hot": 754,
+      "timestamp": 1777766968000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-03/doc-inhwpucz1383614.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-03/doc-inhwpucz1383614.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "阿联酋退出阿拉伯石油输出国组织",
+      "author": "环球网",
+      "hot": 765,
+      "timestamp": 1777901035000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewm0007520.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewm0007520.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "军事 | 美军真窘迫到“陆炮上舰”了吗？",
+      "author": "新民周刊",
+      "hot": 766,
+      "timestamp": 1777896143000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsyqm0714187.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsyqm0714187.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "佩斯科夫：若乌不愿达成协议，俄将通过特别军事行动迫使其接受",
+      "author": "北京日报客户端",
+      "hot": 792,
+      "timestamp": 1777835977000,
+      "url": "https://news.sina.com.cn/w/2026-05-03/doc-inhwrnny8693134.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-03/doc-inhwrnny8693134.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "这份“赴美旅行警示”说明了什么",
+      "author": "西部网",
+      "hot": 861,
+      "timestamp": 1777886062000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwsuhr0164008.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwsuhr0164008.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "我国第一繁忙机场：业绩大变脸！",
+      "author": "市场资讯",
+      "hot": 874,
+      "timestamp": 1777839694000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-03/doc-inhwrnpf0738858.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-03/doc-inhwrnpf0738858.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "波兰国防部长表示，目前尚未收到任何表明“爱国者”防空系统交付将推迟的消息。",
+      "author": "滚动播报",
+      "hot": 883,
+      "timestamp": 1777867761000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisq8324068.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwsisq8324068.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美官员称霍尔木兹海峡护航倡议或不包含美舰直接护航",
+      "author": "滚动播报",
+      "hot": 886,
+      "timestamp": 1777898693000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwtewe7973944.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-04/doc-inhwtewe7973944.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "【8点见】四川一动物园老虎瘦成纸片，当地回应",
+      "author": "央视",
+      "hot": 893,
+      "timestamp": 1777882281000,
+      "url": "https://news.sina.com.cn/s/2026-05-04/doc-inhwsuhk8116533.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-04/doc-inhwsuhk8116533.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "法国友人移交一批日本侵华资料",
+      "author": "极目新闻",
+      "hot": 922,
+      "timestamp": 1777897802000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqh8093952.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqh8093952.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "新浪彩票双色球名家第26050期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 949,
+      "timestamp": 1777889485000,
+      "url": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqh8036455.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqh8036455.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "社保基金一季度持仓大盘点！重仓50强名单出炉，多只龙头被长期持有超10年",
+      "author": "数据宝",
+      "hot": 963,
+      "timestamp": 1777888799000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-05-04/doc-inhwsuhk8160887.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-05-04/doc-inhwsuhk8160887.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "5月“金股”出炉！“科技成长”与“涨价题材”成两大主线",
+      "author": "市场资讯",
+      "hot": 972,
+      "timestamp": 1777843866000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-03/doc-inhwrsuw8609206.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-03/doc-inhwrsuw8609206.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "英媒：特朗普政府叫停美国陆上风电开发",
+      "author": "环球网",
+      "hot": 1011,
+      "timestamp": 1777898121000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewk9988531.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtewk9988531.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "以总理要求政府所有部长不得就伊朗问题接受媒体采访",
+      "author": "央视",
+      "hot": 1038,
+      "timestamp": 1777872461000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsckx0453391.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsckx0453391.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美国得克萨斯州发生枪击事件 致2死10伤",
+      "author": "央视",
+      "hot": 1048,
+      "timestamp": 1777849910000,
+      "url": "https://news.sina.com.cn/w/2026-05-03/doc-inhwrxau8513084.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-03/doc-inhwrxau8513084.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "英国海事贸易组织说一艘油轮在阿联酋附近被击中",
+      "author": "北京日报客户端",
+      "hot": 1073,
+      "timestamp": 1777886318000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsuhr0164510.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsuhr0164510.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "南非卫生部：大西洋一邮轮暴发呼吸道疾病致两人死亡",
+      "author": "央视",
+      "hot": 1087,
+      "timestamp": 1777872544000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsist0962024.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwsist0962024.shtml"
+    }
+  ]
+}
