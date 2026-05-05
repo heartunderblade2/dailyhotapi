@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-05T00:01:11.455Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "油价飙升 阿联酋称遭到伊朗导弹袭击 霍尔木兹海峡局势升级",
+      "author": "环球市场播报",
+      "hot": 210,
+      "timestamp": 1777940413000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwuhiv0164909.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwuhiv0164909.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "阿联酋国防部称监测到4枚来自伊朗的巡航导弹",
+      "author": "新华社",
+      "hot": 222,
+      "timestamp": 1777937069000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzy9709677.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzy9709677.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "乌克兰总统泽连斯基：宣布自5月5日至6日零点起实行停火。",
+      "author": "滚动播报",
+      "hot": 285,
+      "timestamp": 1777949410000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0072980.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0072980.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "五一假期第四天仍然“人挤人”：多地接待游客同比两位数增长，有景点五一后门票也已约满",
+      "author": "澎湃新闻",
+      "hot": 285,
+      "timestamp": 1777931802000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwtzzv3482476.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwtzzv3482476.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "美参议员称伊朗已违反停火协议 呼吁强力军事打击",
+      "author": "滚动播报",
+      "hot": 286,
+      "timestamp": 1777947322000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3288232.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3288232.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "刘国正谈国乒男团两连败",
+      "author": "北京日报客户端",
+      "hot": 287,
+      "timestamp": 1777890620000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqp0065460.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwsyqp0065460.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "美联储威廉姆斯：供应链中断问题已凸显，影响值得关注。",
+      "author": "滚动播报",
+      "hot": 287,
+      "timestamp": 1777942243000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3397328.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3397328.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "普京决定5月8日至9日停火",
+      "author": "滚动播报",
+      "hot": 288,
+      "timestamp": 1777944214000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7591078.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7591078.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "美联储威廉姆斯：关税与能源是通胀的主要推手，潜在通胀大体稳定。",
+      "author": "滚动播报",
+      "hot": 291,
+      "timestamp": 1777942239000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3397303.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3397303.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美联储威廉姆斯：就业市场目前仍表现强劲。",
+      "author": "滚动播报",
+      "hot": 291,
+      "timestamp": 1777944183000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0183027.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0183027.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "一韩国货船在霍尔木兹起火",
+      "author": "界面新闻",
+      "hot": 294,
+      "timestamp": 1777931151000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzx0256144.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzx0256144.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "美国检察官提交申请，要求撤销其对美联储主席鲍威尔的调查。",
+      "author": "滚动播报",
+      "hot": 297,
+      "timestamp": 1777948942000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0071192.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0071192.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "阿联酋国防部称4日拦截伊朗十余枚导弹及多架无人机",
+      "author": "滚动播报",
+      "hot": 303,
+      "timestamp": 1777952675000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3309539.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3309539.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "福建三明一中学副校长因女学生一句口头禅用脏话对其辱骂？教育局工作人员：已关注，正调查核实",
+      "author": "极目新闻",
+      "hot": 311,
+      "timestamp": 1777921750000,
+      "url": "https://news.sina.com.cn/s/2026-05-04/doc-inhwtrmz3687659.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-04/doc-inhwtrmz3687659.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "“张雪机车”车队：核心目标是冲击年度总冠军",
+      "author": "澎湃新闻",
+      "hot": 313,
+      "timestamp": 1777933960000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtvua9781717.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtvua9781717.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "伊朗呼吁波斯湾各国摒弃对外安全依附，并称美军驻留实为累赘隐患。",
+      "author": "滚动播报",
+      "hot": 316,
+      "timestamp": 1777958878000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7382448.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7382448.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "伊朗官员称伊朗未在核问题上进行任何谈判",
+      "author": "央视",
+      "hot": 320,
+      "timestamp": 1777936080000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtvtw7756546.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtvtw7756546.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "特朗普警告：伊朗最好祈祷停火协议能够维持下去。",
+      "author": "滚动播报",
+      "hot": 330,
+      "timestamp": 1777952380000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrq7490335.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrq7490335.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "巴西一小型飞机撞上居民楼至少一人死亡",
+      "author": "滚动播报",
+      "hot": 335,
+      "timestamp": 1777940877000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3390223.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3390223.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "富时A50期指连续夜盘收跌0.38%，报15612点。",
+      "author": "滚动播报",
+      "hot": 336,
+      "timestamp": 1777958120000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3201873.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3201873.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "迪拜市民收到潜在导弹威胁警报",
+      "author": "新华社",
+      "hot": 337,
+      "timestamp": 1777929138000,
+      "url": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9796370.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9796370.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "美国飞行员工会负责人表示，工会对“任何推进方案”都持开放态度。",
+      "author": "滚动播报",
+      "hot": 347,
+      "timestamp": 1777963104000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxq9999247.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxq9999247.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "辽宁丹东发生一起交通事故已造成8人死亡",
+      "author": "新华社",
+      "hot": 348,
+      "timestamp": 1777916932000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtrnc0446686.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtrnc0446686.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "尾盘：美股继续下滑 中东紧张局势推动油价走高",
+      "author": "环球市场播报",
+      "hot": 350,
+      "timestamp": 1777949587000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwunru9501854.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwunru9501854.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "美国航空飞行员协会负责人称，美国航空目前的运营状况“无法接受”。",
+      "author": "滚动播报",
+      "hot": 359,
+      "timestamp": 1777963078000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3221955.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3221955.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "美股三大指数集体收跌 道指跌超1%",
+      "author": "新浪新闻综合",
+      "hot": 371,
+      "timestamp": 1777958953000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxp3205196.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxp3205196.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "新西兰经济展望：第一季度失业率或将上升，经济复苏乏力。",
+      "author": "滚动播报",
+      "hot": 377,
+      "timestamp": 1777957214000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxs9398517.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxs9398517.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "新浪彩票双色球名家第26050期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 377,
+      "timestamp": 1777889485000,
+      "url": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqh8036455.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-04/doc-inhwsyqh8036455.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美联储6月维持利率不变的概率为95.2%",
+      "author": "滚动播报",
+      "hot": 377,
+      "timestamp": 1777961316000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7391731.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7391731.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "Palantir首席执行官：美国国家安全是公司首要要务，优先级高于商业客户。",
+      "author": "滚动播报",
+      "hot": 381,
+      "timestamp": 1777959215000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3206327.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3206327.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "伊朗官员称霍尔木兹海峡目前完全处于该国管控之下",
+      "author": "央视",
+      "hot": 384,
+      "timestamp": 1777957644000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxs9400318.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxs9400318.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "钯金期货日内涨1%，现报1496.45美元/盎司。",
+      "author": "滚动播报",
+      "hot": 388,
+      "timestamp": 1777962299000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3219342.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3219342.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "吴宜泽斯诺克世锦赛夺冠",
+      "author": "滚动播报",
+      "hot": 389,
+      "timestamp": 1777959109000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxs9405327.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxs9405327.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "埃及航空在声明中宣布，暂停飞往迪拜、沙迦和阿布扎比的航班，复航时间另行通知。",
+      "author": "滚动播报",
+      "hot": 389,
+      "timestamp": 1777957179000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7376458.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxn7376458.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "北约称将持续为乌克兰提供反导导弹",
+      "author": "央视",
+      "hot": 396,
+      "timestamp": 1777935919000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzv3496130.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzv3496130.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美联储威廉姆斯：不存在某个神奇数值能判定政府债务将演变为危机。",
+      "author": "滚动播报",
+      "hot": 401,
+      "timestamp": 1777945400000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9617451.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9617451.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "据知情消息人士透露，此次邮轮遇难乘客中，有一人汉坦病毒检测结果呈阳性。",
+      "author": "滚动播报",
+      "hot": 403,
+      "timestamp": 1777942524000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3398663.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3398663.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美联社获得普利策国际报道奖。",
+      "author": "滚动播报",
+      "hot": 403,
+      "timestamp": 1777950904000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3302490.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrr3302490.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "浏阳烟花爆竹企业爆炸事故已致3人死亡",
+      "author": "新华社",
+      "hot": 410,
+      "timestamp": 1777929783000,
+      "url": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9800115.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9800115.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "伊朗第一副总统：管控霍尔木兹海峡是伊朗的合法权利",
+      "author": "滚动播报",
+      "hot": 410,
+      "timestamp": 1777942861000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9607968.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9607968.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "美国财政部将季度借款预估上调至1890亿美元",
+      "author": "滚动播报",
+      "hot": 428,
+      "timestamp": 1777955079000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3189369.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwusxp3189369.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "美军称击沉6艘伊朗小型船只",
+      "author": "滚动播报",
+      "hot": 430,
+      "timestamp": 1777944461000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0184044.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0184044.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "雪佛龙：由于伊朗战争的缘故，石油供应形势“趋紧”。",
+      "author": "滚动播报",
+      "hot": 432,
+      "timestamp": 1777946028000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7597936.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7597936.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "市场消息：苹果将允许用户在钱包应用中创建自己的数字通行证。",
+      "author": "滚动播报",
+      "hot": 433,
+      "timestamp": 1777944870000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7593282.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7593282.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "美联储威廉姆斯：当前中性实际利率预估约为 1%。",
+      "author": "滚动播报",
+      "hot": 433,
+      "timestamp": 1777944805000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3408218.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3408218.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "惠誉：加拿大名义赤字路径与 2025 年 11 月预算案相比维持不变。",
+      "author": "滚动播报",
+      "hot": 433,
+      "timestamp": 1777946020000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7597906.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhis7597906.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "美联储威廉姆斯：关税引发的通胀应该会回落。",
+      "author": "滚动播报",
+      "hot": 434,
+      "timestamp": 1777944456000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9613727.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiw9613727.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "IBM 推出网络欺诈防护解决方案。",
+      "author": "滚动播报",
+      "hot": 438,
+      "timestamp": 1777940083000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0163319.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0163319.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "谁是五一顶流景区？五一假期热力大数据告诉你→",
+      "author": "央视",
+      "hot": 442,
+      "timestamp": 1777902787000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtewm0019737.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtewm0019737.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "德国莱比锡发生汽车冲撞人群事件 已致2死多伤",
+      "author": "央视",
+      "hot": 442,
+      "timestamp": 1777941071000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwuhiv0168062.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwuhiv0168062.shtml"
+    }
+  ]
+}
