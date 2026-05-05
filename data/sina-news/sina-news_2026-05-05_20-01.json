@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-05T12:01:21.488Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "油价飙升 阿联酋称遭到伊朗导弹袭击 霍尔木兹海峡局势升级",
+      "author": "环球市场播报",
+      "hot": 210,
+      "timestamp": 1777940413000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwuhiv0164909.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwuhiv0164909.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "应急管理部派出工作组赶赴浏阳",
+      "author": "中新视频",
+      "hot": 1102,
+      "timestamp": 1777977956000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpk9818610.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpk9818610.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "美军中央司令部司令布拉德·库珀：伊朗相关作战能力并未消失，但已大幅削弱。",
+      "author": "滚动播报",
+      "hot": 1119,
+      "timestamp": 1777941238000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0169342.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhiv0169342.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "050期袁军师领双色球预测奖号：红球三区走势分析",
+      "author": "新浪彩票",
+      "hot": 1132,
+      "timestamp": 1777977095000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9241369.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9241369.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "美军：驱逐舰进入波斯湾，2艘美商船已通过霍尔木兹！国际油价涨幅回落，伊朗：不会允许美国恣意妄为",
+      "author": "每日经济新闻",
+      "hot": 1135,
+      "timestamp": 1777929450000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-04/doc-inhwtvtw7776616.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-04/doc-inhwtvtw7776616.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "109家光伏上市公司一季度净利仅3.3亿元，阳光电源大降40%",
+      "author": "21世纪经济报道",
+      "hot": 1137,
+      "timestamp": 1777929668000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-04/doc-inhwtvtz0378963.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-04/doc-inhwtvtz0378963.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "伊朗议长：霍尔木兹海峡的新规则正在确立",
+      "author": "央视",
+      "hot": 1151,
+      "timestamp": 1777993811000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvqce9620042.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvqce9620042.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "伊朗媒体：伊方没有计划袭击阿联酋",
+      "author": "滚动播报",
+      "hot": 1172,
+      "timestamp": 1777941278000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3392432.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwuhit3392432.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "实探郑州中牟蒜地：免费抽蒜薹持续近一个月，有人从海南专程来，农户提供午餐",
+      "author": "环球网",
+      "hot": 1174,
+      "timestamp": 1777976731000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpr4325996.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpr4325996.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "特朗普称鲍威尔对美国而言是“一场灾难”",
+      "author": "央视",
+      "hot": 1223,
+      "timestamp": 1777964719000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxq9987022.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxq9987022.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "“收费就卸载！”豆包付费测试冲上热搜，AI大模型告别“纯免费”时代？",
+      "author": "TechWeb",
+      "hot": 1228,
+      "timestamp": 1777977057000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-05/doc-inhwvcpr4328003.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-05/doc-inhwvcpr4328003.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "050期宋溪领双色球预测奖号：红球大小比推荐",
+      "author": "新浪彩票",
+      "hot": 1232,
+      "timestamp": 1777977401000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9243938.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9243938.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "俄外交部：日本须放弃“反俄路线”",
+      "author": "央视",
+      "hot": 1253,
+      "timestamp": 1777976260000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvcpi3028925.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvcpi3028925.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "张雪机车车手回应退赛",
+      "author": "中国新闻网",
+      "hot": 1263,
+      "timestamp": 1777933086000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwtzzv3489678.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwtzzv3489678.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "突破3万亿！“固收+”规模再创新高，已成行业座次胜负手",
+      "author": "券商中国",
+      "hot": 1284,
+      "timestamp": 1777966663000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwuxfn9882700.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwuxfn9882700.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "浙江绍兴天章寺“五一”客流大增 景区：珍惜流量，将坚守简约素雅风格",
+      "author": "成都商报",
+      "hot": 1294,
+      "timestamp": 1777969041000,
+      "url": "https://news.sina.com.cn/s/2026-05-05/doc-inhwtzzy9686103.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-05/doc-inhwtzzy9686103.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "050期文彬领双色球预测奖号：小复式参考",
+      "author": "新浪彩票",
+      "hot": 1302,
+      "timestamp": 1777977264000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpr4329695.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpr4329695.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "全球爆单！又一“国产爆款”，太“上头”",
+      "author": "21世纪经济报道",
+      "hot": 1310,
+      "timestamp": 1777975394000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwvcpr4316156.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwvcpr4316156.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "050期姚天罡领双色球预测奖号：红球三胆参考",
+      "author": "新浪彩票",
+      "hot": 1327,
+      "timestamp": 1777977158000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpk9813308.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpk9813308.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "中东紧张局势再度升级 金银价格大跌",
+      "author": "21世纪经济报道",
+      "hot": 1341,
+      "timestamp": 1777970870000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwuxfn9905534.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwuxfn9905534.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "浏阳烟花厂爆炸事故发布会：已基本完成现场搜救",
+      "author": "央视新闻客户端",
+      "hot": 1344,
+      "timestamp": 1777988493000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvqch9058264.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvqch9058264.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "伊朗外长：霍尔木兹海峡上的“自由计划”是“僵局计划”",
+      "author": "央视",
+      "hot": 1350,
+      "timestamp": 1777966731000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxn7397678.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwusxn7397678.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "连续45年下降，日本15岁以下儿童人数创新低",
+      "author": "北京日报客户端",
+      "hot": 1356,
+      "timestamp": 1777981190000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvivp4222771.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvivp4222771.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "投票调查：米拉索支持率70% 麦德林vs弗拉门戈得票多",
+      "author": "新浪彩票",
+      "hot": 1401,
+      "timestamp": 1777974148000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpi3016749.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpi3016749.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致",
+      "author": "央视",
+      "hot": 1404,
+      "timestamp": 1777957899000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwunrq7490148.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwunrq7490148.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "5月5日红王解盘比赛解读：阿森纳双线高压恐失主场",
+      "author": "新浪彩票",
+      "hot": 1464,
+      "timestamp": 1777989860000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvqcm4153514.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvqcm4153514.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "北青：对吴宜泽启蒙最早的是亨德利，吴宜泽8岁时受到了他的鼓励",
+      "author": "新浪新闻综合",
+      "hot": 1468,
+      "timestamp": 1777966880000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwuxfm3106644.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwuxfm3106644.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "5月5日收盘：美股收跌道指跌逾550点 中东局势再度升温令股指承压",
+      "author": "环球市场播报",
+      "hot": 1472,
+      "timestamp": 1777954238000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwunrq7497140.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-05/doc-inhwunrq7497140.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "多邻国股价上涨5%，此前公布的第一季度每股收益和营收均超出预期。",
+      "author": "滚动播报",
+      "hot": 1503,
+      "timestamp": 1777953842000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0091905.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-05/doc-inhwunrt0091905.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "利好与利空交织、政策定调“四稳” 节后A股如何走？",
+      "author": "新京报",
+      "hot": 1517,
+      "timestamp": 1777988880000,
+      "url": "https://news.sina.com.cn/o/2026-05-05/doc-inhwvqch9060556.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-05/doc-inhwvqch9060556.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "浏阳烟花爆竹企业爆炸事故已致3人死亡",
+      "author": "新华社",
+      "hot": 1546,
+      "timestamp": 1777929783000,
+      "url": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9800115.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-04/doc-inhwtvua9800115.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "[小炮APP]竞彩情报：帕尔梅拉斯一周双赛体能差",
+      "author": "新浪彩票",
+      "hot": 1584,
+      "timestamp": 1777971061000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwuxfk7307336.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwuxfk7307336.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "“张雪机车”车队：核心目标是冲击年度总冠军",
+      "author": "澎湃新闻",
+      "hot": 1622,
+      "timestamp": 1777933960000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtvua9781717.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtvua9781717.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "霍尔木兹海峡，突发！美股、黄金、白银，全线拉升！",
+      "author": "券商中国",
+      "hot": 1626,
+      "timestamp": 1777996387000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvume8977375.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvume8977375.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "武汉天河机场提示牌称禁止携带“越王勾践剑”登机，机场回应：高峰期一天拦下四五把文创“宝剑”，需办理暂存、托运或邮寄手续",
+      "author": "红星新闻",
+      "hot": 1628,
+      "timestamp": 1777997089000,
+      "url": "https://news.sina.com.cn/s/2026-05-05/doc-inhwvume8982397.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-05/doc-inhwvume8982397.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "中方特别点名：高度警惕日本",
+      "author": "长安街知事",
+      "hot": 1653,
+      "timestamp": 1777982256000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvivh9712749.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvivh9712749.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "050期水镜领双色球预测奖号：必杀一尾",
+      "author": "新浪彩票",
+      "hot": 1676,
+      "timestamp": 1777977445000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9244385.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpn9244385.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "光伏一季报交卷：通威、隆基连亏10个季度，“反内卷”复杂性超预期",
+      "author": "第一财经",
+      "hot": 1792,
+      "timestamp": 1777976890000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwvcpn9240023.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwvcpn9240023.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "再有新进展！我国重大油气基础设施建设跑出加速度",
+      "author": "央视",
+      "hot": 1805,
+      "timestamp": 1777974700000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpr4311668.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpr4311668.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "相同盘口：拜仁半一球全赢 罗萨里奥一球全走",
+      "author": "新浪彩票",
+      "hot": 1806,
+      "timestamp": 1777973423000,
+      "url": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpk9788749.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-05/doc-inhwvcpk9788749.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "湖南浏阳烟花厂爆炸事故已致21人死亡",
+      "author": "央视新闻客户端",
+      "hot": 1806,
+      "timestamp": 1777971587000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpk9777792.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpk9777792.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "北约称将持续为乌克兰提供反导导弹",
+      "author": "央视",
+      "hot": 1808,
+      "timestamp": 1777935919000,
+      "url": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzv3496130.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-04/doc-inhwtzzv3496130.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "港股芯片股走强，芯成科技2天狂飙400%，汽车股集体下跌，赛力斯跌超6%",
+      "author": "21世纪经济报道",
+      "hot": 1813,
+      "timestamp": 1777981850000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvivh9710711.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvivh9710711.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "伊朗媒体：美军袭击民用船只致5人死亡",
+      "author": "新华社",
+      "hot": 2022,
+      "timestamp": 1777974032000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvcph7198355.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwvcph7198355.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "深圳楼市，有变化！咨询量爆了",
+      "author": "21世纪经济报道",
+      "hot": 2039,
+      "timestamp": 1777967048000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwuxfn9884878.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-05/doc-inhwuxfn9884878.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "央视曝光悬空寺景区乱象：游客凌晨5点排队买不到票，黄牛却能买到，黑车司机非法揽客",
+      "author": "新浪新闻综合",
+      "hot": 2148,
+      "timestamp": 1777978884000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpn9255579.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvcpn9255579.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "浏阳烟花爆竹企业全面停产整顿",
+      "author": "中国新闻网",
+      "hot": 2194,
+      "timestamp": 1777990033000,
+      "url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvqch9067684.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvqch9067684.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "俄罗斯国防部宣布5月8日至9日停火",
+      "author": "央视",
+      "hot": 2199,
+      "timestamp": 1777957829000,
+      "url": "https://news.sina.com.cn/w/2026-05-05/doc-inhwuhiw9614044.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-05/doc-inhwuhiw9614044.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "最高暴涨近200%！国产运动医学“一哥”港股上市，获认购超7800倍！",
+      "author": "证券时报",
+      "hot": 2238,
+      "timestamp": 1777984897000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-05-05/doc-inhwvivp4252552.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-05-05/doc-inhwvivp4252552.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "两连胜！中国队提前锁定U17女足亚洲杯八强席位",
+      "author": "央视",
+      "hot": 2280,
+      "timestamp": 1777938388000,
+      "url": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtzzy9712444.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-04/doc-inhwtzzy9712444.shtml"
+    }
+  ]
+}
