@@ -24,7 +24,7 @@ MODEL_NAME = "deepseek-r1"
 
 INPUT_DIR = "data/thepaper"
 
-OUTPUT_EXCEL = "filter_result.xlsx"
+OUTPUT_EXCEL = "filter_result_thepaper.xlsx"
 
 CACHE_FILE = "title_cache.json"
 
