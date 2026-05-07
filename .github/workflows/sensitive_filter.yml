@@ -29,5 +29,5 @@ jobs:
       - name: Upload Excel
         uses: actions/upload-artifact@v4
         with:
-          name: filter_result
-          path: filter_result.xlsx
+          name: filter_result_thepaper
+          path: filter_result_thepaper.xlsx
