@@ -1,0 +1,33 @@
+name: 敏感性筛查
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: |
+          pip install -r requirements_filter.txt
+
+      - name: Run script
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python run_filter.py
+
+      - name: Upload Excel
+        uses: actions/upload-artifact@v4
+        with:
+          name: filter_result
+          path: filter_result.xlsx
