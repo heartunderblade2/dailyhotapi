@@ -22,7 +22,7 @@ DEEPSEEK_BASE_URL = "https://ai.gitee.com/v1"
 
 MODEL_NAME = "deepseek-r1"
 
-INPUT_DIR = "data"
+INPUT_DIR = "data/thepaper"
 
 OUTPUT_EXCEL = "filter_result.xlsx"
 
