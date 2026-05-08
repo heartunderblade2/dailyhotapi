@@ -506,7 +506,10 @@ def main():
         # 分等级
         for level in [1, 2, 3, 4, 5]:
 
-            sub_df = df[df["level"] == level]
+            sub_df = (
+                df[df["level"] == level]
+                .drop_duplicates(subset=["title"])
+            )
 
             sub_df.to_excel(
                 writer,
