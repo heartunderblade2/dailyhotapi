@@ -35,9 +35,9 @@ DEEPSEEK_BASE_URL = "https://ai.gitee.com/v1"
 
 MODEL_NAME = "deepseek-r1"
 
-INPUT_DIR = "data/thepaper"
+INPUT_DIR = "data"
 
-OUTPUT_EXCEL = "result_2.xlsx"
+OUTPUT_EXCEL = "result_all.xlsx"
 
 CACHE_FILE = "title_cache.json"
 
