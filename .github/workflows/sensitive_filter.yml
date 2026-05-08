@@ -1,4 +1,4 @@
-name: 敏感性筛查
+name: 敏感性筛查&话题分类
 
 on:
   workflow_dispatch:
@@ -24,10 +24,10 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
-          python run_filter.py
+          python filter&categorize.py
 
       - name: Upload Excel
         uses: actions/upload-artifact@v4
         with:
-          name: filter_result_thepaper
-          path: filter_result_thepaper.xlsx
+          name: result2
+          path: result2.xlsx
