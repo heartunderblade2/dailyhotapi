@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-12T12:01:08.197Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "重庆一57岁女医生驾奔驰酿车祸，警方通报称操作不当致2人死亡6人受伤",
+      "author": "新浪新闻综合",
+      "hot": 116,
+      "timestamp": 1778528901000,
+      "url": "https://news.sina.com.cn/s/2026-05-11/doc-inhxptrf8916917.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-11/doc-inhxptrf8916917.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "【中国网评】塔吉克斯坦总统访华：夯实睦邻友谊，深化多元协作",
+      "author": "新浪新闻综合",
+      "hot": 120,
+      "timestamp": 1778518416000,
+      "url": "https://news.sina.com.cn/gov/2026-05-11/doc-inhxphzm9084263.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-05-11/doc-inhxphzm9084263.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "“你能对接上DeepSeek吗？能的话奖励50万！”500亿首轮融资震动投资圈！",
+      "author": "证券时报",
+      "hot": 577,
+      "timestamp": 1778570739000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-12/doc-inhxqvat8480190.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-12/doc-inhxqvat8480190.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "继续实施适度宽松的货币政策！央行：对削减政策传导的行为加强规范",
+      "author": "证券时报",
+      "hot": 1892,
+      "timestamp": 1778536991000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-11/doc-inhxpxxf0346761.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-11/doc-inhxpxxf0346761.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "王菲演唱《主角》主题曲引热议",
+      "author": "北京日报客户端",
+      "hot": 1934,
+      "timestamp": 1778568326000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqqur1476234.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqqur1476234.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "湖南衡阳一居民楼着火致5死2伤，伤者正在积极救治，相关善后工作和事故原因调查正在开展中",
+      "author": "极目新闻",
+      "hot": 1972,
+      "timestamp": 1778582122000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxqvap1423090.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxqvap1423090.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "原油：油价上涨 特朗普称美伊停火岌岌可危",
+      "author": "环球市场播报",
+      "hot": 2024,
+      "timestamp": 1778565516000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqqur1462552.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqqur1462552.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "股海导航_2026年5月12日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 2061,
+      "timestamp": 1778570432000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-05-12/doc-inhxqvas1701185.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-05-12/doc-inhxqvas1701185.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "中国队获得U17女足世界杯参赛资格",
+      "author": "新京报",
+      "hot": 2065,
+      "timestamp": 1778535995000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-11/doc-inhxptqz1826903.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-11/doc-inhxptqz1826903.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "统治比赛！米切尔下半场轰下31分 已经追平骑士队史半场得分纪录",
+      "author": "NBA综合",
+      "hot": 2071,
+      "timestamp": 1778582117000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqzkt0019757.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqzkt0019757.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "竞彩大势：塞尔塔主胜可搏 贝蒂斯值得高看",
+      "author": "新浪彩票",
+      "hot": 2077,
+      "timestamp": 1778571123000,
+      "url": "https://sports.sina.com.cn/l/2026-05-12/doc-inhxqvat8482341.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-12/doc-inhxqvat8482341.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "微信状态能看访客了？腾讯客服回应",
+      "author": "市场资讯",
+      "hot": 2106,
+      "timestamp": 1778572463000,
+      "url": "https://finance.sina.com.cn/china/2026-05-12/doc-inhxqvav0011814.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-05-12/doc-inhxqvav0011814.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "外交部：中美经贸关系的本质是互利共赢",
+      "author": "央视",
+      "hot": 2131,
+      "timestamp": 1778599926000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmyn9964746.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmyn9964746.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "云南镇雄一交管队长被举报“KTV饮酒与女性举止亲密”，当地公安局：将全面核查，工作日请假也不能饮酒",
+      "author": "红星新闻",
+      "hot": 2135,
+      "timestamp": 1778534226000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptre2176517.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptre2176517.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美国财政部制裁香港实体，外交部回应",
+      "author": "北京日报客户端",
+      "hot": 2162,
+      "timestamp": 1778599565000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrmyk1572026.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrmyk1572026.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "骑士老板：这轮系列赛真正才刚开始 三局两胜制&让我们全力以赴",
+      "author": "NBA综合",
+      "hot": 2205,
+      "timestamp": 1778589438000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxrfsq9970079.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxrfsq9970079.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "内塔尼亚胡称“不喜欢中国向伊朗导弹制造提供的支持”，中方回应",
+      "author": "北京日报客户端",
+      "hot": 2209,
+      "timestamp": 1778599533000,
+      "url": "https://news.sina.com.cn/zx/2026-05-12/doc-inhxrmym8348847.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-12/doc-inhxrmym8348847.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "巴基斯坦最新涉华表态",
+      "author": "滚动播报",
+      "hot": 2223,
+      "timestamp": 1778580820000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkm1356860.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkm1356860.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "微信状态能看访客了？热搜爆了！客服回应：iOS端灰度测试",
+      "author": "上观新闻",
+      "hot": 2233,
+      "timestamp": 1778571805000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqvav0008441.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqvav0008441.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "2020年夺冠后只赢了3个系列赛！美媒：湖人辜负了詹姆斯",
+      "author": "NBA综合",
+      "hot": 2236,
+      "timestamp": 1778592398000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxrfsi1356734.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxrfsi1356734.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "芬兰总统：欧洲应考虑直接同俄罗斯对话",
+      "author": "北京日报客户端",
+      "hot": 2239,
+      "timestamp": 1778578857000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqzkr8422679.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqzkr8422679.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "主持人：我不希望詹姆斯下赛季回湖人 我不喜欢他做球队第三选择",
+      "author": "NBA综合",
+      "hot": 2269,
+      "timestamp": 1778574775000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqvav0039214.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqvav0039214.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "“微信状态可看访客记录”热搜爆了，客服回应：“显示足迹”功能正在iOS客户端进行灰度测试，微信暂无查询访客功能",
+      "author": "浙江之声",
+      "hot": 2324,
+      "timestamp": 1778573604000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvav0026245.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvav0026245.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "微信状态能看访客了？腾讯回应：已停止展示浏览者人数",
+      "author": "封面新闻",
+      "hot": 2359,
+      "timestamp": 1778581848000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxqzkr8457558.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxqzkr8457558.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "白宫记协晚宴枪击嫌疑人不认罪",
+      "author": "界面新闻",
+      "hot": 2408,
+      "timestamp": 1778536332000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptqz1829887.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptqz1829887.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "ST龙大实控人被刑事拘留！股价已5个跌停",
+      "author": "滚动播报",
+      "hot": 2447,
+      "timestamp": 1778572734000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-05-12/doc-inhxqquv8592756.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-05-12/doc-inhxqquv8592756.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "兴福电子回应SK海力士入股一事：系IPO前股东 1月22日解除限售",
+      "author": "滚动播报",
+      "hot": 2453,
+      "timestamp": 1778572866000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-05-12/doc-inhxqqux0091208.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-05-12/doc-inhxqqux0091208.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "财经早报：“硬科技”场内基金频发溢价风险提示 多路顶级游资上榜超5亿元丨2026年5月12日",
+      "author": "新浪证券",
+      "hot": 2531,
+      "timestamp": 1778573138000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-05-12/doc-inhxqvas1720812.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-05-12/doc-inhxqvas1720812.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "美国游客向西方展示中国，天坛公园一幕太震撼！",
+      "author": "新浪新闻综合",
+      "hot": 2539,
+      "timestamp": 1778603123000,
+      "url": "https://news.sina.com.cn/gov/2026-05-12/doc-inhxrshk9878623.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-05-12/doc-inhxrshk9878623.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "美光大涨9%，总市值近9200亿美元",
+      "author": "界面新闻",
+      "hot": 2634,
+      "timestamp": 1778535463000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0463538.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0463538.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "特朗普：与伊朗停火协议已“岌岌可危”",
+      "author": "央视",
+      "hot": 2808,
+      "timestamp": 1778545145000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqeez8753170.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqeez8753170.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "雷霆险胜横扫湖人 亚历山大35+8 里夫斯27+7+6 詹姆斯24+12",
+      "author": "新浪新闻综合",
+      "hot": 2836,
+      "timestamp": 1778592499000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxrfsi1357715.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxrfsi1357715.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "深圳夫妻囤存储芯片，5个月狂涨320亿",
+      "author": "新浪新闻综合",
+      "hot": 2868,
+      "timestamp": 1778588099000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrfsq9960239.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrfsq9960239.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "拉赫蒙访华释放明确信号",
+      "author": "环球网",
+      "hot": 2884,
+      "timestamp": 1778570664000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvat8479823.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvat8479823.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "美国悬赏1500万美元，打击伊朗革命卫队资金网络",
+      "author": "国是直通车",
+      "hot": 2945,
+      "timestamp": 1778575521000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvap1406783.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqvap1406783.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "OPPO母亲节文案翻车，段永平的“本分”敲打",
+      "author": "市场资讯",
+      "hot": 2962,
+      "timestamp": 1778578295000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkm1313507.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkm1313507.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "普京亲自驾车手捧鲜花，接92岁中学时代班主任赴克宫共进晚餐，曾多次表示该老师是对他影响最深的人之一",
+      "author": "极目新闻",
+      "hot": 3037,
+      "timestamp": 1778579279000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqzkq1649160.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqzkq1649160.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "追求低级趣味，郑伟被“双开”",
+      "author": "中国新闻网",
+      "hot": 3141,
+      "timestamp": 1778585634000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkt0064100.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqzkt0064100.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "近500亿龙头，跳水跌停！顶级量化逆势抄底",
+      "author": "中国证券报",
+      "hot": 3378,
+      "timestamp": 1778571856000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-05-11/doc-inhxpxxc8864722.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-05-11/doc-inhxpxxc8864722.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "著名数学家、数学教育家姜礼尚逝世",
+      "author": "北京日报客户端",
+      "hot": 3455,
+      "timestamp": 1778595410000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmyk1523924.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmyk1523924.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "理想汽车 CEO 李想：底盘技术，可能是影响中国汽车称霸全球的最后一块短板",
+      "author": "滚动播报",
+      "hot": 3498,
+      "timestamp": 1778574346000,
+      "url": "https://finance.sina.com.cn/stock/auto/2026-05-12/doc-inhxqvap1351415.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/auto/2026-05-12/doc-inhxqvap1351415.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "天坛公园：5月13日至14日暂停开放，已购票游客请从原途径办理退票手续",
+      "author": "极目新闻",
+      "hot": 3524,
+      "timestamp": 1778580208000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxqzkq1666065.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxqzkq1666065.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "乌克兰总统办公室前主任被控涉嫌腐败",
+      "author": "央视",
+      "hot": 3775,
+      "timestamp": 1778564068000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqknt1560257.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqknt1560257.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "日本奥委会副主席为辱韩公开致歉",
+      "author": "中国新闻网",
+      "hot": 3791,
+      "timestamp": 1778589498000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxrfsi1328063.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxrfsi1328063.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "“洪迪厄斯”号风波：大西洋游轮上的疫情，会不会成为下一次大流行？",
+      "author": "第一财经",
+      "hot": 3853,
+      "timestamp": 1778586324000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrfsq9942760.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxrfsq9942760.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "胜负彩26075期国内部分专业媒体复式推荐总汇",
+      "author": "新浪彩票",
+      "hot": 3892,
+      "timestamp": 1778577144000,
+      "url": "https://sports.sina.com.cn/l/2026-05-12/doc-inhxqvas1761067.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-12/doc-inhxqvas1761067.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+      "author": "新京报",
+      "hot": 4004,
+      "timestamp": 1778598168000,
+      "url": "https://news.sina.com.cn/o/2026-05-12/doc-inhxrmyn9940607.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-12/doc-inhxrmyn9940607.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "现实版“高达”！宇树发布载人变形机甲，定价390万元起",
+      "author": "界面新闻",
+      "hot": 4047,
+      "timestamp": 1778595019000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxrmyn9901004.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxrmyn9901004.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "出场时间至少要40%！U17国少若进8强，至少5人能获运动健将称号",
+      "author": "新浪新闻综合",
+      "hot": 4097,
+      "timestamp": 1778572367000,
+      "url": "https://news.sina.com.cn/o/2026-05-12/doc-inhxpxxc8862916.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-12/doc-inhxpxxc8862916.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "独家披露中美禁毒合作细节",
+      "author": "新浪新闻综合",
+      "hot": 4419,
+      "timestamp": 1778596954000,
+      "url": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmym8318183.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-12/doc-inhxrmym8318183.shtml"
+    }
+  ]
+}
