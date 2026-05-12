@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-12T00:01:15.187Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "重庆一57岁女医生驾奔驰酿车祸，警方通报称操作不当致2人死亡6人受伤",
+      "author": "新浪新闻综合",
+      "hot": 116,
+      "timestamp": 1778528901000,
+      "url": "https://news.sina.com.cn/s/2026-05-11/doc-inhxptrf8916917.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-11/doc-inhxptrf8916917.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "【中国网评】塔吉克斯坦总统访华：夯实睦邻友谊，深化多元协作",
+      "author": "新浪新闻综合",
+      "hot": 120,
+      "timestamp": 1778518416000,
+      "url": "https://news.sina.com.cn/gov/2026-05-11/doc-inhxphzm9084263.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-05-11/doc-inhxphzm9084263.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "提升做好新时代统战工作能力本领",
+      "author": "四川日报",
+      "hot": 177,
+      "timestamp": 1778566733000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqqux0111163.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqqux0111163.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "云南镇雄一交管队长被举报“KTV饮酒与女性举止亲密”，当地公安局：将全面核查，工作日请假也不能饮酒",
+      "author": "红星新闻",
+      "hot": 179,
+      "timestamp": 1778534226000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptre2176517.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptre2176517.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "“上浮20%”，京沪高铁公告调价！去年公司净赚131.7亿元，创历史新高",
+      "author": "每日经济新闻",
+      "hot": 180,
+      "timestamp": 1778532227000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0435030.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0435030.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "江西九丰能源股份有限公司关于归还暂时补充流动资金的闲置募集资金的公告",
+      "author": "上海证券报",
+      "hot": 189,
+      "timestamp": 1778557495000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-12/doc-inhxqknz0196513.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-12/doc-inhxqknz0196513.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "高能篮球战队集结，揭幕战开启！",
+      "author": "市场资讯",
+      "hot": 191,
+      "timestamp": 1778560710000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqknz0207739.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-12/doc-inhxqknz0207739.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "交易员正把这家老牌科技巨头当成下一只“网红散户概念股”",
+      "author": "环球市场播报",
+      "hot": 194,
+      "timestamp": 1778546197000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqeey1981068.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqeey1981068.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性",
+      "author": "环球市场播报",
+      "hot": 194,
+      "timestamp": 1778548538000,
+      "url": "https://finance.sina.com.cn/world/2026-05-12/doc-inhxqefc0291262.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-12/doc-inhxqefc0291262.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "美国被曝想延长中美稀土协议，学者：得先做出承诺，让中方满意",
+      "author": "观察者网",
+      "hot": 202,
+      "timestamp": 1778514671000,
+      "url": "https://news.sina.com.cn/o/2026-05-11/doc-inhxphzm9039668.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-11/doc-inhxphzm9039668.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "未来十年白银价格预测：投资者该如何预期？",
+      "author": "环球市场播报",
+      "hot": 202,
+      "timestamp": 1778547823000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqeev1645635.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqeev1645635.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "五地图书馆联动举办亲子读书会",
+      "author": "滚动播报",
+      "hot": 207,
+      "timestamp": 1778560694000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqknw1914747.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-12/doc-inhxqknw1914747.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "停火协议岌岌可危，特朗普急眼了：都是奥巴马的错！拜登更烂！",
+      "author": "观察者网",
+      "hot": 208,
+      "timestamp": 1778488668000,
+      "url": "https://news.sina.com.cn/w/2026-05-11/doc-inhxnscv0614705.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-11/doc-inhxnscv0614705.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "中国足球彩票胜负彩26075期澳盘最新赔率(05.11)",
+      "author": "新浪彩票",
+      "hot": 218,
+      "timestamp": 1778485485000,
+      "url": "https://sports.sina.com.cn/l/2026-05-11/doc-inhxnmvr2080516.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-11/doc-inhxnmvr2080516.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "足彩头奖空开滚存997万 二等开28注15.2万余元",
+      "author": "新浪彩票",
+      "hot": 222,
+      "timestamp": 1778485141000,
+      "url": "https://sports.sina.com.cn/l/2026-05-11/doc-inhxnmvu2537677.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-11/doc-inhxnmvu2537677.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "塔吉克斯坦总统拉赫蒙抵达北京开始访华",
+      "author": "央视",
+      "hot": 222,
+      "timestamp": 1778515735000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzm9052026.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzm9052026.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "5月12日热门中概股涨跌不一 奇景光电涨16.08%，富途控股跌3.27%",
+      "author": "环球市场播报",
+      "hot": 223,
+      "timestamp": 1778559701000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqknz0204199.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqknz0204199.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "从“一”到“十”，解码天舟十号赴天宫",
+      "author": "新京报",
+      "hot": 228,
+      "timestamp": 1778525296000,
+      "url": "https://news.sina.com.cn/o/2026-05-11/doc-inhxppic1861043.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-11/doc-inhxppic1861043.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "前球员：文班早早被驱逐等同禁赛 若里德当时也退赛了我支持禁赛",
+      "author": "NBA综合",
+      "hot": 242,
+      "timestamp": 1778552747000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqeey2013939.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-12/doc-inhxqeey2013939.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "纳斯达克中国金龙指数收涨0.97%",
+      "author": "滚动播报",
+      "hot": 243,
+      "timestamp": 1778558403000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqknt1557882.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqknt1557882.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "官方通报服农药中毒老人救治情况",
+      "author": "澎湃新闻",
+      "hot": 247,
+      "timestamp": 1778541013000,
+      "url": "https://news.sina.com.cn/s/2026-05-11/doc-inhxpxwx1734126.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-11/doc-inhxpxwx1734126.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "美国总统特朗普将对中国进行国事访问",
+      "author": "央视",
+      "hot": 256,
+      "timestamp": 1778490174000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxnsct9223837.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxnsct9223837.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "特朗普拒绝了德黑兰的回应，称伊朗停火协议“岌岌可危”",
+      "author": "环球市场播报",
+      "hot": 259,
+      "timestamp": 1778545773000,
+      "url": "https://finance.sina.com.cn/world/2026-05-12/doc-inhxqeez8756100.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-12/doc-inhxqeez8756100.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "下一代火星直升机旋翼转速突破音速",
+      "author": "滚动播报",
+      "hot": 266,
+      "timestamp": 1778568647000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqquu1822875.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqquu1822875.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "一年关闭2万多家，曾经最暴利的行业迎来“闭店潮”？",
+      "author": "市场资讯",
+      "hot": 266,
+      "timestamp": 1778521278000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-11/doc-inhxppic1818954.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-11/doc-inhxppic1818954.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "逃犯整天在家洗衣服，3年用掉1000吨水，被警方抓捕后称“靠洗衣服来获一时心安”",
+      "author": "中国新闻网",
+      "hot": 272,
+      "timestamp": 1778526945000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxppii9035309.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxppii9035309.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "盘点美国总统访华：都去过哪里？谁来得最多？",
+      "author": "中国新闻网",
+      "hot": 277,
+      "timestamp": 1778516177000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzk2286507.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzk2286507.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "微视频｜总书记引领美丽中国建设迈出新步伐",
+      "author": "新华社",
+      "hot": 278,
+      "timestamp": 1778536152000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-11/doc-inhxptri0470106.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-11/doc-inhxptri0470106.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "美光大涨9%，总市值近9200亿美元",
+      "author": "界面新闻",
+      "hot": 298,
+      "timestamp": 1778535463000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0463538.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptri0463538.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "网上选“伴侣”，可选性感黑丝、袒胸露乳、小三，令人震惊！",
+      "author": "新浪新闻综合",
+      "hot": 315,
+      "timestamp": 1778540492000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxpxxc8861355.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxpxxc8861355.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "重庆巫山通报“老人喝农药后医护人员未检查即认为老人已死亡”调查情况",
+      "author": "北京日报客户端",
+      "hot": 330,
+      "timestamp": 1778541305000,
+      "url": "https://news.sina.com.cn/s/2026-05-11/doc-inhxpxxc8863774.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-11/doc-inhxpxxc8863774.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "伊朗议长：“14点提案”无可替代",
+      "author": "央视",
+      "hot": 334,
+      "timestamp": 1778563901000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqquu1791104.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqquu1791104.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "纽约期金突破4760美元/盎司，日内涨0.72%。",
+      "author": "滚动播报",
+      "hot": 335,
+      "timestamp": 1778568387000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqquv8599056.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqquv8599056.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "美国制裁三家中国公司 外交部回应",
+      "author": "证券时报网",
+      "hot": 336,
+      "timestamp": 1778513490000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-11/doc-inhxphzm9030787.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-11/doc-inhxphzm9030787.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "乌克兰总统办公室前主任被控涉嫌腐败",
+      "author": "央视",
+      "hot": 342,
+      "timestamp": 1778564068000,
+      "url": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqknt1560257.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-12/doc-inhxqknt1560257.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美国邮政署：此次调整包括取消已公布的商业优势陆运资费按盎司分级定价的差异化机制。",
+      "author": "滚动播报",
+      "hot": 349,
+      "timestamp": 1778552253000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8789110.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8789110.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "突然！集体拉升，涨停！利好消息，刚刚引爆！",
+      "author": "券商中国",
+      "hot": 351,
+      "timestamp": 1778515492000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-05-11/doc-inhxphzm9054382.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-05-11/doc-inhxphzm9054382.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "伊朗亮出新底牌，“海底咽喉”成博弈关键筹码？",
+      "author": "第一财经网",
+      "hot": 359,
+      "timestamp": 1778518995000,
+      "url": "https://news.sina.com.cn/o/2026-05-11/doc-inhxphzp0557779.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-11/doc-inhxphzp0557779.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "白宫副新闻秘书凯利：特朗普对伊朗问题保留了所有选项。",
+      "author": "滚动播报",
+      "hot": 364,
+      "timestamp": 1778551873000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqefc0303770.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqefc0303770.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "纽约期银突破87美元/盎司，日内涨1.22%。",
+      "author": "滚动播报",
+      "hot": 364,
+      "timestamp": 1778565606000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqqur1462782.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqqur1462782.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "中汽协数据显示 4月新能源汽车市场保持平稳运行",
+      "author": "滚动播报",
+      "hot": 365,
+      "timestamp": 1778566492000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqqur1468105.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqqur1468105.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "白宫记协晚宴枪击嫌疑人不认罪",
+      "author": "界面新闻",
+      "hot": 366,
+      "timestamp": 1778536332000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptqz1829887.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxptqz1829887.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "南非总统拉马福萨：没有任何理由迫使我辞职。",
+      "author": "滚动播报",
+      "hot": 368,
+      "timestamp": 1778552621000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8790558.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8790558.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "美国原油期货结算价报每桶98.07美元，上涨2.65美元，涨幅2.78%。",
+      "author": "滚动播报",
+      "hot": 370,
+      "timestamp": 1778553079000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqknx8661430.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqknx8661430.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "市场资讯：伊朗设定了接收被冻结资金的时间期限。",
+      "author": "滚动播报",
+      "hot": 374,
+      "timestamp": 1778545650000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeev1634799.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeev1634799.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "伊朗提出接收被冻结资金的时间框架",
+      "author": "滚动播报",
+      "hot": 376,
+      "timestamp": 1778546951000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1985859.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1985859.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "苹果推出端到端加密RCS messaging测试版。",
+      "author": "滚动播报",
+      "hot": 377,
+      "timestamp": 1778548479000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1994486.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1994486.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "泽连斯基表示，尽管经美国斡旋达成了停火协议，但乌克兰前线从未陷入平静。",
+      "author": "滚动播报",
+      "hot": 380,
+      "timestamp": 1778550445000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8780097.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeez8780097.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "美国国务院：美国不会支持国际移民论坛5月8日发布的“进展”宣言。",
+      "author": "滚动播报",
+      "hot": 386,
+      "timestamp": 1778548987000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1996648.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-12/doc-inhxqeey1996648.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "外交部回应普京最新涉华表态",
+      "author": "中国新闻网",
+      "hot": 389,
+      "timestamp": 1778519344000,
+      "url": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzk2268032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-11/doc-inhxphzk2268032.shtml"
+    }
+  ]
+}
