@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-14T00:01:14.815Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "中国长城科技集团股份有限公司关于召开2025年度暨2026年一季度网上业绩说明会的公告",
+      "author": "上海证券报",
+      "hot": 106,
+      "timestamp": 1778729074000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsz4242935.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsz4242935.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "台湾民众对“一国两制”认同逐步上升 国台办回应",
+      "author": "央视",
+      "hot": 161,
+      "timestamp": 1778668722000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtkrn0857228.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtkrn0857228.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "上海妙可蓝多食品科技股份有限公司关于为全资子公司提供担保的进展公告",
+      "author": "上海证券报",
+      "hot": 169,
+      "timestamp": 1778732986000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsw9012658.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsw9012658.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "霍尔木兹海峡，传来大消息！美伊谈判，最新动向！黄金、白银，集体飘红！",
+      "author": "e公司",
+      "hot": 171,
+      "timestamp": 1778667843000,
+      "url": "https://news.sina.com.cn/w/2026-05-13/doc-inhxtkrp7628994.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-13/doc-inhxtkrp7628994.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "美国总统特朗普将抵达北京",
+      "author": "央视",
+      "hot": 174,
+      "timestamp": 1778700104000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtzpe0737963.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtzpe0737963.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "我国成功发射千帆极轨09组卫星",
+      "author": "新华网",
+      "hot": 177,
+      "timestamp": 1778665282000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-05-13/doc-inhxteiv4695242.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-05-13/doc-inhxteiv4695242.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+      "author": "央视",
+      "hot": 177,
+      "timestamp": 1778685846000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfi7513614.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfi7513614.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "阿联酋外交部否认以总理访阿相关消息",
+      "author": "央视",
+      "hot": 178,
+      "timestamp": 1778736742000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvayx4142232.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvayx4142232.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "女士12元机选擒大乐透2058万 称不会改变生活方式",
+      "author": "新浪彩票",
+      "hot": 183,
+      "timestamp": 1778658583000,
+      "url": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxsxzt7804316.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxsxzt7804316.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "关小刀任九：曼城皇马做胆 巴萨迈国际防冷",
+      "author": "新浪彩票",
+      "hot": 185,
+      "timestamp": 1778693732000,
+      "url": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxtzpe0685378.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxtzpe0685378.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "英伟达股价续创记录新高 总市值达到5.5万亿美元",
+      "author": "新浪新闻综合",
+      "hot": 188,
+      "timestamp": 1778708265000,
+      "url": "https://news.sina.com.cn/w/2026-05-13/doc-inhxufve9266346.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-13/doc-inhxufve9266346.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "专机落地特朗普又舞起熟悉手势",
+      "author": "看看新闻KNEWS",
+      "hot": 189,
+      "timestamp": 1778741402000,
+      "url": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvihs8790829.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvihs8790829.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "外交部：坚决反对所谓“哥本哈根民主峰会”执意邀请“台独”分子大放厥词",
+      "author": "观察者网",
+      "hot": 191,
+      "timestamp": 1778688155000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfp4571517.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfp4571517.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "造车变成次要！贾跃亭重掌大权宣布转战机器人业务 FF近期增资600万",
+      "author": "快科技",
+      "hot": 200,
+      "timestamp": 1778676705000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxtqxr4580126.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxtqxr4580126.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "计票结果显示：桑切斯将与藤森进入秘鲁总统大选第二轮对决。",
+      "author": "滚动播报",
+      "hot": 206,
+      "timestamp": 1778722410000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxusky9102844.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxusky9102844.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "中国留学生在悉尼麦当劳被流浪汉掰断手：警方说可能会起诉他，治疗费用暂时免费",
+      "author": "潇湘晨报",
+      "hot": 207,
+      "timestamp": 1778689344000,
+      "url": "https://news.sina.com.cn/s/2026-05-13/doc-inhxtvfh0772105.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-13/doc-inhxtvfh0772105.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "菲军方称向参议院派兵负责安保执勤 开枪事件仍在调查",
+      "author": "央视",
+      "hot": 217,
+      "timestamp": 1778726433000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxuwsw8989093.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxuwsw8989093.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "被撞碎的人生：23岁研究生被16岁少年无证驾车撞致颅脑损伤，亲属称其如今心智如幼童",
+      "author": "成都商报",
+      "hot": 226,
+      "timestamp": 1778698976000,
+      "url": "https://news.sina.com.cn/s/2026-05-13/doc-inhxtzph9309941.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-13/doc-inhxtzph9309941.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "我国科学家提出人工细胞不对称分裂新思路",
+      "author": "央视",
+      "hot": 248,
+      "timestamp": 1778714351000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxunca9184915.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxunca9184915.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "5月13日增减持汇总：泉阳泉披露增持情况，展鹏科技等10股拟减持（表）",
+      "author": "新浪证券",
+      "hot": 255,
+      "timestamp": 1778709074000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-13/doc-inhxunay0539368.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-13/doc-inhxunay0539368.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "现场画面！特朗普启程访华：美中有广泛深厚合作 相信会有好事发生",
+      "author": "中国新闻网",
+      "hot": 261,
+      "timestamp": 1778660987000,
+      "url": "https://news.sina.com.cn/o/2026-05-13/doc-inhxteiq0917868.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-13/doc-inhxteiq0917868.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "菲律宾参议院进入封锁状态",
+      "author": "界面新闻",
+      "hot": 264,
+      "timestamp": 1778702836000,
+      "url": "https://news.sina.com.cn/w/2026-05-13/doc-inhxufve9219948.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-13/doc-inhxufve9219948.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "菲律宾专家：为什么马尼拉必须回报北京的善意",
+      "author": "新浪新闻综合",
+      "hot": 265,
+      "timestamp": 1778678857000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtqxr4596812.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtqxr4596812.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "伊朗外长：科威特“非法”攻击伊朗船只并扣押伊公民",
+      "author": "央视",
+      "hot": 270,
+      "timestamp": 1778722859000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxusky9104924.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxusky9104924.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "黄仁勋被看到登上空军一号随特朗普访华",
+      "author": "新浪新闻综合",
+      "hot": 296,
+      "timestamp": 1778668061000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtkrn0853490.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtkrn0853490.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "市场消息：亚马逊本周再度裁员，此次裁员波及卖家合作伙伴服务部门。",
+      "author": "滚动播报",
+      "hot": 298,
+      "timestamp": 1778734150000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxvays0271426.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxvays0271426.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "一家外资家电巨头在中国卖场的“最后时刻”",
+      "author": "第一财经网",
+      "hot": 299,
+      "timestamp": 1778675425000,
+      "url": "https://news.sina.com.cn/o/2026-05-13/doc-inhxtkrq9458166.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-13/doc-inhxtkrq9458166.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "今日起，进入武汉大学无需预约，凭身份证即可进校",
+      "author": "界面新闻",
+      "hot": 311,
+      "timestamp": 1778712618000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxuncf4416389.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxuncf4416389.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "[新浪彩票]足彩第26075期任九：国米客战全取三分",
+      "author": "新浪彩票",
+      "hot": 315,
+      "timestamp": 1778659547000,
+      "url": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxteir7681542.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxteir7681542.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "新浪彩票双色球名家第26054期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 319,
+      "timestamp": 1778682124000,
+      "url": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxtqxn9377587.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-13/doc-inhxtqxn9377587.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "英伟达宣布黄仁勋随特朗普访华，“在空军一号于阿拉斯加经停加油期间登机” 知情人：特朗普在看到媒体报道其缺席代表团后，致电邀请",
+      "author": "红星新闻",
+      "hot": 320,
+      "timestamp": 1778674788000,
+      "url": "https://news.sina.com.cn/w/2026-05-13/doc-inhxtkrq9450827.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-13/doc-inhxtkrq9450827.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "河南多地出现“不明飞行物”？洛阳开封等地网友拍到夜空“发光水母云”！",
+      "author": "新浪新闻综合",
+      "hot": 328,
+      "timestamp": 1778664344000,
+      "url": "https://news.sina.com.cn/s/2026-05-13/doc-inhxteiq0951482.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-13/doc-inhxteiq0951482.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "特朗普称将要求中国对美国的经贸团队访问提供便利 外交部回应",
+      "author": "新浪新闻综合",
+      "hot": 338,
+      "timestamp": 1778686098000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfk9288930.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxtvfk9288930.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "钯金期货日内跌1%，现报1511.50美元/盎司。",
+      "author": "滚动播报",
+      "hot": 343,
+      "timestamp": 1778738434000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxvayt7074341.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxvayt7074341.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "匈牙利总理毛焦尔：匈牙利将临时冻结非必要财政支出。",
+      "author": "滚动播报",
+      "hot": 344,
+      "timestamp": 1778719336000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7245352.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7245352.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "6月30日正式“告别”，首个国有大行信用卡APP关停倒计时！信用卡渠道整合已是大势所趋",
+      "author": "市场资讯",
+      "hot": 344,
+      "timestamp": 1778675300000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxtkrn0925182.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxtkrn0925182.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "霍尼韦尔CEO：航空航天业务将于45天内完成分拆。",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1778717675000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7236730.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7236730.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "匈牙利总理毛焦尔：将于下周前往波兰、奥地利举行会谈。",
+      "author": "滚动播报",
+      "hot": 358,
+      "timestamp": 1778717953000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskw0460927.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskw0460927.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "渣打：日本或需更多干预以抑制日元空头情绪",
+      "author": "滚动播报",
+      "hot": 361,
+      "timestamp": 1778716267000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-13/doc-inhxunay0583182.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-13/doc-inhxunay0583182.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "特朗普今起对我国进行国事访问 美国16位商业巨头与特朗普一同访华",
+      "author": "人民日报",
+      "hot": 363,
+      "timestamp": 1778658172000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-13/doc-inhxsxzs1023839.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-13/doc-inhxsxzs1023839.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "美国国务院：若古巴政府允许，美国准备向古巴民众提供1亿美元直接援助。",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1778727253000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsw8992380.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsw8992380.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "万斯抨击拜登政府未能防范医疗身份盗用问题",
+      "author": "滚动播报",
+      "hot": 382,
+      "timestamp": 1778726281000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsu0368087.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsu0368087.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "普京签署命令 更换俄乌边境两州州长",
+      "author": "央视",
+      "hot": 384,
+      "timestamp": 1778726278000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxuwsw8988472.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxuwsw8988472.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+      "author": "新浪新闻综合",
+      "hot": 396,
+      "timestamp": 1778737041000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvayt7067817.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvayt7067817.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "美联储卡什卡里：必须将通胀回落至2%目标，绝不能随意调整目标基准。",
+      "author": "滚动播报",
+      "hot": 406,
+      "timestamp": 1778722169000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7257885.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7257885.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "国泰海通：说好的券商航母，怎么成了散户的“断头台”？",
+      "author": "市场资讯",
+      "hot": 410,
+      "timestamp": 1778711181000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-13/doc-inhxunay0553154.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-13/doc-inhxunay0553154.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "美国总统特朗普乘专机抵达北京",
+      "author": "央视",
+      "hot": 421,
+      "timestamp": 1778701998000,
+      "url": "https://news.sina.com.cn/c/2026-05-13/doc-inhxufvc7398064.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-13/doc-inhxufvc7398064.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美国总统特朗普抵达北京开始访华",
+      "author": "新华社",
+      "hot": 422,
+      "timestamp": 1778702450000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-13/doc-inhxufva0624888.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-13/doc-inhxufva0624888.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美国佐治亚州议员将于7月17日开始审议选区重划事宜。",
+      "author": "滚动播报",
+      "hot": 425,
+      "timestamp": 1778725181000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsw8983999.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuwsw8983999.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "德国检方通报：德国一名儿科医生被控涉嫌130起儿童性虐待案件。",
+      "author": "滚动播报",
+      "hot": 428,
+      "timestamp": 1778717900000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxusky9079496.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxusky9079496.shtml"
+    }
+  ]
+}
