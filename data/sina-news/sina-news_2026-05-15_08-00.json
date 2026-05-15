@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-15T00:01:10.624Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744688",
+      "title": "尾盘：美股维持涨势 道指上涨380点",
+      "author": "环球市场播报",
+      "hot": 83,
+      "timestamp": 1778812783000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwzrz3705395.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwzrz3705395.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "机器人的尝鲜期过了，整个产业正在集体转向",
+      "author": "第一财经网",
+      "hot": 83,
+      "timestamp": 1778753938000,
+      "url": "https://news.sina.com.cn/o/2026-05-14/doc-inhxvpqp6946705.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-14/doc-inhxvpqp6946705.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "中国长城科技集团股份有限公司关于召开2025年度暨2026年一季度网上业绩说明会的公告",
+      "author": "上海证券报",
+      "hot": 106,
+      "timestamp": 1778729074000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsz4242935.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-14/doc-inhxuwsz4242935.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "5月15日外盘头条：特朗普一季度股票交易曝光 美联储理事米兰正式递交辞呈 SpaceX IPO招股书最早于下周公布",
+      "author": "环球市场播报",
+      "hot": 195,
+      "timestamp": 1778825249000,
+      "url": "https://finance.sina.com.cn/world/2026-05-15/doc-inhxxnfs8252657.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-15/doc-inhxxnfs8252657.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美国债市：国债涨跌互现 收益率曲线趋平",
+      "author": "环球市场播报",
+      "hot": 197,
+      "timestamp": 1778819296000,
+      "url": "https://finance.sina.com.cn/world/2026-05-15/doc-inhxxfxu8354405.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-15/doc-inhxxfxu8354405.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "足彩彩果:比利亚造3.6倍冷负 阿拉维斯1-0巴萨",
+      "author": "新浪彩票",
+      "hot": 202,
+      "timestamp": 1778745358000,
+      "url": "https://sports.sina.com.cn/l/2026-05-14/doc-inhxvihv4063156.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-14/doc-inhxvihv4063156.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "卖房不靠沙盘了，多家开发商主动选择“现房销售”",
+      "author": "第一财经网",
+      "hot": 203,
+      "timestamp": 1778786851000,
+      "url": "https://news.sina.com.cn/o/2026-05-14/doc-inhxwkui3915690.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-14/doc-inhxwkui3915690.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "苹果与OpenAI合作关系出现裂痕 未来可能爆发诉讼战",
+      "author": "环球市场播报",
+      "hot": 205,
+      "timestamp": 1778809651000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwzrz3693376.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwzrz3693376.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "原油收盘持平 油轮恢复通行霍尔木兹海峡，缓解市场供应担忧",
+      "author": "环球市场播报",
+      "hot": 209,
+      "timestamp": 1778816764000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxxfxu8345500.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxxfxu8345500.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "时政快讯丨习近平同美国总统特朗普参观天坛",
+      "author": "央视",
+      "hot": 211,
+      "timestamp": 1778764638000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxvtwk0140341.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxvtwk0140341.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "午盘：道指上涨500点 纳指与标普指数创新高",
+      "author": "环球市场播报",
+      "hot": 215,
+      "timestamp": 1778803885000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwvix6597249.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxwvix6597249.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "波音股价跌幅扩大至5%。",
+      "author": "滚动播报",
+      "hot": 223,
+      "timestamp": 1778802906000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxwviy8544417.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxwviy8544417.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "英国首相斯塔默在致斯特里廷的信函中表示：对你辞去政府职务一事，我深感遗憾。",
+      "author": "滚动播报",
+      "hot": 227,
+      "timestamp": 1778802869000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxwvix6590359.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxwvix6590359.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "内塔尼亚胡称将对《纽约时报》提起诽谤诉讼",
+      "author": "北京日报客户端",
+      "hot": 231,
+      "timestamp": 1778802978000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxwviy8544551.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxwviy8544551.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "中国足球彩票胜负彩26076期澳盘最新赔率(5.14)",
+      "author": "新浪彩票",
+      "hot": 236,
+      "timestamp": 1778744068000,
+      "url": "https://sports.sina.com.cn/l/2026-05-14/doc-inhxvihq0196708.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-14/doc-inhxvihq0196708.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "中美关系新定位！",
+      "author": "央视",
+      "hot": 263,
+      "timestamp": 1778772727000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxvyeh0108473.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxvyeh0108473.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "纽约拟对100 万美元以上现金购置的市内住宅征收新税。",
+      "author": "滚动播报",
+      "hot": 267,
+      "timestamp": 1778810708000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrv6500715.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrv6500715.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "欢迎宴会，高清大图来了！",
+      "author": "新华社",
+      "hot": 278,
+      "timestamp": 1778790926000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-14/doc-inhxwraf3818007.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-14/doc-inhxwraf3818007.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "土耳其首次公开洲际导弹，剑指何方？",
+      "author": "澎湃新闻",
+      "hot": 285,
+      "timestamp": 1778757266000,
+      "url": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvpqq8845886.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-14/doc-inhxvpqq8845886.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "青宁管道与江苏沿海管道联通项目正式进气投产",
+      "author": "央视",
+      "hot": 302,
+      "timestamp": 1778810498000,
+      "url": "https://news.sina.com.cn/c/2026-05-15/doc-inhxwzrw8451922.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-15/doc-inhxwzrw8451922.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "德国又打了个样，日本怎么看",
+      "author": "长安街知事",
+      "hot": 309,
+      "timestamp": 1778826914000,
+      "url": "https://news.sina.com.cn/w/2026-05-15/doc-inhxxnfp9546202.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-15/doc-inhxxnfp9546202.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+      "author": "新浪新闻综合",
+      "hot": 311,
+      "timestamp": 1778823962000,
+      "url": "https://news.sina.com.cn/w/2026-05-15/doc-inhxxnfp9530348.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-15/doc-inhxxnfp9530348.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "匈牙利总理毛焦尔：匈牙利将临时冻结非必要财政支出。",
+      "author": "滚动播报",
+      "hot": 344,
+      "timestamp": 1778719336000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7245352.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-14/doc-inhxuskx7245352.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "特朗普罗列执政政绩，其中列入对伊朗实施军事重创。",
+      "author": "滚动播报",
+      "hot": 347,
+      "timestamp": 1778823867000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfv3490948.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfv3490948.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "独家视频丨参观天坛现场 特朗普称赞“中国太美了”",
+      "author": "央视",
+      "hot": 357,
+      "timestamp": 1778778888000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxwenf6823766.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-14/doc-inhxwenf6823766.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "英国政府：26 个国家于周四发表联合声明",
+      "author": "滚动播报",
+      "hot": 358,
+      "timestamp": 1778820566000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6415115.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6415115.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "英国首相府任命新任卫生和社会福利大臣",
+      "author": "滚动播报",
+      "hot": 368,
+      "timestamp": 1778817919000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6403937.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6403937.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "新西兰4月制造业采购经理人指数（PMI）降至50.5，前值53.2。",
+      "author": "滚动播报",
+      "hot": 368,
+      "timestamp": 1778826630000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfp9544750.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfp9544750.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "美国总统特朗普乘车抵达天坛",
+      "author": "央视",
+      "hot": 369,
+      "timestamp": 1778763821000,
+      "url": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvtwn8785485.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvtwn8785485.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "探寻务实路径，携手应对冲击，金砖国家外长会晤在印度举行",
+      "author": "滚动播报",
+      "hot": 377,
+      "timestamp": 1778827179000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6324898.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6324898.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "美国中美国中央司令部：已在霍尔木兹海峡封锁行动中对 72 艘商船实施航线改道。",
+      "author": "滚动播报",
+      "hot": 380,
+      "timestamp": 1778818217000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6405325.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6405325.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "纽约期金失守4650美元/盎司，日内跌1.22%。",
+      "author": "滚动播报",
+      "hot": 381,
+      "timestamp": 1778819930000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxu8356958.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxu8356958.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "夜盘期货收盘",
+      "author": "滚动播报",
+      "hot": 387,
+      "timestamp": 1778806804000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwvix6612866.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwvix6612866.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "现货黄金失守4650美元/盎司，日内跌0.83%。",
+      "author": "滚动播报",
+      "hot": 390,
+      "timestamp": 1778817903000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxr9626654.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxr9626654.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "报告：美国柴油出口打破低库存担忧",
+      "author": "滚动播报",
+      "hot": 391,
+      "timestamp": 1778814284000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrt9739800.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrt9739800.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "美联储威廉姆斯：货币政策目前处于适宜区间。",
+      "author": "滚动播报",
+      "hot": 394,
+      "timestamp": 1778826591000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfp9544574.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfp9544574.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "美联储威廉姆斯：目前尚未观察到通胀会产生重大第二轮影响。",
+      "author": "滚动播报",
+      "hot": 402,
+      "timestamp": 1778825076000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6313636.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6313636.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "市场消：博通、美国银行、高盛亦出现在特朗普持仓披露名单中。",
+      "author": "滚动播报",
+      "hot": 408,
+      "timestamp": 1778820538000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxx3603522.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxx3603522.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "约0.01飞米！中国科学家重要发现，将改写教科书",
+      "author": "观察者网",
+      "hot": 413,
+      "timestamp": 1778746347000,
+      "url": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvayu8915395.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-14/doc-inhxvayu8915395.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "巴西总统卢拉： 巴西政府不会允许柴油、汽油价格上涨。",
+      "author": "滚动播报",
+      "hot": 418,
+      "timestamp": 1778805290000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwviy8559102.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwviy8559102.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "U17女足亚洲杯-中国2-4朝鲜无缘决赛 刘雨希双响难救主",
+      "author": "新浪新闻综合",
+      "hot": 419,
+      "timestamp": 1778794552000,
+      "url": "https://news.sina.com.cn/zx/2026-05-14/doc-inhxwqzx9896251.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-14/doc-inhxwqzx9896251.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "墨西哥4月名义工资同比增长5.5%。",
+      "author": "滚动播报",
+      "hot": 422,
+      "timestamp": 1778815143000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6390899.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxfxt6390899.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "特朗普称美中餐馆数量惊人",
+      "author": "长安街知事",
+      "hot": 436,
+      "timestamp": 1778789496000,
+      "url": "https://news.sina.com.cn/o/2026-05-14/doc-inhxwkui3932929.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-14/doc-inhxwkui3932929.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "利比亚总理：愿同中方增进多领域务实合作",
+      "author": "滚动播报",
+      "hot": 437,
+      "timestamp": 1778807302000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrz3683474.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwzrz3683474.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "李强会见美国工商界代表",
+      "author": "新华社",
+      "hot": 442,
+      "timestamp": 1778783375000,
+      "url": "https://finance.sina.com.cn/china/2026-05-14/doc-inhxwktz9950015.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-05-14/doc-inhxwktz9950015.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "特朗普访华，为何选择天坛？",
+      "author": "中国新闻网",
+      "hot": 449,
+      "timestamp": 1778788124000,
+      "url": "https://news.sina.com.cn/c/2026-05-14/doc-inhxwkue8656883.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-14/doc-inhxwkue8656883.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "英国中长期国债收益率至少跌超7个基点",
+      "author": "滚动播报",
+      "hot": 470,
+      "timestamp": 1778803472000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwvix6593558.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxwvix6593558.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "5月15日收盘：道指重新站上5万点关口 纳指与标普指数再创新高",
+      "author": "环球市场播报",
+      "hot": 473,
+      "timestamp": 1778818151000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxxfxt6405132.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-15/doc-inhxxfxt6405132.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "韩国财政部表示，将密切监测和管理房地产市场。",
+      "author": "滚动播报",
+      "hot": 482,
+      "timestamp": 1778828070000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6329607.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6329607.shtml"
+    },
+    {
+      "id": "6744642",
+      "title": "市场消息：美国交通部表示，未有公司或个人获得特殊待遇。",
+      "author": "滚动播报",
+      "hot": 488,
+      "timestamp": 1778826283000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6320497.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxxnfr6320497.shtml"
+    }
+  ]
+}
