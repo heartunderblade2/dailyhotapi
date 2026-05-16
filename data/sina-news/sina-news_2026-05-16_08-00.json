@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-16T00:01:05.597Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "伊朗外长：伊朗不寻求发展核武器",
+      "author": "界面新闻",
+      "hot": 85,
+      "timestamp": 1778870853000,
+      "url": "https://news.sina.com.cn/w/2026-05-15/doc-inhxyptn3266152.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-15/doc-inhxyptn3266152.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "以官员称以色列正在为重启对伊朗军事行动做准备",
+      "author": "央视",
+      "hot": 116,
+      "timestamp": 1778898171000,
+      "url": "https://news.sina.com.cn/w/2026-05-16/doc-inhxzkwx3089050.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-16/doc-inhxzkwx3089050.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "12亿巨奖得主不到1年3次被捕 曾进过25个惩教机构",
+      "author": "新浪彩票",
+      "hot": 185,
+      "timestamp": 1778831012000,
+      "url": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxxnfs8287685.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxxnfs8287685.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "基辅遭袭搜救工作结束，24人死亡含3名儿童",
+      "author": "北京日报客户端",
+      "hot": 195,
+      "timestamp": 1778857960000,
+      "url": "https://news.sina.com.cn/w/2026-05-15/doc-inhxyimm3333308.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-15/doc-inhxyimm3333308.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "大宗商品综述：油价攀升 铜价续跌 金银价格双挫",
+      "author": "环球市场播报",
+      "hot": 197,
+      "timestamp": 1778907276000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzrew6058466.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzrew6058466.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "日本本州东部附近海域发生6.5级地震，震源深度30千米",
+      "author": "中国地震局网站",
+      "hot": 197,
+      "timestamp": 1778874957000,
+      "url": "https://news.sina.com.cn/w/2026-05-15/doc-inhxytza8040694.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-15/doc-inhxytza8040694.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "午盘：美股继续下滑，科技股领跌",
+      "author": "环球市场播报",
+      "hot": 201,
+      "timestamp": 1778889950000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzerf5038628.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzerf5038628.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "震撼外网的中国军人，究竟是哪个部队的？",
+      "author": "新浪新闻综合",
+      "hot": 204,
+      "timestamp": 1778836121000,
+      "url": "https://news.sina.com.cn/c/2026-05-15/doc-inhxxspp6272586.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-15/doc-inhxxspp6272586.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "5月16日热门中概股普跌 台积电跌3.16%，阿里巴巴跌6.05%",
+      "author": "环球市场播报",
+      "hot": 204,
+      "timestamp": 1778905176000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzkxc4984685.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzkxc4984685.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "闪评｜通胀加速、债息狂飙：日本经济逼近“滞胀”边缘",
+      "author": "央视新闻客户端",
+      "hot": 204,
+      "timestamp": 1778875165000,
+      "url": "https://news.sina.com.cn/2026-05-15/doc-inhxytzk3168214.shtml",
+      "mobileUrl": "https://news.sina.com.cn/2026-05-15/doc-inhxytzk3168214.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "央视官宣：已获得2026年世界杯版权",
+      "author": "环球时报",
+      "hot": 206,
+      "timestamp": 1778871969000,
+      "url": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyptn3273070.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyptn3273070.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "特朗普：热情期待在华盛顿接待习近平主席",
+      "author": "新华社",
+      "hot": 217,
+      "timestamp": 1778852765000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-15/doc-inhxycci6209075.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-15/doc-inhxycci6209075.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "今日出战G6！哈登97场季后赛胜利 史上无冠球员中仅少于马龙",
+      "author": "NBA综合",
+      "hot": 221,
+      "timestamp": 1778898350000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-16/doc-inhxzkxa2924038.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-16/doc-inhxzkxa2924038.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "AI冲击初现端倪 美国数类职业连续出现严重岗位流失",
+      "author": "环球市场播报",
+      "hot": 225,
+      "timestamp": 1778907336000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzrew6058679.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-16/doc-inhxzrew6058679.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "央视官宣：拿下两届世界杯版权！感谢全国网友支持！知情人士：美加墨世界杯的版权费为6000万美元",
+      "author": "解放日报",
+      "hot": 227,
+      "timestamp": 1778870277000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-15/doc-inhxypti3362481.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-15/doc-inhxypti3362481.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "国家发改委主任郑栅洁会见波音公司总裁兼首席执行官奥特伯格",
+      "author": "国家发改委网站",
+      "hot": 229,
+      "timestamp": 1778876079000,
+      "url": "https://finance.sina.com.cn/china/2026-05-15/doc-inhxytzf3300005.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-05-15/doc-inhxytzf3300005.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "就半导体、稀土、波音、石油采购等中美经贸相关问题，外交部集中回应",
+      "author": "界面新闻",
+      "hot": 236,
+      "timestamp": 1778861135000,
+      "url": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyimh8125647.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyimh8125647.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "降水可达50毫米以上 江西发布暴雨橙色预警",
+      "author": "央视",
+      "hot": 239,
+      "timestamp": 1778892239000,
+      "url": "https://news.sina.com.cn/c/2026-05-16/doc-inhxzera6246046.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-16/doc-inhxzera6246046.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "歌手温岚因败血性休克被送ICU，医生解读“败血症”：并非单纯“血里有细菌”",
+      "author": "潇湘晨报",
+      "hot": 241,
+      "timestamp": 1778883355000,
+      "url": "https://news.sina.com.cn/o/2026-05-15/doc-inhxyyih3101095.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-15/doc-inhxyyih3101095.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "“横店快没剧组了”登上热搜，横店影视城晒出2张片场剧组动态辟谣：横竖都在",
+      "author": "极目新闻",
+      "hot": 244,
+      "timestamp": 1778875808000,
+      "url": "https://news.sina.com.cn/o/2026-05-15/doc-inhxytza8052455.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-15/doc-inhxytza8052455.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "欧洲天然气期货本周涨超15%",
+      "author": "滚动播报",
+      "hot": 255,
+      "timestamp": 1778889187000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxzerf5032798.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-15/doc-inhxzerf5032798.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "周六足彩伤停:曼城罗德里缺战决赛 拜仁格纳布里伤缺",
+      "author": "新浪彩票",
+      "hot": 255,
+      "timestamp": 1778857411000,
+      "url": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxyimh8083474.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxyimh8083474.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "美国30年期国债收益率上涨10个基点，触及盘中高点5.13%。",
+      "author": "滚动播报",
+      "hot": 275,
+      "timestamp": 1778896712000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6268842.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6268842.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "一笔价值 8 亿英镑的摩天大楼交易，正给伯纳姆的领袖竞选之路蒙上阴影。",
+      "author": "滚动播报",
+      "hot": 290,
+      "timestamp": 1778895516000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzerf5071620.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzerf5071620.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "本周欧元跌1.4%，英镑累跌超2.2%，纽元累跌2.1%",
+      "author": "滚动播报",
+      "hot": 306,
+      "timestamp": 1778903024000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkxa2947139.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkxa2947139.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "历史性会晤，给世界释放的5个信号",
+      "author": "牛弹琴",
+      "hot": 308,
+      "timestamp": 1778846244000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-15/doc-inhxxwvr3452423.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-15/doc-inhxxwvr3452423.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "特朗普说中国军人棒极了",
+      "author": "中国新闻网",
+      "hot": 309,
+      "timestamp": 1778848782000,
+      "url": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyccp3348224.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-15/doc-inhxyccp3348224.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "花旗银行 4 月坏账率达 2.11%。",
+      "author": "滚动播报",
+      "hot": 328,
+      "timestamp": 1778896882000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6269738.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6269738.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "美国总统特朗普结束访华",
+      "author": "央视",
+      "hot": 332,
+      "timestamp": 1778855012000,
+      "url": "https://news.sina.com.cn/zx/2026-05-15/doc-inhxyccp3429672.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-15/doc-inhxyccp3429672.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "以色列驻美国大使：与黎巴嫩的和平谈判是坦诚和富有成效的。",
+      "author": "滚动播报",
+      "hot": 339,
+      "timestamp": 1778900310000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6155790.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6155790.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+      "author": "滚动播报",
+      "hot": 346,
+      "timestamp": 1778897710000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6143778.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6143778.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "壳牌巴西分公司发声明称，克里斯蒂亚诺·平托·达科斯塔已辞去首席执行官一职。",
+      "author": "滚动播报",
+      "hot": 351,
+      "timestamp": 1778890289000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6235519.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6235519.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "美国运通：美国小型商务卡会员贷款净核销率，仅统计本金部分，截至4月底为2.4%。",
+      "author": "滚动播报",
+      "hot": 355,
+      "timestamp": 1778889844000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6232510.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6232510.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "夜盘期货收盘",
+      "author": "滚动播报",
+      "hot": 358,
+      "timestamp": 1778893204000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3028017.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3028017.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "欧洲债市：政府债券下跌 通胀担忧升温",
+      "author": "滚动播报",
+      "hot": 361,
+      "timestamp": 1778894863000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3036961.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3036961.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "以色列驻美国大使：与黎巴嫩的谈判成功机会很大。",
+      "author": "滚动播报",
+      "hot": 366,
+      "timestamp": 1778900366000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6156083.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkwy6156083.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "中国驻荷兰使馆发言人：有关言论罔顾事实，中方对此坚决反对",
+      "author": "北京日报客户端",
+      "hot": 370,
+      "timestamp": 1778913193000,
+      "url": "https://news.sina.com.cn/c/2026-05-16/doc-inhxzrez4883618.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-16/doc-inhxzrez4883618.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "市场消息：多位英国大臣直言，英国政府将因领袖竞选陷入全面停摆。",
+      "author": "滚动播报",
+      "hot": 371,
+      "timestamp": 1778896432000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3044717.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3044717.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美国石油天然气钻井平台数量连续第四周增加。",
+      "author": "滚动播报",
+      "hot": 375,
+      "timestamp": 1778893383000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6251708.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6251708.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "市场消息：英国全国工会官员投票准许曼切斯特市长伯纳姆参选。",
+      "author": "滚动播报",
+      "hot": 378,
+      "timestamp": 1778889832000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3009695.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3009695.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "中美关系是当今世界最重要的双边关系 习主席深刻阐释",
+      "author": "央视",
+      "hot": 378,
+      "timestamp": 1778876947000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-15/doc-inhxyptn3248261.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-15/doc-inhxyptn3248261.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "胜负彩26076期国内部分专业媒体复式推荐总汇",
+      "author": "新浪彩票",
+      "hot": 380,
+      "timestamp": 1778833637000,
+      "url": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxxspq8181967.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-15/doc-inhxxspq8181967.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "Anthropic：普华永道将上线克劳德代码助手及协同办公工具。",
+      "author": "滚动播报",
+      "hot": 387,
+      "timestamp": 1778894829000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzeqz3203385.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzeqz3203385.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "5月16日美股成交额前20：比尔阿克曼称微软估值极具吸引力",
+      "author": "滚动播报",
+      "hot": 395,
+      "timestamp": 1778906685000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzrew6056098.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzrew6056098.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "以色列国防军：梅图拉地区附近响起敌方无人机来袭警报，相关详情正在核查中。",
+      "author": "滚动播报",
+      "hot": 405,
+      "timestamp": 1778890260000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzerf5041206.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzerf5041206.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "5月16日隔夜要闻一览",
+      "author": "滚动播报",
+      "hot": 406,
+      "timestamp": 1778914212000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzvnt2893120.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzvnt2893120.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "以色列空袭加沙 称炸死哈马斯军事领导人",
+      "author": "滚动播报",
+      "hot": 411,
+      "timestamp": 1778896160000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3043487.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzere3043487.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "阿尔伯塔省省长：预计 2027 年 9 月前敲定管道项目合作方。",
+      "author": "滚动播报",
+      "hot": 413,
+      "timestamp": 1778903106000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkxa2947549.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzkxa2947549.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "乌干达卫生部证实出现埃博拉疫情。",
+      "author": "滚动播报",
+      "hot": 422,
+      "timestamp": 1778893376000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6251683.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzera6251683.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "乌干达报告埃博拉疫情 一输入性病例死亡",
+      "author": "滚动播报",
+      "hot": 424,
+      "timestamp": 1778905291000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzrey2826711.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-16/doc-inhxzrey2826711.shtml"
+    }
+  ]
+}
