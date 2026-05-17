@@ -16,23 +16,22 @@ OUTPUT_FILE = OUTPUT_DIR / "model_eval_results.xlsx"
 
 MODELS = {
     "GLM-5": "glm-5",
-    "Kimi-K2.5": "kimi-k2-5",
-    "Deepseek-R1": "deepseek-r1",
-    "Qwen3-235B-A22B": "qwen3-235b-a22b",
+    # "Kimi-K2.5": "kimi-k2-5",
+    # "Deepseek-R1": "deepseek-r1",
+    # "Qwen3-235B-A22B": "qwen3-235b-a22b",
 }
 
 API_BASE_URL = os.getenv("API_BASE_URL")
 API_KEY = os.getenv("API_KEY")
 
+print("API_BASE_URL:", API_BASE_URL)
+print("API_KEY exists:", API_KEY is not None)
 
 # =========================
 # 调用 API
 # =========================
 
 def call_model(model_name: str, prompt: str) -> str:
-    """
-    根据你的 API 结构修改这里
-    """
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
@@ -41,16 +40,19 @@ def call_model(model_name: str, prompt: str) -> str:
 
     payload = {
         "model": model_name,
-          "messages": [
+        "messages": [
             {
                 "role": "user",
                 "content": prompt,
             }
         ],
         "temperature": 0,
+        "max_tokens": 512,
+        "stream": False,
     }
 
     try:
+
         response = requests.post(
             API_BASE_URL,
             headers=headers,
@@ -58,15 +60,24 @@ def call_model(model_name: str, prompt: str) -> str:
             timeout=300,
         )
 
-        response.raise_for_status()
+        print("STATUS:", response.status_code)
+        print("TEXT:", response.text[:2000])
 
-        data = response.json()
+        try:
 
-        # 根据你的 API 返回结构调整
-        return data["choices"][0]["message"]["content"]
+            data = response.json()
+
+            print("JSON:", data)
+
+            return str(data)
+
+        except Exception as je:
+
+            return f"JSON ERROR: {je} | RAW: {response.text[:1000]}"
 
     except Exception as e:
-        return f"ERROR: {str(e)}"
+
+        return f"REQUEST ERROR: {str(e)}"
 
 
 # =========================
@@ -75,6 +86,8 @@ def call_model(model_name: str, prompt: str) -> str:
 
 def main():
     df = pd.read_excel(INPUT_FILE)
+
+    df = df.head(1)
 
     with pd.ExcelWriter(OUTPUT_FILE, engine="xlsxwriter") as writer:
 
