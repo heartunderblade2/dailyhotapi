@@ -52,31 +52,32 @@ def call_model(model_name: str, prompt: str) -> str:
     }
 
     try:
-
         response = requests.post(
-            API_BASE_URL,
+            f"{API_BASE_URL}/chat/completions",
             headers=headers,
             json=payload,
             timeout=300,
         )
 
-        print("STATUS:", response.status_code)
-        print("TEXT:", response.text[:2000])
+        print(f"STATUS: {response.status_code}")
+        
+        # 检查 HTTP 状态码，如果不是 200 (成功)，直接抛出异常并打印服务器原始返回信息
+        if response.status_code != 200:
+            return f"HTTP ERROR {response.status_code}: {response.text[:1000]}"
 
         try:
-
             data = response.json()
-
-            print("JSON:", data)
-
-            return str(data)
+            print("JSON parsed successfully.")
+            # 提取具体的文本内容 (假设它是标准的 OpenAI 格式)
+            if 'choices' in data and len(data['choices']) > 0:
+                 return data['choices'][0]['message']['content']
+            else:
+                 return str(data)
 
         except Exception as je:
-
             return f"JSON ERROR: {je} | RAW: {response.text[:1000]}"
 
     except Exception as e:
-
         return f"REQUEST ERROR: {str(e)}"
 
 
