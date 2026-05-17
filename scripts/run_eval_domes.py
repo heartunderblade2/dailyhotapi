@@ -21,11 +21,11 @@ MODELS = {
     # "Qwen3-235B-A22B": "qwen3-235b-a22b",
 }
 
-API_BASE_URL = os.getenv("API_BASE_URL")
-API_KEY = os.getenv("API_KEY")
+API_BASE_URL = "https://ai.gitee.com/v1"
+API_KEY = "K3GW5OZWBPGG5BKZCXIN8USU3OJYDOBENS93IE1F"
 
-print("API_BASE_URL:", API_BASE_URL)
-print("API_KEY exists:", API_KEY is not None)
+# print("API_BASE_URL:", API_BASE_URL)
+# print("API_KEY exists:", API_KEY is not None)
 
 # =========================
 # 调用 API
