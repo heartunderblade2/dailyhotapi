@@ -1,0 +1,33 @@
+name: LLM Eval 国外模型
+
+on:
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Run evaluation
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL_2 }}
+          API_KEY: ${{ secrets.API_KEY_2 }}
+        run: |
+          python scripts/run_eval_intern.py
+
+      - name: Upload result excel
+        uses: actions/upload-artifact@v4
+        with:
+          name: llm-eval-results
+          path: outputs/model_eval_results_intern.xlsx
