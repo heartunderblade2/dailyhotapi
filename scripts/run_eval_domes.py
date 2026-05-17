@@ -1,18 +1,24 @@
 import os
 import time
 import requests
+import urllib3
 import pandas as pd
 from pathlib import Path
 
+# 禁用 SSL 警告输出
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 # =========================
-# 配置
+# 1. 基础配置
 # =========================
 
-INPUT_FILE = "prompts_translated_level_4.xlsx"
-OUTPUT_DIR = Path("outputs")
-OUTPUT_DIR.mkdir(exist_ok=True)
+INPUT_FILE = "prompts_translated_level_4.xlsx" # 确保仓库里有这个文件！
+# 在 GitHub 上我们直接把结果输出到当前目录，方便打包下载
+OUTPUT_FILE = "model_eval_results.xlsx"
 
-OUTPUT_FILE = OUTPUT_DIR / "model_eval_results.xlsx"
+API_BASE_URL = "https://ai.gitee.com/v1"
+# 【关键修改】使用 os.getenv 从云端环境变量读取，绝不在代码里写死！
+API_KEY = "K3GW5OZWBPGG5BKZCXIN8USU3OJYDOBENS93IE1F"
 
 MODELS = {
     "GLM-5": "glm-5",
@@ -21,115 +27,106 @@ MODELS = {
     # "Qwen3-235B-A22B": "qwen3-235b-a22b",
 }
 
-API_BASE_URL = "https://ai.gitee.com/v1"
-API_KEY = "K3GW5OZWBPGG5BKZCXIN8USU3OJYDOBENS93IE1F"
-
-# print("API_BASE_URL:", API_BASE_URL)
-# print("API_KEY exists:", API_KEY is not None)
-
 # =========================
-# 调用 API
+# 2. API 调用函数
 # =========================
 
-def call_model(model_name: str, prompt: str) -> str:
+def call_model(model_name: str, prompt: str, retries: int = 3) -> str:
+    if pd.isna(prompt) or not str(prompt).strip():
+        return ""
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
     payload = {
         "model": model_name,
-        "messages": [
-            {
-                "role": "user",
-                "content": prompt,
-            }
-        ],
-        "temperature": 0,
-        "max_tokens": 512,
-        "stream": False,
+        "messages": [{"role": "user", "content": str(prompt)}],
+        "temperature": 0.1,
+        "max_tokens": 4096, # 允许长文本输出
     }
 
-    try:
-        response = requests.post(
-            f"{API_BASE_URL}/chat/completions",
-            headers=headers,
-            json=payload,
-            timeout=300,
-        )
+    endpoint = f"{API_BASE_URL}/chat/completions"
 
-        print(f"STATUS: {response.status_code}")
-        
-        # 检查 HTTP 状态码，如果不是 200 (成功)，直接抛出异常并打印服务器原始返回信息
-        if response.status_code != 200:
-            return f"HTTP ERROR {response.status_code}: {response.text[:1000]}"
-
+    for attempt in range(retries):
         try:
-            data = response.json()
-            print("JSON parsed successfully.")
-            # 提取具体的文本内容 (假设它是标准的 OpenAI 格式)
-            if 'choices' in data and len(data['choices']) > 0:
-                 return data['choices'][0]['message']['content']
+            # 保持 300 秒超时和忽略 SSL 验证
+            response = requests.post(endpoint, headers=headers, json=payload, timeout=300, verify=False)
+            
+            if response.status_code == 200:
+                data = response.json()
+                if 'choices' in data and len(data['choices']) > 0:
+                    return data['choices'][0]['message']['content']
+                else:
+                    return f"[解析异常] 未找到 choices 字段: {str(data)[:200]}"
             else:
-                 return str(data)
+                print(f"      [警告] HTTP {response.status_code} - 尝试重试 ({attempt+1}/{retries})")
+                time.sleep(2)
+                
+        except Exception as e:
+            print(f"      [错误] 请求异常: {str(e)} - 尝试重试 ({attempt+1}/{retries})")
+            time.sleep(2)
 
-        except Exception as je:
-            return f"JSON ERROR: {je} | RAW: {response.text[:1000]}"
-
-    except Exception as e:
-        return f"REQUEST ERROR: {str(e)}"
+    return "[请求失败] 超过最大重试次数"
 
 
 # =========================
-# 主逻辑
+# 3. 主逻辑
 # =========================
 
 def main():
+    if not API_KEY:
+        print("错误：未找到 GITEE_API_KEY 环境变量！请在 GitHub Secrets 中配置。")
+        return
+
+    if not os.path.exists(INPUT_FILE):
+        print(f"找不到输入文件: {INPUT_FILE}")
+        return
+
+    print("正在加载 Excel 数据...")
     df = pd.read_excel(INPUT_FILE)
+    df = df.head(2)
+    # 已经去掉了 df.head(2)，直接跑全量数据！
 
-    df = df.head(1)
-
-    with pd.ExcelWriter(OUTPUT_FILE, engine="xlsxwriter") as writer:
-
+    with pd.ExcelWriter(OUTPUT_FILE, engine="openpyxl") as writer:
         for display_name, api_model_name in MODELS.items():
-            print(f"\n===== Running model: {display_name} =====")
+            print(f"\n{'='*40}")
+            print(f"开始测试模型: {display_name}")
+            print(f"{'='*40}")
 
             rows = []
-
             for idx, row in df.iterrows():
-                print(f"[{display_name}] Processing row {idx + 1}/{len(df)}")
+                print(f"  [{display_name}] 正在处理第 {idx + 1}/{len(df)} 行...")
 
-                chinese_prompt = str(row["prompt"])
-                english_prompt = str(row["english_prompt"])
+                chinese_prompt = row.get("prompt", "")
+                english_prompt = row.get("english_prompt", "")
 
                 chinese_output = call_model(api_model_name, chinese_prompt)
-
                 time.sleep(1)
 
                 english_output = call_model(api_model_name, english_prompt)
+                time.sleep(1) 
+
                 rows.append({
                     "topic": row.get("topic", ""),
                     "source": row.get("source", ""),
                     "level": row.get("level", ""),
                     "category": row.get("category", ""),
-                    "safe_type": row.get("base_type", ""),
+                    "safe type": row.get("base_type", ""),
                     "中文prompt": chinese_prompt,
-                    "中文输出": chinese_output,
+                    "对应的输出(中文)": chinese_output,
                     "英文prompt": english_prompt,
-                    "英文输出": english_output,
+                    "对应的输出(英文)": english_output,
                 })
 
-                time.sleep(1)
-
             out_df = pd.DataFrame(rows)
-
-            # sheet name 最长 31 字符
             sheet_name = display_name[:31]
-
             out_df.to_excel(writer, sheet_name=sheet_name, index=False)
+            print(f"模型 {display_name} 测试完成，已写入 Sheet！")
 
-    print(f"\nSaved results to: {OUTPUT_FILE}")
+    print(f"\n✅ 所有测试已完成，结果保存在: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
