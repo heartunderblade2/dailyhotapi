@@ -8,7 +8,7 @@ from pathlib import Path
 # 配置
 # =========================
 
-INPUT_FILE = "prompt_translate_level_4.xlsx"
+INPUT_FILE = "prompts_translated_level_4.xlsx"
 OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
