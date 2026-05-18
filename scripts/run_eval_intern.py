@@ -5,35 +5,54 @@ import pandas as pd
 from pathlib import Path
 
 # =========================
-# 配置
+# 1. 基础配置
 # =========================
 
 INPUT_FILE = "prompts_translated_level_4.xlsx"
+
 OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-OUTPUT_FILE = OUTPUT_DIR / "model_eval_results_intern.xlsx"
+OUTPUT_FILE = OUTPUT_DIR / "model_eval_results.xlsx"
 
+# OpenRouter 配置
+API_BASE_URL = "https://openrouter.ai/api/v1"
+
+# 从环境变量读取 Key
+API_KEY = os.getenv("OPENROUTER_API_KEY")
+
+if not API_KEY:
+    raise ValueError("未设置 OPENROUTER_API_KEY 环境变量")
+
+# 需要测试的模型
 MODELS = {
     "Gemini-2.5-Flash-Lite": "google/gemini-2.5-flash-lite",
     "GPT-4o-mini": "openai/gpt-4o-mini",
+    # 可以继续添加
+    # "DeepSeek-R1": "deepseek/deepseek-r1",
+    # "Qwen3-235B": "qwen/qwen3-235b-a22b",
+    # "Kimi-K2": "moonshotai/kimi-k2",
 }
 
-API_BASE_URL = os.getenv("API_BASE_URL_2")
-API_KEY = os.getenv("API_KEY_2")
-
-
 # =========================
-# 调用 API
+# 2. API 调用函数
 # =========================
 
-def call_model(model_name: str, prompt: str) -> str:
+def call_model(model_name: str, prompt: str, retries: int = 2) -> str:
+    """
+    调用 OpenRouter 模型
+    """
+
+    if pd.isna(prompt) or not str(prompt).strip():
+        return ""
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://github.com/heartunderblade2/dailyhotapi",
-        "X-Title": "llm-safety-eval",
+
+        # OpenRouter 推荐
+        "HTTP-Referer": "https://github.com",
+        "X-Title": "model-eval",
     }
 
     payload = {
@@ -41,85 +60,152 @@ def call_model(model_name: str, prompt: str) -> str:
         "messages": [
             {
                 "role": "user",
-                "content": prompt,
+                "content": str(prompt)
             }
         ],
-        "temperature": 0,
-        "max_tokens": 512,
+        "temperature": 0.1,
+        "max_tokens": 4096,
     }
 
-    for retry in range(3):
+    endpoint = f"{API_BASE_URL}/chat/completions"
+
+    for attempt in range(retries):
 
         try:
             response = requests.post(
-                API_BASE_URL,
+                endpoint,
                 headers=headers,
                 json=payload,
-                timeout=300,
+                timeout=300
             )
 
-            response.raise_for_status()
+            # 成功
+            if response.status_code == 200:
 
-            data = response.json()
+                data = response.json()
 
-            return data["choices"][0]["message"]["content"]
+                if (
+                    "choices" in data
+                    and len(data["choices"]) > 0
+                ):
+                    return data["choices"][0]["message"]["content"]
+
+                return "[解析异常] 未找到 choices"
+
+            # 失败
+            else:
+                print(
+                    f"[{model_name}] HTTP {response.status_code}"
+                )
+
+                try:
+                    print(response.json())
+                except:
+                    print(response.text)
+
+                # 400 不需要重试
+                if response.status_code == 400:
+                    return f"[HTTP 400] {response.text}"
+
+                time.sleep(2)
 
         except Exception as e:
 
-            print(f"Retry {retry + 1} failed: {e}")
+            print(f"[异常] {model_name}: {e}")
 
-            time.sleep(5)
+            time.sleep(2)
 
-    return "ERROR"
+    return "[请求失败] 超过最大重试次数"
 
 
 # =========================
-# 主逻辑
+# 3. 主逻辑
 # =========================
 
 def main():
+
+    if not os.path.exists(INPUT_FILE):
+        print(f"找不到输入文件: {INPUT_FILE}")
+        return
+
+    print("正在加载 Excel 数据...")
+
     df = pd.read_excel(INPUT_FILE)
 
-    with pd.ExcelWriter(OUTPUT_FILE, engine="xlsxwriter") as writer:
+    # 测试时只跑前几行
+    # 正式跑全量时删掉这行
+    # df = df.head(2)
+
+    with pd.ExcelWriter(
+        OUTPUT_FILE,
+        engine="openpyxl"
+    ) as writer:
 
         for display_name, api_model_name in MODELS.items():
-            print(f"\n===== Running model: {display_name} =====")
+
+            print(f"\n========== {display_name} ==========")
 
             rows = []
 
             for idx, row in df.iterrows():
-                print(f"[{display_name}] Processing row {idx + 1}/{len(df)}")
 
-                chinese_prompt = str(row["prompt"])
-                english_prompt = str(row["english_prompt"])
+                print(
+                    f"[{display_name}] "
+                    f"{idx + 1}/{len(df)}"
+                )
 
-                chinese_output = call_model(api_model_name, chinese_prompt)
+                chinese_prompt = row.get("prompt", "")
+                english_prompt = row.get("english_prompt", "")
+
+                # 中文
+                chinese_output = call_model(
+                    api_model_name,
+                    chinese_prompt
+                )
 
                 time.sleep(1)
 
-                english_output = call_model(api_model_name, english_prompt)
+                # 英文
+                english_output = call_model(
+                    api_model_name,
+                    english_prompt
+                )
+
+                time.sleep(1)
+
                 rows.append({
                     "topic": row.get("topic", ""),
                     "source": row.get("source", ""),
                     "level": row.get("level", ""),
                     "category": row.get("category", ""),
-                    "safe_type": row.get("base_type", ""),
-                    "中文prompt": chinese_prompt,
-                    "中文输出": chinese_output,
-                    "英文prompt": english_prompt,
-                    "英文输出": english_output,
-                })
+                    "safe type": row.get("base_type", ""),
 
-                time.sleep(1)
+                    "中文prompt": chinese_prompt,
+                    "对应的输出(中文)": chinese_output,
+
+                    "英文prompt": english_prompt,
+                    "对应的输出(英文)": english_output,
+                })
 
             out_df = pd.DataFrame(rows)
 
-            # sheet name 最长 31 字符
             sheet_name = display_name[:31]
 
-            out_df.to_excel(writer, sheet_name=sheet_name, index=False)
+            out_df.to_excel(
+                writer,
+                sheet_name=sheet_name,
+                index=False
+            )
 
-    print(f"\nSaved results to: {OUTPUT_FILE}")
+            print(f"{display_name} 完成")
+
+    print(f"\n✅ 全部完成")
+    print(f"结果文件: {OUTPUT_FILE}")
+
+
+# =========================
+# 4. 入口
+# =========================
 
 if __name__ == "__main__":
     main()
