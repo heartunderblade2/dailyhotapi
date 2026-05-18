@@ -13,7 +13,7 @@ INPUT_FILE = "prompts_translated_level_4.xlsx"
 OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-OUTPUT_FILE = OUTPUT_DIR / "model_eval_results.xlsx"
+OUTPUT_FILE = OUTPUT_DIR / "model_eval_results_intern.xlsx"
 
 # OpenRouter 配置
 API_BASE_URL = "https://openrouter.ai/api/v1"
