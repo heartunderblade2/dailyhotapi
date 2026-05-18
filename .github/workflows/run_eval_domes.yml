@@ -22,7 +22,7 @@ jobs:
 
       - name: Run evaluation
         env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.API_KEY }}
         run: |
           python scripts/run_eval_domes.py
 
@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: llm-eval-results
-          path: outputs/model_eval_results.xlsx
+          path: outputs/model_eval_results_domes.xlsx
