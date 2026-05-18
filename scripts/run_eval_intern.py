@@ -134,7 +134,7 @@ def main():
 
     # 测试时只跑前几行
     # 正式跑全量时删掉这行
-    df = df.head(2)
+    # df = df.head(2)
 
     with pd.ExcelWriter(
         OUTPUT_FILE,
