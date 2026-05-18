@@ -22,7 +22,7 @@ jobs:
 
       - name: Run evaluation
         env:
-          OPENROUTER_API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
         run: |
           python scripts/run_eval_domes.py
 
