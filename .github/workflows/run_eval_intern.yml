@@ -1,4 +1,4 @@
-name: LLM Eval 国外模型
+name: LLM Eval 国内模型
 
 on:
   workflow_dispatch:
@@ -14,15 +14,15 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+
       - name: Run evaluation
         env:
-          API_BASE_URL: ${{ secrets.API_BASE_URL_2 }}
-          API_KEY: ${{ secrets.API_KEY_2 }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           python scripts/run_eval_intern.py
 
