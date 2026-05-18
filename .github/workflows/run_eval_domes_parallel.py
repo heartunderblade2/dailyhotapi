@@ -1,0 +1,55 @@
+name: LLM Eval 国内模型-并行
+
+on:
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+      matrix:
+        include:
+          - model: glm
+            script: run_eval_glm.py
+            output: model_eval_results_glm.xlsx
+
+          - model: kimi
+            script: run_eval_kimi.py
+            output: model_eval_results_kimi.xlsx
+
+          - model: deepseek
+            script: run_eval_deepseek.py
+            output: model_eval_results_deepseek.xlsx
+
+          - model: qwen
+            script: run_eval_qwen.py
+            output: model_eval_results_qwen.xlsx
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run evaluation
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          python scripts/${{ matrix.script }}
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.model }}-result
+          path: outputs/${{ matrix.output }}
