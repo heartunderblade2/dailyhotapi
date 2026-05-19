@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-19T00:01:07.055Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "巴基斯坦消息人士：巴方已将伊朗最新方案转交美国",
+      "author": "界面新闻",
+      "hot": 33,
+      "timestamp": 1779131629000,
+      "url": "https://news.sina.com.cn/w/2026-05-18/doc-inhyimee3889763.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-18/doc-inhyimee3889763.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "名嘴：尼克斯更愿打活塞而非骑士 因为后者上限高&更危险",
+      "author": "NBA综合",
+      "hot": 154,
+      "timestamp": 1779150734000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-05-19/doc-inhyivuc2733264.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-05-19/doc-inhyivuc2733264.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "上市一个多月股价涨超16倍，大普微5月19日起停牌核查",
+      "author": "每日经济新闻",
+      "hot": 201,
+      "timestamp": 1779150467000,
+      "url": "https://news.sina.com.cn/s/2026-05-19/doc-inhyivty3734630.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-19/doc-inhyivty3734630.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "伊朗消息人士称美伊谈判仍存在根本性分歧",
+      "author": "央视",
+      "hot": 204,
+      "timestamp": 1779145763000,
+      "url": "https://news.sina.com.cn/w/2026-05-18/doc-inhyivty3722813.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-18/doc-inhyivty3722813.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "5月19日外盘头条：特朗普称推迟原定周二对伊朗攻击 马斯克起诉OpenAI案败诉 苹果据悉拟6月展示新操作系统",
+      "author": "环球市场播报",
+      "hot": 206,
+      "timestamp": 1779170214000,
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhyknrv2415879.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-19/doc-inhyknrv2415879.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "斯塔默强调不会辞职 称仍计划参加下次英国大选",
+      "author": "央视",
+      "hot": 207,
+      "timestamp": 1779146191000,
+      "url": "https://news.sina.com.cn/w/2026-05-18/doc-inhyivuc2682529.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-18/doc-inhyivuc2682529.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "足彩彩果：3倍以上赛果达8场 南特按310全对计",
+      "author": "新浪彩票",
+      "hot": 213,
+      "timestamp": 1779091838000,
+      "url": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisv3010934.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisv3010934.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "245亿！深交所迎来史上最大IPO，打破A股30年记录！至少创造了以下四个“第一”！",
+      "author": "企业上市",
+      "hot": 219,
+      "timestamp": 1779095072000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-18/doc-inhyhpyv8155119.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-18/doc-inhyhpyv8155119.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "伊朗哈尔克岛连续10天未见油轮 美军海上封锁压力凸显",
+      "author": "环球市场播报",
+      "hot": 220,
+      "timestamp": 1779162257000,
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhykhiu3543509.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-19/doc-inhykhiu3543509.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "中东战争引发“滞胀冲击” 欧盟将下调经济增长预期",
+      "author": "新浪新闻综合",
+      "hot": 228,
+      "timestamp": 1779154346000,
+      "url": "https://news.sina.com.cn/w/2026-05-19/doc-inhykaac7858785.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-19/doc-inhykaac7858785.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "国际货币基金组织上调英国经济增长预期",
+      "author": "央视",
+      "hot": 230,
+      "timestamp": 1779152213000,
+      "url": "https://news.sina.com.cn/w/2026-05-19/doc-inhyivuf7962334.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-19/doc-inhyivuf7962334.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "全省群众身边不正之风和腐败问题集中整治二季度调度会召开",
+      "author": "西海都市报",
+      "hot": 248,
+      "timestamp": 1779153256000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-19/doc-inhyizzy0411406.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-19/doc-inhyizzy0411406.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "洁丽雅：已就网传谣言向公安机关报案",
+      "author": "界面新闻",
+      "hot": 249,
+      "timestamp": 1779138013000,
+      "url": "https://news.sina.com.cn/s/2026-05-18/doc-inhyirnf2769858.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-18/doc-inhyirnf2769858.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "就是离不开，美军火商希望推迟对华稀土磁铁禁令",
+      "author": "观察者网",
+      "hot": 249,
+      "timestamp": 1779126070000,
+      "url": "https://news.sina.com.cn/w/2026-05-18/doc-inhyiewm2918021.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-18/doc-inhyiewm2918021.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "日赚近3亿！长鑫科技加速冲刺IPO A股朋友圈集体狂欢",
+      "author": "上海证券报",
+      "hot": 251,
+      "timestamp": 1779091723000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-05-18/doc-inhyhckx3089845.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-05-18/doc-inhyhckx3089845.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "世界卫生大会连续第十年拒绝涉台提案",
+      "author": "央视",
+      "hot": 254,
+      "timestamp": 1779139757000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyirna3815458.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyirna3815458.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "A股，重磅新规！千家公司面临调整",
+      "author": "证券时报",
+      "hot": 266,
+      "timestamp": 1779126196000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyiewp8164254.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyiewp8164254.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "[新浪彩票]足彩第26078期任九：维拉常规时间不败",
+      "author": "新浪彩票",
+      "hot": 280,
+      "timestamp": 1779092409000,
+      "url": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisx8259487.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisx8259487.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "“倒水”般的强降雨！局地下到破纪录，暴雨预警升级，大到暴雨区域还将蔓延上千公里",
+      "author": "新浪新闻综合",
+      "hot": 283,
+      "timestamp": 1779133894000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyimee3905584.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyimee3905584.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "胜负彩26078期国内部分专业媒体复式推荐总汇",
+      "author": "新浪彩票",
+      "hot": 289,
+      "timestamp": 1779093954000,
+      "url": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhpyt2899135.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhpyt2899135.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "柳州为什么会发生地震？专家解读成因与余震风险",
+      "author": "新华社",
+      "hot": 298,
+      "timestamp": 1779135223000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyimei2872807.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyimei2872807.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "广西柳州再次发生5.2级地震，现场直击：震感明显，广州、佛山、南宁等多地网友：楼在摇，晃得厉害",
+      "author": "极目新闻",
+      "hot": 302,
+      "timestamp": 1779143294000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyivuc2683008.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyivuc2683008.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "5.2级地震，为何致2人遇难、13栋房屋倒塌？",
+      "author": "新浪新闻综合",
+      "hot": 305,
+      "timestamp": 1779129303000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyiewm2847824.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyiewm2847824.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "纳斯达克100指数跌幅扩大至1%。",
+      "author": "滚动播报",
+      "hot": 311,
+      "timestamp": 1779150447000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2731781.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2731781.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "普京来华，看点不少",
+      "author": "新民周刊",
+      "hot": 320,
+      "timestamp": 1779103728000,
+      "url": "https://news.sina.com.cn/w/2026-05-18/doc-inhyhuht8143957.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-18/doc-inhyhuht8143957.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "何立峰会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+      "author": "新华社",
+      "hot": 324,
+      "timestamp": 1779137769000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyirni8012090.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyirni8012090.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美加州圣迭戈市伊斯兰中心枪击事件已致5人死亡",
+      "author": "滚动播报",
+      "hot": 354,
+      "timestamp": 1779167510000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyknrs3438730.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyknrs3438730.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "广西柳州再发生5.2级地震，安置点村民称在帐篷中被震动晃醒 有市区居民计划车内过夜",
+      "author": "成都商报",
+      "hot": 362,
+      "timestamp": 1779150067000,
+      "url": "https://news.sina.com.cn/c/2026-05-19/doc-inhyivua0514849.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-19/doc-inhyivua0514849.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "柳州地震造成一人受伤 一间无人居住房屋倒塌",
+      "author": "滚动播报",
+      "hot": 385,
+      "timestamp": 1779165277000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykhiw0334768.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykhiw0334768.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "戴尔：存储厂商正加大产能投资，戴尔正平稳应对行业现状。",
+      "author": "滚动播报",
+      "hot": 400,
+      "timestamp": 1779157735000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3653457.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3653457.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要 算力已经成为AMD开展业务的关...",
+      "author": "滚动播报",
+      "hot": 403,
+      "timestamp": 1779149663000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2727496.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2727496.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "午盘：美股走低科技股领跌 纳指下跌0.7%",
+      "author": "环球市场播报",
+      "hot": 403,
+      "timestamp": 1779149545000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyivty3744152.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyivty3744152.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "日本财务大臣片山皋月： 我们需密切监控金融市场动态。",
+      "author": "滚动播报",
+      "hot": 405,
+      "timestamp": 1779153491000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0412402.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0412402.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "给阿嬷的情书进入年度票房榜前五",
+      "author": "滚动播报",
+      "hot": 405,
+      "timestamp": 1779149086000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2723133.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyivuc2723133.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美国一地发现汉坦病毒死亡病例 无关邮轮疫情",
+      "author": "滚动播报",
+      "hot": 407,
+      "timestamp": 1779155301000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3643087.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3643087.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "川投新能源公司总经理刘亮被遣返回国",
+      "author": "新华社",
+      "hot": 407,
+      "timestamp": 1779123820000,
+      "url": "https://news.sina.com.cn/c/2026-05-18/doc-inhyiewp8137782.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-18/doc-inhyiewp8137782.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "戴尔：已有超 5000 家客户部署戴尔人工智能算力工厂。",
+      "author": "滚动播报",
+      "hot": 408,
+      "timestamp": 1779152459000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykaac7854682.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykaac7854682.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "5月19日美股成交额前20：特斯拉正式放弃印度建厂计划",
+      "author": "环球市场播报",
+      "hot": 409,
+      "timestamp": 1779166520000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhykhiu3563771.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhykhiu3563771.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "布伦特原油突破112美元/桶，日内涨2.52%。",
+      "author": "滚动播报",
+      "hot": 412,
+      "timestamp": 1779157355000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0429348.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0429348.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "Anthropic 宣布将收购 Stainless 公司。",
+      "author": "滚动播报",
+      "hot": 412,
+      "timestamp": 1779152659000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzz2611675.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzz2611675.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "德国财长克林贝尔：我们有多种方案可降低对稀土的依赖，此事刻不容缓。",
+      "author": "滚动播报",
+      "hot": 416,
+      "timestamp": 1779148446000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-18/doc-inhyivua0515291.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-18/doc-inhyivua0515291.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "美国宣布对古巴实施新一轮制裁",
+      "author": "滚动播报",
+      "hot": 419,
+      "timestamp": 1779157168000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3651437.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzw3651437.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "特朗普称已取消原定周二对伊朗发动袭击的计划 目前正进行严肃谈判",
+      "author": "环球市场播报",
+      "hot": 420,
+      "timestamp": 1779161524000,
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhykhiu3539944.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-19/doc-inhykhiu3539944.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "退伍军人刮出亿元彩票巨奖 低调领奖损失超4成",
+      "author": "新浪彩票",
+      "hot": 424,
+      "timestamp": 1779090126000,
+      "url": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisv3001216.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhisv3001216.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "此行间·举世瞩目的握手！100秒看中美元首北京会晤",
+      "author": "人民网政务",
+      "hot": 424,
+      "timestamp": 1779139897000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-18/doc-inhyirne0593698.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-18/doc-inhyirne0593698.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "特朗普：如果未能达成可接受的协议，准备对伊朗发动攻击。",
+      "author": "滚动播报",
+      "hot": 436,
+      "timestamp": 1779159809000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykhiz7750419.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykhiz7750419.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "新浪彩票双色球名家第26056期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 436,
+      "timestamp": 1779114561000,
+      "url": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhyqn0749444.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-18/doc-inhyhyqn0749444.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美国财政部：将古巴能源部长纳入制裁名单。",
+      "author": "滚动播报",
+      "hot": 450,
+      "timestamp": 1779156983000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykaac7870728.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhykaac7870728.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "英伟达CEO黄仁勋预计内存需求超过产能。",
+      "author": "滚动播报",
+      "hot": 453,
+      "timestamp": 1779157698000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0430570.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyizzy0430570.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "5月18日增减持汇总：孩子王等3股披露增持情况，盟科药业等16股拟减持（表）",
+      "author": "新浪证券",
+      "hot": 456,
+      "timestamp": 1779141755000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyirnf2801368.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-18/doc-inhyirnf2801368.shtml"
+    }
+  ]
+}
