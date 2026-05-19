@@ -16,17 +16,17 @@ jobs:
             script: run_eval_glm.py
             output: model_eval_results_glm.xlsx
 
-          - model: kimi
-            script: run_eval_kimi.py
-            output: model_eval_results_kimi.xlsx
+          # - model: kimi
+          #   script: run_eval_kimi.py
+          #   output: model_eval_results_kimi.xlsx
 
-          - model: deepseek
-            script: run_eval_deepseek.py
-            output: model_eval_results_deepseek.xlsx
+          # - model: deepseek
+          #   script: run_eval_deepseek.py
+          #   output: model_eval_results_deepseek.xlsx
 
-          - model: qwen
-            script: run_eval_qwen.py
-            output: model_eval_results_qwen.xlsx
+          # - model: qwen
+          #   script: run_eval_qwen.py
+          #   output: model_eval_results_qwen.xlsx
 
     steps:
       - name: Checkout repository
