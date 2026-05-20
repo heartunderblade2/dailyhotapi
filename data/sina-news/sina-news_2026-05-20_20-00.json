@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-20T12:01:08.062Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "中国海军辽宁舰航母编队赴西太平洋开展演训活动",
+      "author": "中国新闻网",
+      "hot": 195,
+      "timestamp": 1779189458000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-05-19/doc-inhykxft7598995.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-05-19/doc-inhykxft7598995.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "多名村民讲述湖北宣恩洪灾：下了一天暴雨，凌晨洪峰突至，“浪高近4米”，人被冲走",
+      "author": "成都商报",
+      "hot": 508,
+      "timestamp": 1779221794000,
+      "url": "https://news.sina.com.cn/s/2026-05-19/doc-inhymumi7422692.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-19/doc-inhymumi7422692.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "四大证券报头版头条内容精华摘要_2026年5月20日_财经新闻",
+      "author": "股市直击",
+      "hot": 1301,
+      "timestamp": 1779265323000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-05-20/doc-inhynvwr9556030.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-05-20/doc-inhynvwr9556030.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "公安部：对上市公司财务造假类犯罪“零容忍”",
+      "author": "央视",
+      "hot": 2278,
+      "timestamp": 1779272038000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhypaep9508026.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhypaep9508026.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "AI 时代，Python 已经是新的\"汇编语言\"了",
+      "author": "市场资讯",
+      "hot": 2285,
+      "timestamp": 1779245471000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhynmhx1967521.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhynmhx1967521.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "航拍新疆·新发现丨沙漠边缘有个龙湖",
+      "author": "新疆日报",
+      "hot": 2315,
+      "timestamp": 1779271776000,
+      "url": "https://news.sina.com.cn/gov/2026-05-20/doc-inhypaen2727639.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-05-20/doc-inhypaen2727639.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "男子加油站开明火炒菜 被劝阻后仍不收手还推搡工作人员",
+      "author": "快科技",
+      "hot": 2347,
+      "timestamp": 1779262341000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhynvwr9525639.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhynvwr9525639.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "详讯丨习近平同俄罗斯总统普京会谈",
+      "author": "央视新闻客户端",
+      "hot": 2357,
+      "timestamp": 1779290132000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-20/doc-inhypnui9442829.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-20/doc-inhypnui9442829.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "段永平，1380亿元持仓曝光",
+      "author": "上海证券报",
+      "hot": 2408,
+      "timestamp": 1779268606000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhypaet7002012.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhypaet7002012.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "美参院推进法案限制特朗普对伊朗动武",
+      "author": "央视",
+      "hot": 2427,
+      "timestamp": 1779260916000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhynvwt1784535.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhynvwt1784535.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "尼克斯末节22分逆转加时胜骑士 布伦森38+6 哈登16中5 米切尔29分5板",
+      "author": "新浪新闻综合",
+      "hot": 2454,
+      "timestamp": 1779275273000,
+      "url": "https://news.sina.com.cn/zx/2026-05-20/doc-inhyphnm9420699.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-20/doc-inhyphnm9420699.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "数据显示霍尔木兹海峡通航量回升",
+      "author": "央视",
+      "hot": 2461,
+      "timestamp": 1779270232000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhypaep9473947.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhypaep9473947.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "AMD苏姿丰重仓中国AI，预判50亿用户红利",
+      "author": null,
+      "hot": 2496,
+      "timestamp": 1779264866000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwv7082613.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwv7082613.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "竞彩大势：利勒斯特罗姆主胜 维拉实力捧杯",
+      "author": "新浪彩票",
+      "hot": 2519,
+      "timestamp": 1779263789000,
+      "url": "https://sports.sina.com.cn/l/2026-05-20/doc-inhynvwt1829348.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-20/doc-inhynvwt1829348.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "特朗普：在推迟对伊朗打击决定之前，他“只差一小时”就要做出决定",
+      "author": "环球市场播报",
+      "hot": 2689,
+      "timestamp": 1779238727000,
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2069134.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2069134.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "重启与俄罗斯对话，欧盟想请德拉吉、默克尔出山",
+      "author": "观察者网",
+      "hot": 2721,
+      "timestamp": 1779293322000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhyptam6927363.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhyptam6927363.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "中俄元首再会晤，几个关键数字",
+      "author": "中国新闻网",
+      "hot": 2814,
+      "timestamp": 1779225589000,
+      "url": "https://news.sina.com.cn/c/2026-05-19/doc-inhymumi7467865.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-19/doc-inhymumi7467865.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "小鹏GX上市前瞻：39.98万预售价是“飘了”还是真香？",
+      "author": "市场资讯",
+      "hot": 2986,
+      "timestamp": 1779240138000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-20/doc-inhyneyz2075682.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-20/doc-inhyneyz2075682.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "让中俄合作基础更坚实、动能更充足",
+      "author": "新华社",
+      "hot": 2994,
+      "timestamp": 1779266731000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhypaer1734250.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhypaer1734250.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "泰国内阁决定取消60天免签政策",
+      "author": "新京报",
+      "hot": 3120,
+      "timestamp": 1779220075000,
+      "url": "https://news.sina.com.cn/o/2026-05-19/doc-inhymumi7428247.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-19/doc-inhymumi7428247.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "视频|高市早苗邀请李在明去日本泡温泉：带你去个美丽的地方 网友：绝非一国首相该有的举止",
+      "author": "市场资讯",
+      "hot": 3145,
+      "timestamp": 1779277768000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-20/doc-inhyphnk2673823.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-20/doc-inhyphnk2673823.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "习近平谈中东局势",
+      "author": "新华社",
+      "hot": 3256,
+      "timestamp": 1779278224000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnk2680201.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnk2680201.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "顶流基金经理最新动向出炉：张坤减持惠泰医疗，朱少醒、谢治宇调研这些股",
+      "author": "澎湃新闻",
+      "hot": 3267,
+      "timestamp": 1779261976000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynvwt1812081.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynvwt1812081.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "大国外交最前线丨5位副总理、8位部长！参加中俄元首会谈的俄方陪同人员有哪些？",
+      "author": "央视新闻客户端",
+      "hot": 3322,
+      "timestamp": 1779279268000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyphnk2693288.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyphnk2693288.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "女教师劝架被六年级女生用镊子戳伤眼球，学校通报：教师已接受二次眼部手术康复中，已对涉事学生进行处理",
+      "author": "红星新闻",
+      "hot": 3383,
+      "timestamp": 1779268857000,
+      "url": "https://news.sina.com.cn/s/2026-05-20/doc-inhypaer1761614.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-20/doc-inhypaer1761614.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "一线城市，房价反弹？",
+      "author": "新浪新闻综合",
+      "hot": 3418,
+      "timestamp": 1779233583000,
+      "url": "https://news.sina.com.cn/c/2026-05-19/doc-inhymumf2224777.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-19/doc-inhymumf2224777.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "独家视频丨习近平同俄罗斯总统普京握手合影",
+      "author": "央视",
+      "hot": 3448,
+      "timestamp": 1779278431000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnk2683363.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnk2683363.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "进军决赛！U17国足2-0澳大利亚将战日本 帅惟浩破门谢晋建功",
+      "author": "新浪新闻综合",
+      "hot": 3453,
+      "timestamp": 1779255709000,
+      "url": "https://news.sina.com.cn/o/2026-05-20/doc-inhynrqv1861540.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-20/doc-inhynrqv1861540.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "周杰伦等在大陆多地办演唱会，国台办回应",
+      "author": "环球网",
+      "hot": 3554,
+      "timestamp": 1779275889000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhyphnp1740617.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-20/doc-inhyphnp1740617.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "26年前与普京合影的小男孩：普京总统风采依旧，我从小男孩变成了发福的中年人",
+      "author": "中国新闻网",
+      "hot": 3665,
+      "timestamp": 1779270805000,
+      "url": "https://news.sina.com.cn/zx/2026-05-20/doc-inhypaen2716911.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-20/doc-inhypaen2716911.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "习近平：以更高质量的中俄全面战略协作助力各自国家发展振兴",
+      "author": "新华社",
+      "hot": 3700,
+      "timestamp": 1779278089000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyphnm9455623.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyphnm9455623.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "湖南三甲医院主任医师在近500人群里发私密照，当事人：系误发，没什么解释",
+      "author": "新浪新闻综合",
+      "hot": 3715,
+      "timestamp": 1779263379000,
+      "url": "https://news.sina.com.cn/s/2026-05-20/doc-inhynvwq2760198.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-20/doc-inhynvwq2760198.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "国产闪存龙头长江存储控股启动上市辅导备案",
+      "author": "证券时报",
+      "hot": 3853,
+      "timestamp": 1779242473000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynmhx1954081.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynmhx1954081.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "《中俄睦邻友好合作条约》继续延期",
+      "author": "新华社",
+      "hot": 3902,
+      "timestamp": 1779277106000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnp1762714.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnp1762714.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "农商银行密集下调存款利率 下调幅度高达35个基点",
+      "author": "市场资讯",
+      "hot": 4013,
+      "timestamp": 1779257767000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynvwt1773994.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynvwt1773994.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "武契奇首次对中国进行国事访问 外交部介绍有关安排",
+      "author": "新浪新闻综合",
+      "hot": 4085,
+      "timestamp": 1779291735000,
+      "url": "https://news.sina.com.cn/c/2026-05-20/doc-inhyptam6909076.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-20/doc-inhyptam6909076.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "以色列高层评估认为美方仍倾向对伊重启军事行动",
+      "author": "央视",
+      "hot": 4140,
+      "timestamp": 1779257371000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhynmhu2894995.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhynmhu2894995.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "极具象征意义，匈牙利总理毛焦尔首次出访选择波兰",
+      "author": "环球网",
+      "hot": 4223,
+      "timestamp": 1779263027000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhynvwv7038877.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhynvwv7038877.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "美军被曝考虑采购乌克兰防务装备，准备军用",
+      "author": "观察者网",
+      "hot": 4347,
+      "timestamp": 1779236264000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhynezc7287984.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhynezc7287984.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "商务部美大司负责人解读中美经贸磋商初步成果",
+      "author": "央视新闻客户端",
+      "hot": 4547,
+      "timestamp": 1779277092000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-05-20/doc-inhyphnk2666574.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-05-20/doc-inhyphnk2666574.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "女子多年用生日组号终擒2308万 找份兼职陪家人",
+      "author": "新浪彩票",
+      "hot": 4570,
+      "timestamp": 1779265869000,
+      "url": "https://sports.sina.com.cn/l/2026-05-20/doc-inhypaen2654117.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-20/doc-inhypaen2654117.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "iPhone绝版配件回归 Hikawa握把支架重新上架：售价 448 元",
+      "author": "TechWeb",
+      "hot": 4614,
+      "timestamp": 1779278566000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhyphnr7029075.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhyphnr7029075.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+      "author": "新浪新闻综合",
+      "hot": 4723,
+      "timestamp": 1779256639000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhynrqv1894357.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhynrqv1894357.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "热浪滚滚，印度部分地区气温达48摄氏度",
+      "author": "观察者网",
+      "hot": 4872,
+      "timestamp": 1779290552000,
+      "url": "https://news.sina.com.cn/w/2026-05-20/doc-inhypnup7002987.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-20/doc-inhypnup7002987.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "习近平同俄罗斯总统普京会谈",
+      "author": "新华社",
+      "hot": 4954,
+      "timestamp": 1779289856000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhypnui9438845.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhypnui9438845.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "普京抵达北京 王毅机场迎接 现场高清大图来了！",
+      "author": "看看新闻Knews",
+      "hot": 5047,
+      "timestamp": 1779237566000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynezc7308085.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhynezc7308085.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "新华社快讯：习近平同俄罗斯总统普京共同出席合作文件签字仪式",
+      "author": "新华社",
+      "hot": 5136,
+      "timestamp": 1779291169000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyptaf9324420.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-05-20/doc-inhyptaf9324420.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "习近平：中俄关系进入更有作为、更快发展的新阶段",
+      "author": "新华社",
+      "hot": 5255,
+      "timestamp": 1779282025000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnp1829045.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-20/doc-inhyphnp1829045.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "4名男子赴泰国考察项目失联半月，昆明警方已立案侦查！失联者妻子否认丈夫有大额欠款",
+      "author": "每日经济新闻",
+      "hot": 5403,
+      "timestamp": 1779227888000,
+      "url": "https://news.sina.com.cn/s/2026-05-19/doc-inhymytf7373232.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-19/doc-inhymytf7373232.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "外交部：对俄免签延长至2027年底",
+      "author": "央视新闻客户端",
+      "hot": 5436,
+      "timestamp": 1779291411000,
+      "url": "https://news.sina.com.cn/c/2026-05-20/doc-inhyptaf9327384.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-20/doc-inhyptaf9327384.shtml"
+    }
+  ]
+}
