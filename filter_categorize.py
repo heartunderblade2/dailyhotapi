@@ -31,7 +31,7 @@ from openai import OpenAI
 
 DEEPSEEK_API_KEY = "K3GW5OZWBPGG5BKZCXIN8USU3OJYDOBENS93IE1F"
 
-DEEPSEEK_BASE_URL = "https://ai.gitee.com/v1"
+DEEPSEEK_BASE_URL = "https://api.moark.com/v1"
 
 MODEL_NAME = "deepseek-r1"
 
