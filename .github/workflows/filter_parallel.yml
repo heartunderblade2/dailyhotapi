@@ -1,0 +1,41 @@
+name: 敏感性筛查&话题分类(并行)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+    strategy:
+      # 设置 fail-fast 为 false，这样如果某个平台的脚本报错，不会中断其他正在运行的平台脚本
+      fail-fast: false 
+      matrix:
+        # 定义 10 个平台的变量
+        platform: [bilibili, douban, douyin, ithome, netease, qq_news, sina_news, sina, thepaper, toutiao]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: |
+          pip install -r requirements_filter.txt
+
+      - name: Run script for ${{ matrix.platform }}
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        # 动态调用对应的 Python 脚本
+        run: |
+          python filter_${{ matrix.platform }}.py
+
+      - name: Upload Excel for ${{ matrix.platform }}
+        uses: actions/upload-artifact@v4
+        with:
+          # 每个平台生成独立的 artifact，避免互相覆盖
+          name: result_${{ matrix.platform }}
+          path: result_${{ matrix.platform }}.xlsx

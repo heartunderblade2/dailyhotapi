@@ -35,11 +35,11 @@ DEEPSEEK_BASE_URL = "https://api.moark.com/v1"
 
 MODEL_NAME = "deepseek-r1"
 
-INPUT_DIR = "data/douyin"
+INPUT_DIR = "data/sina"
 
-OUTPUT_EXCEL = "result_douyin.xlsx"
+OUTPUT_EXCEL = "result_sina.xlsx"
 
-CACHE_FILE = "title_cache_douyin.json"
+CACHE_FILE = "title_cache_sina.json"
 
 MAX_WORKERS = 10
 

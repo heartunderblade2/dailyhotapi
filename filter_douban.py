@@ -37,9 +37,9 @@ MODEL_NAME = "deepseek-r1"
 
 INPUT_DIR = "data/douban-group"
 
-OUTPUT_EXCEL = "result_all.xlsx"
+OUTPUT_EXCEL = "result_douban.xlsx"
 
-CACHE_FILE = "title_cache.json"
+CACHE_FILE = "title_cache_douban.json"
 
 MAX_WORKERS = 10
 

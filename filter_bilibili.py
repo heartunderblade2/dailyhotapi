@@ -37,9 +37,9 @@ MODEL_NAME = "deepseek-r1"
 
 INPUT_DIR = "data/bilibili"
 
-OUTPUT_EXCEL = "result_all.xlsx"
+OUTPUT_EXCEL = "result_bilibili.xlsx"
 
-CACHE_FILE = "title_cache.json"
+CACHE_FILE = "title_cache_bilibili.json"
 
 MAX_WORKERS = 10
 
