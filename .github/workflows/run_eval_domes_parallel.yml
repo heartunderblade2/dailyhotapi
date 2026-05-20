@@ -13,12 +13,12 @@ jobs:
       matrix:
         include:
           - model: glm
-            script: run_eval_glm.py
-            output: model_eval_results_glm.xlsx
+            script: run_glm_zh.py
+            output: result_zh.xlsx
 
-          # - model: kimi
-          #   script: run_eval_kimi.py
-          #   output: model_eval_results_kimi.xlsx
+          - model: glm
+            script: run_glm_en.py
+            output: result_en.xlsx
 
           # - model: deepseek
           #   script: run_eval_deepseek.py
