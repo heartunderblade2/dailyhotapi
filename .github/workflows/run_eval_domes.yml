@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: llm-eval-results
-          path: outputs/model_eval_results_domes.xlsx
+          path: outputs/result.xlsx
