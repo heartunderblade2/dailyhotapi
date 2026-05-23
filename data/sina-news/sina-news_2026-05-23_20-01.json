@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-23T12:01:13.997Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "布伦特原油日内跌1%，现报101.51美元/桶。",
+      "author": "滚动播报",
+      "hot": 947,
+      "timestamp": 1779499787000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyvana4928706.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyvana4928706.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "教育部：拟设34所本科高等学校！",
+      "author": "央视",
+      "hot": 1098,
+      "timestamp": 1779482497000,
+      "url": "https://news.sina.com.cn/c/2026-05-22/doc-inhyurwk6060206.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-22/doc-inhyurwk6060206.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "山西煤矿事故已致90人死亡。（央视新闻）",
+      "author": "滚动播报",
+      "hot": 1098,
+      "timestamp": 1779544857000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywkfq5388951.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywkfq5388951.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "女子捡到金项链发现异常立马扔掉：提醒大家不要捡",
+      "author": "快科技",
+      "hot": 1105,
+      "timestamp": 1779480850000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhyurwi7580653.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhyurwi7580653.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "留神峪煤矿事故已致82人遇难",
+      "author": "滚动播报",
+      "hot": 1135,
+      "timestamp": 1779541464000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywcxn7758824.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywcxn7758824.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "春兰杯首轮对阵：廖元赫VS申真谞 李钦诚VS卞相壹",
+      "author": "新浪体育综合",
+      "hot": 1140,
+      "timestamp": 1779479742000,
+      "url": "https://sports.sina.com.cn/go/2026-05-22/doc-inhyurwi7571644.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/go/2026-05-22/doc-inhyurwi7571644.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "“堤丰”中导系统将再次用于美日联合演习",
+      "author": "央视",
+      "hot": 1156,
+      "timestamp": 1779515147000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvhty4836650.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvhty4836650.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "[小炮APP]竞彩情报：拜仁三大主力缺阵德国杯决赛",
+      "author": "新浪彩票",
+      "hot": 1170,
+      "timestamp": 1779529221000,
+      "url": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvxrt7080504.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvxrt7080504.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "市场消息： 特朗普情绪受挫，或将针对伊朗敲定决定性行动。",
+      "author": "滚动播报",
+      "hot": 1175,
+      "timestamp": 1779505722000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyvhtw8045560.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyvhtw8045560.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "5月22日增减持汇总：中微公司等12家上市公司拟减持 一汽解放增持（表）",
+      "author": "新浪证券",
+      "hot": 1187,
+      "timestamp": 1779487479000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-22/doc-inhyuwee5002312.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-05-22/doc-inhyuwee5002312.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "人类首次、刷新纪录！本周我国多领域迎来硬核突破",
+      "author": "央视",
+      "hot": 1215,
+      "timestamp": 1779530175000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvtiv7176659.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvtiv7176659.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "山西煤矿事故伤者主要因有毒气体",
+      "author": "界面新闻",
+      "hot": 1235,
+      "timestamp": 1779545897000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6927019.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6927019.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "投票调查：拜仁支持率73% 赫罗纳vs埃尔切得票高",
+      "author": "新浪彩票",
+      "hot": 1276,
+      "timestamp": 1779527091000,
+      "url": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvtis7925022.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvtis7925022.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "巴基斯坦陆军参谋长会见伊朗外长 讨论结束伊美冲突方案",
+      "author": "央视",
+      "hot": 1286,
+      "timestamp": 1779540162000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxs5491849.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxs5491849.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "2：3！中国U17男足憾负日本夺亚洲杯亚军 网友点赞已经很可以了",
+      "author": "快科技",
+      "hot": 1288,
+      "timestamp": 1779523473000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiv7164666.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiv7164666.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "东莞斯诺克：冠军摇篮的荣光与隐忧",
+      "author": "成都商报",
+      "hot": 1300,
+      "timestamp": 1779493648000,
+      "url": "https://news.sina.com.cn/s/2026-05-22/doc-inhyuwee5030858.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-22/doc-inhyuwee5030858.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "山西事故煤矿属全国灾害严重生产煤矿",
+      "author": "中新视频",
+      "hot": 1315,
+      "timestamp": 1779548026000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfk7663719.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfk7663719.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "神23将自主快速交会对接",
+      "author": "央视",
+      "hot": 1346,
+      "timestamp": 1779528952000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrs4588745.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrs4588745.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "只能卖、不能买？内地人炒港股面临史上最严监管",
+      "author": "市场资讯",
+      "hot": 1352,
+      "timestamp": 1779523706000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtiv7166948.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtiv7166948.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "美国国家情报总监向特朗普提出辞职",
+      "author": "央视",
+      "hot": 1400,
+      "timestamp": 1779502179000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvanc7436870.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvanc7436870.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "神23增强防空间碎片能力",
+      "author": "新华社",
+      "hot": 1460,
+      "timestamp": 1779528335000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrs4583090.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrs4583090.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "5月23日红王解盘比赛解读：赫罗纳力求主场不失",
+      "author": "新浪彩票",
+      "hot": 1465,
+      "timestamp": 1779545309000,
+      "url": "https://sports.sina.com.cn/l/2026-05-23/doc-inhywkfn4424802.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-23/doc-inhywkfn4424802.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "太子集团陈志幕后大佬身份揭秘：10多年前公安部挂牌督办案件头目之一",
+      "author": "成都商报",
+      "hot": 1550,
+      "timestamp": 1779480644000,
+      "url": "https://news.sina.com.cn/c/2026-05-22/doc-inhyumqk5214584.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-22/doc-inhyumqk5214584.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "伊朗国防部再对美发出警告",
+      "author": "滚动播报",
+      "hot": 1550,
+      "timestamp": 1779553714000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywqpk4337587.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywqpk4337587.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "山西留神峪煤矿瓦斯爆炸事故已致超50人遇难",
+      "author": "新华社",
+      "hot": 1620,
+      "timestamp": 1779540437000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5495062.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5495062.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "朝鲜女足球队亚冠联赛夺冠",
+      "author": "央视",
+      "hot": 1624,
+      "timestamp": 1779548863000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4444842.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4444842.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "留神峪煤矿为什么伤亡这么多",
+      "author": "央视",
+      "hot": 1628,
+      "timestamp": 1779556431000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpk4351148.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpk4351148.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "伊朗评估美最新协议之际，特朗普取消周末所有私人行程，美军方和情报部门成员取消休假",
+      "author": "成都商报",
+      "hot": 1634,
+      "timestamp": 1779549321000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxn7755456.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxn7755456.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "山西大同市云冈区发生3.2级地震，疑似塌陷",
+      "author": "界面新闻",
+      "hot": 1636,
+      "timestamp": 1779536386000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxq4511866.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxq4511866.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "90人遇难！山西留神峪煤矿发生了什么？",
+      "author": "新浪新闻综合",
+      "hot": 1646,
+      "timestamp": 1779555517000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpn5303020.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpn5303020.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "056期山哥大乐透预测奖号：5+2单注推荐",
+      "author": "新浪彩票",
+      "hot": 1658,
+      "timestamp": 1779533161000,
+      "url": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvxru5573749.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvxru5573749.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "“八龙过江”通南北，长三角交通一体化跑出加速度",
+      "author": "央视",
+      "hot": 1659,
+      "timestamp": 1779530606000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrt7091478.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrt7091478.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "全球首次，我国万米深海试验再破世界纪录",
+      "author": "北京日报客户端",
+      "hot": 1669,
+      "timestamp": 1779530371000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvtiu4659384.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvtiu4659384.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "请5万员工带薪玩迪士尼，预计花费七八千万元！老板豪气回应：公司挣了钱就是要跟员工一起花",
+      "author": "每日经济新闻",
+      "hot": 1703,
+      "timestamp": 1779498043000,
+      "url": "https://news.sina.com.cn/s/2026-05-23/doc-inhyuweh6004267.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-23/doc-inhyuweh6004267.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "画面极其珍贵：全球唯一野生白色大熊猫长大了",
+      "author": "成都商报",
+      "hot": 1731,
+      "timestamp": 1779550241000,
+      "url": "https://news.sina.com.cn/s/2026-05-23/doc-inhywkfq5419425.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-23/doc-inhywkfq5419425.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美媒：台湾偷偷联系乌克兰，企图“取经”",
+      "author": "观察者网",
+      "hot": 1741,
+      "timestamp": 1779549974000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6930984.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6930984.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "山西煤矿事故企业负责人被控制",
+      "author": "新华社",
+      "hot": 1764,
+      "timestamp": 1779536579000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5471994.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5471994.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "特朗普与国家安全团队举行会议 商讨对伊战事",
+      "author": "央视",
+      "hot": 1773,
+      "timestamp": 1779515009000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvnzx7213380.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvnzx7213380.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "中方敦促国际刑事法院客观公正开展涉利比亚工作",
+      "author": "央视",
+      "hot": 1800,
+      "timestamp": 1779533137000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxru5576358.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxru5576358.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "老板一个滚字赔了员工近16万元 法官：听到滚字在家等老板指示不算旷工",
+      "author": "滚动播报",
+      "hot": 1860,
+      "timestamp": 1779534654000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-23/doc-inhyvxru5587421.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-23/doc-inhyvxru5587421.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "相同盘口：塞尔塔让半一全输 莱万特受平半全赢",
+      "author": "新浪彩票",
+      "hot": 1924,
+      "timestamp": 1779527204000,
+      "url": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvtiu4703282.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-05-23/doc-inhyvtiu4703282.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "山西留神峪煤矿事故最新消息",
+      "author": "中新视频",
+      "hot": 1925,
+      "timestamp": 1779545719000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6926267.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6926267.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "山西留神峪煤矿瓦斯爆炸事故已造成90人死亡，救援仍在进行中",
+      "author": "每日经济新闻",
+      "hot": 1928,
+      "timestamp": 1779545231000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhywkfp6923736.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhywkfp6923736.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "特朗普主持！“鹰派”沃什，就任美联储主席",
+      "author": null,
+      "hot": 1975,
+      "timestamp": 1779525076000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtiw5646166.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtiw5646166.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致82人遇难 仍有9人失联",
+      "author": "央视",
+      "hot": 1990,
+      "timestamp": 1779541981000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxr7036065.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxr7036065.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "新版民航法7月施行，一大批通航企业要头疼了",
+      "author": "第一财经网",
+      "hot": 2002,
+      "timestamp": 1779492045000,
+      "url": "https://news.sina.com.cn/o/2026-05-22/doc-inhyuwea8248129.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-22/doc-inhyuwea8248129.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "韩国总统抨击韩媒涉华假新闻 中国驻韩大使高度赞赏",
+      "author": "21世纪经济报道",
+      "hot": 2036,
+      "timestamp": 1779497766000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyuwef7544868.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyuwef7544868.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "境外机构“灰色通道”终结 设置两年过渡期  投资者资产安全不受影响",
+      "author": "上海证券报",
+      "hot": 2081,
+      "timestamp": 1779521116000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvhtz7326790.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvhtz7326790.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "伊朗关闭西部空域",
+      "author": "界面新闻",
+      "hot": 2128,
+      "timestamp": 1779533195000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvxru5577444.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhyvxru5577444.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "性骚扰女记者，日本首相官邸一官员“被调离”",
+      "author": "新华社",
+      "hot": 2187,
+      "timestamp": 1779546926000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4433540.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4433540.shtml"
+    }
+  ]
+}
