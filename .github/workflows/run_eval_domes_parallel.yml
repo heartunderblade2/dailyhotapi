@@ -13,20 +13,20 @@ jobs:
       matrix:
         include:
           - model: glm
-            script: run_glm_zh.py
-            output: result_zh.xlsx
+            script: run_eval_glm.py
+            output: result_glm.xlsx
 
-          - model: glm
-            script: run_glm_en.py
-            output: result_en.xlsx
+          - model: kimi
+            script: run_eval_kimi.py
+            output: result_kimi.xlsx
 
-          # - model: deepseek
-          #   script: run_eval_deepseek.py
-          #   output: model_eval_results_deepseek.xlsx
+          - model: deepseek
+            script: run_eval_deepseek.py
+            output: result_deepseek.xlsx
 
-          # - model: qwen
-          #   script: run_eval_qwen.py
-          #   output: model_eval_results_qwen.xlsx
+          - model: qwen
+            script: run_eval_qwen.py
+            output: result_qwen.xlsx
 
     steps:
       - name: Checkout repository
