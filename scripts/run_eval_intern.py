@@ -173,7 +173,7 @@ def main():
     df = pd.read_excel(INPUT_FILE)
 
     # 测试时只跑前几行，正式跑全量时请注释或删掉这行
-    # df = df.head(10)
+    df = df.head(2)
 
     with pd.ExcelWriter(
         OUTPUT_FILE,
