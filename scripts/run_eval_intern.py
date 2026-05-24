@@ -27,8 +27,8 @@ if not API_KEY:
 
 # 需要测试的模型
 MODELS = {
-    "Gemini-2.5-Flash-Lite": "google/gemini-2.5-flash-lite",
-    "GPT-4o-mini": "openai/gpt-4o-mini",
+    "Gemini-3.1-Flash-Lite": "google/gemini-3.1-flash-lite",
+    "GPT-5-mini": "openai/gpt-5-mini",
     # 可以继续添加
     # "DeepSeek-R1": "deepseek/deepseek-r1",
     # "Qwen3-235B": "qwen/qwen3-235b-a22b",
