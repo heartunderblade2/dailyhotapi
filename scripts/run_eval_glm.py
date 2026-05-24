@@ -172,7 +172,7 @@ def main():
     df = pd.read_excel(INPUT_FILE)
 
     # 测试时只跑前几行
-    df = df.head(15)
+    # df = df.head(15)
 
     with pd.ExcelWriter(
         OUTPUT_FILE,
