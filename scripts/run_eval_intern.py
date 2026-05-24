@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # 1. 基础配置 (保留原 OpenRouter 配置)
 # =========================
 
-INPUT_FILE = "prompts_300.xlsx"
+INPUT_FILE = "prompts_294.xlsx"
 
 OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
