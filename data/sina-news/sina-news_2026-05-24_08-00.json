@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-05-24T00:01:10.063Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "中方谴责：不愿看到",
+      "author": "观察者网",
+      "hot": 181,
+      "timestamp": 1779539447000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5487330.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywcxs5487330.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "法国宣布禁止以色列国家安全部长入境",
+      "author": "央视",
+      "hot": 190,
+      "timestamp": 1779569549000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvh4265118.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvh4265118.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "全力救治伤员 科学组织搜救 坚决防范遏制重特大事故发生",
+      "author": "四川日报",
+      "hot": 200,
+      "timestamp": 1779600231000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-24/doc-inhyxryw3849504.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-24/doc-inhyxryw3849504.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
+      "author": "央视",
+      "hot": 202,
+      "timestamp": 1779552057000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfk7683005.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfk7683005.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "美国政府宣布重大政策变更：在美外国人申请绿卡须返回原籍国提交申请",
+      "author": "环球网",
+      "hot": 202,
+      "timestamp": 1779532233000,
+      "url": "https://news.sina.com.cn/o/2026-05-23/doc-inhyvxrt7102411.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-23/doc-inhyvxrt7102411.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "伊朗说伊美正处于谅解备忘录最终敲定阶段",
+      "author": "央视",
+      "hot": 205,
+      "timestamp": 1779574520000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-23/doc-inhywzch5147055.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-23/doc-inhywzch5147055.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "朝鲜女足球队亚冠联赛夺冠",
+      "author": "央视",
+      "hot": 206,
+      "timestamp": 1779548863000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4444842.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywkfn4444842.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "山西煤矿爆炸事故最新消息汇总：已致90人遇难，企业负责人被控制，煤矿为高瓦斯矿井，多部门正协同救援",
+      "author": "中国新闻社",
+      "hot": 216,
+      "timestamp": 1779545917000,
+      "url": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhywkfp6927109.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhywkfp6927109.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "涉事煤矿企业有重大违法行为",
+      "author": "滚动播报",
+      "hot": 219,
+      "timestamp": 1779595223000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-24/doc-inhyxryx6357398.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-05-24/doc-inhyxryx6357398.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "特朗普：与伊朗的协议已基本谈妥",
+      "author": "环球市场播报",
+      "hot": 221,
+      "timestamp": 1779597460000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryu7063287.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryu7063287.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "神二十三乘组朱杨柱、张志远、黎家盈简历来了",
+      "author": "央视",
+      "hot": 239,
+      "timestamp": 1779534200000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrq7847744.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyvxrq7847744.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "法国总统马克龙已与海湾多国领导人及美国总统特朗普通电话就中东局势交换意见。",
+      "author": "滚动播报",
+      "hot": 241,
+      "timestamp": 1779590733000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3951309.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3951309.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "巴基斯坦总理夏巴兹抵达杭州开始访华",
+      "author": "新华社",
+      "hot": 271,
+      "timestamp": 1779555229000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpk4345808.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpk4345808.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "法国总统马克龙同特朗普及海湾国家领导人通话，呼吁通过谈判解决争端。",
+      "author": "滚动播报",
+      "hot": 271,
+      "timestamp": 1779591340000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmta4948055.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmta4948055.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "山西留神峪煤矿事故搜救仍在进行 救治同步推进",
+      "author": "滚动播报",
+      "hot": 272,
+      "timestamp": 1779585596000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsw7155195.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsw7155195.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "美国加州州长纽森：发布公告是因为发生了一起危险化学品事故。",
+      "author": "滚动播报",
+      "hot": 273,
+      "timestamp": 1779591867000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsz6481759.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsz6481759.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "非洲疾控中心与世卫组织联合应对本轮埃博拉疫情",
+      "author": "滚动播报",
+      "hot": 275,
+      "timestamp": 1779580710000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyxfky7265661.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhyxfky7265661.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "特朗普的3711笔股票交易引发审视：自动化调仓、税损收割还是另有玄机",
+      "author": "环球市场播报",
+      "hot": 278,
+      "timestamp": 1779592099000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-24/doc-inhyxmsy3955565.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-05-24/doc-inhyxmsy3955565.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "美国驻乌克兰大使馆：未来24小时内或遭遇空袭。",
+      "author": "滚动播报",
+      "hot": 284,
+      "timestamp": 1779589178000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3946553.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3946553.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "全国总工会：坚决拥护党中央决定",
+      "author": "新京报",
+      "hot": 288,
+      "timestamp": 1779565332000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywuvi6767310.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywuvi6767310.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "担忧美伊协议对以“非常不利” 内塔尼亚胡紧急开会",
+      "author": "央视",
+      "hot": 289,
+      "timestamp": 1779602199000,
+      "url": "https://news.sina.com.cn/w/2026-05-24/doc-inhyxryx6357491.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-24/doc-inhyxryx6357491.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "参与谈判的巴基斯坦官员表示：事情尘埃落定前，一切都尚无定数。",
+      "author": "滚动播报",
+      "hot": 290,
+      "timestamp": 1779587997000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsw7164572.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsw7164572.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "救援进行时 在井下搜救超10小时的救援队升井",
+      "author": "滚动播报",
+      "hot": 291,
+      "timestamp": 1779581031000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfky7266627.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfky7266627.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "光模块三大龙头，本周“失血”超128亿，主力资金流向这些方向",
+      "author": "中国证券报",
+      "hot": 293,
+      "timestamp": 1779572007000,
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-05-23/doc-inhywzce4146820.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/hyyj/2026-05-23/doc-inhywzce4146820.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "伊拉克打死4名“伊斯兰国”武装人员",
+      "author": "滚动播报",
+      "hot": 294,
+      "timestamp": 1779587838000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3941207.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3941207.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "特朗普表示，协议将妥善处置伊朗铀相关问题。",
+      "author": "滚动播报",
+      "hot": 295,
+      "timestamp": 1779580939000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfma4043457.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfma4043457.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "消息人士称伊朗欲以开放霍尔木兹海峡换美国赔偿",
+      "author": "央视",
+      "hot": 296,
+      "timestamp": 1779579048000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywzcf6688994.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywzcf6688994.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "特朗普：已同多个穆斯林国家领导人就伊朗问题进行了通话。",
+      "author": "滚动播报",
+      "hot": 296,
+      "timestamp": 1779597311000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryw3840040.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryw3840040.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "特朗普就伊朗问题与凯恩、赫格塞思、维特科夫、万斯举行会谈。",
+      "author": "滚动播报",
+      "hot": 298,
+      "timestamp": 1779596953000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryx6360475.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryx6360475.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "特朗普称即将宣布与伊朗达成的协议",
+      "author": "滚动播报",
+      "hot": 301,
+      "timestamp": 1779597514000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryu7063489.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxryu7063489.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "两名了解谈判情况的巴基斯坦消息人士表示，美国预计会在周日之前对最新提案作出回应。",
+      "author": "滚动播报",
+      "hot": 304,
+      "timestamp": 1779589600000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3947910.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmsy3947910.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "热解读｜千磨更坚，乱云从容——习主席引用这三句诗诠释中俄关系",
+      "author": "央视新闻客户端",
+      "hot": 305,
+      "timestamp": 1779568433000,
+      "url": "https://news.sina.com.cn/c/xl/2026-05-23/doc-inhywuve7487204.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-05-23/doc-inhywuve7487204.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "山西涉事煤矿曾获评安全生产二级达标煤矿",
+      "author": "第一财经",
+      "hot": 312,
+      "timestamp": 1779545039000,
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfq5390238.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfq5390238.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "缅北“四大家族”多人被执行死刑，魏家骇人犯罪细节披露",
+      "author": "极目新闻",
+      "hot": 315,
+      "timestamp": 1779569573000,
+      "url": "https://news.sina.com.cn/zx/2026-05-23/doc-inhywzch5123521.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-05-23/doc-inhywzch5123521.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美媒：台湾偷偷联系乌克兰，企图“取经”",
+      "author": "观察者网",
+      "hot": 330,
+      "timestamp": 1779549974000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6930984.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywkfp6930984.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "特朗普称美伊“越来越接近”达成协议",
+      "author": "央视",
+      "hot": 330,
+      "timestamp": 1779586375000,
+      "url": "https://news.sina.com.cn/w/2026-05-24/doc-inhyxmsw7157683.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-24/doc-inhyxmsw7157683.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "神舟二十三号载人飞行任务即将执行，8大焦点关注发布会",
+      "author": "新京报网",
+      "hot": 332,
+      "timestamp": 1779544940000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfn4422659.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfn4422659.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
+      "author": "观察者网",
+      "hot": 332,
+      "timestamp": 1779564985000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpn5300720.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywqpn5300720.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "又有离奇操作：高市被曝正物色温泉旅馆",
+      "author": "环球时报",
+      "hot": 333,
+      "timestamp": 1779562396000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvk5220550.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvk5220550.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "90人遇难！专家：瓦斯爆炸几乎不存在“黄金救援期”",
+      "author": "新浪新闻综合",
+      "hot": 335,
+      "timestamp": 1779564690000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhywuvi6763657.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhywuvi6763657.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "美国称对伊朗港口实施封锁的六周期间已使100艘商船改道",
+      "author": "环球市场播报",
+      "hot": 349,
+      "timestamp": 1779576399000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywzce4161999.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-23/doc-inhywzce4161999.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "遭美“起诉”后，劳尔·卡斯特罗发声",
+      "author": "新浪新闻综合",
+      "hot": 357,
+      "timestamp": 1779566703000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvi6772639.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywuvi6772639.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "春兰杯首轮中国棋手4胜1负 16强杨楷文柯洁等种子出战",
+      "author": "新浪体育综合",
+      "hot": 383,
+      "timestamp": 1779572126000,
+      "url": "https://sports.sina.com.cn/go/2026-05-23/doc-inhywzch5135001.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/go/2026-05-23/doc-inhywzch5135001.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "特朗普取消出席儿子婚礼，返回白宫",
+      "author": "中国新闻网",
+      "hot": 384,
+      "timestamp": 1779537479000,
+      "url": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxq4517403.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-05-23/doc-inhywcxq4517403.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "长治市长鞠躬致歉",
+      "author": "中国新闻网",
+      "hot": 388,
+      "timestamp": 1779578035000,
+      "url": "https://news.sina.com.cn/c/2026-05-23/doc-inhyxfky7258068.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-05-23/doc-inhyxfky7258068.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "乌称基辅遭无人机袭击 俄方暂无回应",
+      "author": "滚动播报",
+      "hot": 398,
+      "timestamp": 1779591193000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmta4947725.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxmta4947725.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "山西沁源矿难背后，三大疑问待解",
+      "author": "第一财经网",
+      "hot": 410,
+      "timestamp": 1779563072000,
+      "url": "https://news.sina.com.cn/o/2026-05-23/doc-inhywuvi6756482.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-05-23/doc-inhywuvi6756482.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "画面极其珍贵：全球唯一野生白色大熊猫长大了",
+      "author": "成都商报",
+      "hot": 412,
+      "timestamp": 1779550241000,
+      "url": "https://news.sina.com.cn/s/2026-05-23/doc-inhywkfq5419425.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-05-23/doc-inhywkfq5419425.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "核问题、冻结资产、霍尔木兹海峡成美伊谈判分歧焦点",
+      "author": "滚动播报",
+      "hot": 413,
+      "timestamp": 1779582819000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfky7273891.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxfky7273891.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "基辅响起持续爆炸声 官员说弹道导弹来袭",
+      "author": "滚动播报",
+      "hot": 419,
+      "timestamp": 1779605624000,
+      "url": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxwhs6962992.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-05-24/doc-inhyxwhs6962992.shtml"
+    }
+  ]
+}
