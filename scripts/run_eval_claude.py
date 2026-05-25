@@ -17,7 +17,7 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 OUTPUT_FILE = OUTPUT_DIR / "result_claude.xlsx"
 
 # 从环境变量读取 Key (这里你可以改成新的环境变量名，比如 1XM_API_KEY)
-API_KEY = os.getenv("1XM_API_KEY") 
+API_KEY = os.getenv("ONEXM_API_KEY") 
 
 if not API_KEY:
     raise ValueError("未设置 API_KEY 环境变量")
