@@ -24,10 +24,10 @@ jobs:
         env:
           ONEXM_API_KEY: ${{ secrets.ONEXM_API_KEY }}
         run: |
-          python scripts/run_eval_claude.py
+          python scripts/run_eval_gemini.py
 
       - name: Upload result excel
         uses: actions/upload-artifact@v4
         with:
           name: llm-eval-results
-          path: outputs/result_claude.xlsx
+          path: outputs/result_gemini.xlsx
