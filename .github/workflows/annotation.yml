@@ -1,0 +1,38 @@
+name: LLM Eval Annotation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run annotation
+        env:
+          # 依然从 Secrets 读取你配置的 API Key
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          # 直接读取根目录下的 result_deepseek.xlsx
+          python annotate_parallel.py result_deepseek.xlsx
+
+      - name: Upload result excel
+        uses: actions/upload-artifact@v4
+        if: always() # 确保即使意外中断，也能上传带有进度和部分结果的文件
+        with:
+          name: llm-annotation-results
+          path: |
+            *_annotated.xlsx
+            progress_*.json
