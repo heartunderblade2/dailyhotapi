@@ -14,7 +14,7 @@ INPUT_FILE = "prompts_294.xlsx"
 OUTPUT_DIR = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-OUTPUT_FILE = OUTPUT_DIR / "result_gemini.xlsx"
+OUTPUT_FILE = OUTPUT_DIR / "result_gpt.xlsx"
 
 # 从环境变量读取 Key (这里你可以改成新的环境变量名，比如 1XM_API_KEY)
 API_KEY = os.getenv("ONEXM_API_KEY") 
@@ -32,7 +32,8 @@ client = OpenAI(
 # 需要测试的模型 (根据 1xm.ai 实际支持的模型名称修改)
 MODELS = {
     # "Claude-Haiku": "claude-haiku-4-5-20251001",
-    "Gemini-3.1-pro": "gemini-3.1-pro-preview"
+    # "Gemini-3.1-pro": "gemini-3.1-pro-preview"
+    "GPT-5.2": "gpt-5.2"
     # "GPT-5-mini": "openai/gpt-5-mini", 
 }
 
