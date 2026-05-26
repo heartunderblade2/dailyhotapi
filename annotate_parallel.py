@@ -27,7 +27,7 @@ MAX_TOKENS = 2048
 TEMPERATURE = 0
 
 # 数据文件夹和输出后缀
-DATA_DIR = Path(__file__).parent / "response"   # 改为你的 response 文件夹
+DATA_DIR = Path(__file__).parent   # 改为你的 response 文件夹
 OUTPUT_SUFFIX = "_annotated.xlsx"
 
 # 每个文件独立的进度文件（避免多窗口冲突）
