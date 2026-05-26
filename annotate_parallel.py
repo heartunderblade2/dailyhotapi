@@ -246,7 +246,7 @@ def annotate_single_file(input_path, output_path, client):
     lock = Lock()
 
     for sheet_name, sheet_df in df.items():
-        sheet_df = sheet_df.head(2)
+        # sheet_df = sheet_df.head(2)
         print(f"\n--- Sheet: {sheet_name} ---")
         key = f"{input_path}|{sheet_name}"
         if key in progress and progress[key] >= len(sheet_df):
