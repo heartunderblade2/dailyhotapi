@@ -12,11 +12,11 @@ jobs:
       matrix:
         # 在这里列出你需要继续填补的半成品文件
         file: 
-          # - result_deepseek_annotated.xlsx
-          - result_gemini_annotated.xlsx
-          - result_glm_annotated.xlsx
-          - result_kimi_annotated.xlsx
-          - result_qwen_annotated.xlsx
+          - result_deepseek_annotated_completed.xlsx
+          - result_gemini_annotated_completed.xlsx
+          - result_glm_annotated_completed.xlsx
+          - result_kimi_annotated_completed.xlsx
+          - result_qwen_annotated_completed.xlsx
 
     steps:
       - name: Checkout repository
@@ -45,4 +45,4 @@ jobs:
           # 动态命名产物包，防止不同任务的文件互相覆盖
           name: annotation-results-${{ matrix.file }}
           path: |
-            *_completed.xlsx
+            *_2.xlsx
