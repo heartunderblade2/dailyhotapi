@@ -1,0 +1,48 @@
+name: LLM Eval 补漏标注
+
+on:
+  workflow_dispatch:
+
+jobs:
+  annotate:
+    runs-on: ubuntu-latest
+    strategy:
+      # 设置为 false：如果某个模型的文件报错或超时，其他文件依然会继续跑完
+      fail-fast: false 
+      matrix:
+        # 在这里列出你需要并行处理的所有文件，请确保文件名完全拼对
+        file: 
+          - eval_results_kimi_fixed.xlsx
+          - eval_results_deepseek_fixed.xlsx
+          - eval_results_qwen_fixed.xlsx
+          - eval_results_glm_fixed.xlsx
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run annotation
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          # 动态读取矩阵中的当前文件名并执行
+          python annotation.py ${{ matrix.file }}
+
+      - name: Upload result excel
+        uses: actions/upload-artifact@v4
+        if: always() # 确保即使意外中断，也能上传带有进度和部分结果的文件
+        with:
+          # 动态命名产物包，防止 4 个任务的结果文件互相覆盖 (如：annotation-results-eval_results_kimi_fixed.xlsx)
+          name: annotation-results-${{ matrix.file }}
+          path: |
+            *_annotated.xlsx
+            progress_*.json
