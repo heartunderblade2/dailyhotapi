@@ -17,7 +17,7 @@ if not API_KEY:
     raise ValueError("❌ 未找到 API_KEY 环境变量，请在本地设置或在 GitHub Secrets 中配置！")
 
 MODEL_NAME = "DeepSeek-R1"
-MAX_WORKERS = 30                 # 并发数
+MAX_WORKERS = 8                 # 并发数
 REQUEST_INTERVAL = 0.5           # 线程内每次请求后的间隔（秒）
 MAX_RETRIES = 2
 TIMEOUT = 90
