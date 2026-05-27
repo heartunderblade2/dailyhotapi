@@ -1,11 +1,21 @@
-name: LLM Eval 国内模型
+name: LLM Eval 补漏并行执行
 
 on:
   workflow_dispatch:
 
 jobs:
-  eval:
+  patch:
     runs-on: ubuntu-latest
+    strategy:
+      # 设置为 false：如果某个模型文件处理报错，其他文件依然会继续跑
+      fail-fast: false
+      matrix:
+        # 在这里列出你需要并行补漏的所有 Excel 文件
+        file: 
+          - eval_result_glm.xlsx
+          - eval_result_deepseek.xlsx
+          - eval_result_kimi.xlsx
+          - eval_result_qwen.xlsx
 
     steps:
       - name: Checkout repository
@@ -20,14 +30,19 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run evaluation
+      - name: Run patch logic
         env:
           API_KEY: ${{ secrets.API_KEY }}
         run: |
-          python scripts/run_eval_domes.py
+          # 动态传入矩阵中的当前文件名给 patch_eval.py
+          python scripts/patch_eval.py ${{ matrix.file }}
 
-      - name: Upload result excel
+      - name: Upload fixed result excel
         uses: actions/upload-artifact@v4
+        # 即使有的文件没跑完报错了，也把成功跑出来的传上来
+        if: always()
         with:
-          name: llm-eval-results
-          path: outputs/result.xlsx
+          # 动态命名产物包，防止 4 个任务的结果文件互相覆盖
+          name: patched-results-${{ matrix.file }}
+          # 你的 patch_eval.py 生成的文件带有 _fixed.xlsx 后缀，直接抓取它们
+          path: outputs/*_fixed.xlsx
