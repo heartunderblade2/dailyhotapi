@@ -12,11 +12,8 @@ jobs:
       matrix:
         # 在这里列出你需要继续填补的半成品文件
         file: 
-          - result_deepseek_annotated_completed.xlsx
-          - result_gemini_annotated_completed.xlsx
-          - result_glm_annotated_completed.xlsx
-          - result_kimi_annotated_completed.xlsx
-          - result_qwen_annotated_completed.xlsx
+          - eval_results_kimi_fixed_annotated.xlsx
+          - eval_results_glm_fixed_annotated.xlsx
 
     steps:
       - name: Checkout repository
