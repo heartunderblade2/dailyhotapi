@@ -27,7 +27,7 @@ TEMPERATURE = 0
 
 # 数据文件夹和输出后缀
 DATA_DIR = Path(__file__).parent
-OUTPUT_SUFFIX = "_completed.xlsx" # 修改了后缀以作区分
+OUTPUT_SUFFIX = "_2.xlsx" # 修改了后缀以作区分
 
 # 8个维度短名称（输出列名和 JSON 字段）
 DIM_NAMES = [
