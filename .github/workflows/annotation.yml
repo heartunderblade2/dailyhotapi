@@ -1,4 +1,4 @@
-name: LLM Eval Annotation Parallel
+name: LLM Eval Annotation Parallel (Resume)
 
 on:
   workflow_dispatch:
@@ -7,16 +7,16 @@ jobs:
   eval:
     runs-on: ubuntu-latest
     strategy:
-      # 设置为 false：如果某个文件（比如kimi）报错中断，其他 4 个模型依然会继续跑完
+      # 设置为 false：如果某个文件（比如kimi）报错中断，其他模型依然会继续跑完
       fail-fast: false 
       matrix:
-        # 在这里列出你需要并行处理的所有文件
+        # 在这里列出你需要继续填补的半成品文件
         file: 
-          - result_deepseek.xlsx
-          # - result_glm.xlsx
-          # - result_kimi.xlsx
-          # - result_qwen.xlsx
-          # - result_gemini.xlsx
+          - result_deepseek_annotated.xlsx
+          # - result_gemini_annotated.xlsx
+          # - result_glm_annotated.xlsx
+          # - result_kimi_annotated.xlsx
+          # - result_qwen_annotated.xlsx
 
     steps:
       - name: Checkout repository
@@ -35,15 +35,14 @@ jobs:
         env:
           API_KEY: ${{ secrets.API_KEY }}
         run: |
-          # 动态读取矩阵中的文件名并执行
+          # 动态读取矩阵中的半成品文件名并执行断点续传扫描
           python annotate_parallel.py ${{ matrix.file }}
 
       - name: Upload result excel
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          # 动态命名产物包，防止 5 个任务的文件互相覆盖
+          # 动态命名产物包，防止不同任务的文件互相覆盖
           name: annotation-results-${{ matrix.file }}
           path: |
-            *_annotated.xlsx
-            progress_*.json
+            *_completed.xlsx
