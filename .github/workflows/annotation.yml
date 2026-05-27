@@ -13,10 +13,10 @@ jobs:
         # 在这里列出你需要并行处理的所有文件
         file: 
           - result_deepseek.xlsx
-          - result_glm.xlsx
-          - result_kimi.xlsx
-          - result_qwen.xlsx
-          - result_gemini.xlsx
+          # - result_glm.xlsx
+          # - result_kimi.xlsx
+          # - result_qwen.xlsx
+          # - result_gemini.xlsx
 
     steps:
       - name: Checkout repository
