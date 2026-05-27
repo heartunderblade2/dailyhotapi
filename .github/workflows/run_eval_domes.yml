@@ -12,10 +12,10 @@ jobs:
       matrix:
         # 在这里列出你需要并行补漏的所有 Excel 文件
         file: 
-          - eval_result_glm.xlsx
-          - eval_result_deepseek.xlsx
-          - eval_result_kimi.xlsx
-          - eval_result_qwen.xlsx
+          - eval_results_glm.xlsx
+          - eval_results_deepseek.xlsx
+          - eval_results_kimi.xlsx
+          - eval_results_qwen.xlsx
 
     steps:
       - name: Checkout repository
