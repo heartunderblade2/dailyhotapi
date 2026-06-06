@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-06T00:01:18.342Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "慕思健康睡眠股份有限公司关于公司为全资子公司提供担保的公告",
+      "author": "上海证券报",
+      "hot": 92,
+      "timestamp": 1780718367000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniamane7985247.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniamane7985247.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "6月6日外盘头条：美伊和平谈判仍陷僵局 非农报告提振加息预期 美股遭遇抛售 谷歌与SpaceX达成百亿算力协议",
+      "author": "环球市场播报",
+      "hot": 147,
+      "timestamp": 1780725562000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7875052.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7875052.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "执政党大胜却留有遗憾，在野党虽败仍守住防线，韩国地方选举结果引不同解读",
+      "author": "环球网",
+      "hot": 148,
+      "timestamp": 1780645006000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniahxny3130015.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniahxny3130015.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "新浪彩票双色球名家第26064期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 153,
+      "timestamp": 1780676786000,
+      "url": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaiyyn2786545.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaiyyn2786545.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "桂林华信乙酰半胱氨酸颗粒启动其他试验 适应症为所有导致不能咳出或只能咳出不充分的粘液分泌物的呼吸系统疾病",
+      "author": "新浪财经-鹰眼工作室",
+      "hot": 155,
+      "timestamp": 1780705876000,
+      "url": "https://finance.sina.com.cn/stock/aigc/ywsygs/2026-06-06/doc-iniakrwf9369988.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/aigc/ywsygs/2026-06-06/doc-iniakrwf9369988.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "特朗普：在美国的帮助下 大量石油流出霍尔木兹海峡",
+      "author": "环球市场播报",
+      "hot": 156,
+      "timestamp": 1780712701000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8102490.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8102490.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "以色列继续空袭黎巴嫩 真主党打死以军士兵",
+      "author": "新华网",
+      "hot": 160,
+      "timestamp": 1780650477000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-05/doc-iniaikax1837313.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-05/doc-iniaikax1837313.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美股“两房”股价冲高后回落 此前特朗普称二者价值可达1万亿美元",
+      "author": "环球市场播报",
+      "hot": 164,
+      "timestamp": 1780718231000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamanc1208924.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamanc1208924.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "克利夫兰联储行长认为就业报告显示劳动力市场趋于平衡",
+      "author": "环球市场播报",
+      "hot": 169,
+      "timestamp": 1780704061000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakrwi1427156.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakrwi1427156.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "监控曝光！黑龙江一男子因挪车纠纷，酒后持刀闯入他人库房遭“反杀”身亡，伤人者二审维持死缓",
+      "author": "新浪新闻综合",
+      "hot": 171,
+      "timestamp": 1780676733000,
+      "url": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiyyr1655532.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiyyr1655532.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "科技股，走到了危险时刻？",
+      "author": "新浪新闻综合",
+      "hot": 172,
+      "timestamp": 1780655298000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaikau2976903.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaikau2976903.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "美国股市：纳斯达克100指数创逾一年最大跌幅 交易员撤离科技股",
+      "author": "环球市场播报",
+      "hot": 172,
+      "timestamp": 1780723535000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2391011.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2391011.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "外媒称全球AI竞赛进入了“中美争霸”，外交部回应",
+      "author": "北京日报客户端",
+      "hot": 178,
+      "timestamp": 1780673137000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiust1758887.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiust1758887.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "日本5月外汇储备大降",
+      "author": "北京日报客户端",
+      "hot": 181,
+      "timestamp": 1780665095000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiqkv1835209.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiqkv1835209.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "“高校男学生在女厕偷拍，被发现后伤人”，河北地质大学：涉事男生确系该校学生，已被开除学籍",
+      "author": "新浪新闻综合",
+      "hot": 182,
+      "timestamp": 1780697274000,
+      "url": "https://news.sina.com.cn/s/2026-06-05/doc-iniakmqm1531394.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-05/doc-iniakmqm1531394.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "房利美和房地美股价坐上过山车 特朗普此前放话“万亿估值”",
+      "author": "环球市场播报",
+      "hot": 185,
+      "timestamp": 1780711123000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1321815.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1321815.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "科技股切换赛道 商业航天起飞",
+      "author": "证券时报",
+      "hot": 185,
+      "timestamp": 1780722872000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniakweh8097289.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniakweh8097289.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "四川省成都市委原副书记、原市长王凤朝严重违纪违法被“双开”",
+      "author": "界面新闻",
+      "hot": 188,
+      "timestamp": 1780679112000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyyr1673862.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyyr1673862.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "文石信息收到证监会境外上市备案反馈意见 要求说明股份拆细计划、股权代持等问题",
+      "author": "新浪港股-好仓工作室",
+      "hot": 191,
+      "timestamp": 1780690817000,
+      "url": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-05/doc-iniakfhm9540126.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-05/doc-iniakfhm9540126.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "美国银行：英伟达新一代芯片将推动潜在市场规模翻倍",
+      "author": "环球市场播报",
+      "hot": 194,
+      "timestamp": 1780703680000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniakrwk8202238.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniakrwk8202238.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "波音787-9起落架突然坍塌，致多人受伤",
+      "author": "每日经济新闻",
+      "hot": 198,
+      "timestamp": 1780659944000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiqkv1804135.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiqkv1804135.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "泽连斯基公开信更多内容曝光",
+      "author": "中新视频",
+      "hot": 199,
+      "timestamp": 1780656938000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniaikax1908742.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniaikax1908742.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "研究警示：生物多样性锐减或引发一轮债务危机",
+      "author": "环球市场播报",
+      "hot": 205,
+      "timestamp": 1780707634000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1308448.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1308448.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "胜负彩26084期国内部分专业媒体复式推荐总汇",
+      "author": "新浪彩票",
+      "hot": 210,
+      "timestamp": 1780645900000,
+      "url": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaicuz1939101.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaicuz1939101.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "国家广播电视总局部署开展微短剧有害低俗内容和侵权盗版专项治理",
+      "author": "新京报",
+      "hot": 212,
+      "timestamp": 1780519209000,
+      "url": "https://news.sina.com.cn/o/2026-06-03/doc-iniacxki0687928.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-03/doc-iniacxki0687928.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "全球超17亿人患病，中国空间站实验有望提供新疗法",
+      "author": "北京日报客户端",
+      "hot": 214,
+      "timestamp": 1780648124000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaicuz1951284.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaicuz1951284.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "6月6日美股成交额前20：博通业绩指引不及预期，股价三连跌",
+      "author": "环球市场播报",
+      "hot": 217,
+      "timestamp": 1780722258000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9160564.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9160564.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "出口量增长267%！中国光伏海外需求持续攀升",
+      "author": "央视",
+      "hot": 219,
+      "timestamp": 1780723825000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniamane7985265.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniamane7985265.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "独家视频丨习近平：中方始终将老挝视作周边外交重要方向",
+      "author": "央视",
+      "hot": 224,
+      "timestamp": 1780691356000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-05/doc-iniakmqn8267795.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-05/doc-iniakmqn8267795.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "原油：油价下跌 市场评估美伊和谈进展与需求减弱迹象",
+      "author": "环球市场播报",
+      "hot": 225,
+      "timestamp": 1780718555000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2373364.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2373364.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "国务院任免国家工作人员：丁向群任金融监管总局局长",
+      "author": "界面新闻",
+      "hot": 226,
+      "timestamp": 1780680351000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyys8459306.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyys8459306.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "标普500指数跌幅扩大至2.5%。",
+      "author": "滚动播报",
+      "hot": 234,
+      "timestamp": 1780715347000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-06/doc-iniakwec9272800.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-06/doc-iniakwec9272800.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "黄金，又“破纪录”",
+      "author": "新浪新闻综合",
+      "hot": 235,
+      "timestamp": 1780686126000,
+      "url": "https://news.sina.com.cn/o/2026-06-05/doc-iniaiyyr1647379.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-05/doc-iniaiyyr1647379.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "太阳爆发一次强烈耀斑，中等甚至大地磁暴或将出现",
+      "author": "北京日报客户端",
+      "hot": 240,
+      "timestamp": 1780648073000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniaicuw3039134.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniaicuw3039134.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "亚马逊发布新一代仓储机器人，各大科技企业仍在因AI优化持续裁员",
+      "author": "环球市场播报",
+      "hot": 241,
+      "timestamp": 1780706821000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakrwk8213315.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakrwk8213315.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "[新浪彩票]足彩第26084期任九：葡萄牙胜智利",
+      "author": "新浪彩票",
+      "hot": 242,
+      "timestamp": 1780646690000,
+      "url": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaicuz1943767.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-05/doc-iniaicuz1943767.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "重庆警方：58岁男子持刀将同事刺伤致死被刑拘",
+      "author": "界面新闻",
+      "hot": 247,
+      "timestamp": 1780681417000,
+      "url": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiyyp9603067.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiyyp9603067.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "乌克兰总统泽连斯基：许多人会对普京的回应感到失望，需对俄罗斯施加更大压力。",
+      "author": "滚动播报",
+      "hot": 247,
+      "timestamp": 1780709418000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-06/doc-iniakwec9253428.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-06/doc-iniakwec9253428.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "医保个人账户全面实现跨省共济 近亲属可用",
+      "author": "证券时报",
+      "hot": 250,
+      "timestamp": 1780722762000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniakwef1320958.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniakwef1320958.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "佩斯科夫：普京已获悉泽连斯基公开信内容",
+      "author": "央视",
+      "hot": 275,
+      "timestamp": 1780678659000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiyys8444266.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniaiyys8444266.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "女子酒店裸身床边休息时一陌生男子刷卡开门，当事人：赔偿1万元、公开道歉",
+      "author": "新浪新闻综合",
+      "hot": 289,
+      "timestamp": 1780669355000,
+      "url": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiust1729112.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-05/doc-iniaiust1729112.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
+      "author": "界面新闻",
+      "hot": 294,
+      "timestamp": 1780688712000,
+      "url": "https://news.sina.com.cn/w/2026-06-05/doc-iniakfhk2751031.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-05/doc-iniakfhk2751031.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "“豆包误判蘑菇导致用户中毒”，公司高管回应",
+      "author": "界面新闻",
+      "hot": 299,
+      "timestamp": 1780670136000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiusu8510243.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiusu8510243.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "白宫国家经济委员会主任哈塞特：市场对美联储加息的预期“大错特错”",
+      "author": "环球市场播报",
+      "hot": 308,
+      "timestamp": 1780701266000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniakrwk8194354.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniakrwk8194354.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "美媒披露：美军最先进航母，至少一年无法再次出海",
+      "author": "环球时报",
+      "hot": 324,
+      "timestamp": 1780722241000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniakrwk8205994.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniakrwk8205994.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "国务院食安办成立工作组督导查处 “望奎双汇猪肉抗生素超标问题”",
+      "author": "市场监管总局",
+      "hot": 324,
+      "timestamp": 1780675481000,
+      "url": "https://finance.sina.com.cn/china/2026-06-05/doc-iniaiyyp9553614.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-06-05/doc-iniaiyyp9553614.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "继“烧烤学院”之后，“辣子鸡学院”也来了",
+      "author": "每日经济新闻",
+      "hot": 354,
+      "timestamp": 1780722929000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniakrwi1427249.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniakrwi1427249.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "受贿1.58亿余元，齐扎拉一审被判无期",
+      "author": "人民日报",
+      "hot": 358,
+      "timestamp": 1780678872000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyys8447967.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiyys8447967.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "西安警方：开宝马逃单男子落网",
+      "author": "环球网",
+      "hot": 362,
+      "timestamp": 1780666151000,
+      "url": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiqkt9736093.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-05/doc-iniaiqkt9736093.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "6月5日增减持汇总：赞宇科技披露增持情况，江波龙等12股拟减持（表）",
+      "author": "新浪财经",
+      "hot": 362,
+      "timestamp": 1780696137000,
+      "url": "https://finance.sina.com.cn/outdist/level1/orimedia/2026-06-05/doc-iniakmqi9455397.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/outdist/level1/orimedia/2026-06-05/doc-iniakmqi9455397.shtml"
+    }
+  ]
+}
