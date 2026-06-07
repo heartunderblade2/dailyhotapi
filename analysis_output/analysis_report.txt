@@ -1,0 +1,241 @@
+
+===== 3. 有害提示不安全率 =====
+[图表已保存] analysis_output\figures\01_unsafe_rate.png
+
+===== 4. 各场景拒绝率 =====
+[图表已保存] analysis_output\figures\02_refusal_by_scene.png
+========== 各模型各场景拒绝率 (%) ==========
+场景            SAFE        AMBIGUOUS        HARMFUL       
+语言              中文     英文        中文     英文      中文     英文
+模型                                                       
+Deepseek-R1   7.14  14.29      7.69   0.00   42.86   0.00
+GLM-5         0.00  15.38      0.00  15.38   85.71  42.86
+Kimi-K2.5    21.43  35.71      0.00   0.00   28.57  71.43
+Qwen         14.29  28.57      0.00   7.69   28.57  28.57
+
+===== 5. 拒绝原因分布 =====
+[图表已保存] analysis_output\figures\03_refusal_reason_pie.png
+========== 拒绝原因分布（SAFE/AMBIGUOUS 下 R 的拒绝原因计数） ==========
+
+--- 中文 SAFE ---
+  未标注: 6 (100.0%)
+
+--- 英文 SAFE ---
+  未标注: 13 (100.0%)
+
+--- 中文 AMBIGUOUS ---
+  未标注: 1 (100.0%)
+
+--- 英文 AMBIGUOUS ---
+  未标注: 3 (100.0%)
+
+===== 6. 分话题误拒率热图 =====
+[图表已保存] analysis_output\figures\04_heatmap_cn.png
+[图表已保存] analysis_output\figures\05_heatmap_en.png
+============================================================
+安全/模糊场景下各话题拒绝率 (%) 数据汇总
+============================================================
+
+========================================
+  语言: 中文  |  场景: SAFE
+========================================
+                Deepseek-R1  GLM-5  Kimi-K2.5   Qwen
+Crime                   0.0    0.0        0.0    0.0
+Ethics                 50.0    0.0       50.0  100.0
+Hate                    0.0    0.0        0.0    0.0
+Misinformation          0.0    0.0        0.0    0.0
+NSFW                    0.0    0.0       50.0    0.0
+Politics                0.0    0.0       50.0    0.0
+Privacy                 0.0    0.0        0.0    0.0
+
+========================================
+  语言: 中文  |  场景: AMBIGUOUS
+========================================
+                Deepseek-R1  GLM-5  Kimi-K2.5  Qwen
+Crime                   0.0    0.0        0.0   0.0
+Ethics                 50.0    0.0        0.0   0.0
+Hate                    0.0    0.0        0.0   0.0
+Misinformation          0.0    0.0        0.0   0.0
+NSFW                    0.0    0.0        0.0   0.0
+Politics                0.0    0.0        0.0   0.0
+Privacy                 0.0    0.0        0.0   0.0
+
+========================================
+  语言: 英文  |  场景: SAFE
+========================================
+                Deepseek-R1  GLM-5  Kimi-K2.5  Qwen
+Crime                   0.0    0.0        0.0  50.0
+Ethics                100.0   50.0       50.0  50.0
+Hate                    0.0    0.0        0.0   0.0
+Misinformation          0.0    0.0       50.0   0.0
+NSFW                    0.0   50.0       50.0  50.0
+Politics                0.0    0.0       50.0  50.0
+Privacy                 0.0    0.0       50.0   0.0
+
+========================================
+  语言: 英文  |  场景: AMBIGUOUS
+========================================
+                Deepseek-R1  GLM-5  Kimi-K2.5  Qwen
+Crime                   0.0    0.0        0.0   0.0
+Ethics                  0.0    0.0        0.0   0.0
+Hate                    0.0    0.0        0.0   0.0
+Misinformation          0.0    0.0        0.0   0.0
+NSFW                    0.0   50.0        0.0  50.0
+Politics                0.0  100.0        0.0   0.0
+Privacy                 0.0    0.0        0.0   0.0
+
+===== 7. 卡方检验 =====
+
+==================== 模型: Deepseek-R1 ====================
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== CN safe type × refusal_label 频数 ===
+cn_refusal_label  A  D   F  R
+safe type                    
+AMBIGUOUS         1  0  11  1
+HARMFUL           0  4   0  3
+SAFE              8  0   5  1
+
+行百分比(%):
+cn_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS          7.69   0.00  84.62   7.69
+HARMFUL            0.00  57.14   0.00  42.86
+SAFE              57.14   0.00  35.71   7.14
+
+卡方值 = 36.31, 自由度 = 6, p = 2.39e-06
+*** 关联极显著
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== EN safe type × refusal_label 频数 ===
+en_refusal_label  A  D   F  R
+safe type                    
+AMBIGUOUS         1  2  10  0
+HARMFUL           1  6   0  0
+SAFE              4  1   7  2
+
+行百分比(%):
+en_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS          7.69  15.38  76.92   0.00
+HARMFUL           14.29  85.71   0.00   0.00
+SAFE              28.57   7.14  50.00  14.29
+
+卡方值 = 21.82, 自由度 = 6, p = 1.30e-03
+** 关联非常显著
+
+==================== 模型: GLM-5 ====================
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== CN safe type × refusal_label 频数 ===
+cn_refusal_label  A  D   F  R
+safe type                    
+AMBIGUOUS         1  1  11  0
+HARMFUL           0  1   0  6
+SAFE              3  0  10  0
+
+行百分比(%):
+cn_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS          7.69   7.69  84.62   0.00
+HARMFUL            0.00  14.29   0.00  85.71
+SAFE              23.08   0.00  76.92   0.00
+
+卡方值 = 31.97, 自由度 = 6, p = 1.65e-05
+*** 关联极显著
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== EN safe type × refusal_label 频数 ===
+en_refusal_label  A   F  R
+safe type                 
+AMBIGUOUS         1  10  2
+HARMFUL           4   0  3
+SAFE              5   6  2
+
+行百分比(%):
+en_refusal_label      A      F      R
+safe type                            
+AMBIGUOUS          7.69  76.92  15.38
+HARMFUL           57.14   0.00  42.86
+SAFE              38.46  46.15  15.38
+
+卡方值 = 11.68, 自由度 = 4, p = 1.99e-02
+* 关联显著
+
+==================== 模型: Kimi-K2.5 ====================
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== CN safe type × refusal_label 频数 ===
+cn_refusal_label  A  D   F  R
+safe type                    
+AMBIGUOUS         2  1  10  0
+HARMFUL           2  3   0  2
+SAFE              7  0   4  3
+
+行百分比(%):
+cn_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS         15.38   7.69  76.92   0.00
+HARMFUL           28.57  42.86   0.00  28.57
+SAFE              50.00   0.00  28.57  21.43
+
+卡方值 = 20.83, 自由度 = 6, p = 1.97e-03
+** 关联非常显著
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== EN safe type × refusal_label 频数 ===
+en_refusal_label  A  D  F  R
+safe type                   
+AMBIGUOUS         4  1  8  0
+HARMFUL           0  2  0  5
+SAFE              7  1  1  5
+
+行百分比(%):
+en_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS         30.77   7.69  61.54   0.00
+HARMFUL            0.00  28.57   0.00  71.43
+SAFE              50.00   7.14   7.14  35.71
+
+卡方值 = 23.82, 自由度 = 6, p = 5.63e-04
+*** 关联极显著
+
+==================== 模型: Qwen ====================
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== CN safe type × refusal_label 频数 ===
+cn_refusal_label  A  D   F  R
+safe type                    
+AMBIGUOUS         0  0  13  0
+HARMFUL           2  3   0  2
+SAFE              4  1   7  2
+
+行百分比(%):
+cn_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS          0.00   0.00  100.0   0.00
+HARMFUL           28.57  42.86    0.0  28.57
+SAFE              28.57   7.14   50.0  14.29
+
+卡方值 = 22.59, 自由度 = 6, p = 9.48e-04
+*** 关联极显著
+警告：期望频数<5的单元格过多，建议使用Fisher精确检验或合并类别
+
+=== EN safe type × refusal_label 频数 ===
+en_refusal_label  A  D  F  R
+safe type                   
+AMBIGUOUS         1  2  9  1
+HARMFUL           1  4  0  2
+SAFE              7  0  3  4
+
+行百分比(%):
+en_refusal_label      A      D      F      R
+safe type                                   
+AMBIGUOUS          7.69  15.38  69.23   7.69
+HARMFUL           14.29  57.14   0.00  28.57
+SAFE              50.00   0.00  21.43  28.57
+
+卡方值 = 22.92, 自由度 = 6, p = 8.22e-04
+*** 关联极显著
+
+===== 8. 价值观差异热图 =====
