@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-07T00:01:11.272Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "黄仁勋综艺节目录制画面曝光：身穿标志性的黑色皮夹克，与主持人刘在石跨界对话，还即兴跳起舞",
+      "author": "每日经济新闻",
+      "hot": 108,
+      "timestamp": 1780810076000,
+      "url": "https://news.sina.com.cn/c/2026-06-07/doc-inianzcf0329331.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-07/doc-inianzcf0329331.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "天津海关签发首份RCEP背对背原产地证书",
+      "author": "滚动播报",
+      "hot": 110,
+      "timestamp": 1780805729000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapfme7006312.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapfme7006312.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "2026年5月中国围棋等级分排名：丁浩居首 柯洁第七",
+      "author": "新浪体育综合",
+      "hot": 117,
+      "timestamp": 1780777864000,
+      "url": "https://sports.sina.com.cn/go/2026-06-06/doc-inianqph1743283.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/go/2026-06-06/doc-inianqph1743283.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "鼓励队友！文班亚马致命失误之后 瓦塞尔找到文班&让他抬起头来",
+      "author": "NBA综合",
+      "hot": 119,
+      "timestamp": 1780788427000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450225.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450225.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "美或用伊朗资产赔偿海湾盟友",
+      "author": "新浪新闻综合",
+      "hot": 119,
+      "timestamp": 1780812062000,
+      "url": "https://news.sina.com.cn/w/2026-06-07/doc-iniapmsz0111515.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-07/doc-iniapmsz0111515.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "“十四五”期间内蒙古出让 矿业权收益超670亿元",
+      "author": "滚动播报",
+      "hot": 120,
+      "timestamp": 1780798382000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapfmc0215590.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapfmc0215590.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "科技牛六大方向领涨，风格切换是伪命题",
+      "author": "市场资讯",
+      "hot": 121,
+      "timestamp": 1780803747000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-07/doc-iniapfkz8210984.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-07/doc-iniapfkz8210984.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "名记谈马刺绝境：文班亚马已瞄准G3 他们必须完成不可能的任务",
+      "author": "NBA综合",
+      "hot": 122,
+      "timestamp": 1780795632000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzch7115562.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzch7115562.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "河北 共享智造一招换来满盘活",
+      "author": "经济日报",
+      "hot": 122,
+      "timestamp": 1780811947000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsz0111247.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsz0111247.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "目前6人承诺为加拿大出战世界杯&奥运：亚历山大&巴雷特&狄龙在列",
+      "author": "NBA综合",
+      "hot": 129,
+      "timestamp": 1780795653000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzcc8320894.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzcc8320894.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "小心！一家三口误把“蒙汗药”当菠菜，食用后中毒昏迷！这种植物昆明也有…",
+      "author": "昆明信息港",
+      "hot": 130,
+      "timestamp": 1780801703000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniapfkz8206169.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniapfkz8206169.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "淡季不淡，鸡蛋价格缘何“逆势”上涨？",
+      "author": "新华社",
+      "hot": 132,
+      "timestamp": 1780774986000,
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-06/doc-inianqph1734021.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/future/fmnews/2026-06-06/doc-inianqph1734021.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "学习·知行丨人不负青山，青山定不负人",
+      "author": "人民网",
+      "hot": 133,
+      "timestamp": 1780777255000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpm0545688.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpm0545688.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "金饰价格年内大跌400元 整体回落至2025年底水平附近",
+      "author": "界面新闻",
+      "hot": 133,
+      "timestamp": 1780759174000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniancxp8704980.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniancxp8704980.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "伊朗与巴基斯坦两国内政部长会面，讨论地区局势等问题",
+      "author": "澎湃新闻",
+      "hot": 135,
+      "timestamp": 1780806347000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsw1308738.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsw1308738.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "一男子辱骂列车工作人员 广铁长沙客运段：铁路公安机关已介入调查",
+      "author": "新京报",
+      "hot": 135,
+      "timestamp": 1780773473000,
+      "url": "https://news.sina.com.cn/o/2026-06-06/doc-inianqpn7308643.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-06/doc-inianqpn7308643.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "清风伴考 江城县精准监督守护考生圆梦",
+      "author": "昆明信息港",
+      "hot": 136,
+      "timestamp": 1780801704000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniapfky1428955.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniapfky1428955.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "总决赛主场0-2落后从未有球队成功逆转！今年马刺还有机会吗？",
+      "author": "NBA综合",
+      "hot": 136,
+      "timestamp": 1780788452000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450274.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450274.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "微纪录片｜水润旱塬",
+      "author": "新华社",
+      "hot": 137,
+      "timestamp": 1780777149000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpi8518477.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpi8518477.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "以匠心铸轨道坦途 以坚守护乘客出行",
+      "author": "滚动播报",
+      "hot": 138,
+      "timestamp": 1780806076000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsz0099940.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmsz0099940.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "美国“抢”铜，扰乱全球供应链秩序",
+      "author": "澎湃新闻",
+      "hot": 140,
+      "timestamp": 1780733714000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniamnzy7771363.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniamnzy7771363.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "玉渊谭天：中国记者采访菲代表团竟被嘲笑辱骂",
+      "author": "北京日报客户端",
+      "hot": 141,
+      "timestamp": 1780813121000,
+      "url": "https://news.sina.com.cn/c/2026-06-07/doc-iniapmsw1324323.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-07/doc-iniapmsw1324323.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "总书记引领强国之路｜加快农业农村现代化步伐",
+      "author": "新华社",
+      "hot": 142,
+      "timestamp": 1780777399000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpn7322177.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-06/doc-inianqpn7322177.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "扎哈罗娃驳斥拉夫罗夫辞职传闻",
+      "author": "新浪新闻综合",
+      "hot": 150,
+      "timestamp": 1780753951000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniamxrq2033172.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniamxrq2033172.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "承德钒钛新材料产业跻身高端“赛道”",
+      "author": "北京日报客户端",
+      "hot": 151,
+      "timestamp": 1780808752000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmta6880889.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-07/doc-iniapmta6880889.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "信号接收失败！在文班出现致命失误之前 卡斯尔曾示意他要慢下来",
+      "author": "NBA综合",
+      "hot": 151,
+      "timestamp": 1780788359000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450093.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-06/doc-inianuvi0450093.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "最离谱定律！本赛季马刺打尼克斯：领先10+全败 没拉开反而赢了？",
+      "author": "NBA综合",
+      "hot": 155,
+      "timestamp": 1780799256000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-iniapfmc0217117.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-iniapfmc0217117.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "足彩彩果:加拿大造3.5倍冷平 斯洛伐克2-2黑山",
+      "author": "新浪彩票",
+      "hot": 166,
+      "timestamp": 1780739561000,
+      "url": "https://sports.sina.com.cn/l/2026-06-06/doc-iniamnzv8995799.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-06/doc-iniamnzv8995799.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "名记：文班最后一投都没被碰到还假摔 若换作是亚历山大早霸屏了",
+      "author": "NBA综合",
+      "hot": 168,
+      "timestamp": 1780795591000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzcf0339427.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-07/doc-inianzcf0339427.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "伊朗媒体：美军第五舰队总部升起浓烟",
+      "author": "新华社",
+      "hot": 170,
+      "timestamp": 1780740794000,
+      "url": "https://news.sina.com.cn/zx/2026-06-06/doc-iniamtiv0909205.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-06/doc-iniamtiv0909205.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "未来五年，就业优先",
+      "author": "21世纪经济报道",
+      "hot": 184,
+      "timestamp": 1780778783000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniancxs7505046.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniancxs7505046.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "高考明天开考，教育部发布特别提醒",
+      "author": "澎湃新闻",
+      "hot": 187,
+      "timestamp": 1780741365000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniamtiw7688117.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniamtiw7688117.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "特朗普官宣：我和马斯克又成朋友了，他80%的时间很出色，剩下20%他觉得自己做得不好",
+      "author": "新浪新闻综合",
+      "hot": 194,
+      "timestamp": 1780752037000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniamxrt0831612.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniamxrt0831612.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "吸毒、卖淫、诈骗……台湾“太阳花女王”逃美7年被押解返台",
+      "author": "中国新闻网",
+      "hot": 209,
+      "timestamp": 1780739014000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniamnzy7805556.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniamnzy7805556.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "新后登基",
+      "author": "新浪新闻综合",
+      "hot": 220,
+      "timestamp": 1780792709000,
+      "url": "https://news.sina.com.cn/zx/2026-06-07/doc-inianzcf0332209.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-07/doc-inianzcf0332209.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "中央考核巡查组专家：你们的管理人员都在这做样子，没有人去管！",
+      "author": "新京报",
+      "hot": 223,
+      "timestamp": 1780766866000,
+      "url": "https://news.sina.com.cn/o/2026-06-06/doc-iniankfp0636608.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-06/doc-iniankfp0636608.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "金饰克价年内大跌400元，金价已回到去年年底水平",
+      "author": "21世纪经济报道",
+      "hot": 229,
+      "timestamp": 1780765729000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniankfp0632055.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniankfp0632055.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "巴林海湾航空预计夏季旅行需求将复苏。",
+      "author": "滚动播报",
+      "hot": 240,
+      "timestamp": 1780803100000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-07/doc-iniapfkz8209167.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-07/doc-iniapfkz8209167.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "金泽去世，盛世光年文化发布讣告",
+      "author": "界面新闻",
+      "hot": 244,
+      "timestamp": 1780750778000,
+      "url": "https://news.sina.com.cn/zx/2026-06-06/doc-iniamxrt0826814.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-06/doc-iniamxrt0826814.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "上海男篮时隔24年再夺冠，究竟意味着什么",
+      "author": "澎湃新闻",
+      "hot": 261,
+      "timestamp": 1780742066000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniamnzy7781557.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniamnzy7781557.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "中央考核巡查组怒了：你们的管理人员都在这做样子，没有人去管！",
+      "author": "中国新闻网",
+      "hot": 261,
+      "timestamp": 1780766974000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-iniankfq7412926.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-iniankfq7412926.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "史上最贵一届世界杯，要来了！",
+      "author": "澎湃新闻",
+      "hot": 264,
+      "timestamp": 1780744060000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniamtis2100022.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniamtis2100022.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "现场视频！美军公布空袭伊朗沿海雷达站画面",
+      "author": "环球网",
+      "hot": 278,
+      "timestamp": 1780771907000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniankfq7416631.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniankfq7416631.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "美股芯片制造商市值，一日蒸发超万亿美元",
+      "author": "央视",
+      "hot": 306,
+      "timestamp": 1780773922000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-inianqpm0533850.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-06/doc-inianqpm0533850.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "官方确认，深圳出现水龙卷！专家：看见快跑！",
+      "author": "新浪新闻综合",
+      "hot": 306,
+      "timestamp": 1780757355000,
+      "url": "https://news.sina.com.cn/s/2026-06-06/doc-iniancxn1919787.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-06/doc-iniancxn1919787.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "尼日尔一载客卡车在撒哈拉沙漠抛锚，至少49人不幸渴死，2名幸存者徒步50公里获救",
+      "author": "新浪新闻综合",
+      "hot": 314,
+      "timestamp": 1780771268000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-iniankfk1851159.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-iniankfk1851159.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "西藏吐蕃藏王墓是否申报世界文化遗产？山南市文旅局：现阶段尚不具备条件",
+      "author": "澎湃新闻",
+      "hot": 317,
+      "timestamp": 1780788199000,
+      "url": "https://news.sina.com.cn/c/2026-06-06/doc-inianuvk7222160.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-06/doc-inianuvk7222160.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "战机与万家灯火同框 这一幕安全感拉满",
+      "author": "央视",
+      "hot": 318,
+      "timestamp": 1780810221000,
+      "url": "https://news.sina.com.cn/c/2026-06-07/doc-inianzcc8324685.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-07/doc-inianzcc8324685.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "2026年高考今日开考，1290万人奔赴考场",
+      "author": "澎湃新闻",
+      "hot": 323,
+      "timestamp": 1780810102000,
+      "url": "https://news.sina.com.cn/c/2026-06-07/doc-inianzch7106866.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-07/doc-inianzch7106866.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
+      "author": "央视",
+      "hot": 337,
+      "timestamp": 1780776002000,
+      "url": "https://news.sina.com.cn/w/2026-06-06/doc-inianqpn7309110.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-06/doc-inianqpn7309110.shtml"
+    }
+  ]
+}
