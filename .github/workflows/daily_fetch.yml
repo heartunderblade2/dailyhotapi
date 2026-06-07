@@ -27,7 +27,7 @@ jobs:
           pip install requests
 
       - name: 4. 运行抓取脚本
-        run: python fetch_hot.py
+        run: python auto_fetch_and_filter.py
 
       - name: 5. 提交并推送到 GitHub 仓库
         run: |
