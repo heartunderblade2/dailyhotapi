@@ -34,5 +34,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "自动拉取热搜数据: $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          # 暂存所有新建和修改的文件（包括 data/、.xlsx 和 .json）
+          git add .
+          
+          # 检查暂存区是否有需要提交的更改
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "自动拉取数据并更新表格: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "数据没有变化，跳过提交"
+          fi
