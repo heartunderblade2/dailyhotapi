@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-08T12:59:39.678Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "卡斯尔谈波波的建议：他让我们把两场失利都放下 我们本该赢的",
+      "author": "NBA综合",
+      "hot": 507,
+      "timestamp": 1780907806000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-08/doc-iniarzha4051928.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-08/doc-iniarzha4051928.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+      "author": "观察者网",
+      "hot": 2446,
+      "timestamp": 1780927913000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvs5560971.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvs5560971.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "推动中朝关系与时俱进取得更大发展（和音）",
+      "author": "人民日报",
+      "hot": 2494,
+      "timestamp": 1780911914000,
+      "url": "https://news.sina.com.cn/gov/2026-06-08/doc-iniarzfw5727242.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-06-08/doc-iniarzfw5727242.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "高考数学考试结束，记者刚开口安慰，考生：我已经考上了",
+      "author": "新浪新闻综合",
+      "hot": 2543,
+      "timestamp": 1780902328000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniaruxw9009546.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniaruxw9009546.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "突发！伊朗开火，再袭以色列！特朗普回应",
+      "author": "证券时报",
+      "hot": 2553,
+      "timestamp": 1780902795000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniaruye4151681.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniaruye4151681.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "股海导航_2026年6月8日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 2612,
+      "timestamp": 1780903092000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-08/doc-iniaruxw9013507.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-06-08/doc-iniaruxw9013507.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "A股进入拉锯调整期，“阵雨”冲击不会太长",
+      "author": "澎湃新闻",
+      "hot": 2613,
+      "timestamp": 1780910013000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniarzfy7276747.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniarzfy7276747.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "低开高走却“二次探底”，沪指失守4000点！A股巨震，原因找到了",
+      "author": "每日经济新闻",
+      "hot": 2629,
+      "timestamp": 1780934723000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasscn8749151.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasscn8749151.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "菲律宾地震已造成15人死亡、134人受伤",
+      "author": "新华国际",
+      "hot": 2671,
+      "timestamp": 1780929071000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscu3880129.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscu3880129.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "AI浪潮持续扩散 科技“老登”也上了牌桌",
+      "author": "证券时报",
+      "hot": 2673,
+      "timestamp": 1780899081000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkke6008147.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkke6008147.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "近闻·总书记这样讲述中朝友谊",
+      "author": "人民日报客户端",
+      "hot": 2681,
+      "timestamp": 1780928369000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-06-08/doc-iniasmvw4006610.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-06-08/doc-iniasmvw4006610.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "超级存储周期下的韩国股市：狂欢与泡沫",
+      "author": "滚动播报",
+      "hot": 2690,
+      "timestamp": 1780898160000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniaruye4133833.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-07/doc-iniaruye4133833.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "中国足球彩票胜负彩26085期澳盘最新赔率(6.8)",
+      "author": "新浪彩票",
+      "hot": 2746,
+      "timestamp": 1780905115000,
+      "url": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzha4034024.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzha4034024.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "玻璃基板成“芯”高地 基金经理解析产业掘金路径",
+      "author": "证券时报",
+      "hot": 2870,
+      "timestamp": 1780899182000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkke6008075.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkke6008075.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "财经早报：科技创新50强出炉 全球资金关注AI产业链丨2026年6月8日",
+      "author": "新浪证券",
+      "hot": 2890,
+      "timestamp": 1780906704000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-08/doc-iniarzfy7265812.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-06-08/doc-iniarzfy7265812.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "罗永浩卸任锤子软件执行董事 知情人士：系既定安排",
+      "author": "每日经济新闻",
+      "hot": 2894,
+      "timestamp": 1780897567000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkkk4364288.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniarkkk4364288.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "英伟达与SK海力士签署多年合作协议，联合研发下一代芯片",
+      "author": "环球市场播报",
+      "hot": 2935,
+      "timestamp": 1780903710000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "黄仁勋最新表态：存储芯片供应紧张的局面将持续数年",
+      "author": "券商中国",
+      "hot": 2984,
+      "timestamp": 1780905360000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-08/doc-iniarzfy7254014.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-06-08/doc-iniarzfy7254014.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "热门概念营收不足1%！4倍“牛股”回复关注函",
+      "author": "上海证券报",
+      "hot": 2994,
+      "timestamp": 1780902127000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniaruya7370336.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniaruya7370336.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "经济新方位:“空天地海”新一代通信网建设提速 助力经济社会数智化转型",
+      "author": "人民日报",
+      "hot": 3014,
+      "timestamp": 1780901474000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniaruya7368071.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniaruya7368071.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "战火殃及海湾，美国算盘打响：拿伊朗的钱，赔给海湾盟友",
+      "author": "新浪新闻综合",
+      "hot": 3042,
+      "timestamp": 1780925402000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvu7197802.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvu7197802.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气",
+      "author": "红星新闻",
+      "hot": 3045,
+      "timestamp": 1780928423000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasmvs5600723.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasmvs5600723.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "菲律宾7.8级强震的中国亲历者：晃到头晕，电力中断",
+      "author": "新京报",
+      "hot": 3132,
+      "timestamp": 1780926287000,
+      "url": "https://news.sina.com.cn/o/2026-06-08/doc-iniasmvu7214642.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-08/doc-iniasmvu7214642.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "偷拍空姐“神器”，为何难防？",
+      "author": "新浪新闻综合",
+      "hot": 3190,
+      "timestamp": 1780941207000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmq7089988.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmq7089988.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "菲律宾群岛地区突发7.9级地震，当地华人：睡梦中被警报惊醒，瞬间有种电影场景照进现实的感觉",
+      "author": "极目新闻",
+      "hot": 3241,
+      "timestamp": 1780916547000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasfps8847516.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasfps8847516.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "大满贯第一冠！兹维列夫改变了自己的人生",
+      "author": "澎湃新闻",
+      "hot": 3248,
+      "timestamp": 1780914368000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasfpu5623837.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasfpu5623837.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "收评：沪指跌超1%失守4000点 下跌个股超4500只",
+      "author": "股市直击",
+      "hot": 3266,
+      "timestamp": 1780930874000,
+      "url": "https://finance.sina.com.cn/money/nmetal/2026-06-08/doc-iniasscu3895086.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/nmetal/2026-06-08/doc-iniasscu3895086.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "飞行汽车来了，有望拉动10万亿级市场",
+      "author": "上观新闻",
+      "hot": 3350,
+      "timestamp": 1780902484000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniaruya7372530.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniaruya7372530.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "以色列后方司令部已更改安全指令，要求全国停学并限制集会活动人数，我使馆发布提醒",
+      "author": "新浪新闻综合",
+      "hot": 3434,
+      "timestamp": 1780931167000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniasscq5491087.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniasscq5491087.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "董事长陷私生活传闻，上市公司回应",
+      "author": "新浪新闻综合",
+      "hot": 3536,
+      "timestamp": 1780930396000,
+      "url": "https://news.sina.com.cn/s/2026-06-08/doc-iniasscn8703904.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-08/doc-iniasscn8703904.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "刚刚，又熔断了！全线暴跌，“黑色星期一”？",
+      "author": "证券时报",
+      "hot": 3665,
+      "timestamp": 1780929734000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniasscn8702297.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniasscn8702297.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "时隔两月 伊朗再次向以色列发动导弹袭击",
+      "author": "央视",
+      "hot": 3671,
+      "timestamp": 1780902845000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniaruxw9012091.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniaruxw9012091.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "以色列准备大规模动员预备役：这次是“数日”的战争",
+      "author": "央视",
+      "hot": 3744,
+      "timestamp": 1780936250000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscn8762933.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscn8762933.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "【眼观】5月汽车销量出炉，比亚迪和领跑谁更猛？",
+      "author": "滚动播报",
+      "hot": 3757,
+      "timestamp": 1780907136000,
+      "url": "https://finance.sina.com.cn/stock/auto/qcphb/2026-06-08/doc-iniarzfw5671023.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/auto/qcphb/2026-06-08/doc-iniarzfw5671023.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "伊朗队抵达世界杯驻地 墨军警车队护送",
+      "author": "新京报",
+      "hot": 3896,
+      "timestamp": 1780930875000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscq5485862.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscq5485862.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "马斯克，大翻车",
+      "author": "虎嗅APP",
+      "hot": 3912,
+      "timestamp": 1780866858000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-07/doc-iniaqxuh9428676.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-07/doc-iniaqxuh9428676.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "微视频｜中朝友谊 历久弥坚",
+      "author": "新华社",
+      "hot": 4055,
+      "timestamp": 1780908735000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniarzfu8914090.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniarzfu8914090.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "菲律宾群岛地区发生7.9级地震，震源深度40千米",
+      "author": "中国地震局网站",
+      "hot": 4130,
+      "timestamp": 1780905864000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniarzfu8895119.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniarzfu8895119.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "腾讯被错判了？",
+      "author": "虎嗅APP",
+      "hot": 4138,
+      "timestamp": 1780906971000,
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-08/doc-iniarzha4044775.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/2026-06-08/doc-iniarzha4044775.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "一张网夯实水安全坚实底座 水资源将实现跨地区、跨流域流动",
+      "author": "央视",
+      "hot": 4220,
+      "timestamp": 1780898714000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniarqry9107656.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniarqry9107656.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "竞彩大势：关注荷兰完胜 法国大胜可期",
+      "author": "新浪彩票",
+      "hot": 4236,
+      "timestamp": 1780905558000,
+      "url": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzfu8893586.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzfu8893586.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "黄仁勋：即便股市大跌也该乐观，当前股价处于折扣价区间",
+      "author": "滚动播报",
+      "hot": 4439,
+      "timestamp": 1780916499000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniasfps8870493.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniasfps8870493.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "习近平总书记在署名文章中这样阐述发展中朝关系",
+      "author": "新华社",
+      "hot": 4516,
+      "timestamp": 1780928383000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-06-08/doc-iniasmvq8824462.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-06-08/doc-iniasmvq8824462.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "孙正义重磅预判：超级AI将提前至两年内降临！“AI造AI”闭环已形成",
+      "author": "市场资讯",
+      "hot": 4558,
+      "timestamp": 1780913251000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasfpw7213941.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniasfpw7213941.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "黑龙江同江市委书记送考被喊学霸，鼓励考生考得比哈工大更好",
+      "author": "澎湃新闻",
+      "hot": 4611,
+      "timestamp": 1780924255000,
+      "url": "https://news.sina.com.cn/s/2026-06-08/doc-iniasfpw7288472.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-08/doc-iniasfpw7288472.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "芯片，突传利好！黄仁勋，重磅预告",
+      "author": "证券时报",
+      "hot": 4671,
+      "timestamp": 1780905013000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-08/doc-iniarzfu8891467.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-06-08/doc-iniarzfu8891467.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "两个月来伊以首次互袭，特朗普想让以色列“克制”但难挡冲突升级",
+      "author": "澎湃新闻",
+      "hot": 4768,
+      "timestamp": 1780921415000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvq8778737.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasmvq8778737.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "黄仁勋访韩女儿陪同，准女婿身份曝光：英伟达AI业务副总裁，两人是MBA同学",
+      "author": "成都商报",
+      "hot": 4806,
+      "timestamp": 1780936674000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscs7181163.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscs7181163.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "中纪委连打两虎！",
+      "author": "中国新闻网",
+      "hot": 4845,
+      "timestamp": 1780935175000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniasscq5528376.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniasscq5528376.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
+      "author": "中国企业家杂志",
+      "hot": 4923,
+      "timestamp": 1780906501000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniarzfu8899025.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniarzfu8899025.shtml"
+    }
+  ]
+}
