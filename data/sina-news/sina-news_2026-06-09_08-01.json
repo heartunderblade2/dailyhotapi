@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-09T00:01:16.085Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单",
+      "author": "环球市场播报",
+      "hot": 131,
+      "timestamp": 1780980330000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxe3454119.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxe3454119.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "10起涉高考网络谣言典型案例公布",
+      "author": "新浪新闻综合",
+      "hot": 134,
+      "timestamp": 1780943587000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmq7107163.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmq7107163.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "原油：WTI涨幅收窄 以色列和伊朗暗示避免进一步升级",
+      "author": "环球市场播报",
+      "hot": 136,
+      "timestamp": 1780978767000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5356151.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5356151.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "竞彩入门：看懂玩法规则 科学理性投注",
+      "author": "新浪彩票",
+      "hot": 137,
+      "timestamp": 1780904080000,
+      "url": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzfy7251693.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-08/doc-iniarzfy7251693.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "伊朗全境航班暂停运行",
+      "author": "北京日报客户端",
+      "hot": 145,
+      "timestamp": 1780968342000,
+      "url": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpie5215966.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpie5215966.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "工党彻底惨败！澳洲总理，将要换人！？",
+      "author": "澳洲财经见闻",
+      "hot": 147,
+      "timestamp": 1780980024000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-09/doc-iniatxxf5361212.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-09/doc-iniatxxf5361212.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "Elastic推出Kubernetes智能调查工作流，助力SRE快速定位故障",
+      "author": "环球市场播报",
+      "hot": 149,
+      "timestamp": 1780974881000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5470573.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5470573.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "乌总统泽连斯基披露俄大亨愿传话斡旋",
+      "author": "新华网",
+      "hot": 156,
+      "timestamp": 1780932085000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-08/doc-iniasscn8725410.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-08/doc-iniasscn8725410.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "罗氏授权引进Nurix血液肿瘤候选药物，交易总额最高可达23亿美元",
+      "author": "环球市场播报",
+      "hot": 156,
+      "timestamp": 1780963807000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpih6859863.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpih6859863.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "央视曝光小作坊翻新牙刷劣质回收料牙刷流入市场",
+      "author": "滚动播报",
+      "hot": 164,
+      "timestamp": 1780908643000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniarzfw5689175.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniarzfw5689175.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "6月9日外盘头条：SpaceX上市获大幅超额认购 OpenAI提交美国IPO申请 苹果WWDC26 库克谢幕 系统提速",
+      "author": "环球市场播报",
+      "hot": 171,
+      "timestamp": 1780983618000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5379852.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5379852.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "特朗普过去24小时都忙了什么？（2026-06-08）",
+      "author": "滚动播报",
+      "hot": 175,
+      "timestamp": 1780944698000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniaswmn5475813.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniaswmn5475813.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "双色球1特点热开创年度新高 数据示下期继续？",
+      "author": "新浪彩票",
+      "hot": 185,
+      "timestamp": 1780918401000,
+      "url": "https://sports.sina.com.cn/l/2026-06-08/doc-iniasfpy4052750.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-08/doc-iniasfpy4052750.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "中泰男足友谊赛：邵佳一挂帅国足主场首秀全力争胜",
+      "author": "北京日报客户端",
+      "hot": 187,
+      "timestamp": 1780955834000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniathzh5295000.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniathzh5295000.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "航行警告！渤海部分海域开展军事活动",
+      "author": "北京日报客户端",
+      "hot": 196,
+      "timestamp": 1780951895000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniatatk5396489.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniatatk5396489.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "再降！总决赛G3门票最低价已降至3269美元 相比最高时降了8000多",
+      "author": "NBA综合",
+      "hot": 199,
+      "timestamp": 1780972134000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-09/doc-iniattre6771198.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-09/doc-iniattre6771198.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "今夜，暴涨！三大利好，突袭！",
+      "author": "券商中国",
+      "hot": 201,
+      "timestamp": 1780954625000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniathze8509287.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniathze8509287.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "全国多地高考今日结束，查分时间陆续公布",
+      "author": "澎湃新闻",
+      "hot": 202,
+      "timestamp": 1780983925000,
+      "url": "https://news.sina.com.cn/o/2026-06-09/doc-iniatpie5236022.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-09/doc-iniatpie5236022.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "苹果：将额外多层液态玻璃直接整合到应用图标设计本身当中。",
+      "author": "滚动播报",
+      "hot": 217,
+      "timestamp": 1780967398000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3657807.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3657807.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "近12次0-3落后的总决赛9次都被横扫 马刺本赛季还没有过三连败",
+      "author": "NBA综合",
+      "hot": 218,
+      "timestamp": 1780972102000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-09/doc-iniattqy8349952.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-09/doc-iniattqy8349952.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "以色列总理确认暂停袭击伊朗",
+      "author": "北京日报客户端",
+      "hot": 221,
+      "timestamp": 1780968304000,
+      "url": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpie5215973.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpie5215973.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "俄方称对和平解决乌克兰问题持开放态度",
+      "author": "北京日报客户端",
+      "hot": 226,
+      "timestamp": 1780968080000,
+      "url": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpia8431769.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpia8431769.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "周一美股半导体股收复部分失地",
+      "author": "环球市场播报",
+      "hot": 227,
+      "timestamp": 1780977487000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5481507.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5481507.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "午盘：芯片股反弹 纳指上涨1.5%",
+      "author": "环球市场播报",
+      "hot": 239,
+      "timestamp": 1780963758000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpik3636770.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpik3636770.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "刚刚，全线飙涨！芯片，大反攻！美国、伊朗，重磅传来！",
+      "author": "券商中国",
+      "hot": 241,
+      "timestamp": 1780958633000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-08/doc-iniathze8540554.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-06-08/doc-iniathze8540554.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "微视频｜像对待生命一样关爱海洋",
+      "author": "新华社",
+      "hot": 250,
+      "timestamp": 1780945523000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniatatn6991040.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniatatn6991040.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "继往开来、砥砺同行 续写中朝传统友谊崭新篇章",
+      "author": "青海日报",
+      "hot": 258,
+      "timestamp": 1780972478000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniattrh3550096.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniattrh3550096.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "智能眼镜成“偷拍神器”？乐奇Rokid回应：已紧急启动专项整改",
+      "author": "潇湘晨报",
+      "hot": 298,
+      "timestamp": 1780947905000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniatatq3785667.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniatatq3785667.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产",
+      "author": "滚动播报",
+      "hot": 301,
+      "timestamp": 1780962756000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-08/doc-iniatpia8435190.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-08/doc-iniatpia8435190.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "史上最贵的吻！3300亿市值胜宏科技董事长陷桃色绯闻",
+      "author": "市场资讯",
+      "hot": 304,
+      "timestamp": 1780910612000,
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-08/doc-iniarzfy7302996.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/2026-06-08/doc-iniarzfy7302996.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "烧掉1万亿美元后，美国公司开始给DeepSeek充值",
+      "author": "观察者网",
+      "hot": 313,
+      "timestamp": 1780936910000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscu3956879.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniasscu3956879.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "伊朗总统最新表态：伊朗既没有离开战场，也没有离开谈判桌",
+      "author": "长安街知事",
+      "hot": 317,
+      "timestamp": 1780968539000,
+      "url": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpia8456080.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-09/doc-iniatpia8456080.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "传销头子涉案近38亿元被判10年，出狱后再骗10个亿，扬言“通过上一次的案件经历，不断改善模式”",
+      "author": "每日经济新闻",
+      "hot": 344,
+      "timestamp": 1780938496000,
+      "url": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmk8649379.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-08/doc-iniaswmk8649379.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
+      "author": "滚动播报",
+      "hot": 363,
+      "timestamp": 1780976713000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattri5478080.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattri5478080.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "黎巴嫩总统：在达成终止战争的协议前，我不会与内塔尼亚胡会面。",
+      "author": "滚动播报",
+      "hot": 401,
+      "timestamp": 1780967981000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpie5238567.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpie5238567.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "惠誉评级：非银行金融机构信用状况在2026年年中趋于恶化。",
+      "author": "滚动播报",
+      "hot": 401,
+      "timestamp": 1780963316000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3634371.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3634371.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "美国原油期货收于每桶91.30美元，上涨76美分，涨幅0.84%。",
+      "author": "滚动播报",
+      "hot": 412,
+      "timestamp": 1780972252000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattrh3548828.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattrh3548828.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "新浪彩票双色球名家第26065期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 422,
+      "timestamp": 1780928893000,
+      "url": "https://sports.sina.com.cn/l/2026-06-08/doc-iniasscu3879001.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-08/doc-iniasscu3879001.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "高清大图｜习近平访问朝鲜 朝方举行盛大欢迎仪式",
+      "author": "新华社",
+      "hot": 427,
+      "timestamp": 1780945375000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniatath8573518.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-08/doc-iniatath8573518.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "意大利检方就加沙船队事件对以色列部长本-格维尔展开调查。",
+      "author": "滚动播报",
+      "hot": 429,
+      "timestamp": 1780970999000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattre6766720.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattre6766720.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "俄罗斯已决定将俄罗斯水电集团2023-2029年的全部利润划拨给其投资计划。",
+      "author": "滚动播报",
+      "hot": 433,
+      "timestamp": 1780964688000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3642395.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpik3642395.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "董事长陷私生活传闻，上市公司回应",
+      "author": "新浪新闻综合",
+      "hot": 434,
+      "timestamp": 1780930396000,
+      "url": "https://news.sina.com.cn/s/2026-06-08/doc-iniasscn8703904.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-08/doc-iniasscn8703904.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "伊朗称对以色列军事打击告一段落",
+      "author": "界面新闻",
+      "hot": 446,
+      "timestamp": 1780946311000,
+      "url": "https://news.sina.com.cn/w/2026-06-08/doc-iniatath8581317.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-08/doc-iniatath8581317.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "据NBC： 英伟达CEO黄仁勋拒绝沃伦本周的出庭作证邀请。",
+      "author": "滚动播报",
+      "hot": 448,
+      "timestamp": 1780976109000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattrh3565991.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattrh3565991.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "布伦特原油期货结算价报每桶94.25美元，上涨1.16美元，涨幅1.25%。",
+      "author": "滚动播报",
+      "hot": 463,
+      "timestamp": 1780973392000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattra5131573.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattra5131573.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "6月8日增减持汇总：诺唯赞、金禾实业、圣诺生物、亚辉龙披露增持情况，巨星科技等6股拟减持（表）",
+      "author": "新浪财经",
+      "hot": 465,
+      "timestamp": 1780956275000,
+      "url": "https://finance.sina.com.cn/outdist/level1/orimedia/2026-06-08/doc-iniathzh5298884.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/outdist/level1/orimedia/2026-06-08/doc-iniathzh5298884.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "据CNN：肯尼迪艺术中心官网已撤下特朗普相关标识。",
+      "author": "滚动播报",
+      "hot": 469,
+      "timestamp": 1780977864000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatxxa6667136.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatxxa6667136.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美国代表团将出访委内瑞拉，推动当地修改石油相关法律",
+      "author": "滚动播报",
+      "hot": 473,
+      "timestamp": 1780966386000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpia8455136.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpia8455136.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "苹果推出人工智能版Siri，股价跳水，涨幅不足1%。",
+      "author": "滚动播报",
+      "hot": 482,
+      "timestamp": 1780969497000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpih6890231.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniatpih6890231.shtml"
+    },
+    {
+      "id": "6744642",
+      "title": "苹果：SIRI人工智能将以全新Siri模式集成至相机应用。",
+      "author": "滚动播报",
+      "hot": 489,
+      "timestamp": 1780969792000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattre6760567.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-09/doc-iniattre6760567.shtml"
+    }
+  ]
+}
