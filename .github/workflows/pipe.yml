@@ -1,0 +1,45 @@
+name: LLM Auto Evaluation Pipeline
+
+on:
+  workflow_dispatch: # 允许你在 GitHub 网页上手动点击运行按钮
+  # schedule:
+  #   - cron: '0 2 * * *' # (可选) 取消注释即可设定每天凌晨 2 点自动运行
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest # 使用最新的 Ubuntu 云端环境
+
+    steps:
+    # 1. 拉取你的代码仓库
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # 2. 配置 Python 环境
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10' # 推荐使用 3.10，比较稳定
+
+    # 3. 安装依赖库
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 建议在根目录建一个 requirements.txt。如果没有，按下面这样直接写也行：
+        pip install pandas openpyxl requests openai sentence-transformers matplotlib seaborn scipy tqdm
+
+    # 4. 运行全流程脚本
+    - name: Execute Pipeline
+      env:
+        # 从 GitHub Secrets 中读取 API_KEY 并注入到环境变量
+        API_KEY: ${{ secrets.LLM_API_KEY }} 
+      run: |
+        python pipeline.py
+
+    # 5. 上传生成的历史归档文件（重要！）
+    # GitHub Actions 运行完就会销毁虚拟机，必须把 history_runs 打包上传，你才能下载图表和 Excel
+    - name: Upload Results Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: Evaluation_Results_${{ github.run_id }}
+        path: history_runs/
+        retention-days: 30 # 产物保留 30 天
