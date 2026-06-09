@@ -1,6 +1,8 @@
 import os
 import sys
 import subprocess
+import shutil
+import time
 from pathlib import Path
 
 # ==================== 配置区 ====================
@@ -75,13 +77,48 @@ def run_phase_3_analysis():
     p = subprocess.Popen([sys.executable, SCRIPT_ANALYSIS])
     p.wait()
 
+def archive_results():
+    """将本次运行的所有产物打包归档"""
+    print("\n" + "="*50)
+    print("📦 [收尾] 正在归档本次运行结果...")
+    print("="*50)
+    
+    # 生成时间戳目录名
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+    archive_dir = Path(f"history_runs/run_{timestamp}")
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    
+    # 移动相关文件和文件夹
+    if os.path.exists("prompts.xlsx"):
+        shutil.move("prompts.xlsx", archive_dir / "prompts.xlsx")
+        print(f"  -> 已归档: prompts.xlsx")
+        
+    if os.path.exists("outputs"):
+        shutil.move("outputs", archive_dir / "outputs")
+        print(f"  -> 已归档: outputs/ 文件夹")
+        
+    if os.path.exists("analysis_output"):
+        shutil.move("analysis_output", archive_dir / "analysis_output")
+        print(f"  -> 已归档: analysis_output/ 文件夹")
+        
+    print(f"\n✅ 归档完成！结果保存在: {archive_dir}")
+    print("🧹 当前工作区已清理，随时可开启下一次独立的 Pipeline 运行。")
+
 def main():
     print("🌟 自动化全流程启动：Prompt生成 -> 模型测试 -> AI标注 -> 数据分析 🌟")
+    
+    # 每次跑之前，防呆清理一下可能残留的 outputs（可选）
+    if os.path.exists(OUTPUTS_DIR):
+        print("⚠️ 检测到遗留的 outputs 文件夹，正在清理以保证本次运行纯净...")
+        shutil.rmtree(OUTPUTS_DIR)
     
     run_phase_0_generate_prompts()
     run_phase_1_evaluation()
     run_phase_2_annotation()
     run_phase_3_analysis()
+    
+    # 新增归档步骤
+    archive_results()
     
     print("\n🎉 全部流程执行结束！")
 
