@@ -44,7 +44,8 @@ MAX_FIRST_PASS_RETRIES = 5      # 第一阶段最大尝试次数
 MAX_RETRY_RETRIES = 0           # 失败重试次数，0 表示无限重试直至成功
 MAX_WORKERS = 10                 # 翻译并发数
 API_RATE_LIMIT = 2.0            # 翻译 API 调用最小间隔（秒）
-EMBEDDER_PATH = "D:/hf_models/manual_download/" # 你的本地 embedding 模型路径
+# 嵌入模型路径（直接使用 Hugging Face 的模型名称）
+EMBEDDER_PATH = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 # 线程安全锁 (用于翻译阶段)
 print_lock = threading.Lock()
@@ -57,7 +58,7 @@ client = OpenAI(api_key=API_KEY, base_url=API_BASE_URL)
 
 # 加载语义相似度模型 (初始化放全局以避免多线程重复加载)
 print("Loading Embedding Model...")
-embedder = SentenceTransformer(EMBEDDER_PATH, local_files_only=True)
+embedder = SentenceTransformer(EMBEDDER_PATH)
 print("Embedding Model Loaded.")
 
 
