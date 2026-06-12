@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-12T12:01:28.557Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "自律！46岁马宁：现在体脂率控制在11%左右 40岁以后红肉一口不吃",
+      "author": "新浪新闻综合",
+      "hot": 17,
+      "timestamp": 1781221161000,
+      "url": "https://news.sina.com.cn/o/2026-06-11/doc-iniazyem3940447.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-11/doc-iniazyem3940447.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "12秒75，美国选手撒普打破男子110米栏世界纪录 刘翔曾是该项目的世界纪录保持者",
+      "author": "红星新闻",
+      "hot": 17,
+      "timestamp": 1781203962000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-iniaztwn2287772.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-iniaztwn2287772.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "去世两个月前，河野洋平：家人虽反对，但我还想最后去趟中国",
+      "author": "观察者网",
+      "hot": 1814,
+      "timestamp": 1781217257000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-inicaeni3849820.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-inicaeni3849820.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "电网建设力度加码 上市公司订单丰收",
+      "author": "证券日报",
+      "hot": 1851,
+      "timestamp": 1781247773000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicakuf3787727.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicakuf3787727.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "人和占尽啊！最后一攻 唐斯提醒球迷靠近施压哈珀 侵占其传球空间",
+      "author": "NBA综合",
+      "hot": 1900,
+      "timestamp": 1781252783000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicazrz0356261.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicazrz0356261.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "女友晒亚马尔躺在床上敷面膜照片：他能以完美状态踢世界杯，大家不用担心",
+      "author": "成都商报",
+      "hot": 1907,
+      "timestamp": 1781268845000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfq5090450.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfq5090450.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "世界杯揭幕赛第22分钟，主裁判突然吹停比赛提醒该 “喝水了”，专家：强制补水新规是全新探索，深刻影响足球运动未来数十年发展路径",
+      "author": "极目新闻",
+      "hot": 1931,
+      "timestamp": 1781258533000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-iniccfxx0298442.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-iniccfxx0298442.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "股海导航_2026年6月12日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 1948,
+      "timestamp": 1781248405000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-12/doc-inicazrx3546540.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-06-12/doc-inicazrx3546540.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "伊拉克称打死2名极端组织“伊斯兰国”成员 包括一名头目",
+      "author": "央视",
+      "hot": 1963,
+      "timestamp": 1781241726000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaraf0495913.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaraf0495913.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "习近平总书记重要论述引领中国特色的向海图强之路",
+      "author": "新华社",
+      "hot": 1968,
+      "timestamp": 1781254369000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-12/doc-inicazrz0374693.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-12/doc-inicazrz0374693.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "字节系终于杀入造车腹地",
+      "author": "市场资讯",
+      "hot": 2128,
+      "timestamp": 1781252634000,
+      "url": "https://finance.sina.com.cn/stock/auto/2026-06-12/doc-inicakui0564287.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/auto/2026-06-12/doc-inicakui0564287.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "世界杯开幕！揭幕战墨西哥2-0南非！券商关注A股啤酒等板块",
+      "author": "每日经济新闻",
+      "hot": 2128,
+      "timestamp": 1781251057000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-12/doc-inicazrz0337235.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-06-12/doc-inicazrz0337235.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "女子外卖备注牛蛙不要烧 结果收到一兜活泼乱跳的牛蛙 商家：以为考验是预制菜",
+      "author": "快科技",
+      "hot": 2135,
+      "timestamp": 1781257254000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccfxx0280909.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccfxx0280909.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "阿兹特克体育场：七百年后的足球神庙",
+      "author": "成都商报",
+      "hot": 2144,
+      "timestamp": 1781253691000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicazrx3575098.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicazrx3575098.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
+      "author": "澎湃新闻",
+      "hot": 2220,
+      "timestamp": 1781263308000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccfxv3583045.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccfxv3583045.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "足彩彩果：美加墨世界杯开战 墨西哥2-0南非",
+      "author": "新浪彩票",
+      "hot": 2249,
+      "timestamp": 1781248808000,
+      "url": "https://sports.sina.com.cn/l/2026-06-12/doc-inicazrw1874729.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-12/doc-inicazrw1874729.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "打响主要经济体第一枪！欧洲央行宣布重启加息",
+      "author": "中国证券报",
+      "hot": 2271,
+      "timestamp": 1781249178000,
+      "url": "https://finance.sina.com.cn/world/gjcj/2026-06-12/doc-inicazrx3551672.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/gjcj/2026-06-12/doc-inicazrx3551672.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "韦伯谈马刺被逆转：这是我见过最蠢的比赛 就像是在跟圆锥筒打球",
+      "author": "NBA综合",
+      "hot": 2279,
+      "timestamp": 1781256677000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxs5049101.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxs5049101.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "财经早报：特朗普称取消原定对伊朗的打击行动，称美伊协议进最后定稿阶段有望本周末签署丨2026年6月11日",
+      "author": "新浪证券",
+      "hot": 2292,
+      "timestamp": 1781249487000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-12/doc-inicazrw1878636.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-06-12/doc-inicazrw1878636.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "钉钉换帅后，《置身钉内》作者再发文：无效的形式化工时既消耗人力，也与技术发展的初衷相悖",
+      "author": "新浪科技",
+      "hot": 2358,
+      "timestamp": 1781251255000,
+      "url": "https://finance.sina.com.cn/tech/2026-06-12/doc-inicazrx3566070.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/2026-06-12/doc-inicazrx3566070.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "炒作“中国间谍威胁”，典型的贼喊捉贼",
+      "author": "环球网",
+      "hot": 2380,
+      "timestamp": 1781245877000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-12/doc-inicavkc0435806.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-12/doc-inicavkc0435806.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "塞尔维亚总统武契奇表示计划辞职",
+      "author": "央视",
+      "hot": 2411,
+      "timestamp": 1781279591000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-iniccspt0284385.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-iniccspt0284385.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "船记：NBA确认哈特先犯规的卡斯尔 后者当时本该获得两次罚球",
+      "author": "NBA综合",
+      "hot": 2452,
+      "timestamp": 1781256727000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxv3496512.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxv3496512.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "SpaceX上市进行时，火星生活离我们还有多远？",
+      "author": "澎湃新闻",
+      "hot": 2458,
+      "timestamp": 1781249856000,
+      "url": "https://finance.sina.com.cn/world/2026-06-12/doc-inicazrz0322576.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-12/doc-inicazrz0322576.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "香港一对母女接连坠楼身亡，女儿仅12岁，现场未留遗书 警方披露细节",
+      "author": "红星新闻",
+      "hot": 2460,
+      "timestamp": 1781209083000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazyem3909833.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazyem3909833.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "泰国公主帕查拉吉迪雅帕逝世，享年47岁，上将军衔，曾担任驻外大使等职务，昏迷三年多，多器官受感染影响",
+      "author": "新浪新闻综合",
+      "hot": 2483,
+      "timestamp": 1781257506000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-iniccfxx0276721.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-iniccfxx0276721.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "凌晨，全线暴涨！重大利好突袭！美伊大变局",
+      "author": "券商中国",
+      "hot": 2500,
+      "timestamp": 1781249157000,
+      "url": "https://finance.sina.com.cn/world/2026-06-12/doc-inicazrx3551557.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-12/doc-inicazrx3551557.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "卡塔尔埃米尔与美国总统通电话 讨论美伊磋商进展",
+      "author": "央视",
+      "hot": 2570,
+      "timestamp": 1781241813000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicarac3718598.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicarac3718598.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "世界杯揭幕战看台下起的“草帽雨”是怎么来的？",
+      "author": "成都商报",
+      "hot": 2576,
+      "timestamp": 1781268816000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfv0296302.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfv0296302.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "特朗普称美伊协议进入最后定稿阶段 有望本周末签署",
+      "author": "央视",
+      "hot": 2602,
+      "timestamp": 1781241847000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaqzy5260055.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaqzy5260055.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美国解除制裁、从伊朗周边撤军，两国14点谅解备忘录新细节曝光",
+      "author": "界面新闻",
+      "hot": 2695,
+      "timestamp": 1781282140000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-iniccwvu8926698.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-iniccwvu8926698.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "6月12日收盘：美股收高道指上涨930点，特朗普称美伊很快将签署协议",
+      "author": "环球市场播报",
+      "hot": 2697,
+      "timestamp": 1781237288000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5265023.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5265023.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "史上最大IPO，发行价定了",
+      "author": "市场资讯",
+      "hot": 2747,
+      "timestamp": 1781252098000,
+      "url": "https://finance.sina.com.cn/stock/newstock/2026-06-12/doc-inicazrx3574339.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/newstock/2026-06-12/doc-inicazrx3574339.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "韩媒评孙兴慜表现：第四届世界杯之旅开局令人失望！今天不属于他",
+      "author": "新浪新闻综合",
+      "hot": 2783,
+      "timestamp": 1781266037000,
+      "url": "https://news.sina.com.cn/zx/2026-06-12/doc-iniccnfs1827494.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-12/doc-iniccnfs1827494.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "高考物理变难，时代变了，国家拼命加码理工科",
+      "author": "市场资讯",
+      "hot": 3111,
+      "timestamp": 1781250202000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicazrx3557588.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicazrx3557588.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "实地探访 颠覆固有发展印象——巴基斯坦宗教人士代表团参访新疆",
+      "author": "新疆日报",
+      "hot": 3136,
+      "timestamp": 1781257390000,
+      "url": "https://news.sina.com.cn/gov/2026-06-12/doc-iniccfxu1838804.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-06-12/doc-iniccfxu1838804.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "缅甸总统敏昂莱将对中国进行国事访问",
+      "author": "新华社",
+      "hot": 3136,
+      "timestamp": 1781276569000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspn5073070.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspn5073070.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "辣眼睛！马斯克半裸充气像惊现时代广场，首富本人回应",
+      "author": "环球市场播报",
+      "hot": 3156,
+      "timestamp": 1781253530000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicazru5141833.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicazru5141833.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美财政部以协助伊朗购买军品为由制裁中方个人及实体，外交部回应",
+      "author": "证券时报网",
+      "hot": 3157,
+      "timestamp": 1781278589000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspr3530046.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspr3530046.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "G4裁判报告：卡斯尔出界前先被犯规！老六未回场 OG盖福克斯好帽",
+      "author": "NBA综合",
+      "hot": 3190,
+      "timestamp": 1781252792000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicazru5133266.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicazru5133266.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "伊媒公布伊美谅解备忘录草案新细节",
+      "author": "新京报",
+      "hot": 3212,
+      "timestamp": 1781280899000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-iniccwvp3435185.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-iniccwvp3435185.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "李强主持召开国务院常务会议",
+      "author": "证券日报",
+      "hot": 3223,
+      "timestamp": 1781246388000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicavkc0439942.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-inicavkc0439942.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "咖位照妖镜！悉尼妹傲人身材吸睛亮相",
+      "author": "NBA综合",
+      "hot": 3334,
+      "timestamp": 1781256993000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxu1831993.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-iniccfxu1831993.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "金价跌破900元大关，记者实探：金店生意火爆，有人连续一个月抄底失败",
+      "author": "封面新闻",
+      "hot": 3344,
+      "timestamp": 1781249811000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrw1881251.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrw1881251.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "伊朗外交部：尚未就伊美协议达成最终结论",
+      "author": "央视",
+      "hot": 3401,
+      "timestamp": 1781242173000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaviz3613616.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaviz3613616.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "世界杯开门红 韩国赢得让人心服口服",
+      "author": "新浪体育讯",
+      "hot": 3660,
+      "timestamp": 1781273577000,
+      "url": "https://sports.sina.com.cn/china/2026-06-12/doc-iniccspn5035462.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/china/2026-06-12/doc-iniccspn5035462.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "7.52万箱“特供酒”被查获！忽悠消费者“邪招”要警惕",
+      "author": "央视",
+      "hot": 3861,
+      "timestamp": 1781271310000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccnfq5135011.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccnfq5135011.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "中方宣布制裁特奥多罗是否会影响未来对菲援助？外交部回应",
+      "author": "环球网",
+      "hot": 3917,
+      "timestamp": 1781277944000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-12/doc-iniccspr3520659.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-12/doc-iniccspr3520659.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "3张红牌创纪录！世界杯揭幕战墨西哥2比0胜南非",
+      "author": "北京日报客户端",
+      "hot": 3962,
+      "timestamp": 1781248417000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrx3546619.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrx3546619.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "巴拉圭核心缺阵难作为 数据:美国小胜迎开门红",
+      "author": "新浪彩票",
+      "hot": 3973,
+      "timestamp": 1781245801000,
+      "url": "https://sports.sina.com.cn/l/2026-06-12/doc-iniazyem3937011.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-12/doc-iniazyem3937011.shtml"
+    }
+  ]
+}
