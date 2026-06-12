@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-12T00:01:23.787Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "自律！46岁马宁：现在体脂率控制在11%左右 40岁以后红肉一口不吃",
+      "author": "新浪新闻综合",
+      "hot": 17,
+      "timestamp": 1781221161000,
+      "url": "https://news.sina.com.cn/o/2026-06-11/doc-iniazyem3940447.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-11/doc-iniazyem3940447.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "12秒75，美国选手撒普打破男子110米栏世界纪录 刘翔曾是该项目的世界纪录保持者",
+      "author": "红星新闻",
+      "hot": 17,
+      "timestamp": 1781203962000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-iniaztwn2287772.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-iniaztwn2287772.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "[新浪彩票]足彩26085期冷热指数：荷兰日本分胜负",
+      "author": "新浪彩票",
+      "hot": 106,
+      "timestamp": 1781173801000,
+      "url": "https://sports.sina.com.cn/l/2026-06-11/doc-iniaywsw2403164.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-11/doc-iniaywsw2403164.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "美国五角大楼发生“危险品事件” 部分区域被封锁",
+      "author": "澎湃新闻",
+      "hot": 106,
+      "timestamp": 1781221328000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5414483.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5414483.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "竞彩欧亚对照：墨西哥揭幕战盘口存差异",
+      "author": "新浪彩票",
+      "hot": 108,
+      "timestamp": 1781174548000,
+      "url": "https://sports.sina.com.cn/l/2026-06-11/doc-iniazayx0805548.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-11/doc-iniazayx0805548.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "玉渊谭天：该警惕日本的，不只是中国",
+      "author": "央视",
+      "hot": 109,
+      "timestamp": 1781164504000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniayskw5616235.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniayskw5616235.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "伊朗议长警告美国或再陷战争泥潭",
+      "author": "央视",
+      "hot": 109,
+      "timestamp": 1781228953000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicakue2116082.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicakue2116082.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "特朗普：解除霍尔木兹海峡封锁是与伊朗协议的一部分",
+      "author": "环球市场播报",
+      "hot": 116,
+      "timestamp": 1781237843000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5267987.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5267987.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "墨西哥2-0领先十人南非！35岁希门尼斯头球破门，随后激动落泪",
+      "author": "新浪新闻综合",
+      "hot": 121,
+      "timestamp": 1781239451000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicaraa2054029.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicaraa2054029.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "美加墨首张红牌！古铁雷斯造红牌，西索尔被罚下！南非十人作战",
+      "author": "新浪新闻综合",
+      "hot": 122,
+      "timestamp": 1781238276000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicaraa2047379.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicaraa2047379.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "12岁女生总是喊累，结果让人倒吸一口凉气……医生提醒",
+      "author": "极目新闻",
+      "hot": 123,
+      "timestamp": 1781199835000,
+      "url": "https://news.sina.com.cn/s/2026-06-11/doc-iniaztwk5448664.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-11/doc-iniaztwk5448664.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "极兔速递被立案",
+      "author": "中国新闻网",
+      "hot": 124,
+      "timestamp": 1781178125000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazayv4082545.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazayv4082545.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "【中国那些事儿】从街头到赛场：中国智造“律动”世界杯",
+      "author": "中国日报网",
+      "hot": 124,
+      "timestamp": 1781204586000,
+      "url": "https://news.sina.com.cn/zx/gj/2026-06-11/doc-iniaztwk5518783.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/gj/2026-06-11/doc-iniaztwk5518783.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "6月12日外盘头条：特朗普取消原定对伊朗的军事打击 并称很快签署协议 SpaceX创下史上最大规模IPO",
+      "author": "环球市场播报",
+      "hot": 127,
+      "timestamp": 1781242404000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaviw5171235.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaviw5171235.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "竞彩大势：关注南非赢下数据 捷克不败可期",
+      "author": "新浪彩票",
+      "hot": 129,
+      "timestamp": 1781163741000,
+      "url": "https://sports.sina.com.cn/l/2026-06-11/doc-iniaysmc0925830.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-11/doc-iniaysmc0925830.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "考辛斯：福克斯最后时刻应该扣篮 他是联盟最有爆发力的后卫之一",
+      "author": "NBA综合",
+      "hot": 135,
+      "timestamp": 1781220361000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-11/doc-inicaene5408035.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-11/doc-inicaene5408035.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "狂人归来！官方：穆里尼奥出任皇马主帅，时隔13年重返伯纳乌！",
+      "author": "新浪新闻综合",
+      "hot": 135,
+      "timestamp": 1781230635000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicakuf3818999.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicakuf3818999.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "阿联酋和伊朗官员举行面对面会谈",
+      "author": "北京日报客户端",
+      "hot": 136,
+      "timestamp": 1781220331000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5405079.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5405079.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "特朗普：美国11日晚将重创伊朗并控制其石油市场",
+      "author": "新华国际",
+      "hot": 137,
+      "timestamp": 1781209932000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-iniazyep0694518.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-iniazyep0694518.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "两名中国男子因参与曼谷爆炸案被泰国法院判处死刑，外交部：支持泰方依法审判，严惩凶手",
+      "author": "红星新闻",
+      "hot": 138,
+      "timestamp": 1781194103000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0789488.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0789488.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "特朗普：如果签署协议 哈尔克岛将不会成为打击目标",
+      "author": "环球市场播报",
+      "hot": 138,
+      "timestamp": 1781237895000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaraa2045400.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaraa2045400.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "《习近平外交文选》第一卷、第二卷出版发行",
+      "author": "新华社",
+      "hot": 140,
+      "timestamp": 1781208777000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-11/doc-iniazyem3907185.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-11/doc-iniazyem3907185.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "影石Luna Ultra影像解析：夜景能力给到夯",
+      "author": "新浪数码",
+      "hot": 140,
+      "timestamp": 1781220761000,
+      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-06-11/doc-inicaenh2189047.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/mobile/n/c/2026-06-11/doc-inicaenh2189047.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "“施袭者毫无人性，罪大恶极”，中方：支持泰方依法审判，严惩凶手",
+      "author": "环球网",
+      "hot": 145,
+      "timestamp": 1781206296000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqq2271921.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqq2271921.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "“一鲸落，万物生”具像化了：人类发现迄今最大最深“鲸鱼墓地”",
+      "author": "成都商报",
+      "hot": 148,
+      "timestamp": 1781190997000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazihq5571785.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazihq5571785.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "搭乘AI浪潮顺风车还是为美股严重回调布局 对冲基金看法不一",
+      "author": "环球市场播报",
+      "hot": 150,
+      "timestamp": 1781222330000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-inicaenm0668227.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-inicaenm0668227.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美国为何突然对伊发起“恶毒而暴力”的空袭，伊朗新领导层行为方式发生彻底改变",
+      "author": "成都商报",
+      "hot": 154,
+      "timestamp": 1781182846000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-iniazayx0900988.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-iniazayx0900988.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "携程等7家涉火车票销售第三方平台被约谈",
+      "author": "央视新闻客户端",
+      "hot": 155,
+      "timestamp": 1781197266000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqq2328528.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqq2328528.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁",
+      "author": "外交部网站",
+      "hot": 157,
+      "timestamp": 1781208594000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniazyeh5431134.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniazyeh5431134.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "美记：阿努诺比的补篮改变了一切 系列赛的氛围发生了变化",
+      "author": "NBA综合",
+      "hot": 161,
+      "timestamp": 1781231159000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicakuf3821945.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-12/doc-inicakuf3821945.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "总书记关心的世界级非遗｜灵枢妙法济苍生",
+      "author": "新华社",
+      "hot": 165,
+      "timestamp": 1781209055000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-11/doc-iniazyek2212673.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-11/doc-iniazyek2212673.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "外交部：日本已经摘下所谓“和平国家”的面具",
+      "author": "新浪新闻综合",
+      "hot": 173,
+      "timestamp": 1781191802000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0755105.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0755105.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "“美军袭击，3名印度人确认死亡”",
+      "author": "环球时报",
+      "hot": 174,
+      "timestamp": 1781227515000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaeni3885769.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaeni3885769.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "特朗普称伊朗各方均已批准美伊协议 知情人士：伊朗并未批准",
+      "author": "央视",
+      "hot": 181,
+      "timestamp": 1781242052000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaraf0505205.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaraf0505205.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "SpaceX IPO定价为每股135美元 创史上最大规模IPO",
+      "author": "环球市场播报",
+      "hot": 182,
+      "timestamp": 1781236296000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaraa2036690.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaraa2036690.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "2026年美加墨世界杯正式开幕",
+      "author": "央视新闻客户端",
+      "hot": 190,
+      "timestamp": 1781229476000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicakue2127073.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicakue2127073.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "《奔跑吧》再引争议！被指曾在雪山放焰火，当地回应",
+      "author": "新浪新闻综合",
+      "hot": 192,
+      "timestamp": 1781199720000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwr0720438.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwr0720438.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "美国五角大楼被封锁 危险品处理小组正赶往现场",
+      "author": "新浪新闻综合",
+      "hot": 193,
+      "timestamp": 1781219612000,
+      "url": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5401462.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-11/doc-inicaene5401462.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "电讯报：狼队突然解雇主教练爱德华兹，惹怒了全队球员",
+      "author": "新浪新闻综合",
+      "hot": 195,
+      "timestamp": 1781220861000,
+      "url": "https://news.sina.com.cn/o/2026-06-11/doc-inicaeni3868194.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-11/doc-inicaeni3868194.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "美加墨世界杯首球诞生！墨西哥球员基尼奥内斯开场9分钟打进首球",
+      "author": "新浪新闻综合",
+      "hot": 196,
+      "timestamp": 1781235678000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicarac3715783.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicarac3715783.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "美加墨世界杯开幕式北京时间6月12日凌晨1点半开始：夏奇拉将演唱官方主题曲《Dai Dai》，坐标：墨西哥城阿兹台克体育场",
+      "author": "看看新闻Knews",
+      "hot": 196,
+      "timestamp": 1781214089000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniazyeh5480131.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniazyeh5480131.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "湖南省浏阳市应急管理局党委副书记、局长杨海被查",
+      "author": "界面新闻",
+      "hot": 204,
+      "timestamp": 1781200578000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp3955351.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp3955351.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "最新训练画面！南昌舰西宁舰实训气场全开",
+      "author": "央视新闻客户端",
+      "hot": 206,
+      "timestamp": 1781199190000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp3939077.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp3939077.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "中共中央政治局委员、外交部长王毅将访问蒙古国",
+      "author": "新浪新闻综合",
+      "hot": 207,
+      "timestamp": 1781191119000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0743758.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniazpqt0743758.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "午盘：芯片板块带动美股反弹 纳指涨逾0.6%",
+      "author": "环球市场播报",
+      "hot": 211,
+      "timestamp": 1781223012000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaenm0674052.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaenm0674052.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
+      "author": "新浪新闻综合",
+      "hot": 211,
+      "timestamp": 1781205287000,
+      "url": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp4007660.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-11/doc-iniaztwp4007660.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "新浪彩票名家大乐透第26065期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 215,
+      "timestamp": 1781192404000,
+      "url": "https://sports.sina.com.cn/l/2026-06-11/doc-iniazpqq2264071.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-11/doc-iniazpqq2264071.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "原油：油价下挫 特朗普暗示美伊协议即将达成",
+      "author": "环球市场播报",
+      "hot": 217,
+      "timestamp": 1781238406000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicarac3729946.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicarac3729946.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "伊朗正在评估将马斯克旗下企业纳入军事目标清单",
+      "author": "北京日报客户端",
+      "hot": 220,
+      "timestamp": 1781228619000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-inicaenm0666953.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-inicaenm0666953.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "尾盘：道指大涨850点，油价大幅下跌",
+      "author": "环球市场播报",
+      "hot": 220,
+      "timestamp": 1781232887000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5240613.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicaqzy5240613.shtml"
+    }
+  ]
+}
