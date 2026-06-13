@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-13T00:01:25.571Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "应急管理部针对江西、广东、广西启动国家地质灾害四级应急响应",
+      "author": "央视",
+      "hot": 33,
+      "timestamp": 1781294354000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniceccs8965995.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniceccs8965995.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "省委常委会召开会议",
+      "author": "四川日报",
+      "hot": 135,
+      "timestamp": 1781326148000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-iniceyia9919223.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-iniceyia9919223.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "“历史终结论”，被历史打脸",
+      "author": "长安街知事",
+      "hot": 135,
+      "timestamp": 1781253452000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-inicavkc0433550.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-inicavkc0433550.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "新浪彩票双色球名家第26067期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 136,
+      "timestamp": 1781278350000,
+      "url": "https://sports.sina.com.cn/l/2026-06-12/doc-iniccspr3526692.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-12/doc-iniccspr3526692.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "SpaceX成华尔街史上规模最大交易行情之一",
+      "author": "环球市场播报",
+      "hot": 139,
+      "timestamp": 1781311920000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptn8848517.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptn8848517.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "中外质量管理协同赋能新质生产力跃升",
+      "author": "中国质量报",
+      "hot": 140,
+      "timestamp": 1781310242000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicepti0104764.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicepti0104764.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "武汉通报昌盛泡花碱厂有关问题调查处理情况",
+      "author": "界面新闻",
+      "hot": 142,
+      "timestamp": 1781285642000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccwvu8980194.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccwvu8980194.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "特朗普AI视频引日本不满 日官员：强烈希望同样的事不要再次发生",
+      "author": "新京报",
+      "hot": 153,
+      "timestamp": 1781312642000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3307675.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3307675.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美国和伊朗暗示和平协议即将达成，德黑兰方面宣称取得胜利",
+      "author": "环球市场播报",
+      "hot": 153,
+      "timestamp": 1781329339000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8683059.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8683059.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "悲痛！甘肃一特警大队长执行任务过程中不幸因公牺牲，年仅44岁",
+      "author": "成都商报",
+      "hot": 155,
+      "timestamp": 1781313671000,
+      "url": "https://news.sina.com.cn/c/2026-06-13/doc-iniceptf3315739.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-13/doc-iniceptf3315739.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "从李清照颠沛护藏看文化传承",
+      "author": "滚动播报",
+      "hot": 159,
+      "timestamp": 1781323532000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-iniceyif1869694.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-iniceyif1869694.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+      "author": "央视",
+      "hot": 161,
+      "timestamp": 1781327755000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-iniceyih8657297.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-iniceyih8657297.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "赢or回家！总决赛G5马刺迎战尼克斯 科内特因病出战成疑",
+      "author": "NBA综合",
+      "hot": 163,
+      "timestamp": 1781328515000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-13/doc-iniceyih8675185.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-13/doc-iniceyih8675185.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "涉嫌强奸！官方：托马斯被拒绝入境加拿大，无缘出战世界杯首战",
+      "author": "新浪新闻综合",
+      "hot": 167,
+      "timestamp": 1781319920000,
+      "url": "https://news.sina.com.cn/o/2026-06-13/doc-inicetzi1982951.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-13/doc-inicetzi1982951.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美国官员：伊朗协议将实现特朗普的目标",
+      "author": "环球市场播报",
+      "hot": 171,
+      "timestamp": 1781324947000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9914392.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9914392.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "加拿大开幕式翻车！大力神杯气球充气装置故障，气球升起后变瘪",
+      "author": "新浪新闻综合",
+      "hot": 173,
+      "timestamp": 1781320128000,
+      "url": "https://news.sina.com.cn/o/2026-06-13/doc-inicetzf0024566.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-13/doc-inicetzf0024566.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "世界杯揭幕战看台下起的“草帽雨”是怎么来的？",
+      "author": "成都商报",
+      "hot": 176,
+      "timestamp": 1781268816000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfv0296302.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfv0296302.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "SpaceX开盘后股价突破160美元，总市值超2万亿美元",
+      "author": "环球市场播报",
+      "hot": 185,
+      "timestamp": 1781309048000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptn8832784.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptn8832784.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "内塔尼亚胡强硬发声：只要我还是以色列总理，伊朗就绝不能拥有核武器",
+      "author": "北京日报客户端",
+      "hot": 189,
+      "timestamp": 1781314293000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3329318.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3329318.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "塞尔维亚总统武契奇表示计划辞职",
+      "author": "央视",
+      "hot": 190,
+      "timestamp": 1781279591000,
+      "url": "https://news.sina.com.cn/w/2026-06-12/doc-iniccspt0284385.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-12/doc-iniccspt0284385.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "午盘：美股涨跌不一 SpaceX市值超2万亿美元",
+      "author": "环球市场播报",
+      "hot": 193,
+      "timestamp": 1781308917000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptm2054501.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptm2054501.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "小阔科技收到证监会境外上市备案反馈意见 要求说明股权变动、外资准入及产品合规等问题",
+      "author": "新浪港股-好仓工作室",
+      "hot": 194,
+      "timestamp": 1781299224000,
+      "url": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-12/doc-iniceimp2113530.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-12/doc-iniceimp2113530.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "证监会：同意长鑫科技集团股份有限公司首次公开发行股票注册",
+      "author": "中国证监会网站",
+      "hot": 195,
+      "timestamp": 1781289943000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-12/doc-iniceccm3418974.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-06-12/doc-iniceccm3418974.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "美国解除制裁、从伊朗周边撤军，两国14点谅解备忘录新细节曝光",
+      "author": "界面新闻",
+      "hot": 198,
+      "timestamp": 1781282140000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-iniccwvu8926698.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-12/doc-iniccwvu8926698.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "6月12日增减持汇总：交大昂立、上海凯宝披露增持情况，智新电子等9股拟减持（表）",
+      "author": "新浪证券",
+      "hot": 201,
+      "timestamp": 1781303184000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-12/doc-iniceimq8928268.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-06-12/doc-iniceimq8928268.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "美国联邦通信委员会宣布有条件批准部分无人机系统和路由器。",
+      "author": "滚动播报",
+      "hot": 202,
+      "timestamp": 1781322607000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-13/doc-iniceyif1865132.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-13/doc-iniceyif1865132.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "日媒：韩国将申请加入CPTPP，日本将予以支持",
+      "author": "观察者网",
+      "hot": 211,
+      "timestamp": 1781313580000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3313820.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-iniceptf3313820.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "缅甸总统敏昂莱将对中国进行国事访问",
+      "author": "新华社",
+      "hot": 213,
+      "timestamp": 1781276569000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspn5073070.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspn5073070.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "华为抢走了英伟达的剧本",
+      "author": "中国企业家",
+      "hot": 216,
+      "timestamp": 1781251267000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-12/doc-inicazrx3566215.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-12/doc-inicazrx3566215.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "韩国2比1逆转！亚洲球队美加墨世界杯首胜来了！",
+      "author": "澎湃新闻",
+      "hot": 224,
+      "timestamp": 1781265453000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccnfv0259826.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccnfv0259826.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "中方：这是当今世界最大的不公",
+      "author": "牛弹琴",
+      "hot": 224,
+      "timestamp": 1781293311000,
+      "url": "https://news.sina.com.cn/o/2026-06-12/doc-inicazrz0322962.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-12/doc-inicazrz0322962.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "多人使用炸药盗掘楚国考烈王墓 盗墓者最高获刑十三年八个月",
+      "author": "红星新闻",
+      "hot": 224,
+      "timestamp": 1781284658000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccwvr0261095.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccwvr0261095.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "外交部谈中方制裁菲律宾国防部长及其亲属",
+      "author": "新华社",
+      "hot": 227,
+      "timestamp": 1781277827000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspq1871085.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccspq1871085.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "央行：前五个月人民币存款增加15.77万亿元",
+      "author": "证券时报网",
+      "hot": 251,
+      "timestamp": 1781284373000,
+      "url": "https://news.sina.com.cn/c/2026-06-12/doc-iniccwvu8959804.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-12/doc-iniccwvu8959804.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "诺令生物收到证监会境外上市备案反馈意见 要求说明股权激励合规性等问题",
+      "author": "新浪港股-好仓工作室",
+      "hot": 255,
+      "timestamp": 1781299223000,
+      "url": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-12/doc-iniceimp2113523.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/aigc/ggxg/zjhfk/2026-06-12/doc-iniceimp2113523.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "中韩围棋经典对决 银丰外援申旻埈续写LG杯传奇",
+      "author": "新浪体育综合",
+      "hot": 255,
+      "timestamp": 1781287881000,
+      "url": "https://sports.sina.com.cn/go/2026-06-12/doc-iniccwvr0300525.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/go/2026-06-12/doc-iniccwvr0300525.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "一封7万字离职帖：“已读”执念，压倒“钉钉之父”",
+      "author": "新京报",
+      "hot": 259,
+      "timestamp": 1781255348000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrx3545075.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-inicazrx3545075.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+      "author": "央视",
+      "hot": 280,
+      "timestamp": 1781327718000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-iniceyhz3136300.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-iniceyhz3136300.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "世界杯遇冷，是FIFA的错还是时代的锅",
+      "author": "成都商报",
+      "hot": 283,
+      "timestamp": 1781272825000,
+      "url": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfq5150028.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-12/doc-iniccnfq5150028.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "6月13日美股成交额前20：SpaceX登陆纳斯达克，市值突破2万亿美元",
+      "author": "环球市场播报",
+      "hot": 307,
+      "timestamp": 1781326807000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9921689.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9921689.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "SpaceX上市首日收涨19% 第一天市值跃居全球第六",
+      "author": "环球市场播报",
+      "hot": 311,
+      "timestamp": 1781328515000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9934181.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9934181.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "SpaceX成功上市 马斯克成为全球首位万亿美元富翁",
+      "author": "环球市场播报",
+      "hot": 316,
+      "timestamp": 1781309385000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptf3324172.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptf3324172.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "世界杯出现大量空座，票价再引争议",
+      "author": "环球时报",
+      "hot": 326,
+      "timestamp": 1781314057000,
+      "url": "https://news.sina.com.cn/w/2026-06-13/doc-inicepti0097472.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-13/doc-inicepti0097472.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "SpaceX开盘价较发行价高出11% 马斯克成全球首位万亿富豪",
+      "author": "环球市场播报",
+      "hot": 338,
+      "timestamp": 1781309063000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptm2055738.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptm2055738.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "SPACEX股价攀升至162美元，较IPO发行价上涨20%。",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1781308249000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-12/doc-iniceptn8829253.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-12/doc-iniceptn8829253.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "SpaceX，史上最大IPO，今晚登陆纳斯达克",
+      "author": "第一财经",
+      "hot": 359,
+      "timestamp": 1781281563000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-12/doc-iniccwvu8917212.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-06-12/doc-iniccwvu8917212.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "SpaceX IPO 投行费用超 5 亿美元",
+      "author": "滚动播报",
+      "hot": 370,
+      "timestamp": 1781311723000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-13/doc-iniceptm2070294.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-13/doc-iniceptm2070294.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "SpaceX股票收于160.95美元，创纪录IPO首日上涨19.22%，市值突破2万亿美元",
+      "author": "环球市场播报",
+      "hot": 404,
+      "timestamp": 1781323734000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1870389.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1870389.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "日本“再军事化”又发出一个危险信号",
+      "author": "央视",
+      "hot": 410,
+      "timestamp": 1781313531000,
+      "url": "https://news.sina.com.cn/o/2026-06-13/doc-inicepti0100930.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-13/doc-inicepti0100930.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "一见·“为中朝传统友谊注入新的时代内涵和强劲动力”",
+      "author": "人民日报",
+      "hot": 418,
+      "timestamp": 1781293371000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-12/doc-iniceccr2175102.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-12/doc-iniceccr2175102.shtml"
+    }
+  ]
+}
