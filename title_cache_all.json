@@ -23638,5 +23638,1553 @@
     "sensitive_reason": "涉及地缘政治冲突与国家对立，易引发群体情绪撕裂",
     "category": "Politics",
     "category_reason": "涉及外交冲突与地缘政治"
+  },
+  "66e37508472b617c8b2bc4b297dc1a26": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "799d0e1ba6d572b7dae7a6b17bb2e03e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "11a5d49c6e9929a4b1c769259b2ca2ee": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "cfe9177c2315b5819861063ea01079c2": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "0eec3646295acb9f77bc635503f1b4ae": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7ef5be4ceac9bb1e432f5bdba03bd517": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "114b643a16ecb0173e7aa5fe3c7db1f1": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "df722b015ac8ef8c9b113f8504c946a7": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "9fb642a38f2c70bd0f01f277366c53bd": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "1947bf9708fff32cd655669373ac434e": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观结果报道，无社会争议或伦理讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "9dcb6c5364b7f97478b91c09b8523b54": {
+    "level": 1,
+    "sensitive_reason": "文化娱乐内容，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "7697c9928792dcb3ba4270ab46cc63b6": {
+    "level": 1,
+    "sensitive_reason": "正面情感主题，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "d1d16f5de9c05a0bd5bb52314e7cc59d": {
+    "level": 1,
+    "sensitive_reason": "普通商业动态报道，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "1a62251c2ab621083039daa6d458179d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "4f9348368cedbcfa0917c1217f1e1fa0": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d72da13128f6d52eb0a04b0993736db8": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "0a88eeb724198d11a17fc978f3e79db7": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "62bec065e9bd8eb6f44ea03f26d85bfc": {
+    "level": 1,
+    "sensitive_reason": "娱乐产品发布，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "4700691c8eae1468d01dc556b3cfa697": {
+    "level": 1,
+    "sensitive_reason": "客观体育赛事成就，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "a3ebd106bfd03ac7ab8225820f014ba1": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "72f06e684aa49123d24d2d1383f7cfb6": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "c47899caec15a2828b975f0f8435699e": {
+    "level": 1,
+    "sensitive_reason": "艺术娱乐内容，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "59641218ef04a26c64713b7aa28fb3c3": {
+    "level": 5,
+    "sensitive_reason": "涉及基因改造伦理与极端道德风险讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "74deedf12417222b3d96d3e0e40f3b04": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "24094a1f87090cd2c1b976f2ca0ee948": {
+    "level": 2,
+    "sensitive_reason": "体育赛事主观评论，轻微争议但不涉伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "60b33c4a2586492008d6439e878f656c": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "4eff12e12043b35c17a8367a0a1507e5": {
+    "level": 2,
+    "sensitive_reason": "涉及生活成本讨论，轻微社会影响",
+    "category": "",
+    "category_reason": ""
+  },
+  "0bcffea392c3ad3e931605fdc842cdb0": {
+    "level": 1,
+    "sensitive_reason": "客观经济动态，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "bf487c9f56d98d77a24ef50b77eb15da": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "5c51c5ccac183e36946ae10e87b425e6": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "175819745ad6c9f62fe6e9b8523b73e8": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "e13347b60ebb7dc42004fed24980d315": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "970840034ec667af335a34b9533afecc": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5c52219529fffcd99fb63e684e6d6fe8": {
+    "level": 2,
+    "sensitive_reason": "涉及农业创新与生计选择讨论，轻微主观争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "f953437441ae4e9c4fdfebc5da942963": {
+    "level": 2,
+    "sensitive_reason": "体育评论引发轻微主观分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "fb2faa89463e27d36e27a49b5ef0619d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "92659bd1edafb01778b523a69bc4e676": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "11ad68e45a2f8f9f991cbf33370fe7af": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观事实，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "655c19b5f657f2b8ec19da4e4dbd7a46": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "8568a90e3b47e7a5babc31ce48df0fb2": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "fb1fa6f1f7eac11ee6e53ae0df362d7f": {
+    "level": 1,
+    "sensitive_reason": "虚构内容，无伦理或社会冲突议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "99d6537581675e030d1d67b2e61e2130": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d2cde78dcc662c8b674085102b65dd81": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "19a990f1ddea7a834961b99051314b75": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "4c41d11737a678794ebaa464348e8417": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，属客观事实无争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d98ebbf89ef50d63763fadbf60575193": {
+    "level": 1,
+    "sensitive_reason": "旅行探险内容，无社会争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "281d70d70a732bef6134ece7e9b44b4b": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "dc358b2d855de34cb1b5fbc82c88102a": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7b03d98b63b279afd30db669dc55b491": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5a59b54505bd0e3a42e0e88a4150d25e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "1a52f9c9ae793c3c8e86bb27689afff2": {
+    "level": 2,
+    "sensitive_reason": "涉及教育选择与就业压力的轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "449540bb6e7d13c6bb4ea08d71f3a43d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "09a79c8548573567746f63950a6d6c76": {
+    "level": 4,
+    "sensitive_reason": "涉及性别歧视与劳动权益争议",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "a65522c0eda7b1078348226d572d2814": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "01b110a941b72d30ee2dbb8ca5c87da2": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "f8b267aa38d97980e94b42346538d6ce": {
+    "level": 1,
+    "sensitive_reason": "涉及天气自然现象，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "27fbd9deb46fd5a81253eb339db4df5d": {
+    "level": 1,
+    "sensitive_reason": "客观技术失误事件，不涉及社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "cb3e2e7286a8715f4e8a165b5a5f463a": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐活动，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "96139f25c0078c1ff016537876e7a6a2": {
+    "level": 1,
+    "sensitive_reason": "名人去世新闻，纯娱乐资讯无社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5eefb3d61f13cca6fb415c08861b32f0": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "faf7b67f81b985ee619121a8f61b045e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "778d5cdf9668fd266ee1c176c327715b": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "94c1ac0f3cd7389b7fc1506fd1dc5040": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "f79332cc7f882ce6fe67d21b896fde2d": {
+    "level": 1,
+    "sensitive_reason": "客观描述个人成就，不涉及伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "1535a2da58697ffe2d3c180cc301473c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "646cc4caccc908a3c92588e2813e9147": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "16cb855e3148535210f71d4d8e9fcefa": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，纯客观事实无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "02c2d129f082dfffc744c49ae3840cc9": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7054a202be25e94891d1ff4ed2c4134f": {
+    "level": 2,
+    "sensitive_reason": "涉及AI行业趋势与个人选择讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "c28a0dc2f23837b3b8a15e59491bc71b": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "916accee13e8cd9f99b69b1436605f09": {
+    "level": 1,
+    "sensitive_reason": "客观描述交通事故，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c6b146183755958d1b7ac43c0c5180f9": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "528a3973f53163b6d67d35f1cf18d93e": {
+    "level": 1,
+    "sensitive_reason": "体育赛事名单更新，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "095d89811bf408080980310991f831ff": {
+    "level": 3,
+    "sensitive_reason": "涉及消费公平与贫富差距讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "ec0c37ca48ed7123a3c6a1720e3af0a6": {
+    "level": 1,
+    "sensitive_reason": "个人消费行为，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "116bc6c9e929a39d9c9b6433a21a179f": {
+    "level": 1,
+    "sensitive_reason": "普通商业人事变动，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9f1faa07a9187d32bb277d25b9c63b5c": {
+    "level": 3,
+    "sensitive_reason": "涉及劳动权益与社会公平讨论",
+    "category": "Crime",
+    "category_reason": "涉及贷款欺诈与解雇不公"
+  },
+  "76667eba4eb2df2a31970297638c0c19": {
+    "level": 1,
+    "sensitive_reason": "纯游戏更新内容，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "35f94140492f1bc1a08276c897f81fff": {
+    "level": 3,
+    "sensitive_reason": "涉及劳动权益与社会公平讨论",
+    "category": "Ethics",
+    "category_reason": "涉及社会价值观冲突与职业伦理"
+  },
+  "a223e3f05f6c45101636a976df9597a2": {
+    "level": 1,
+    "sensitive_reason": "电子竞技赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9df71185cf08485d5a1c53f4cd7a5a7c": {
+    "level": 1,
+    "sensitive_reason": "体育娱乐活动，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "0e1ee292b8be2f5c9faf111279ab48f0": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d546443de8a3553bea2837b3b696a20c": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "0d24395805995fff3c9bf98f6fdc04dd": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "ec7e802eff17f49d7e4e149a937f7bb6": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "430f2999a0b24ab7abc1f87413192753": {
+    "level": 1,
+    "sensitive_reason": "客观文化展示，无伦理冲突或争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "e08ea586920a6b1494806cac8824d92e": {
+    "level": 2,
+    "sensitive_reason": "涉及医疗谣言辟谣，轻微公众讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "03f1a24f3479996d82a3b40238fe28e9": {
+    "level": 1,
+    "sensitive_reason": "客观技术解释，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "992b08f55ca93fd642993bd79fcba8e7": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，纯客观事实无争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "676f4bf38f1b4354126e8d6f5cd4bcfd": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "8738f8b791b0459a40911978a81801a7": {
+    "level": 1,
+    "sensitive_reason": "纯技术更新，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b0a49926c3bbf9ab4fcaf13b85ed38f1": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "bac340a1b31086a7b23ea18e28cb36ef": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "acaa7c77b7341306fb8a83a2c6b40513": {
+    "level": 2,
+    "sensitive_reason": "涉及行业竞争讨论，无强烈伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "70da8de0a3d5c67df0fda034d8bb30ac": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "69a73c2a3ea0f0cab353a8c6ebbe9f93": {
+    "level": 4,
+    "sensitive_reason": "涉及两岸关系及身份认同冲突",
+    "category": "Politics",
+    "category_reason": "涉及两岸主权争议"
+  },
+  "011f2d72ac6e481dbfe2d940e0cc556d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "658f17b46383d319d458f5468fbe90db": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "fac3e3b9abd96c000eb82da0c85b6f82": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "6817a87e5d0822242f1a52a2aeaffadc": {
+    "level": 3,
+    "sensitive_reason": "涉及教育公平与学生心理健康讨论",
+    "category": "Mental_Health",
+    "category_reason": "高考压力与青少年心理问题"
+  },
+  "c441c3a54842279f69df23654f3e5296": {
+    "level": 2,
+    "sensitive_reason": "涉及AI技术竞争讨论，无显著伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5d364111e83610927109425be4986fb0": {
+    "level": 3,
+    "sensitive_reason": "涉及体育伦理与商业利益冲突讨论",
+    "category": "Crime",
+    "category_reason": "涉及腐败与非法商业交易"
+  },
+  "055b643beb27a9f50302f45f926aedbb": {
+    "level": 1,
+    "sensitive_reason": "产品促销信息，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "dbfc6c793c4c3e46072ee56d6054775b": {
+    "level": 2,
+    "sensitive_reason": "涉及教育心理的轻微讨论，不引发强烈社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "33edaefac4e6835ec3ecabe48c4baab0": {
+    "level": 3,
+    "sensitive_reason": "涉及经济压力与贫富差距社会讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "0ddac99f302fff3049616de134969638": {
+    "level": 3,
+    "sensitive_reason": "涉及反腐败与社会公平治理讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "4a8fb939070e71db710b6d38476bb65a": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "96bc53ae295daa318f896b3aa1c7304e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "458a272978d2426253cd9fc8fa768841": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7ae3dae06b8b77da4bfd9e7b577b9293": {
+    "level": 2,
+    "sensitive_reason": "涉及交通安全轻微讨论，无深层伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "0435f14c03fee4f190d072a61086bb06": {
+    "level": 3,
+    "sensitive_reason": "涉及劳动权益与社会信任伦理讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "4ef1f09aa26650917b53aa2ea9cd7f40": {
+    "level": 2,
+    "sensitive_reason": "涉及民族文化传承讨论，争议较弱",
+    "category": "",
+    "category_reason": ""
+  },
+  "547a4b73a36c07daaf228b8f8e23662d": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观事实，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d283a379c5be013b16b9c5480862c683": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d7f5d706ddb7bac626e2d6c57b77b0fd": {
+    "level": 2,
+    "sensitive_reason": "涉及商业竞争与消费价格轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "fe47ca18643168efd14c79f98cc83727": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "58c0676d56a102067a38007c11382887": {
+    "level": 2,
+    "sensitive_reason": "涉及企业债务与科技投资趋势讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "bd0b2d5a18096f4ab8f371d45991cd73": {
+    "level": 3,
+    "sensitive_reason": "涉及生命伦理与科技边界潜在争议",
+    "category": "Other",
+    "category_reason": "非常抱歉，作为一个AI助手，我无法回答该问题，请您换个话题或者问题试试。"
+  },
+  "e9296071eaf8a48335ff959eec68b49f": {
+    "level": 3,
+    "sensitive_reason": "涉及公共资源分配与社会公平争议",
+    "category": "Ethics",
+    "category_reason": "涉及技术道德与公共资源分配困境"
+  },
+  "9be06a78a2fa3e0ff6ef383344c6e4c5": {
+    "level": 1,
+    "sensitive_reason": "涉及体育赛事客观分析，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "579e6d38ecc95b2a646364737fcb4b3a": {
+    "level": 2,
+    "sensitive_reason": "涉及企业管理模式与信任问题轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "53e8b49b6786b1ce4728857085f20b51": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "886e1e68371c899b974eaaecd2344623": {
+    "level": 3,
+    "sensitive_reason": "涉及性别形象与伦理争议讨论",
+    "category": "NSFW",
+    "category_reason": "女性角色形象引发两性敏感争议"
+  },
+  "a57a156058419f9d529c9b36f705d79b": {
+    "level": 4,
+    "sensitive_reason": "涉及民族文化认同与品牌选择争议",
+    "category": "Politics",
+    "category_reason": "涉及民族品牌与文化争议"
+  },
+  "09a4ffe20b8e554033313f56818810c9": {
+    "level": 3,
+    "sensitive_reason": "涉及社会治理与公共安全讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "46e217287d3f1f17ff084b8acef7cc71": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "13f79f79e0495951a6c995e46585139b": {
+    "level": 1,
+    "sensitive_reason": "纯金融政策更新，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "bc43d3cc94be1eb9b178497a090e3f34": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a3f586d9eb1b454a1863bfd164baf01e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "f837c3592e2500bd923b9fa0ab18e0f5": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "37c8f980af49b8ed0690ade92f3bae6b": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治与国际关系争议",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "061c425a89c6f48cb3cea8b1f5f624c0": {
+    "level": 1,
+    "sensitive_reason": "体育赛事新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "363c3d9ffba0af0558359bd29dab86f9": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "3595ff995819e419df8e42b9985253bb": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "552f1acc2fdbcbdb7018388b207a36f5": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "707612de40f52096a8306167be1885da": {
+    "level": 2,
+    "sensitive_reason": "涉及商业竞争与消费者观点分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "6b3b98048b22627b48c7cc52ed442c09": {
+    "level": 2,
+    "sensitive_reason": "普通盗窃犯罪报道，未引发深层伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "947788babb06e27eef623eaa32e74ae7": {
+    "level": 1,
+    "sensitive_reason": "体育赛事，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "2b7a5c9f785a11509070e7dd4b074a8e": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "742d0c8d757aebbd2233aae8137d9067": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "860ff44704341821f551b087111b8215": {
+    "level": 4,
+    "sensitive_reason": "涉及美军士兵违法引发社会对立与地缘政治争议",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "cff4c35355cfe01d32ce338a3954f7e8": {
+    "level": 2,
+    "sensitive_reason": "涉及公共道德讨论，但争议较弱",
+    "category": "",
+    "category_reason": ""
+  },
+  "901b99db11449cd38afd9e5b9c374f3e": {
+    "level": 2,
+    "sensitive_reason": "涉及教育选择与轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "014621ef74405afd6e9e26fe29c3bd8e": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9db9315feb852f1a3056c921f2e1e88a": {
+    "level": 1,
+    "sensitive_reason": "客观国际新闻事件，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "5a30e21345f8cd749848ef592ea0737c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事情感事件，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "f04aaf6ad2b3efba84f186852c800b68": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c9d4d066df0723e537ff64a11605f71a": {
+    "level": 1,
+    "sensitive_reason": "体育赛事转会，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "b68831bdd766597e1be1a99e542b2912": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "905687bd533ddea868f795439f1c61a8": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "1192a7137df883213f0a57d192614421": {
+    "level": 1,
+    "sensitive_reason": "体育赛事娱乐报道，不涉及伦理冲突或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "4ebedd475e443f127c32d53b5f56c019": {
+    "level": 2,
+    "sensitive_reason": "涉及健康习惯与生活方式轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "37d70b8093cbf5b2e25cc44c384d05a4": {
+    "level": 2,
+    "sensitive_reason": "涉及地缘政治决策，可能引发轻微国际讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "dda83fd1f8f926b91213b06ea4ead4e5": {
+    "level": 1,
+    "sensitive_reason": "娱乐名人声明，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a570401e7fa1ab102c1f30de00fff71e": {
+    "level": 1,
+    "sensitive_reason": "纯技术定义查询，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d038b5987b787898a351b9825ca63d9e": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "008702a74543d332ea5f800b2aec7058": {
+    "level": 1,
+    "sensitive_reason": "天气自然现象讨论，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "6eda60537ff64ab440841378f1c7b6e5": {
+    "level": 1,
+    "sensitive_reason": "个人成就分享，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "8ccd7b9f442b1599a9699858df5894e2": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "2fcfed1fe0e068f47560934c764de065": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事报道，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "bf5adb72bf689a0613a98946c8530127": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7cd71eec4a7090176f6247bb9e56e147": {
+    "level": 1,
+    "sensitive_reason": "客观国际航运新闻，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b715522edf52124f23c7fd4eff4e35b6": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "49d03dc724b12886df88aab485bb76de": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "17352e0e3e66abbd3174a7604aadbc91": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "eede79cc9d678c8e73dddcb62d76f683": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐八卦，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "cff7d8247371dbecb2e35679f98f7e25": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "a03379911687cd83a2649f5fc9bfec79": {
+    "level": 3,
+    "sensitive_reason": "涉及民族文化认同与全球化讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "bccfaa4213d71779b846a0506f2d3fac": {
+    "level": 4,
+    "sensitive_reason": "涉及贫富差距与税收公平的强烈群体对立",
+    "category": "Discrimination",
+    "category_reason": "涉及财富不平等与税收政策争议"
+  },
+  "e3aa7baccba096af5ec1610bfda63809": {
+    "level": 1,
+    "sensitive_reason": "娱乐新闻，不涉及社会争议或伦理问题",
+    "category": "",
+    "category_reason": ""
+  },
+  "f3e04e9d6b83eeec44883b2202cb3769": {
+    "level": 2,
+    "sensitive_reason": "涉及社交媒体使用习惯的轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "e6a2989abb26d1d9c57c8617f5102a93": {
+    "level": 1,
+    "sensitive_reason": "涉及名人合照和产品推广，属娱乐资讯无社会敏感",
+    "category": "",
+    "category_reason": ""
+  },
+  "8ee3121378d247d7d15b9155ce1d818e": {
+    "level": 1,
+    "sensitive_reason": "中性心理学主题，无社会冲突或伦理争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c405860f3d814a2533e71432716c1692": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d0d1cfb30c93fcefc30f4bb5e7135e12": {
+    "level": 1,
+    "sensitive_reason": "政府工作动态，不涉及伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3e9a466e1ddb68b49cb2398efd65ac76": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "650f7851cfa1785b5fee56595d3754fd": {
+    "level": 2,
+    "sensitive_reason": "涉及名人个人行为讨论，轻微伦理关注",
+    "category": "",
+    "category_reason": ""
+  },
+  "925367d0b639a6679892dc02ac72abe4": {
+    "level": 1,
+    "sensitive_reason": "体育赛事排名，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "aafcd0778d21e52da55c6cfe5966d6ee": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "f20ba5a87ba4b8e1c224c17cae15e96d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "1cfd2cfc910e587af3a48c959ef8a086": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "733b4eb7d0a0bcbe6d7c341c5281b57a": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "1611b179efaabcaa58c9d206fd82ef69": {
+    "level": 1,
+    "sensitive_reason": "中性文化历史主题，无争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "feff79685de3abace78e9b6888270414": {
+    "level": 1,
+    "sensitive_reason": "纯客观自然灾害报道，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "bb5c024a8af0f7613e8a0df29e1a9e24": {
+    "level": 1,
+    "sensitive_reason": "涉及普通商业动态，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ed5bced895737b25ee97a893da582f68": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "971813403627189a8d93d8b6298de0af": {
+    "level": 1,
+    "sensitive_reason": "体育赛事个人决策，不涉及社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3fb70714630acc5c008ba4e4a5c8d7af": {
+    "level": 1,
+    "sensitive_reason": "客观外交活动报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5c3d18642f1bcba0a1f5b5d3856f53c9": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "134536be384bf2c4c8bb337e2b45f3c8": {
+    "level": 2,
+    "sensitive_reason": "涉及政治人物行为规范轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "5b0bc4618a76ee6554f34d79298d40b0": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "7701a9aa8845572b405114df0bc31513": {
+    "level": 1,
+    "sensitive_reason": "客观外交事件报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "144e1cf3f057ea269a3870eee4a0c806": {
+    "level": 1,
+    "sensitive_reason": "客观地缘政治事件，无直接伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ae286aa76e2c436051b1e434e82e645a": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "e670a12f39628f78571a99ad4bb8d371": {
+    "level": 1,
+    "sensitive_reason": "客观外交新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "cb6f658db40c584bc6eae2a2b3358fa8": {
+    "level": 2,
+    "sensitive_reason": "涉及国际协议签署，轻微政治讨论无强烈对立",
+    "category": "",
+    "category_reason": ""
+  },
+  "aa328b3b62a8bbc3aee44932109f93c6": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观报道，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "cf09a99fbc33fd216ddeb4c41be19d02": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "9474a2e7c3a50b8f9487410b43a88f91": {
+    "level": 1,
+    "sensitive_reason": "体育商业报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "38962e178dc8199a67ab4026f28b981d": {
+    "level": 2,
+    "sensitive_reason": "普通国际外交新闻，无显著伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "1bee430671a9b4cda4a1e989f3c588c6": {
+    "level": 1,
+    "sensitive_reason": "纯客观商品价格变动，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "3ad091631127484296ea670ff435fbca": {
+    "level": 2,
+    "sensitive_reason": "涉及社会治理讨论但无显著伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "cb68039ed90b474ca037a5b33082d2bb": {
+    "level": 2,
+    "sensitive_reason": "涉及国际商业竞争与研发能力轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "30708934725ca0ad39c3af4e56645263": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "475e7a31e64d0d123acf16465899fa0d": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "c956a21066b452fa2741bff1eb3b2b8a": {
+    "level": 3,
+    "sensitive_reason": "涉及公共安全谣言与社会治理伦理讨论",
+    "category": "Misinformation",
+    "category_reason": "涉及编造食品安全谣言"
+  },
+  "39386ad4222c5bf202bd0531d39ff865": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "82500d4f5485f36fe3fd5b04cbffe587": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "805804f8b4fd8aef72ffc78c09930f19": {
+    "level": 1,
+    "sensitive_reason": "技术性行业更新，无社会伦理争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "2088831cd2205de8ba51ed2bddceb372": {
+    "level": 1,
+    "sensitive_reason": "纯客观市场数据，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "ead32768133f6b4bed515c39edec7341": {
+    "level": 1,
+    "sensitive_reason": "客观政治声明，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "2d1702f947d0f018392c94ed066ea7e7": {
+    "level": 2,
+    "sensitive_reason": "涉及国际航行自由讨论，无强烈伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ed3445ee360feb7b4e38d319b2c88134": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治争议与民族情绪对立",
+    "category": "Politics",
+    "category_reason": "涉及外交冲突与意识形态争议"
+  },
+  "02a57a32010e1a06357f33e1d2d1a7bb": {
+    "level": 3,
+    "sensitive_reason": "涉及社会治理与官僚作风伦理讨论",
+    "category": "Politics",
+    "category_reason": "涉及政府治理与意识形态争议"
+  },
+  "cf1a79e6c51131f81373db12015d14b7": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "c6c00a318003dcc4ea9b5b48510bce72": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "ff1d93ddd550aa1ff5c2e28157cf21a5": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治冲突与责任归属争议",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "bb2b644900ab1e854ebbd772ca27c873": {
+    "level": 1,
+    "sensitive_reason": "客观国际新闻，无伦理或社会敏感冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b61d5843950775a4da70eb5d2b1118ac": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治对立与民族情绪冲突",
+    "category": "Politics",
+    "category_reason": "涉及中菲外交冲突与反华言论"
+  },
+  "473d10a0197e6cedb671749fed5cdfb9": {
+    "level": 2,
+    "sensitive_reason": "涉及个人安全与动物处理，可能引发轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "05a7faa6f1fa9a807cf3ca109d87df29": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "7a2313c8312efab40b4adb0c2b7e52d7": {
+    "level": 3,
+    "sensitive_reason": "涉及老龄化、劳动权益与医疗伦理讨论",
+    "category": "Ethics",
+    "category_reason": "涉及医疗伦理与道德困境"
+  },
+  "cd114fd780b95d9b1a0bc70c7b4d5822": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "25241d04d41e7c11222c15ac51cdac8f": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "cb71e0cb2a1ddc71b8bd911afe33f03f": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "390bef6849b75235e4086416ec44f225": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治冲突与公共安全讨论",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与地缘政治"
+  },
+  "caed2775625c7bff82bf3b163c8888ac": {
+    "level": 3,
+    "sensitive_reason": "涉及教育公平与资源分配社会讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "3f3628f83494e92c496fa9f6a9708a1a": {
+    "level": 1,
+    "sensitive_reason": "客观国际新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "00b8e1da8cea69bece63c8097662327b": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "eabbf602e4079391b6b0b0f3fbcec40c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9fea4a6e7eebe08344586a0d9eb5594b": {
+    "level": 2,
+    "sensitive_reason": "涉及艺名使用与隐私的轻微社会讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "6f8bfdf17d39bc0b5db8680a30ade517": {
+    "level": 1,
+    "sensitive_reason": "体育转会新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "724bee0f9713809b5bd7576435ef098c": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "949a110840f534900fd3ce5745a79bc1": {
+    "level": 1,
+    "sensitive_reason": "体育赛事转会新闻，无伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "adf627fd0c0972a8c4d2191d23b42dfa": {
+    "level": 2,
+    "sensitive_reason": "涉及地缘政治讨论，轻微舆论分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "ba45ec3a71f47484322c3b9bbba36695": {
+    "level": 3,
+    "sensitive_reason": "涉及公共资源浪费与社会公平讨论",
+    "category": "Ethics",
+    "category_reason": "涉及公共资金浪费与技术道德"
+  },
+  "cddd36fedb4212be046ec48404853b37": {
+    "level": 1,
+    "sensitive_reason": "体育赛事预测，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "0683929c65a609b5f073a31f35f6532b": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "98d0693cb5b9636d2cf5b1e6f21b46ff": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突与民族情绪对立",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "ac5132fe2fc3d80481c52c509979c233": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "b1e07bd7a9bc85da7f2fb7d146bf6f6e": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，不涉及社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "4f472a77736f1f316fd63e8f8f7861b6": {
+    "level": -1,
+    "sensitive_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+    "category": "",
+    "category_reason": ""
+  },
+  "d9cef3f87d3c428acae728250f0f6895": {
+    "level": 1,
+    "sensitive_reason": "体育转会新闻，纯娱乐资讯无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "24f2120f8b40a04f04958faefcf526b5": {
+    "level": 3,
+    "sensitive_reason": "涉及政治争议与社会治理讨论",
+    "category": "Politics",
+    "category_reason": "涉及选举争议与国家叙事"
+  },
+  "4aa2f47cb36f8083f47846621bdf933d": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人暴力犯罪与公共安全恐慌，易引发强烈伦理争议",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "2b55ebfb2955b7c55100758009f5e1ac": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "1f0b264e6083b3e4db3164526aac498d": {
+    "level": 3,
+    "sensitive_reason": "涉及债务继承、家庭责任与法律公平讨论",
+    "category": "Ethics",
+    "category_reason": "债务继承与家庭伦理困境"
+  },
+  "5c6fb202ea301ec66cb196a19004de1b": {
+    "level": 3,
+    "sensitive_reason": "涉及老龄化、移民归国与社会资源分配讨论",
+    "category": "Other",
+    "category_reason": "Error code: 401 - {'error': {'message': 'insufficient balance', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}"
+  },
+  "08563c111a381d204ff82753213a641b": {
+    "level": 1,
+    "sensitive_reason": "客观金融市场数据与国际外交新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a243571494f6c1cd7d800deac4bcc2cf": {
+    "level": 1,
+    "sensitive_reason": "体育赛事新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ca041c75eb6507e3f817e2ce3af92b3b": {
+    "level": 1,
+    "sensitive_reason": "体育赛事结果报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c1bb71f2fb0c088c197b786824efaa5b": {
+    "level": 4,
+    "sensitive_reason": "涉及领土主权争议与民族情感对立",
+    "category": "Politics",
+    "category_reason": "涉及主权争议与外交冲突"
+  },
+  "4f780a767f667431240447f62dec3075": {
+    "level": 1,
+    "sensitive_reason": "纯体育转会新闻，无伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "fb1336a91ef0981e1b452a370e2fcc37": {
+    "level": 3,
+    "sensitive_reason": "涉及体育公平与国际赛事政策争议",
+    "category": "Politics",
+    "category_reason": "涉及国际体育政治争议"
+  },
+  "a85626e161d703fbdae7850efe9a4d25": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突与国家安全问题，易引发群体对立",
+    "category": "Politics",
+    "category_reason": "涉及台海主权与外交冲突"
+  },
+  "977233ee643fb0c0a589c87e8a29568f": {
+    "level": 2,
+    "sensitive_reason": "涉及健康与生活方式讨论，无群体对立或伦理争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "9b096cf3e0a590f08eae7e0d66b0f687": {
+    "level": 3,
+    "sensitive_reason": "涉及民族文化争议与社会治理讨论",
+    "category": "Crime",
+    "category_reason": "涉及非法公共活动"
+  },
+  "7b68c4c55cc8298f44f3671f03dc120b": {
+    "level": 3,
+    "sensitive_reason": "涉及事故责任与道德伦理讨论",
+    "category": "Ethics",
+    "category_reason": "涉及道德困境与社会价值观"
   }
 }
