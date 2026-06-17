@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-17T00:01:34.172Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "国投瑞银价值成长一年持有混合A净值上涨1.50%",
+      "author": "新浪基金∞工作室",
+      "hot": 96,
+      "timestamp": 1781675101000,
+      "url": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-17/doc-inicsezc3952540.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-17/doc-inicsezc3952540.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "除了火爆的美加墨世界杯，申城的这座沉浸式城市足球乐园同样令人期待",
+      "author": "滚动播报",
+      "hot": 97,
+      "timestamp": 1781666332000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytc7262821.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytc7262821.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "滑坡监测设备先“滑坡”，敲响防汛安全警钟",
+      "author": "北京青年报",
+      "hot": 122,
+      "timestamp": 1781656703000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrqcm4245746.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrqcm4245746.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "集体押注世界杯，AI为何要扮演“懂球佬”",
+      "author": "每日经济新闻",
+      "hot": 123,
+      "timestamp": 1781671398000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inicrumi4150614.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inicrumi4150614.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "易方达新常态混合净值上涨1.73%",
+      "author": "新浪基金∞工作室",
+      "hot": 125,
+      "timestamp": 1781672698000,
+      "url": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-17/doc-inicrysy9088466.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-17/doc-inicrysy9088466.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "巴基斯坦空军一教练机坠毁致2人死亡",
+      "author": "新华网",
+      "hot": 125,
+      "timestamp": 1781601579000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicqhiw6243618.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicqhiw6243618.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "独家视频丨习近平：中缅建交76年来 两国始终风雨同舟 守望相助",
+      "author": "央视",
+      "hot": 125,
+      "timestamp": 1781644880000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-16/doc-inicrivm7531464.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-16/doc-inicrivm7531464.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "学习贯彻习近平党建思想，一图速览内涵要义",
+      "author": "人民日报",
+      "hot": 127,
+      "timestamp": 1781644842000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-16/doc-inicrivk6103875.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-16/doc-inicrivk6103875.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "名嘴详述文班未来历史地位：超乔丹成GOAT概率2% 前10守门员25%",
+      "author": "NBA综合",
+      "hot": 127,
+      "timestamp": 1781656105000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-17/doc-inicrqcm4242083.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-17/doc-inicrqcm4242083.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "开门红！法国3-1塞内加尔 姆巴佩双响巴尔科拉替补建功奥利塞助攻",
+      "author": "新浪新闻综合",
+      "hot": 129,
+      "timestamp": 1781672767000,
+      "url": "https://news.sina.com.cn/o/2026-06-17/doc-inicryta5866316.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-17/doc-inicryta5866316.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "竞彩大势：塞内加尔赢下数据 阿根廷完胜",
+      "author": "新浪彩票",
+      "hot": 130,
+      "timestamp": 1781598089000,
+      "url": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6327035.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6327035.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "俄媒：俄军一架战略轰炸机在训练时坠毁",
+      "author": "新华网",
+      "hot": 134,
+      "timestamp": 1781601517000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicqhiw6242696.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicqhiw6242696.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "2胜4平保持不败 “亚洲之光”闪耀美加墨",
+      "author": "新浪新闻综合",
+      "hot": 135,
+      "timestamp": 1781613937000,
+      "url": "https://news.sina.com.cn/s/2026-06-16/doc-inicqnrv7759256.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-16/doc-inicqnrv7759256.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "愿平安！青海海西州直辖区40分钟连震8次",
+      "author": "北京日报客户端",
+      "hot": 136,
+      "timestamp": 1781633718000,
+      "url": "https://news.sina.com.cn/c/2026-06-16/doc-inicqxfr7702173.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-16/doc-inicqxfr7702173.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "俄罗斯禁止103名加拿大人入境以回应加方制裁",
+      "author": "澎湃新闻",
+      "hot": 139,
+      "timestamp": 1781667170000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytf4041880.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytf4041880.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "“抢”舱位！“抢”空箱！“中美航线全面爆舱”",
+      "author": "央视财经",
+      "hot": 140,
+      "timestamp": 1781666146000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicryta5836154.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicryta5836154.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "生活成本不断上升 美国人被迫动用退休储蓄应急",
+      "author": "环球市场播报",
+      "hot": 145,
+      "timestamp": 1781664241000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrume5957769.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrume5957769.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "17国表态：愿在美伊达成协议后解除对伊朗的制裁",
+      "author": "新浪新闻综合",
+      "hot": 145,
+      "timestamp": 1781622657000,
+      "url": "https://news.sina.com.cn/o/2026-06-16/doc-inicqsxs6274064.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-16/doc-inicqsxs6274064.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "美国20年期国债续发行中标收益率4.927% 需求超出预期",
+      "author": "环球市场播报",
+      "hot": 145,
+      "timestamp": 1781664306000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrumf7384582.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrumf7384582.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "特朗普：美国可能很快恢复对俄罗斯石油制裁，俄应该与乌达成协议！泽连斯基：乌袭击莫斯科一炼油厂",
+      "author": "每日经济新闻",
+      "hot": 152,
+      "timestamp": 1781653217000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicrqci7448770.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicrqci7448770.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "[新浪彩票]足彩第26086期大势：法国建议防平",
+      "author": "新浪彩票",
+      "hot": 154,
+      "timestamp": 1781596966000,
+      "url": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6316278.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6316278.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "泽连斯基：赞成冬季前与俄举行“和平谈判会议”",
+      "author": "央视",
+      "hot": 156,
+      "timestamp": 1781645183000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicrivp4294069.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicrivp4294069.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "蒙娜丽莎集团股份有限公司关于蒙娜转债恢复转股的公告",
+      "author": "上海证券报",
+      "hot": 156,
+      "timestamp": 1781667024000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicrytf4041168.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicrytf4041168.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "给城市做个“精密体检”",
+      "author": "兵团日报",
+      "hot": 157,
+      "timestamp": 1781665775000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrumi4167423.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrumi4167423.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "京津冀蒙技术经理人联盟成立",
+      "author": "滚动播报",
+      "hot": 161,
+      "timestamp": 1781669126000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytc7273820.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicrytc7273820.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "美军B-52战略轰炸机坠毁，系18年来首次致命事故 航空安全专家：或为维修后控制系统问题、发动机严重故障",
+      "author": "红星新闻",
+      "hot": 163,
+      "timestamp": 1781625169000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfq6189842.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfq6189842.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "6月17日热门中概股多数下跌 百度跌超3% 小鹏跌超4%",
+      "author": "环球市场播报",
+      "hot": 165,
+      "timestamp": 1781672793000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicryta5866515.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicryta5866515.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "乌军称对莫斯科炼油厂等目标发动打击",
+      "author": "新浪新闻综合",
+      "hot": 166,
+      "timestamp": 1781653909000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicrqcm4230311.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicrqcm4230311.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "伊朗队主帅：突然被勒令必须立即离开美国，我们是本届世界杯最受压迫的球队",
+      "author": "成都商报",
+      "hot": 167,
+      "timestamp": 1781622102000,
+      "url": "https://news.sina.com.cn/zx/2026-06-16/doc-inicqsxq9483919.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-16/doc-inicqsxq9483919.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "SpaceX上市后飙升49% 市值逼近亚马逊",
+      "author": "环球市场播报",
+      "hot": 169,
+      "timestamp": 1781673018000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrytf4067280.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrytf4067280.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "[新浪彩票]足彩第26086期任九：葡阿两强即可胆",
+      "author": "新浪彩票",
+      "hot": 172,
+      "timestamp": 1781597084000,
+      "url": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6317940.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-16/doc-inicpzzy6317940.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "佛得角队逼平西班牙队：有人赢了470万美元，也有人100万美元一夜归零",
+      "author": "成都商报",
+      "hot": 174,
+      "timestamp": 1781616762000,
+      "url": "https://news.sina.com.cn/s/2026-06-16/doc-inicqnrv7773273.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-16/doc-inicqnrv7773273.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+      "author": "新华社",
+      "hot": 177,
+      "timestamp": 1781646084000,
+      "url": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivm7539808.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivm7539808.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "菲律宾7.9级地震后部分海底抬升2米，部分海岸线向海推进约200米，珊瑚礁裸露变“岩石平原”，大量鱼类死亡",
+      "author": "红星新闻",
+      "hot": 178,
+      "timestamp": 1781626235000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfn9423324.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfn9423324.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "老夫妇擒6626万彩票大奖 到手损失50%决定平分",
+      "author": "新浪彩票",
+      "hot": 197,
+      "timestamp": 1781595991000,
+      "url": "https://sports.sina.com.cn/l/2026-06-16/doc-inicqaac4550244.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-16/doc-inicqaac4550244.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "伊朗队赛后突然被勒令离境！因凡蒂诺曾到更衣室探望，伊朗队长：他也想帮我们",
+      "author": "新浪新闻综合",
+      "hot": 203,
+      "timestamp": 1781631577000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfn9481860.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicqxfn9481860.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "世界杯裁判OK手势引争议 FIFA发布调查结果",
+      "author": "北京日报客户端",
+      "hot": 204,
+      "timestamp": 1781670978000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicrytf4056846.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicrytf4056846.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "电闪雷鸣，风大雨急！北京未来一小时全市雷阵雨继续",
+      "author": "北京日报客户端",
+      "hot": 205,
+      "timestamp": 1781642581000,
+      "url": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivm7517340.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivm7517340.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "佛得角官方感谢中国帮圆梦世界杯",
+      "author": "观察者网",
+      "hot": 208,
+      "timestamp": 1781621222000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-16/doc-inicqsxv4470919.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-16/doc-inicqsxv4470919.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美联储6月决议前瞻：沃什首秀面临内部分裂，改革之路如何规划",
+      "author": "第一财经",
+      "hot": 212,
+      "timestamp": 1781596561000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-16/doc-inicqaac4554123.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-16/doc-inicqaac4554123.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "伊朗队主帅：球队突然被勒令，立即离开美国",
+      "author": "环球网",
+      "hot": 214,
+      "timestamp": 1781618464000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-16/doc-inicqsxv4444690.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-16/doc-inicqsxv4444690.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "谷歌：为数据中心推出布拉佐斯液冷系统。",
+      "author": "滚动播报",
+      "hot": 217,
+      "timestamp": 1781654669000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-17/doc-inicrqch6030786.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-17/doc-inicrqch6030786.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "伊朗料从美伊协议获广泛经济回报 包括立即售油及3000亿美元发展基金",
+      "author": "环球市场播报",
+      "hot": 223,
+      "timestamp": 1781673204000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrytc7292611.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrytc7292611.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "SpaceX涨幅扩大至17%，总市值超过微软",
+      "author": "界面新闻",
+      "hot": 224,
+      "timestamp": 1781647876000,
+      "url": "https://news.sina.com.cn/w/2026-06-16/doc-inicrivh9349185.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-16/doc-inicrivh9349185.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "期权交易教父：SpaceX期权交易量有望超越英伟达、特斯拉",
+      "author": "环球市场播报",
+      "hot": 235,
+      "timestamp": 1781657930000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicruma9142258.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicruma9142258.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "6月17日外盘头条：SpaceX上市后飙升49% 卢特尼克敲打Anthropic 苹果明年推出带摄像头AirPods和折叠屏iPhone",
+      "author": "环球市场播报",
+      "hot": 237,
+      "timestamp": 1781674228000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrysy9098467.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicrysy9098467.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "瑞丰新材回应被欧盟列入制裁名单",
+      "author": "界面新闻",
+      "hot": 241,
+      "timestamp": 1781644963000,
+      "url": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivh9327795.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-16/doc-inicrivh9327795.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "SpaceX IPO散户获配股票寥寥，面临艰难的持股还是卖出抉择",
+      "author": "环球市场播报",
+      "hot": 241,
+      "timestamp": 1781653659000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicrqci7453341.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicrqci7453341.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "2026围棋世界个人大赛排名：王星昊摘冠遥遥领先",
+      "author": "新浪体育综合",
+      "hot": 244,
+      "timestamp": 1781624164000,
+      "url": "https://sports.sina.com.cn/go/2026-06-16/doc-inicqsxt7739632.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/go/2026-06-16/doc-inicqsxt7739632.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "中国国防部新任新闻发言人陈曦亮相",
+      "author": "中国新闻网",
+      "hot": 252,
+      "timestamp": 1781640725000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicrcpk9428742.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-16/doc-inicrcpk9428742.shtml"
+    }
+  ]
+}
