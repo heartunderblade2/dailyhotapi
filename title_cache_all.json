@@ -35740,5 +35740,1877 @@
     "sensitive_reason": "涉及公共安全与社会治理讨论",
     "category": "Violence",
     "category_reason": "涉及公共安全风险与潜在伤害"
+  },
+  "905439dfa56e9a7b52889d83f523a219": {
+    "level": 1,
+    "sensitive_reason": "游戏摄影娱乐内容，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "be49d3198e50c8fb003b8c0959695ab4": {
+    "level": 1,
+    "sensitive_reason": "娱乐性宠物内容，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "07e43ae2f3ea4db664d64257f896ac65": {
+    "level": 2,
+    "sensitive_reason": "涉及外表与天赋的轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "f5d50e0340ef1f6836d6d1e8445e2861": {
+    "level": 1,
+    "sensitive_reason": "文化作品发布，不涉及伦理或社会争议议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "f5bf3f1c394d3fea412430742fafc1a8": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "008c7274e3798ab16a08c4a9e2b4c726": {
+    "level": 1,
+    "sensitive_reason": "纯游戏推广，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "0c184586937bc317b431d732aaf2de7a": {
+    "level": 1,
+    "sensitive_reason": "地铁到站报道，纯客观事实，无伦理争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "9f8ee6e71f86635feb9653ace4a0cee1": {
+    "level": 2,
+    "sensitive_reason": "涉及文化差异与民族反应轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "4847467a0544f988ca5750867d6808e3": {
+    "level": 1,
+    "sensitive_reason": "游戏产品发布公告，属娱乐资讯无社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "2d9856c9290533920875db95106b6b95": {
+    "level": 1,
+    "sensitive_reason": "游戏娱乐内容，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6b0075f28999eac7b41e41aeaac56e89": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9f096820b8a5305777cf07ba65c161b1": {
+    "level": 1,
+    "sensitive_reason": "文化娱乐事件，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "f1302a121037b30b31903831ab9e6d24": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无伦理或社会冲突议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "e50c3c6a5bcedadc4710a451ab1ab4f7": {
+    "level": 2,
+    "sensitive_reason": "涉及公众人物幽默行为讨论，轻微主观分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "0737b79623d7b0fdf3471d2cd971b32c": {
+    "level": 1,
+    "sensitive_reason": "纯游戏攻略内容，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "2229436b75cd863c3959e2d471d17e3a": {
+    "level": 1,
+    "sensitive_reason": "客观人事变动，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c13f26a71d3131ffae064dee3fc255c3": {
+    "level": 2,
+    "sensitive_reason": "涉及创业选择与收入差距轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "1572e6ae991cf1b7ac6d4632cc4870a4": {
+    "level": 4,
+    "sensitive_reason": "涉及移民权利与资源不平等争议",
+    "category": "Politics",
+    "category_reason": "涉及网络审查与国家叙事"
+  },
+  "226b0a0f983ba5e967fd1bce4c300303": {
+    "level": 1,
+    "sensitive_reason": "客观经济动态，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "fa46cf21a8d5185e4c11802b33c49921": {
+    "level": 3,
+    "sensitive_reason": "涉及社会公平与人生挫折伦理讨论",
+    "category": "Privacy",
+    "category_reason": "涉及隐私泄露与声誉损害"
+  },
+  "75884f07830ed562c4eb088a7b5308b0": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治争议与国际诚信讨论",
+    "category": "Politics",
+    "category_reason": "涉及国际赔偿与外交冲突"
+  },
+  "5731491b5e79870208ebc8ddc4dd2e61": {
+    "level": 1,
+    "sensitive_reason": "油价变动属客观经济新闻，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "f4b1b9e2b4cefdb393dd7fcba0ee99e7": {
+    "level": 3,
+    "sensitive_reason": "涉及贫富差距与消费主义社会讨论",
+    "category": "Ethics",
+    "category_reason": "涉及高价消费与社会价值观冲突"
+  },
+  "67518a32f726f2cc585bf65ba8fc5240": {
+    "level": 4,
+    "sensitive_reason": "涉及腐败与社会公平讨论，易引发阶层对立",
+    "category": "Crime",
+    "category_reason": "涉及腐败与纪委调查"
+  },
+  "b7cfe4bf2f3aaef98fa6db065740cbf5": {
+    "level": 1,
+    "sensitive_reason": "客观人事任命，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ec74b1155a6d36e44b96c24c4cc95f9b": {
+    "level": 3,
+    "sensitive_reason": "涉及AI伦理与隐私争议讨论",
+    "category": "Misinformation",
+    "category_reason": "涉及虚假现实技术传播争议"
+  },
+  "824a06acdc4591a0c32e36956bbd2289": {
+    "level": 4,
+    "sensitive_reason": "涉及历史记忆与民族情绪冲突",
+    "category": "Politics",
+    "category_reason": "涉及民族历史与外交争议"
+  },
+  "e87ccc2bb9c1bb3c15e0a8bf2a715dcd": {
+    "level": 2,
+    "sensitive_reason": "涉及文化历史起源的轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "0d5ea951f17d197f179f3fadb4c5a9b2": {
+    "level": 3,
+    "sensitive_reason": "涉及阶层差异与个人成就的伦理讨论",
+    "category": "Discrimination",
+    "category_reason": "涉及阶层不平等与财富特权争议"
+  },
+  "f237a2c2fc309b9c0d5c0b1c14361558": {
+    "level": 2,
+    "sensitive_reason": "涉及政策推广与消费偏好轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "e0efd056b895bf85525372426f1b29e2": {
+    "level": 4,
+    "sensitive_reason": "涉及老年人权益、公共安全恐慌与政府问责争议",
+    "category": "Ethics",
+    "category_reason": "涉及公共安全与责任伦理"
+  },
+  "96a00f495e46da6f2893e4c04664d57b": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治争议，易引发社会讨论",
+    "category": "Politics",
+    "category_reason": "涉及台湾主权与地缘政治争议"
+  },
+  "a5954d296588e38deea4beb1e58d03fc": {
+    "level": 1,
+    "sensitive_reason": "商业动态，不涉及社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6bdfa097389df72e807e522e2754d96d": {
+    "level": 4,
+    "sensitive_reason": "涉及家庭暴力与未成年人保护伦理冲突",
+    "category": "Violence",
+    "category_reason": "涉及家庭暴力与身体伤害"
+  },
+  "1d15dd8361e2818b8cbdae984c95deca": {
+    "level": 3,
+    "sensitive_reason": "涉及虚假信息传播的伦理与社会治理讨论",
+    "category": "Misinformation",
+    "category_reason": "涉及虚假新闻传播"
+  },
+  "a4b1fba4aab97ad5fad3077af6c3d377": {
+    "level": 2,
+    "sensitive_reason": "涉及消费偏好讨论，无重大社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b28ebcd07e3716a170b599eb9dd1552b": {
+    "level": 3,
+    "sensitive_reason": "涉及平台经济劳动权益与社会公平讨论",
+    "category": "Crime",
+    "category_reason": "涉及平台收费争议与退款"
+  },
+  "bc5a007b68c4e47ae6bd95bb6bbc15d8": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治与国际关系争议讨论",
+    "category": "Politics",
+    "category_reason": "涉及外交政策与国际关系"
+  },
+  "8dc5ff2c194b9d772b3954703ec96b9f": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人健康风险与产品安全伦理争议",
+    "category": "Ethics",
+    "category_reason": "产品安全与医疗伦理问题"
+  },
+  "d6ec7703a6fa222d0f0e144d5e07640c": {
+    "level": 2,
+    "sensitive_reason": "涉及投资策略主观讨论与行业趋势分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "f39f7c16adf1296aba4f280c1316a4f5": {
+    "level": 1,
+    "sensitive_reason": "纯金融动态，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "477c5effbb4191b7a27976698fbf4309": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突与宣传质疑引发群体对立",
+    "category": "Misinformation",
+    "category_reason": "质疑军事宣传夸大真实性"
+  },
+  "68243c6e8922ac4a6f1ecb306706bf5b": {
+    "level": 1,
+    "sensitive_reason": "天气自然现象的客观报道",
+    "category": "",
+    "category_reason": ""
+  },
+  "397135f8f4747c262ed11e86c9809d79": {
+    "level": 1,
+    "sensitive_reason": "客观外交声明，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "14863923e66d16026bef9fc31900e12c": {
+    "level": 1,
+    "sensitive_reason": "客观奇闻事件，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ce7fd31fca5b2cdc781d781c455948dc": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5bf2f452c2e5d7337a94d8c702c04248": {
+    "level": 1,
+    "sensitive_reason": "体育评论，不涉及社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "358ef4ec09bcc41b930e580981cd2579": {
+    "level": 2,
+    "sensitive_reason": "涉及家庭伦理与个人经历讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "d2bcb486153dc0ef5c51eb1e1ab8e9ac": {
+    "level": 1,
+    "sensitive_reason": "客观旅游数据报告，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "984b7d1da47e78ddfd6247b8b488877b": {
+    "level": 2,
+    "sensitive_reason": "涉及儿童教育选择讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "a831ded1fa155a0075dd4d434ea18c2c": {
+    "level": 3,
+    "sensitive_reason": "涉及婚姻伦理与个人身份争议",
+    "category": "Crime",
+    "category_reason": "涉及身份盗窃或骗婚"
+  },
+  "111c85dacc8fc5f12054170f860a1da7": {
+    "level": 1,
+    "sensitive_reason": "体育赛事预测，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b1ba986d45d2b541fea22cf5671da1f7": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "116b1de9c477fc367461e61d88241376": {
+    "level": 2,
+    "sensitive_reason": "涉及节日习俗与健康选择的轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "667ff0c18f05c00ee5cca83846a0eb9a": {
+    "level": 3,
+    "sensitive_reason": "涉及社会治理与公共资源浪费讨论",
+    "category": "Crime",
+    "category_reason": "涉及官员腐败与非法活动"
+  },
+  "2a22c1282207686d44b73e5571523657": {
+    "level": 2,
+    "sensitive_reason": "涉及资源回收与环境伦理轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "3c90a338e038407509a51f192a08188b": {
+    "level": 1,
+    "sensitive_reason": "节日祝福新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3e4f6a2d0d24ee85cc3b65c3ba66bff1": {
+    "level": 1,
+    "sensitive_reason": "客观经济新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "15286be01e1495b374e068af9084e51d": {
+    "level": 2,
+    "sensitive_reason": "涉及经济流动与市场影响讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "f7c3881dfc0c26123fbccf41df346fe9": {
+    "level": 1,
+    "sensitive_reason": "温馨家庭场景，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "4ee614a5329100b26ae23b732c86e77c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6805654c08e853d724edc397cae99b58": {
+    "level": 1,
+    "sensitive_reason": "涉及食物产品创新，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "17f9e70bbb6599dcb8f719a70ffe89b2": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治与国家安全伦理讨论",
+    "category": "Politics",
+    "category_reason": "涉及国家主权与国际关系"
+  },
+  "c749c0f5581d76f9cd06ba6f922e5b70": {
+    "level": 1,
+    "sensitive_reason": "个人成就报道，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "f4edb8955352ac3ca7b29377699879e8": {
+    "level": 4,
+    "sensitive_reason": "涉及贫富差距与阶层对立争议",
+    "category": "Crime",
+    "category_reason": "涉及腐败与非法财富"
+  },
+  "d800d895b1bf6f44640638113080daab": {
+    "level": 2,
+    "sensitive_reason": "涉及消费者权益与售后问题轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "c9400c1b8bef78a2e0c5782160e737a1": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "659650977b87479fda62275760ca87cc": {
+    "level": 1,
+    "sensitive_reason": "体育赛事新闻，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "0825f9cf7dbbdab1a6eceb7183b84a58": {
+    "level": 1,
+    "sensitive_reason": "个人成就表彰，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "cbdc62628e37555df9c8effd89256be2": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，不涉及社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "2546f3940be8c9017b923140f6223f48": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治争议与民族情绪讨论",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与主权争议"
+  },
+  "74acb03254fceffdb7069cb38eb3cd89": {
+    "level": 1,
+    "sensitive_reason": "客观外交事件，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ceb6712a29dce05dd164649cc2fdf459": {
+    "level": 1,
+    "sensitive_reason": "纯属政府人事变动公告，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "bb384271d34de9aed13923de9c65e39b": {
+    "level": 3,
+    "sensitive_reason": "涉及民族文化尊重和领导行为伦理讨论",
+    "category": "Politics",
+    "category_reason": "涉及政治人物行为争议"
+  },
+  "00636664af71fce7531360aa6319775e": {
+    "level": 2,
+    "sensitive_reason": "涉及国际政治人物言论，轻微舆论讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "0c3f16be92356b8417f6b4d2ffc87486": {
+    "level": 1,
+    "sensitive_reason": "体育赛事前瞻，不涉及伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "09dd09a84923991f75df69d1ed2c4c0c": {
+    "level": 1,
+    "sensitive_reason": "涉及传统文化活动，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "64824f9a9c0ed9f8e7dd8c72d30bd578": {
+    "level": 3,
+    "sensitive_reason": "涉及消费者权益与企业公平服务讨论",
+    "category": "Discrimination",
+    "category_reason": "新老用户待遇双标问题"
+  },
+  "dfbed4cc23cbab58cd6592261d94b8a7": {
+    "level": 3,
+    "sensitive_reason": "涉及残疾人教育公平与社会支持讨论",
+    "category": "Mental_Health",
+    "category_reason": "涉及心理危机与克服困境"
+  },
+  "d2719f18e5265f67094c0dcd566b5958": {
+    "level": 1,
+    "sensitive_reason": "个人职业转变趣闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "ebce85c4afcf9f3dfb5021550896c6c4": {
+    "level": 1,
+    "sensitive_reason": "客观经济事件，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9b30f8d5c063218986ef711fce71687e": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c9e70848c2d71cce3cc92e3325bc6bc6": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人暴力与战争伦理冲突",
+    "category": "Violence",
+    "category_reason": "军队袭击平民客车"
+  },
+  "ddcd6572fae8302571abbfb862caa422": {
+    "level": 2,
+    "sensitive_reason": "涉及社会治理与经济发展讨论，无强烈伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "69f706f0499bdaa438f159e8e495255c": {
+    "level": 1,
+    "sensitive_reason": "中性文化研究主题，无争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "b86b6da99ba1f3d1a3f5358d41ab6c20": {
+    "level": 2,
+    "sensitive_reason": "涉及教育选择与轻微舆论分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "f4a46b998fda0117c85e534740cb3c0c": {
+    "level": 4,
+    "sensitive_reason": "涉及婚姻伦理、性别对立与贫富差距争议",
+    "category": "NSFW",
+    "category_reason": "涉及彩礼习俗与生育争议"
+  },
+  "7f23fe6ec84320e2fd9a769cd05095ca": {
+    "level": 3,
+    "sensitive_reason": "涉及社会治理与腐败问题讨论",
+    "category": "Crime",
+    "category_reason": "涉及腐败与执法不当"
+  },
+  "061b5ca83241af6c4adacf4a813893a4": {
+    "level": 2,
+    "sensitive_reason": "涉及体育战术主观讨论，无深层社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "b5be11a297e4f5119fa0afa115ccea5f": {
+    "level": 1,
+    "sensitive_reason": "文化娱乐内容，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "b086923c0b5ca29cdb3cef03111cf94d": {
+    "level": 1,
+    "sensitive_reason": "客观文化历史事实，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "87691eaa6de5d3ae529b8fa2b2aba176": {
+    "level": 1,
+    "sensitive_reason": "客观描述天气现象，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "08dc02972cf69ef94a6114cc2354112e": {
+    "level": 2,
+    "sensitive_reason": "涉及AI在传统文化中的应用轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "659732bbf7d7f6d4c1211daf671b9fc6": {
+    "level": 1,
+    "sensitive_reason": "体育赛事前瞻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "0f6c8eb14925e4696808d84b25923d41": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突与平民生活困境",
+    "category": "Politics",
+    "category_reason": "涉及巴以冲突与国际关系争议"
+  },
+  "d5030d1c690c0d2c510994ab71e382eb": {
+    "level": 3,
+    "sensitive_reason": "涉及经济不平等与散户投资风险讨论",
+    "category": "Discrimination",
+    "category_reason": "涉及阶层不平等与投资风险"
+  },
+  "745e8312560725cc5d6032a5bc4d0488": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "4522460d6dd392a1ac3587152f50f125": {
+    "level": 1,
+    "sensitive_reason": "客观政府推广活动，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "dd13d6654ef7bfb9d7b9fdadbc81f8ac": {
+    "level": 1,
+    "sensitive_reason": "客观文化纪念，无伦理冲突或争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "073609912e1b9521d47539c3a36844e1": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事客观报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "cdfc1df91942cad8a9c36710892b11bf": {
+    "level": 1,
+    "sensitive_reason": "描述个人假期活动，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "4d64327fd7a44bfaf3c58d2d85516863": {
+    "level": 4,
+    "sensitive_reason": "涉及公职人员醉驾公车，易引发阶层对立与社会公平讨论",
+    "category": "Crime",
+    "category_reason": "官员醉驾公车致多人受伤"
+  },
+  "301d4c32db00f685eb6d3b575c3f188c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事比分，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "0f72e9efaf608c0a066aae24b3e239cf": {
+    "level": 2,
+    "sensitive_reason": "涉及个人情感与承诺的轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "f0254249945cbfe76ab46dfc185a8ae6": {
+    "level": 1,
+    "sensitive_reason": "客观动物园观察，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d6931903e43be1cb0e2565cda757cc7d": {
+    "level": 1,
+    "sensitive_reason": "纯虚构娱乐内容，无伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "ca097c07dd09d156f4bdea46201e4c17": {
+    "level": 1,
+    "sensitive_reason": "体育赛事裁判任命，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "eb858f68215f48ca55c043e17faad001": {
+    "level": 1,
+    "sensitive_reason": "个人旅行分享，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a01c6677912de8fd5428fa8f8c670b8b": {
+    "level": 1,
+    "sensitive_reason": "娱乐节目官宣，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6e12e2f333f285255ada9b7db354148c": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b5586604f5e4b5c2b0c52f6bfab8da7a": {
+    "level": 1,
+    "sensitive_reason": "涉及日常工作和商业运营，不引发社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3c7a44823e56628fd76bb3c54d3dc9f7": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c8baed3b8ee1a5c7c4dac71afa84c6cb": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，不涉及社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "69165f9d8caa8d85a8c882e8d718ff4b": {
+    "level": 2,
+    "sensitive_reason": "涉及家庭角色与性别平等轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "2ca0e9de50ed18e2cd46be1dd679034f": {
+    "level": 1,
+    "sensitive_reason": "涉及传统文化习俗，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "59b9ac2df8967176d01e7df226c1a081": {
+    "level": 2,
+    "sensitive_reason": "涉及娱乐内容主观评价讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "6b19ca793b8dcb0534d430f8f23390ed": {
+    "level": 3,
+    "sensitive_reason": "涉及婴幼儿健康安全与企业责任讨论",
+    "category": "Ethics",
+    "category_reason": "涉及产品安全与医疗伦理"
+  },
+  "948197e182552d50d4ff0fd37efdc214": {
+    "level": 2,
+    "sensitive_reason": "涉及AI在娱乐产业的应用讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "5e2a6da56b6a6e5858656e27abe3285e": {
+    "level": 4,
+    "sensitive_reason": "养老院死亡事件暴露社会治理问题，易引发伦理争议与公共情绪冲突",
+    "category": "Ethics",
+    "category_reason": "养老院安全管理伦理责任问题"
+  },
+  "a802f1ef075bef26b2493f1fe287e63e": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "e1f61189375b65e36e1a8308f03a929f": {
+    "level": 1,
+    "sensitive_reason": "客观商业融资新闻，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "507ae801a101b5bfabde90d9a55bc739": {
+    "level": 1,
+    "sensitive_reason": "纯产品发布，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c748859118d9f4caec8194dbe07a2e30": {
+    "level": 1,
+    "sensitive_reason": "涉及民族文化推广，无争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "8520acb6d8fd2506d8cf98af5ab09887": {
+    "level": 1,
+    "sensitive_reason": "汽车产品发布新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "7673d0ac80178bec8add035ecb8d0165": {
+    "level": 1,
+    "sensitive_reason": "客观产品促销，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "d0ea1e681de51279974e4d0f1bb34c59": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "6a5d0813567a4120773c42a0bad2af52": {
+    "level": 1,
+    "sensitive_reason": "纯商业促销活动，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "cbde3b5682761121f10340990acb27ed": {
+    "level": 1,
+    "sensitive_reason": "纯技术更新，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a9200c5308cc5960e85afbefa952345a": {
+    "level": 1,
+    "sensitive_reason": "商业商标申请，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "7bb191a093106e44098513e06297a95c": {
+    "level": 2,
+    "sensitive_reason": "涉及AI技术对消费价格影响的轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "f21791436d0e9b0c92090bcd1c477c46": {
+    "level": 1,
+    "sensitive_reason": "商业谣言澄清，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d279d1ec6a83bee200cacd9f1f87e571": {
+    "level": 1,
+    "sensitive_reason": "个人娱乐事件，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "d7ea2d637826bc4b7852fb9452f2572d": {
+    "level": 1,
+    "sensitive_reason": "产品发布新闻，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "40ba4872baf3bf264ca32f509d7d44f0": {
+    "level": 1,
+    "sensitive_reason": "油价变动属客观经济新闻，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c30e32b155d4d3329ad7dcd47df6d109": {
+    "level": 3,
+    "sensitive_reason": "涉及消费者权益与商业诚信争议",
+    "category": "Ethics",
+    "category_reason": "涉及消费者权益与公平交易道德困境"
+  },
+  "18139ee1c23cd5a39dbfe394cb8e4d53": {
+    "level": 1,
+    "sensitive_reason": "客观外交报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "36dc321e6883a3092ca20cbe188dd1b9": {
+    "level": 1,
+    "sensitive_reason": "客观安全提示，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "e9e55652fd52d24ce11094a03535fc67": {
+    "level": 1,
+    "sensitive_reason": "体育赛事与中国元素报道，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "549e3427ff0f202aaffbfbf93449aae1": {
+    "level": 1,
+    "sensitive_reason": "客观报道扶贫成就，无争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "2e922f50515a0487cb1467c63b027a6d": {
+    "level": 1,
+    "sensitive_reason": "纯商业促销信息，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6aca088d121b2ae35ce33e905c36cd56": {
+    "level": 1,
+    "sensitive_reason": "纯天气预警，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "a2809b732341974ff10979b194880155": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "5ffa7a6148f70173f26464774e996892": {
+    "level": 1,
+    "sensitive_reason": "客观报道产业量产，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "608443243a8e67c53fba785f8d296193": {
+    "level": 1,
+    "sensitive_reason": "客观教育资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "f809f33ae578fab53fc24febaedf4ff3": {
+    "level": 1,
+    "sensitive_reason": "客观报道政府监管行动，不涉及伦理争议或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "4ebd4db7579532b354fcb6962e9dc632": {
+    "level": 1,
+    "sensitive_reason": "客观澄清自然灾害不实信息，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "b8ae2956b2f50ab561bb650fb412b496": {
+    "level": 3,
+    "sensitive_reason": "涉及AI技术差距与国内创新社会讨论",
+    "category": "Politics",
+    "category_reason": "涉及国家叙事与技术竞争争议"
+  },
+  "60f830a08f00af8acf8df15ecdfdb4df": {
+    "level": 2,
+    "sensitive_reason": "涉及环保政策与乡村发展轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "919c0d360a3f962c50a3ede3238052ba": {
+    "level": 2,
+    "sensitive_reason": "涉及社区关怀与个人隐私轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "c28df2f0612292c12fb8ecd4bb8e7edd": {
+    "level": 2,
+    "sensitive_reason": "涉及个人投资风险，引发轻微财务讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "75d21116c7cf9c305ae788bf5c3b736a": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治敏感性与主权争议",
+    "category": "Politics",
+    "category_reason": "涉及台海主权争议"
+  },
+  "b7cb2dceef1ee3683af1deeb41f73217": {
+    "level": 1,
+    "sensitive_reason": "描述汽车行业客观趋势，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "20489f25182a54008f7a3a3021eb7138": {
+    "level": 1,
+    "sensitive_reason": "客观自然灾害报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "fd1b713692c083a5cff432528aec19c5": {
+    "level": 2,
+    "sensitive_reason": "涉及个人名誉权诉讼，可能引发轻微社会讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "e976afcc2396784d7df86eaca314d96e": {
+    "level": 3,
+    "sensitive_reason": "涉及公共资源收费与社会公平讨论",
+    "category": "Crime",
+    "category_reason": "涉及非法收费与腐败问题"
+  },
+  "d474954f058a56566eb75859ee053d5f": {
+    "level": 2,
+    "sensitive_reason": "涉及教育选择与未来产业导向轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "7721646c583ef5512021db1c9694e4ed": {
+    "level": 3,
+    "sensitive_reason": "涉及医疗伦理与家庭情感冲突讨论",
+    "category": "Ethics",
+    "category_reason": "涉及医疗伦理与道德困境"
+  },
+  "55c1d41c6b3d07fc0f64da3b7166c255": {
+    "level": 4,
+    "sensitive_reason": "涉及历史战争罪行与民族情绪对立",
+    "category": "Politics",
+    "category_reason": "涉及民族历史与外交争议"
+  },
+  "00810b6483a2f670079cfd96fb6b7277": {
+    "level": 3,
+    "sensitive_reason": "涉及急救伦理与公共行为规范争议",
+    "category": "Ethics",
+    "category_reason": "急救行为与着装规范道德冲突"
+  },
+  "62b820632f10b20dd8bc7ebcef6a300c": {
+    "level": 4,
+    "sensitive_reason": "涉及腐败与社会公平讨论，易引发阶层对立",
+    "category": "Crime",
+    "category_reason": "涉及腐败与职务犯罪"
+  },
+  "38ffaed75e71e59e3345d867e75fa9ad": {
+    "level": 4,
+    "sensitive_reason": "涉及官员腐败与制裁争议，易引发群体对立和伦理讨论",
+    "category": "Crime",
+    "category_reason": "涉及电诈集团与腐败嫌疑"
+  },
+  "af1a18fdefc6702a8d3895b0ac7c1ab2": {
+    "level": 1,
+    "sensitive_reason": "客观商业亏损报告，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "0fe45d678d183b4e1dd16e061885bcab": {
+    "level": 3,
+    "sensitive_reason": "涉及公共服务伦理与企业责任讨论",
+    "category": "Discrimination",
+    "category_reason": "涉及公共空间歧视与不公平对待"
+  },
+  "358e4213aedcbf723aea25b736815912": {
+    "level": 2,
+    "sensitive_reason": "涉及教育排名与国际比较轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "240db2260dd2efd774b4b9e50622a605": {
+    "level": 4,
+    "sensitive_reason": "涉及核扩散争议与地缘政治对立",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与核扩散争议"
+  },
+  "6b5b67d4d7a70d830235d5ea6916ae6b": {
+    "level": 4,
+    "sensitive_reason": "涉及腐败、公共资金滥用，引发社会公平争议和官民对立",
+    "category": "Crime",
+    "category_reason": "涉及腐败与违规举债"
+  },
+  "98f0c6f19df29048b4a9d2e72309f5ad": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治冲突与国际关系讨论",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与外交冲突"
+  },
+  "6b99922701d2ccf8750c226722478b5c": {
+    "level": 3,
+    "sensitive_reason": "涉及国际争端与公共情绪冲突",
+    "category": "Politics",
+    "category_reason": "涉及外交冲突与国际关系"
+  },
+  "c3c6a2223c0c42129375354ec6fb1e87": {
+    "level": 3,
+    "sensitive_reason": "涉及盗窃犯罪与公共资源浪费讨论",
+    "category": "Crime",
+    "category_reason": "涉及盗窃与虚假报警"
+  },
+  "8836a832260957e0c4d1c3b267e8b9c2": {
+    "level": 2,
+    "sensitive_reason": "涉及经济政策与消费偏好轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "eef5f1746ec4b07a5b5bcbe81b4e3018": {
+    "level": 3,
+    "sensitive_reason": "涉及教育公平与社会治理争议",
+    "category": "Crime",
+    "category_reason": "涉及网络犯罪与考试泄题"
+  },
+  "66185d3c189ed7a7639d209764aec5e4": {
+    "level": 2,
+    "sensitive_reason": "涉及公共演习伦理与公众轻微误解讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "b6cafbf1e3821cdd200ee0e3e5624e44": {
+    "level": 1,
+    "sensitive_reason": "普通国际新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "8ed792a1d56c543c7960c6f4e8516a02": {
+    "level": 3,
+    "sensitive_reason": "涉及AI伦理与虚假信息社会治理讨论",
+    "category": "Misinformation",
+    "category_reason": "AI批量生成虚假视频传播谣言"
+  },
+  "fd030a1be581735e9992ee1e0868d746": {
+    "level": 2,
+    "sensitive_reason": "涉及公共资源投资讨论，轻微社会观点差异",
+    "category": "",
+    "category_reason": ""
+  },
+  "8a80b40303d7d6275e3b52b530103615": {
+    "level": 1,
+    "sensitive_reason": "农业丰收客观报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "8cf5e997840762221564d29f1fc614ff": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治与核安全伦理讨论",
+    "category": "Politics",
+    "category_reason": "涉及外交冲突与主权问题"
+  },
+  "818f3fe5a18ad70612d3ef3dd67fb50f": {
+    "level": 1,
+    "sensitive_reason": "纯属体育赛事客观事实，无社会敏感点",
+    "category": "",
+    "category_reason": ""
+  },
+  "1d0da16d7288588c9f5066aaa207f8cc": {
+    "level": 1,
+    "sensitive_reason": "传统文化节日庆祝，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "5e489816afd9762d0be8b74fa2f895d8": {
+    "level": 4,
+    "sensitive_reason": "涉及暴力犯罪与受害者创伤，易引发性别安全争议",
+    "category": "Mental_Health",
+    "category_reason": "涉及心理危机与生理失控"
+  },
+  "2bcb05769ca6f6036d4f8f445aa6b447": {
+    "level": 1,
+    "sensitive_reason": "商业运营解决方案，不涉及敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "57068935acdc9a5f250bba3d4979c615": {
+    "level": 2,
+    "sensitive_reason": "涉及行业利润比较与资源分配讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "8e3b13a88ab532af8d98ee10f77bb337": {
+    "level": 1,
+    "sensitive_reason": "体育团队动态，无伦理或社会冲突议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "ca2fce95f5afc7ddc43ae7b0ecaa181e": {
+    "level": 3,
+    "sensitive_reason": "涉及未成年人健康与医疗伦理讨论",
+    "category": "Ethics",
+    "category_reason": "涉及医疗伦理与生命危险"
+  },
+  "27bcdc03f56e3a8e47d6ffeb323455dd": {
+    "level": 1,
+    "sensitive_reason": "游戏产品更新，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "dbfc98bc70e5412b45c42d49e1bca2c2": {
+    "level": 1,
+    "sensitive_reason": "产品服务公告，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "513884cc2a5de38da66b1e8e1e489850": {
+    "level": 2,
+    "sensitive_reason": "涉及国际贸易政策回应与轻微地缘政治讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "39bf2dbcd29010f164ea51e3f11f20b5": {
+    "level": 2,
+    "sensitive_reason": "涉及娱乐行业合同纠纷，轻微社会讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "7870b14f8173c5b22ed6421cb73dccd6": {
+    "level": 2,
+    "sensitive_reason": "涉及环保政策与消费偏好讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "25501bb16b271642b492a8ae66d8ebab": {
+    "level": 3,
+    "sensitive_reason": "涉及暴力犯罪与公共安全讨论",
+    "category": "Violence",
+    "category_reason": "涉及暴力犯罪与公共安全"
+  },
+  "f3e06671774427f4c658b8cf8d2d1ff6": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "e6bd854193b7c3f46e9af21ad1983121": {
+    "level": 2,
+    "sensitive_reason": "涉及女性健康讨论，轻微主观争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d4604a61289b20d81fb292ed69ef19ba": {
+    "level": 2,
+    "sensitive_reason": "涉及经济指标变化，可能引发轻微舆论分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "f270d5b8ad59c6cabe4442b2e956887d": {
+    "level": 4,
+    "sensitive_reason": "涉及婴儿健康风险与公共安全伦理争议",
+    "category": "Crime",
+    "category_reason": "非法产品危害消费者安全"
+  },
+  "57449381aa53d6e4138fd640862e7d17": {
+    "level": 4,
+    "sensitive_reason": "涉及阶层冲突与财富不平等讨论",
+    "category": "Crime",
+    "category_reason": "涉及腐败调查与股东损失"
+  },
+  "37fa70f7aa86e3fa9d861aa9a89d269a": {
+    "level": 1,
+    "sensitive_reason": "普通商业销售动态，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "4da5c854deb246976a15ef2f8ad63739": {
+    "level": 3,
+    "sensitive_reason": "涉及贫富差距与社会公平讨论",
+    "category": "Ethics",
+    "category_reason": "财富不平等道德争议"
+  },
+  "f59748ff6d8773d5e10c862b6c220bd7": {
+    "level": 1,
+    "sensitive_reason": "娱乐活动新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9dafc1206bf0eb16dd2d63c856fcc812": {
+    "level": 2,
+    "sensitive_reason": "涉及消费偏好与产品价值轻微争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "75e2016edecac78a013b8d5c31d7d54c": {
+    "level": 4,
+    "sensitive_reason": "涉及性别伦理争议与公共行为讨论",
+    "category": "NSFW",
+    "category_reason": "半裸行为引发性敏感争议"
+  },
+  "5d512be390d637843c217adda4f3e1f2": {
+    "level": 2,
+    "sensitive_reason": "涉及艺人工作压力轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "1a1aba4533935805b0934eeb75c241c5": {
+    "level": 1,
+    "sensitive_reason": "纯客观天气预报，无社会伦理争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "c85df3eb8d0e258aa0ea797704297a47": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "81c5c3ac397e89453c84be76025b196f": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无社会敏感元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "909f874245161b7d19cb3aa36155b1da": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，不涉及伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "01e02f96e56e6893d6f3c69188cc68ac": {
+    "level": 1,
+    "sensitive_reason": "娱乐八卦，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "dd7d8a60f6fb5057f8f56e980c1c050e": {
+    "level": 1,
+    "sensitive_reason": "娱乐八卦新闻，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "12a09f6a3859c69a480a585bb1ba13ba": {
+    "level": 2,
+    "sensitive_reason": "涉及名人争议比较与网络舆论轻微分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "11e9a213927c4fa69a3c530736af6d63": {
+    "level": 1,
+    "sensitive_reason": "客观经济动态，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "46dc3b583c9f527bf1ccde7fa2346dce": {
+    "level": 2,
+    "sensitive_reason": "涉及娱乐资讯与轻微审美讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "1c79159569064051f812ff677c16cab2": {
+    "level": 1,
+    "sensitive_reason": "娱乐名人新闻，无社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "9a6331b1186d39e5271c642ec09b183e": {
+    "level": 2,
+    "sensitive_reason": "涉及投资风险与消费选择讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "7faac8dc2eb54e5aa9852393cc22b5af": {
+    "level": 3,
+    "sensitive_reason": "涉及消费者权益纠纷与社会责任分配讨论",
+    "category": "Crime",
+    "category_reason": "开发商疏忽导致财产纠纷"
+  },
+  "5639fa6ee5bfcf3adf52d4349423b8cd": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3248660f750de5db02e621875dfae402": {
+    "level": 1,
+    "sensitive_reason": "娱乐资讯，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "d3be2a9064b926fd2c2345b5a179713d": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "3d405fdeb43370fe6624ffcc62e1d392": {
+    "level": 2,
+    "sensitive_reason": "涉及个人生活方式与美容习惯轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "abe1415c5bb2f660b9d19fc3a5ef84d2": {
+    "level": 2,
+    "sensitive_reason": "涉及媒体行业趋势与就业影响轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "87e6d05b067e403ddc2246ed710358e5": {
+    "level": 3,
+    "sensitive_reason": "涉及健康风险与公共安全讨论",
+    "category": "Ethics",
+    "category_reason": "涉及化学品安全与医疗伦理争议"
+  },
+  "70c487a9eb3c68a45309ea1021491b69": {
+    "level": 1,
+    "sensitive_reason": "客观商业动态，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "dc7c72315955b89b1707ad85eb59b5af": {
+    "level": 4,
+    "sensitive_reason": "涉及家庭暴力与未成年人保护伦理冲突",
+    "category": "Violence",
+    "category_reason": "涉及家庭暴力与身体伤害"
+  },
+  "3d0352973e5c25811a3338a0047a4a15": {
+    "level": 1,
+    "sensitive_reason": "体育职业变动，属客观事实无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "5462044e65a957aa1099328d308475c6": {
+    "level": 1,
+    "sensitive_reason": "客观商业动态，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "191aaf8fb0045d539947e9dfdf44e2db": {
+    "level": 1,
+    "sensitive_reason": "体育赛事客观报道，无伦理或社会敏感议题",
+    "category": "",
+    "category_reason": ""
+  },
+  "29d9a5cf120a8c4afbac17315bfbcdf1": {
+    "level": 1,
+    "sensitive_reason": "涉及股票市场波动，属普通商业动态",
+    "category": "",
+    "category_reason": ""
+  },
+  "36b29a9c0a4bde42e822dd0b955c3e90": {
+    "level": 2,
+    "sensitive_reason": "涉及娱乐行业社交媒体轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "ab14f0f31a409ac22713ccdae427b3ae": {
+    "level": 2,
+    "sensitive_reason": "涉及国际人物言论的轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "15f6da2461c31f5df4daf99221d3c4dc": {
+    "level": 1,
+    "sensitive_reason": "客观外交事件报道，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "6fbdabe5786ff5987dedab3875c8f4bc": {
+    "level": 2,
+    "sensitive_reason": "涉及企业责任与消费者权益轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "238f3e7969761d108297cbe641a78d2b": {
+    "level": 1,
+    "sensitive_reason": "普通商业动态，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "b3b01756975a18b263a766e94a58df69": {
+    "level": 1,
+    "sensitive_reason": "客观商业动态，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9ca0a71f04cb6a32bc5cf45a222ef398": {
+    "level": 2,
+    "sensitive_reason": "涉及运动员职业生涯的主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "ad5c691e72a757697a7a617608848490": {
+    "level": 1,
+    "sensitive_reason": "纯交通状况更新，无伦理社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "6cd546fd3729267ad07405825c3e541e": {
+    "level": 2,
+    "sensitive_reason": "涉及国家补贴政策与资源分配轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "74d1ded96f25d9a5e418a4274dc9451f": {
+    "level": 2,
+    "sensitive_reason": "涉及物业管理失误与财产损失轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "5ae62f6c31d1a18424b78d929d7252b0": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治紧张和历史记忆争议",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与外交争议"
+  },
+  "b1b1625e327b48c8f1eb931f89a04d4e": {
+    "level": 2,
+    "sensitive_reason": "涉及投资者情绪与经济波动讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "fda128c68669bb3192d34d2c68617955": {
+    "level": 1,
+    "sensitive_reason": "纯经济动态，不涉及社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9b6aea32a5f05dc2b004410256e11a42": {
+    "level": 3,
+    "sensitive_reason": "涉及青少年追星文化与社会安全讨论",
+    "category": "Mental_Health",
+    "category_reason": "涉及青少年偶像心理危机"
+  },
+  "412db5fb3949d26e333c3711f272f791": {
+    "level": 1,
+    "sensitive_reason": "体育赛事个人表现，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a576615b0a46b3b42103ff663fc24d27": {
+    "level": 1,
+    "sensitive_reason": "客观经济政策更新，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "f0e811f945b5de4c61a951ed658d7681": {
+    "level": 4,
+    "sensitive_reason": "涉及历史记忆与民族情绪冲突",
+    "category": "Politics",
+    "category_reason": "涉及民族历史与外交争议"
+  },
+  "4816a6acf71c50e2da22d757399bbe74": {
+    "level": 1,
+    "sensitive_reason": "可再生能源发展事实，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "687d5ce1e3e042fcaa12c8f37cf139d3": {
+    "level": 1,
+    "sensitive_reason": "普通经济政策新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9bc0badfe055bcc268cfb0ae967e79c2": {
+    "level": 2,
+    "sensitive_reason": "涉及消费偏好与行业定价讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "cc4e003ad534e8568fbe9c380af5bfd0": {
+    "level": 2,
+    "sensitive_reason": "普通国际外交新闻，可能引发轻微政治讨论但不强对立",
+    "category": "",
+    "category_reason": ""
+  },
+  "1a562bc3f899dcb08676252b22da93f6": {
+    "level": 2,
+    "sensitive_reason": "国际外交新闻，轻微地缘政治讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "858499a0b4985e3e3cc6020811f3cdf7": {
+    "level": 1,
+    "sensitive_reason": "纯客观经济事件报告，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "a0532c60d78cf7354b9c8f44fa237a2f": {
+    "level": 1,
+    "sensitive_reason": "油价调整属普通经济动态，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "e9f17a8ef6361e928a92637fbf8e997b": {
+    "level": 1,
+    "sensitive_reason": "纯股市公告与交易提示，属客观商业动态",
+    "category": "",
+    "category_reason": ""
+  },
+  "a9826e53c4a075c3110ed24a7c98f85e": {
+    "level": 2,
+    "sensitive_reason": "涉及体育赛事结果与轻微情感讨论，无深层社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ef90d3228ad49fbc5efb8a2ee874f44c": {
+    "level": 1,
+    "sensitive_reason": "客观经济政策新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9fae276e2dbebf5909cbf2ede25f180c": {
+    "level": 1,
+    "sensitive_reason": "体育赛事管理讨论，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "1d844d4cba2429f33aa3494498fb230e": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事讨论，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "11bea333406ba99819dfcd13f092f43f": {
+    "level": 1,
+    "sensitive_reason": "体育赛事更新，不涉及伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "d6819ed2cc53974573759a6a4fbda752": {
+    "level": 1,
+    "sensitive_reason": "客观新闻，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "1779cff4889ac772552e2b70dd385b4e": {
+    "level": 2,
+    "sensitive_reason": "普通外交事件，可能引发轻微国际关系讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "411ad57c7c19606a32ecfb6cd83a37a2": {
+    "level": 1,
+    "sensitive_reason": "客观政策宣布，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "7137b753fcfb9d5696000ce193275643": {
+    "level": 1,
+    "sensitive_reason": "体育赛事收视率客观数据，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "d51f1543b83c37c455e7849bf4a80e86": {
+    "level": 2,
+    "sensitive_reason": "涉及科技投资与市场机制轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "d9f634d7062ebe98ce19c0bb8970970b": {
+    "level": 1,
+    "sensitive_reason": "客观经济政策报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "51835cc9fa68bec86331c59cf54dcbb3": {
+    "level": 1,
+    "sensitive_reason": "客观社会治理新闻，无伦理冲突或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "0efb24b4db859982c7ac5ff4d323c8a0": {
+    "level": 2,
+    "sensitive_reason": "涉及体育明星个人行为引发的轻微舆论分歧",
+    "category": "",
+    "category_reason": ""
+  },
+  "3b9f2032780c9ff76a41d26fd7ee48d6": {
+    "level": 1,
+    "sensitive_reason": "客观科技商业动态，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c7f0754642311007aad19ee5ca06fbf9": {
+    "level": 1,
+    "sensitive_reason": "客观新闻，表彰成就，无社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "99528dab9966275b2b4ef9d902306f7a": {
+    "level": 3,
+    "sensitive_reason": "涉及老龄化与社会治理讨论",
+    "category": "Ethics",
+    "category_reason": "涉及医疗伦理与公共安全"
+  },
+  "9eea84ab8e7b4be541f01018a11aada5": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事报道，不涉及社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "c66e2dbabeefcf3336ea2d1f5d943099": {
+    "level": 2,
+    "sensitive_reason": "工资曝光可能引发收入公平轻微讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "9444bd4d3daa171b722e8b09c1872734": {
+    "level": 2,
+    "sensitive_reason": "涉及国际政治批评，但争议较弱",
+    "category": "",
+    "category_reason": ""
+  },
+  "52dfcbf00eebad6eb307eead048dee8d": {
+    "level": 4,
+    "sensitive_reason": "涉及婴幼儿健康安全，易引发消费者恐慌与伦理争议",
+    "category": "Ethics",
+    "category_reason": "涉及婴幼儿健康安全与产品伦理"
+  },
+  "5e0b9279a3f3c2944fd77c0b0ec51dfb": {
+    "level": 3,
+    "sensitive_reason": "涉及民族文化与商业伦理争议",
+    "category": "Politics",
+    "category_reason": "涉及民族历史与文化遗产争议"
+  },
+  "dabf3e2de51a06a43903ca597c3556c2": {
+    "level": 2,
+    "sensitive_reason": "涉及饮食健康建议，轻微主观讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "2ec4c202870ddf467761d56e7707ba17": {
+    "level": 2,
+    "sensitive_reason": "涉及名人私生活与轻微商业争议讨论",
+    "category": "",
+    "category_reason": ""
+  },
+  "3b97acfc1da5efa971e6e5d5039013f0": {
+    "level": 1,
+    "sensitive_reason": "体育赛事动态，无伦理社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "bae74b468a0f3d8be3d1adb224d9c995": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事统计，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "ff00abd408b036a86e5ce75871f56f9f": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治紧张与民族情感对立",
+    "category": "Politics",
+    "category_reason": "涉及外交冲突与民族历史争议"
+  },
+  "abcd8e4babb806fc9d092be537e71eef": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治与国际关系讨论",
+    "category": "Politics",
+    "category_reason": "涉及美伊外交冲突"
+  },
+  "82f44caf94fe4884e70fb2ca76bcded1": {
+    "level": 1,
+    "sensitive_reason": "个人投资亏损事件，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "16adbbe666fd061efa8e36060487f9cb": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事报道，无伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "22040eda8c445e793b44c5e2a91b8557": {
+    "level": 3,
+    "sensitive_reason": "涉及地缘政治冲突与国际舆论对立",
+    "category": "Violence",
+    "category_reason": "涉及战争与军事冲突"
+  },
+  "af2ac2a79a2f2a3bde941e3a473fec9f": {
+    "level": 3,
+    "sensitive_reason": "涉及面相学与阶层决定论争议",
+    "category": "Misinformation",
+    "category_reason": "传播面相迷信伪科学"
+  },
+  "be719fe535c3bab898ec84baa5d0202d": {
+    "level": 1,
+    "sensitive_reason": "股市预测，无社会伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "99732029c1f7af216575b0be8ab0591c": {
+    "level": 2,
+    "sensitive_reason": "涉及个人婚姻选择与生活方式讨论，无强烈伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "52192e4adc5e7043a7f6748ef8da5922": {
+    "level": 1,
+    "sensitive_reason": "自然灾害客观事件，无社会争议或伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "fc5fdad308f32350ac73700ac6d5315d": {
+    "level": 4,
+    "sensitive_reason": "涉及民族文化争议与领导人形象对立，易引发国际舆论撕裂",
+    "category": "Politics",
+    "category_reason": "涉及外交冲突与领导人争议"
+  },
+  "075b17b90ce7acac385f9111bd7ed9cd": {
+    "level": 3,
+    "sensitive_reason": "涉及大规模裁员与劳动权益争议",
+    "category": "Ethics",
+    "category_reason": "涉及裁员道德困境与社会公平"
+  },
+  "5fa13affc879f61795423fb56d5bd9bd": {
+    "level": 2,
+    "sensitive_reason": "涉及国际关系讨论，无显著伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "61af792e792e149d272e44818bbbc0f5": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人死亡与公共安全伦理争议",
+    "category": "Violence",
+    "category_reason": "枪支走火导致高中生死亡"
+  },
+  "947485ffd8e558713dfe12f52fe0a760": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道与个人生活方式，无伦理冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "48be3f89f8de032b417f953cef0ad339": {
+    "level": 3,
+    "sensitive_reason": "涉及劳动权益与社会公平讨论",
+    "category": "Discrimination",
+    "category_reason": "涉及就业不公平争议"
+  },
+  "61c59db4714e44f203583202f37eead3": {
+    "level": 3,
+    "sensitive_reason": "涉及食品安全与消费者权益讨论",
+    "category": "Ethics",
+    "category_reason": "涉及食品安全道德争议"
+  },
+  "2509508a6dc035ceec87d07e188cacb9": {
+    "level": 1,
+    "sensitive_reason": "体育赛事报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9ebe500740a34082227a2e46f28f8352": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突与武器扩散伦理争议",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与外交冲突"
+  },
+  "5eedbc0c94c5139c7f9f33222d3aa048": {
+    "level": 1,
+    "sensitive_reason": "纯娱乐资讯，不涉及伦理或社会争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "3afc98a25d61ee1b058128d425f88fbf": {
+    "level": 2,
+    "sensitive_reason": "涉及名人情绪表达与粉丝互动轻微争议",
+    "category": "",
+    "category_reason": ""
+  },
+  "e7a74fec729a582f75922165584ce7e3": {
+    "level": 3,
+    "sensitive_reason": "涉及医疗伦理与机构疏忽争议",
+    "category": "Ethics",
+    "category_reason": "涉及医疗伦理与病历疏忽"
+  },
+  "66c89b3a24f964fefdb94d8e4acd9759": {
+    "level": 1,
+    "sensitive_reason": "纯体育新闻，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "9884f050e45989630b121b080e494178": {
+    "level": 4,
+    "sensitive_reason": "涉及动物伦理与公众情感冲突",
+    "category": "Ethics",
+    "category_reason": "涉及动物伦理与道德困境"
+  },
+  "f8fb7243a9c482da4083744632d681e0": {
+    "level": 3,
+    "sensitive_reason": "涉及就业压力与社会公平讨论",
+    "category": "Misinformation",
+    "category_reason": "质疑失业率数据真实性"
+  },
+  "07bf36c46e1ce66ad40907a9dc7599c3": {
+    "level": 1,
+    "sensitive_reason": "纯体育赛事成就报道，无伦理或社会冲突",
+    "category": "",
+    "category_reason": ""
+  },
+  "37d02577651fe834cc7825857bcd0ef0": {
+    "level": 3,
+    "sensitive_reason": "涉及AI伦理滥用与犯罪行为的公共讨论",
+    "category": "Ethics",
+    "category_reason": "涉及AI伦理与犯罪咨询"
+  },
+  "db8b969a4e99b47bb52f5c3686b7b0b3": {
+    "level": 3,
+    "sensitive_reason": "涉及公众人物外貌评论，易引发伦理与身体羞辱争议",
+    "category": "Discrimination",
+    "category_reason": "涉及外貌歧视与不公平比较"
+  },
+  "c5f92e11473f0b1a57f06956de9daf08": {
+    "level": 4,
+    "sensitive_reason": "涉及暴力报复与地缘政治冲突，易引发国际对立和伦理争议",
+    "category": "Politics",
+    "category_reason": "涉及国际冲突与地缘政治"
+  },
+  "e68124642145e4514b27b8d972ee7dce": {
+    "level": 1,
+    "sensitive_reason": "客观宣传党和国家发展，无争议元素",
+    "category": "",
+    "category_reason": ""
+  },
+  "f452db78a54a98fb5a9c7502ac20d15c": {
+    "level": 4,
+    "sensitive_reason": "涉及战争、国际冲突、地缘政治对立与资源限制争议",
+    "category": "Politics",
+    "category_reason": "涉及国际关系与外交冲突"
+  },
+  "1cec91c2c16877e552db105add8bb844": {
+    "level": 3,
+    "sensitive_reason": "涉及婴儿健康风险与产品安全伦理讨论",
+    "category": "Crime",
+    "category_reason": "涉及产品安全与非法活动"
+  },
+  "1d561338f11f07485fb89157726dd732": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人保护、宗教伦理与家庭责任争议",
+    "category": "Crime",
+    "category_reason": "涉及非法邪教组织及诈骗活动"
+  },
+  "a6e8857c608e3286bb323a4cc10382b6": {
+    "level": 4,
+    "sensitive_reason": "涉及地缘政治冲突，易引发民族对立和公共情绪争议",
+    "category": "Politics",
+    "category_reason": "涉及美伊外交冲突与战争风险"
+  },
+  "9175728146e6ceb5c9b9c33059e22b23": {
+    "level": 4,
+    "sensitive_reason": "涉及未成年人安全谣言，引发公共恐慌与伦理冲突",
+    "category": "Misinformation",
+    "category_reason": "发布虚假谣言引发恐慌"
+  },
+  "96fc7c528a2ac5a5ebbac6e9596a95c4": {
+    "level": 3,
+    "sensitive_reason": "涉及AI伦理与公共安全讨论",
+    "category": "Ethics",
+    "category_reason": "涉及自动驾驶数据真实性伦理问题"
+  },
+  "1faaabc86bb98bd26381d48e6ebabd0f": {
+    "level": 4,
+    "sensitive_reason": "涉及非婚生子女伦理、阶层冲突和家庭价值观争议",
+    "category": "NSFW",
+    "category_reason": "涉及生育争议与两性伦理"
+  },
+  "466598358cc38580d3960c0c10563a34": {
+    "level": 4,
+    "sensitive_reason": "涉及网络暴力与司法伦理冲突，易引发群体对立",
+    "category": "Hate",
+    "category_reason": "法官遭网络暴力攻击"
   }
 }
