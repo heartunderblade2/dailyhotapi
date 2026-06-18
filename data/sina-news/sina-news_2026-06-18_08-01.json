@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-18T00:01:29.165Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "美联储今年连续第四次宣布维持利率不变",
+      "author": "澎湃新闻",
+      "hot": 159,
+      "timestamp": 1781757096000,
+      "url": "https://news.sina.com.cn/w/2026-06-18/doc-inicucsf3518052.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-18/doc-inicucsf3518052.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "“众泰等8家车企整车生产资质被冻结并永久失效”为不实消息",
+      "author": "澎湃新闻",
+      "hot": 162,
+      "timestamp": 1781730202000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inictnum7012530.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inictnum7012530.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "美方回应“伊朗队被勒令连夜离境”：流程就是这么定的",
+      "author": "观察者网",
+      "hot": 164,
+      "timestamp": 1781740322000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicttap5914843.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicttap5914843.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "一笔资金，两种胜利：美伊3000亿美元舆论攻防战",
+      "author": "新京报",
+      "hot": 164,
+      "timestamp": 1781722735000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicthnt6046693.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicthnt6046693.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "副省部级“老虎”为何二次被查",
+      "author": "新浪新闻综合",
+      "hot": 164,
+      "timestamp": 1781683798000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inicrcpp7624791.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inicrcpp7624791.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "“赓续‘莫高精神’，潜心为国护宝”",
+      "author": "新华社",
+      "hot": 167,
+      "timestamp": 1781728682000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-17/doc-inictnup3779928.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-17/doc-inictnup3779928.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "美军太平洋司令部，回来了",
+      "author": "长安街知事",
+      "hot": 167,
+      "timestamp": 1781700572000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicsrqv7197248.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicsrqv7197248.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美联储预测2026年将加息，主席沃什可能投了弃权票",
+      "author": "环球市场播报",
+      "hot": 168,
+      "timestamp": 1781750018000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3514418.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3514418.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "SpaceX股价上市以来首度下跌 市场人士称或逢低吸纳",
+      "author": "环球市场播报",
+      "hot": 171,
+      "timestamp": 1781739596000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicttai6947986.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicttai6947986.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "决策日指南：美联储新主席沃什将迎来首个重大考验 声明措辞备受关注",
+      "author": "环球市场播报",
+      "hot": 173,
+      "timestamp": 1781682279000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsezc4008124.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsezc4008124.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "C罗本场数据：首发打满全场，3射门0射正，25次触球0次过人",
+      "author": "新浪新闻综合",
+      "hot": 177,
+      "timestamp": 1781752196000,
+      "url": "https://news.sina.com.cn/o/2026-06-18/doc-inicucsf3524686.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-18/doc-inicucsf3524686.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "6月18日外盘头条：消息人士称美伊提前签署协议 美联储按兵不动但鹰声嘹亮 新主席沃什淡化前瞻指引重要性",
+      "author": "环球市场播报",
+      "hot": 180,
+      "timestamp": 1781762539000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2433236.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2433236.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "爆冷！葡萄牙1-1民主刚果 内维斯破门维萨扳平 葡萄牙7射1正",
+      "author": "新浪新闻综合",
+      "hot": 184,
+      "timestamp": 1781751704000,
+      "url": "https://news.sina.com.cn/o/2026-06-18/doc-inicucsi5719853.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-18/doc-inicucsi5719853.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "闪电惊雷过后，河北衡水麦田出现怪石，河北地质大学专家判定其为“闪电熔岩”，属罕见自然现象",
+      "author": "新浪新闻综合",
+      "hot": 184,
+      "timestamp": 1781703056000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inicsvwt7122013.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inicsvwt7122013.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "沃什首场会议带来更简短的沟通",
+      "author": "环球市场播报",
+      "hot": 187,
+      "timestamp": 1781748875000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3509464.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3509464.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "梁文锋出资约200亿冲上热搜，DeepSeek首轮融资不止关乎钱",
+      "author": "第一财经",
+      "hot": 190,
+      "timestamp": 1781721875000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicthnr3855098.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicthnr3855098.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "“100%加息”！凌晨，全线跳水！美联储，重大宣布！沃什重磅发声",
+      "author": "券商中国",
+      "hot": 198,
+      "timestamp": 1781762419000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-18/doc-inicuixz6673861.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-18/doc-inicuixz6673861.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "6月18日热门中概股多数下跌 阿里巴巴跌超3% 拼多多跌超2%",
+      "author": "环球市场播报",
+      "hot": 208,
+      "timestamp": 1781759270000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2402781.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2402781.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "俄军部署新型电子战系统对抗“星链”",
+      "author": "新浪新闻综合",
+      "hot": 214,
+      "timestamp": 1781728324000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inictnup3777592.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inictnup3777592.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "特朗普：若对伊朗协议不满意，美国将“立刻恢复投掷炸弹”",
+      "author": "环球市场播报",
+      "hot": 217,
+      "timestamp": 1781746191000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inictxki3625655.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inictxki3625655.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "特朗普谈美联储利率决定：没关系 怎样都行",
+      "author": "环球市场播报",
+      "hot": 222,
+      "timestamp": 1781754019000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6757121.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6757121.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "世界杯-葡萄牙vs民主刚果：41岁C罗先发，迎第6届世界杯！B费出战",
+      "author": "新浪新闻综合",
+      "hot": 227,
+      "timestamp": 1781740333000,
+      "url": "https://news.sina.com.cn/o/2026-06-17/doc-inictxkm5789072.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-17/doc-inictxkm5789072.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "对特朗普表态感到乐观，希望美采取更多措施，欧洲想把美国拉回俄乌议题",
+      "author": "环球网",
+      "hot": 233,
+      "timestamp": 1781764446000,
+      "url": "https://news.sina.com.cn/w/2026-06-18/doc-inicuqfx6560903.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-18/doc-inicuqfx6560903.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "美联储发布联邦公开市场委员会（FOMC）声明 维持利率不变",
+      "author": "环球市场播报",
+      "hot": 236,
+      "timestamp": 1781748195000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsi5702248.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsi5702248.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "德媒：从10个数字看德国当前危机",
+      "author": "新浪新闻综合",
+      "hot": 249,
+      "timestamp": 1781728389000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inictnut2746769.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inictnut2746769.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "中国机器人开始治理沙漠了：效率远胜人工",
+      "author": "快科技",
+      "hot": 249,
+      "timestamp": 1781734870000,
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-06-17/doc-inicttar2667697.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/discovery/2026-06-17/doc-inicttar2667697.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "国家电视台：伊朗议长卡利巴夫称没有禁止美国在伊朗投资",
+      "author": "环球市场播报",
+      "hot": 257,
+      "timestamp": 1781760999000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2419561.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyi2419561.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "美军突然宣布将一重要机构改名 印度网民听后心情复杂",
+      "author": "环球时报",
+      "hot": 257,
+      "timestamp": 1781733561000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicttar2654162.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicttar2654162.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "伊朗方面披露美伊谅解备忘录文本内容",
+      "author": "央视新闻客户端",
+      "hot": 262,
+      "timestamp": 1781758402000,
+      "url": "https://news.sina.com.cn/w/2026-06-18/doc-inicuixz6644669.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-18/doc-inicuixz6644669.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "特朗普称若伊朗协议失败，他很乐意归咎于万斯",
+      "author": "环球市场播报",
+      "hot": 266,
+      "timestamp": 1781755864000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3541937.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsf3541937.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "中国第二人！马宁成为历史上第二位担任世界杯主裁判的中国裁判",
+      "author": "新浪新闻综合",
+      "hot": 268,
+      "timestamp": 1781729501000,
+      "url": "https://news.sina.com.cn/zx/2026-06-17/doc-inictnup3786641.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-17/doc-inictnup3786641.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美联储新主席沃什成立特别工作组 聚焦6.7万亿美元资产负债表",
+      "author": "环球市场播报",
+      "hot": 268,
+      "timestamp": 1781759510000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuixz6653098.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuixz6653098.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "欧美战略阳谋，拉伊打俄遏中",
+      "author": "经济观察报",
+      "hot": 278,
+      "timestamp": 1781722992000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicthnr3864945.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicthnr3864945.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "俄媒：乌军袭击载有白俄罗斯儿童足球队的巴士，普京指示俄官员向伤者提供帮助",
+      "author": "环球网",
+      "hot": 281,
+      "timestamp": 1781737034000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicttap5889389.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicttap5889389.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "从“提供工具”转向“交付成果”，AI应用开始争夺“最后一公里”？",
+      "author": "每日经济新闻",
+      "hot": 282,
+      "timestamp": 1781756969000,
+      "url": "https://news.sina.com.cn/c/2026-06-18/doc-inicucsf3516734.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-18/doc-inicucsf3516734.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "微信支付宝打响AI支付战役",
+      "author": "界面新闻",
+      "hot": 288,
+      "timestamp": 1781716490000,
+      "url": "https://news.sina.com.cn/s/2026-06-17/doc-inicthnv2769200.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-17/doc-inicthnv2769200.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "淘宝闪购、京东、美团，同时表态",
+      "author": "长安街知事",
+      "hot": 289,
+      "timestamp": 1781724684000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inictnum6970407.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inictnum6970407.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "沃什将首次以美联储主席身份主持议息会议，市场有哪些看点",
+      "author": "环球市场播报",
+      "hot": 296,
+      "timestamp": 1781739243000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicttai6946616.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicttai6946616.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "特朗普：若伊朗协议未能达成，很喜欢把责任推给万斯的想法",
+      "author": "环球市场播报",
+      "hot": 299,
+      "timestamp": 1781746597000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inictxki3627817.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inictxki3627817.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "王毅回应联合国不重要了说法",
+      "author": "中国新闻网",
+      "hot": 300,
+      "timestamp": 1781722140000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inicthnr3857854.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inicthnr3857854.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "澳媒：中等强国“雷声大，雨点小”",
+      "author": "新浪新闻综合",
+      "hot": 304,
+      "timestamp": 1781728284000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inictnut2745768.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inictnut2745768.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "6月18日美股成交额前20：美光科技逆势收涨2.2%，德银大幅上调其目标价",
+      "author": "环球市场播报",
+      "hot": 313,
+      "timestamp": 1781758544000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyf5621143.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicuiyf5621143.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "DeepSeek获510亿融资，投资方公布：腾讯、宁德时代、京东、网易等",
+      "author": "长安街知事",
+      "hot": 316,
+      "timestamp": 1781735927000,
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inicttar2674342.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-17/doc-inicttar2674342.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "伊朗公布美伊临时协议完整文本《伊斯兰堡终止强加战争谅解备忘录》",
+      "author": "环球市场播报",
+      "hot": 325,
+      "timestamp": 1781754133000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6757735.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6757735.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "西媒：世界正形成新的“威慑平衡”",
+      "author": "新浪新闻综合",
+      "hot": 326,
+      "timestamp": 1781728446000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inictnum7002358.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inictnum7002358.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "央行行长潘功胜陆家嘴论坛再推多项新举措 释放怎样政策信号？",
+      "author": "新京报",
+      "hot": 333,
+      "timestamp": 1781720665000,
+      "url": "https://news.sina.com.cn/o/2026-06-17/doc-inicthnp7068344.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-17/doc-inicthnp7068344.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "足彩彩果：梅西戴帽助阿根廷大捷 法国挪威皆胜",
+      "author": "新浪彩票",
+      "hot": 340,
+      "timestamp": 1781684473000,
+      "url": "https://sports.sina.com.cn/l/2026-06-17/doc-inicsmhz3897400.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-17/doc-inicsmhz3897400.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美联储按兵不动但鹰声嘹亮 新主席沃什淡化前瞻指引重要性",
+      "author": "环球市场播报",
+      "hot": 344,
+      "timestamp": 1781756030000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6766637.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-18/doc-inicucsc6766637.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "美军直升机波斯湾坠毁 外媒披露内幕：正参加机密行动",
+      "author": "环球时报",
+      "hot": 353,
+      "timestamp": 1781733573000,
+      "url": "https://news.sina.com.cn/w/2026-06-17/doc-inicttar2654422.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-17/doc-inicttar2654422.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "6月17日增减持汇总：永兴股份、润丰股份披露增持情况，名臣健康等7股拟减持（表）",
+      "author": "新浪证券",
+      "hot": 368,
+      "timestamp": 1781735067000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-17/doc-inicttam3698245.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-06-17/doc-inicttam3698245.shtml"
+    }
+  ]
+}
