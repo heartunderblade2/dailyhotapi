@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-19T12:01:30.611Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "美联储释放鹰派重磅信号，美元创年内新高金价承压回落",
+      "author": "市场资讯",
+      "hot": 631,
+      "timestamp": 1781852821000,
+      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-19/doc-inicwhrc6233356.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-19/doc-inicwhrc6233356.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "德国派遣舰艇以备霍尔木兹海峡扫雷任务",
+      "author": "滚动播报",
+      "hot": 686,
+      "timestamp": 1781830464000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrf2979461.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrf2979461.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "斯洛伐克国民议会通过对菲佐政府信任投票",
+      "author": "滚动播报",
+      "hot": 689,
+      "timestamp": 1781832455000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrm1988701.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrm1988701.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "利好来了！八部门发文，推进“人工智能+消费”发展",
+      "author": "证券时报",
+      "hot": 691,
+      "timestamp": 1781814319000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-18/doc-inicvvzp5350030.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-18/doc-inicvvzp5350030.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "日本央行会议纪要：内阁办公室代表称，希望日本央行按照与政府的共同声明来引导政策。",
+      "author": "滚动播报",
+      "hot": 692,
+      "timestamp": 1781855995000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwxpc1743616.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwxpc1743616.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "丰田召回部分2026款丰田bZ系列及雷克萨斯RZ车型。",
+      "author": "滚动播报",
+      "hot": 694,
+      "timestamp": 1781831053000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrf2982236.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrf2982236.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "特朗普：市场对油价下跌的走势非常满意。",
+      "author": "滚动播报",
+      "hot": 695,
+      "timestamp": 1781834581000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6223882.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6223882.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "伊朗最高国家安全委员会表示，排雷相关措施将根据伊斯兰堡签署的谅解备忘录执行。",
+      "author": "滚动播报",
+      "hot": 702,
+      "timestamp": 1781837335000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhri5237654.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhri5237654.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "亚马逊将独家销售无人工色素款 M&M 巧克力豆。",
+      "author": "滚动播报",
+      "hot": 703,
+      "timestamp": 1781832572000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhri5211982.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhri5211982.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "辉瑞制药公司：仍然预测全年调整后每股收益2.80美元至3.00美元。",
+      "author": "滚动播报",
+      "hot": 707,
+      "timestamp": 1781832127000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6211826.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6211826.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "孙兴慜状态不佳遭调侃像张元英",
+      "author": "新浪新闻综合",
+      "hot": 708,
+      "timestamp": 1781873834000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkax1623054.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkax1623054.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "丰田：北美地区开展车辆召回。",
+      "author": "滚动播报",
+      "hot": 708,
+      "timestamp": 1781831064000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6206209.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrc6206209.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "费城半导体指数收盘上涨6.4%。",
+      "author": "滚动播报",
+      "hot": 739,
+      "timestamp": 1781841753000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwnxi1904170.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwnxi1904170.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "中欧班列年开行量十年间增长10.8倍",
+      "author": "央视",
+      "hot": 748,
+      "timestamp": 1781865385000,
+      "url": "https://news.sina.com.cn/zx/2026-06-19/doc-inicxcva3005488.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-19/doc-inicxcva3005488.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "被错杀的资产！高股息+高增长双优股，25只入选",
+      "author": "数据宝",
+      "hot": 754,
+      "timestamp": 1781858620000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicwxpf9870242.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicwxpf9870242.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "阿媒造谣梅西父亲去世，阿根廷总统米莱：招惹梅西就是招惹所有人",
+      "author": "新浪新闻综合",
+      "hot": 760,
+      "timestamp": 1781858368000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpc1765210.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpc1765210.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "万斯：以色列不能靠杀戮解决国家安全问题",
+      "author": "北京日报客户端",
+      "hot": 769,
+      "timestamp": 1781883787000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxqkt4779933.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxqkt4779933.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "霸气！端午节最硬核的“龙舟”竞渡来了",
+      "author": "央视",
+      "hot": 770,
+      "timestamp": 1781856993000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicwxpe3079374.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicwxpe3079374.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "虽已不再依赖孙兴慜，但韩国队仍需用好孙兴慜",
+      "author": "澎湃新闻",
+      "hot": 794,
+      "timestamp": 1781879125000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkaz9756374.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkaz9756374.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "韩国综指涨超200点，再创历史新高，三星电子涨近3%，SK海力士涨近6%！日经指数涨超500点丨日韩股市",
+      "author": "21世纪经济报道",
+      "hot": 831,
+      "timestamp": 1781858835000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicwxpe3096119.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicwxpe3096119.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "武昌火车站负一层因暴雨被淹，有积水漫到脚踝，工作人员：积水已基本排空，东西出站口可正常通行，如坐地铁会有人引导",
+      "author": "宁波晚报",
+      "hot": 832,
+      "timestamp": 1781886799000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxqkw2909629.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxqkw2909629.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "美国联邦能源监管委员会主席：现有电网现状无法支撑数据中心用电需求。",
+      "author": "滚动播报",
+      "hot": 839,
+      "timestamp": 1781834048000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrm1998527.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwhrm1998527.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "韩国门将回应出现巨大失误",
+      "author": "中国新闻网",
+      "hot": 859,
+      "timestamp": 1781885927000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxqkv1548841.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxqkv1548841.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "MSCI指出韩国市场面临关键审查前的障碍",
+      "author": "滚动播报",
+      "hot": 877,
+      "timestamp": 1781856739000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwxpc1751688.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwxpc1751688.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "机构：数据主导美联储未来货币政策行动",
+      "author": "滚动播报",
+      "hot": 924,
+      "timestamp": 1781894330000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicxusv9603785.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicxusv9603785.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "刚刚，加拿大队球员科内重伤，小腿变形，坐担架离场时仍向球迷挥手致意",
+      "author": "红星新闻",
+      "hot": 934,
+      "timestamp": 1781855657000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpe3064368.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpe3064368.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美国教育部宣布降低学生贷款利率。",
+      "author": "滚动播报",
+      "hot": 937,
+      "timestamp": 1781829189000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwaim5322363.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwaim5322363.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "打平即出线！韩国末轮打平确定小组第二，输球小组第三或垫底出局",
+      "author": "新浪新闻综合",
+      "hot": 952,
+      "timestamp": 1781873394000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkaz9722500.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxkaz9722500.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "伊朗革命卫队：只要最高领袖下令 就将给敌人带来更加惨烈的历史性失败",
+      "author": "市场资讯",
+      "hot": 982,
+      "timestamp": 1781883181000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-19/doc-inicxqkx9658633.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-06-19/doc-inicxqkx9658633.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "男子花20万装修完发现是邻居家，系开发商贴错了门牌号，法官：开发商、物业、业主都有责任",
+      "author": "潇湘晨报",
+      "hot": 1017,
+      "timestamp": 1781813309000,
+      "url": "https://news.sina.com.cn/s/2026-06-18/doc-inicvrtm6481660.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-18/doc-inicvrtm6481660.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "基民懵了！节前近700亿资金借道ETF离场，火爆的电网、芯片竟被狂抛",
+      "author": "每日经济新闻",
+      "hot": 1018,
+      "timestamp": 1781869577000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxcux4946650.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxcux4946650.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "中国驻美大使谢锋：人工智能不能野蛮生长、跑马圈地",
+      "author": "滚动播报",
+      "hot": 1032,
+      "timestamp": 1781874371000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxkav4849259.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxkav4849259.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "万斯警告以色列官员：不要攻击仅存的强大盟友",
+      "author": "环球市场播报",
+      "hot": 1050,
+      "timestamp": 1781830566000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwhri5201134.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwhri5201134.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "端午雨水已进京 下午到夜间有强降雨",
+      "author": "新京报",
+      "hot": 1054,
+      "timestamp": 1781877206000,
+      "url": "https://news.sina.com.cn/o/2026-06-19/doc-inicxkay2971294.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-19/doc-inicxkay2971294.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "登顶！加拿大6-0九人卡塔尔取世界杯首胜 戴维戴帽科内疑似重伤",
+      "author": "新浪新闻综合",
+      "hot": 1061,
+      "timestamp": 1781856170000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpe3071553.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpe3071553.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "龙舟过“C弯”，为什么每年都出圈？",
+      "author": "新华网",
+      "hot": 1062,
+      "timestamp": 1781862027000,
+      "url": "https://news.sina.com.cn/zx/2026-06-19/doc-inicwxpf9896393.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-19/doc-inicwxpf9896393.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "巴媒：巴基斯坦总理取消瑞士之行",
+      "author": "新华社",
+      "hot": 1084,
+      "timestamp": 1781820814000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-18/doc-inicvvzr2178870.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-18/doc-inicvvzr2178870.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "锁定头名出线！墨西哥1-0韩国 金承奎超巨失误孙兴慜0射门被换下",
+      "author": "新浪新闻综合",
+      "hot": 1103,
+      "timestamp": 1781866660000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicxcvc9803580.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicxcvc9803580.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "伊朗最高领袖将就伊美谅解备忘录表态",
+      "author": "央视",
+      "hot": 1149,
+      "timestamp": 1781832876000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwhrm1983427.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwhrm1983427.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "纳斯达克中国金龙指数收跌0.78%",
+      "author": "滚动播报",
+      "hot": 1153,
+      "timestamp": 1781841604000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwnxk3232993.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwnxk3232993.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "多地通知：龙舟赛取消或延期！",
+      "author": "人民网",
+      "hot": 1158,
+      "timestamp": 1781874472000,
+      "url": "https://finance.sina.com.cn/china/gncj/2026-06-19/doc-inicxkay2953362.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/gncj/2026-06-19/doc-inicxkay2953362.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "6月19日收盘：美股三大股指收涨 英特尔涨超10%领涨芯片板块",
+      "author": "环球市场播报",
+      "hot": 1159,
+      "timestamp": 1781842641000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwnxk3237550.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwnxk3237550.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "男子小复式擒双色球640万 临时改蓝球击中头奖",
+      "author": "新浪彩票",
+      "hot": 1195,
+      "timestamp": 1781854954000,
+      "url": "https://sports.sina.com.cn/l/2026-06-19/doc-inicwxpe3060305.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-19/doc-inicwxpe3060305.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "联大举行秘书长候选人互动对话",
+      "author": "央视",
+      "hot": 1198,
+      "timestamp": 1781853128000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwnxn0022402.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwnxn0022402.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "以色列驻美大使称以方仍致力于执行与黎停火协议",
+      "author": "央视",
+      "hot": 1201,
+      "timestamp": 1781853106000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwtfi9927258.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwtfi9927258.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "猪价连续多日回升 “猪周期”拐点到了吗？专家解读",
+      "author": "央视",
+      "hot": 1215,
+      "timestamp": 1781855475000,
+      "url": "https://news.sina.com.cn/s/2026-06-19/doc-inicwxpe3057388.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-19/doc-inicwxpe3057388.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "美国副总统万斯新闻发布会结束。",
+      "author": "滚动播报",
+      "hot": 1248,
+      "timestamp": 1781828022000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwaip2093164.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-19/doc-inicwaip2093164.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "伊朗最高领袖：面对面谈判不意味着接受“敌方”意志",
+      "author": "央视",
+      "hot": 1261,
+      "timestamp": 1781836613000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwhri5230818.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwhri5230818.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "又传变局！伊朗暂停前往，巴基斯坦总理取消瑞士之行！万斯批评以色列：“歇斯底里”",
+      "author": "证券时报",
+      "hot": 1296,
+      "timestamp": 1781860193000,
+      "url": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpc1779388.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-19/doc-inicwxpc1779388.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "世界杯情报：土耳其本场需跨越1500公里路程参赛",
+      "author": "新浪彩票",
+      "hot": 1305,
+      "timestamp": 1781856979000,
+      "url": "https://sports.sina.com.cn/l/2026-06-19/doc-inicwxpf9855337.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-19/doc-inicwxpf9855337.shtml"
+    }
+  ]
+}
