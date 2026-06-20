@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-20T12:01:31.945Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "美澳对决主裁判抽筋倒地 喝下神秘液体奇迹恢复",
+      "author": "快科技",
+      "hot": 288,
+      "timestamp": 1781946806000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-20/doc-iniczhtx4061012.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-06-20/doc-iniczhtx4061012.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "水利部：全国14条中小河流发生超警洪水",
+      "author": "滚动播报",
+      "hot": 662,
+      "timestamp": 1781953563000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzz8864556.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzz8864556.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "佛得角新总理卡瓦略宣誓就职",
+      "author": "滚动播报",
+      "hot": 663,
+      "timestamp": 1781950971000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczhuc8976879.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczhuc8976879.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "大冷门！土耳其“黄金一代”小组赛2连败耻辱出局！本届第2支出局",
+      "author": "新浪新闻综合",
+      "hot": 664,
+      "timestamp": 1781960990000,
+      "url": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztit3896872.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztit3896872.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "报道：特朗普特使威特科夫赶赴瑞士，为美伊潜在核谈判铺路",
+      "author": "滚动播报",
+      "hot": 671,
+      "timestamp": 1781938679000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczanc0920930.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczanc0920930.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "特朗普： 全新空军一号专机将于 7 月 4 日飞越华盛顿上空。",
+      "author": "滚动播报",
+      "hot": 674,
+      "timestamp": 1781928539000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicywef1008854.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicywef1008854.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "伊美谈判相关斡旋方21日在埃及举行会晤",
+      "author": "新华社",
+      "hot": 682,
+      "timestamp": 1781938371000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczamz4142372.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczamz4142372.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "伊朗总统高级顾问：美国必须非常谨慎，以免和平协议沦为以色列固有恶意行为的牺牲品。",
+      "author": "滚动播报",
+      "hot": 707,
+      "timestamp": 1781954978000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzv3985699.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzv3985699.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "巴拿马籍船只被证实在黑海遇袭",
+      "author": "滚动播报",
+      "hot": 710,
+      "timestamp": 1781954862000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzx0762317.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzx0762317.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "美国一空军基地暴发流感 已有超160人感染",
+      "author": "央视",
+      "hot": 718,
+      "timestamp": 1781939127000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczane2245556.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczane2245556.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "多米尼加一度假酒店突发大火，致1死多伤，近1700名游客被疏散",
+      "author": "滚动播报",
+      "hot": 719,
+      "timestamp": 1781955923000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzy2104350.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzy2104350.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "富时A50期指连续夜盘收涨0.02%，报15752点。",
+      "author": "滚动播报",
+      "hot": 720,
+      "timestamp": 1781932539000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyweh2357528.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyweh2357528.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "国际油价V型反弹，美股期货全线下跌，以色列“同意停火”后再次空袭黎巴嫩南部",
+      "author": "21世纪经济报道",
+      "hot": 722,
+      "timestamp": 1781939806000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczanc0926246.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczanc0926246.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "今天全社会跨区域人员流动量预计超2亿人次",
+      "author": "滚动播报",
+      "hot": 727,
+      "timestamp": 1781971907000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczxrt0607073.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-iniczxrt0607073.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "特朗普：“我是老大”的言论只是开玩笑",
+      "author": "滚动播报",
+      "hot": 743,
+      "timestamp": 1781922730000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwf4338960.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwf4338960.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "巴西3比0海地，拿到关键3分，桑巴军团卷土重来",
+      "author": "澎湃新闻",
+      "hot": 771,
+      "timestamp": 1781952642000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhtx4092427.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhtx4092427.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "凌晨4点 世界杯14.7亿焦点战！夺冠热门vs大黑马",
+      "author": "新浪彩票",
+      "hot": 773,
+      "timestamp": 1781971454000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczxrv8708865.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczxrv8708865.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "特朗普：赫格塞斯是天生的斗士，他从不知认输，性格十分强硬，此人真心热爱军队。",
+      "author": "滚动播报",
+      "hot": 775,
+      "timestamp": 1781927918000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwi1137312.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwi1137312.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "伊朗外长：美应对任何违反谅解备忘录条款的行为负责",
+      "author": "央视",
+      "hot": 801,
+      "timestamp": 1781915411000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-inicymqi4430900.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-inicymqi4430900.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "欧佩克维持对中长期石油需求乐观判断",
+      "author": "滚动播报",
+      "hot": 813,
+      "timestamp": 1781957071000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzv4001433.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicznzv4001433.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "胜负彩26087期欧亚赔率对照：葡萄牙盘口存差异",
+      "author": "新浪彩票",
+      "hot": 824,
+      "timestamp": 1781942793000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanc0941555.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanc0941555.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "特朗普“剧透”，意大利怒了",
+      "author": "环球时报",
+      "hot": 833,
+      "timestamp": 1781973744000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczxru1949203.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczxru1949203.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "6月20日隔夜要闻：特朗普对伊朗协议定调 意在驳斥美国失败论 油价上涨 美伊核谈遇阻且油轮通行放缓",
+      "author": "环球市场播报",
+      "hot": 840,
+      "timestamp": 1781938962000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczanc0922174.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczanc0922174.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "市场消息：俄罗斯自 9 月 1 日起将对钻石征收 8% 出口关税。",
+      "author": "滚动播报",
+      "hot": 861,
+      "timestamp": 1781917920000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqm1227352.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqm1227352.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "美国内华达州一热气球坠落 致多人重伤",
+      "author": "央视",
+      "hot": 868,
+      "timestamp": 1781939101000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczanf9027976.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczanf9027976.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "以色列“同意停火”后再次空袭黎巴嫩南部",
+      "author": "新华社",
+      "hot": 869,
+      "timestamp": 1781938417000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczanf9030184.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczanf9030184.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "利比亚近海沉船事故致12人死亡39人失踪",
+      "author": "滚动播报",
+      "hot": 883,
+      "timestamp": 1781928639000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicywei9117658.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicywei9117658.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "特朗普：不将 Anthropic 视作国家安全威胁。",
+      "author": "滚动播报",
+      "hot": 923,
+      "timestamp": 1781921484000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9220638.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9220638.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "主队缺席的世界杯，这名意大利记者为什么还要来？",
+      "author": "澎湃新闻",
+      "hot": 937,
+      "timestamp": 1781952672000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhua2174428.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhua2174428.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "竞彩欧亚对照：日本盘口存差异",
+      "author": "新浪彩票",
+      "hot": 949,
+      "timestamp": 1781972734000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczxru1942073.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczxru1942073.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "中国队夺体操亚青赛男团金",
+      "author": "滚动播报",
+      "hot": 952,
+      "timestamp": 1781914787000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqn2545563.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqn2545563.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "后劲不足！澳大利亚不敌美国，世界杯亚足联球队6场不败后遭6连败",
+      "author": "新浪新闻综合",
+      "hot": 964,
+      "timestamp": 1781939376000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczamz4146851.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczamz4146851.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "墨西哥央行设定比索官方汇率为1美元兑17.3247墨西哥比索。",
+      "author": "滚动播报",
+      "hot": 967,
+      "timestamp": 1781924501000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9232728.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9232728.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "两连败耻辱出局！土耳其0-1十人巴拉圭 阿尔米隆捂嘴直红",
+      "author": "新浪新闻综合",
+      "hot": 971,
+      "timestamp": 1781960838000,
+      "url": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztix8780146.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztix8780146.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "被问及是否会关停 Anthropic 时，特朗普回应：我并不打算这么做。",
+      "author": "滚动播报",
+      "hot": 986,
+      "timestamp": 1781921635000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwi1112236.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwi1112236.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "世界杯情报：日本锋线核心久保建英因伤缺阵",
+      "author": "新浪彩票",
+      "hot": 1013,
+      "timestamp": 1781943962000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanc0948786.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanc0948786.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "新“空军一号”亮相 特朗普炫“空中白宫”引争议",
+      "author": "新华国际",
+      "hot": 1060,
+      "timestamp": 1781968634000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-inicztiv0712296.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-inicztiv0712296.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "以色列再次发动袭击！巴基斯坦突发连环爆炸！伊朗：正在做两手准备！原油怎么走",
+      "author": "市场资讯",
+      "hot": 1173,
+      "timestamp": 1781975461000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczxrv8736946.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczxrv8736946.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "男子凌晨被关汽车后备箱，身体扭曲，衣服湿透，大口喘气……民警纳闷：“怎么回事啊兄弟”",
+      "author": "新浪新闻综合",
+      "hot": 1182,
+      "timestamp": 1781958552000,
+      "url": "https://news.sina.com.cn/s/2026-06-20/doc-inicznzv4010449.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-20/doc-inicznzv4010449.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "以军称将继续回应黎真主党“违反停火协议行为”",
+      "author": "滚动播报",
+      "hot": 1225,
+      "timestamp": 1781923859000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9230458.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwm9230458.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "居莱尔：向全国人民道歉！我们效力的都是豪门，不该是这样的结果",
+      "author": "新浪新闻综合",
+      "hot": 1242,
+      "timestamp": 1781963138000,
+      "url": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztit3908626.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-20/doc-inicztit3908626.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "伊美谈判斡旋相关方将于21日在埃及举行会晤",
+      "author": "滚动播报",
+      "hot": 1257,
+      "timestamp": 1781918227000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqi4451375.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicymqi4451375.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "世界杯情报：科特迪瓦跨越2500公里参赛舟车劳顿",
+      "author": "新浪彩票",
+      "hot": 1284,
+      "timestamp": 1781943762000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczane2282115.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczane2282115.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "苏格兰0-1不敌摩洛哥 任九开32899注443元",
+      "author": "新浪彩票",
+      "hot": 1334,
+      "timestamp": 1781968346000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-inicztiv0714847.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-inicztiv0714847.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "波兰总统表示，他已决定撤销授予泽连斯基的最高荣誉白鹰勋章。",
+      "author": "滚动播报",
+      "hot": 1348,
+      "timestamp": 1781921620000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwf4334952.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-20/doc-inicyrwf4334952.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "金价大跌！高盛最新预测：大幅下调",
+      "author": "21世纪经济报道",
+      "hot": 1348,
+      "timestamp": 1781967802000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-inicztit3934474.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-20/doc-inicztit3934474.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "投票调查：德国支持率78% 挪威vs塞内加尔得票高",
+      "author": "新浪彩票",
+      "hot": 1467,
+      "timestamp": 1781942703000,
+      "url": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanf9051677.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-20/doc-iniczanf9051677.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "以国家安全部长宣称“整个黎巴嫩必须燃烧”，英国外交大臣谴责：骇人听闻、令人憎恶",
+      "author": "环球网",
+      "hot": 1495,
+      "timestamp": 1781966367000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhua2183983.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-iniczhua2183983.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美官员称以色列与黎巴嫩真主党已同意停火，国际油价短线下跌，现货黄金短线拉升",
+      "author": "市场资讯",
+      "hot": 1572,
+      "timestamp": 1781902849000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-19/doc-inicxyyr1412847.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-06-19/doc-inicxyyr1412847.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "泰国路边垃圾桶惊现红发女尸，文身锁定其身份，案件披露：16岁少年持刀杀害17岁女友，抛尸3.5公里外垃圾桶",
+      "author": "新浪新闻综合",
+      "hot": 1684,
+      "timestamp": 1781957467000,
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-inicznzz8889723.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-20/doc-inicznzz8889723.shtml"
+    }
+  ]
+}
