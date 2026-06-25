@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-25T00:01:39.488Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "民进党当局驳回沪闽旅游踩线团入岛申请 国台办回应",
+      "author": "新京报",
+      "hot": 84,
+      "timestamp": 1782316780000,
+      "url": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "A股罕见一幕！17倍大牛股，市值反超母公司",
+      "author": "21世纪经济报道",
+      "hot": 171,
+      "timestamp": 1782335699000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepkrs6179006.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepkrs6179006.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "多家A股上市公司缘何“扎堆”补税？有公司补缴超3亿元  专家：补税并非“罚单”，不会影响企业经营基本面",
+      "author": "每日经济新闻",
+      "hot": 171,
+      "timestamp": 1782344253000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-24/doc-iniepqxm8149226.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-24/doc-iniepqxm8149226.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "黄金价格一度跌破4000美元 三年牛市行情告一段落",
+      "author": "环球市场播报",
+      "hot": 171,
+      "timestamp": 1782341280000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxs2877541.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxs2877541.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "两名日本人在华被拘留 中国外交部回应",
+      "author": "中国新闻网",
+      "hot": 173,
+      "timestamp": 1782315704000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-24/doc-inienxzt8258958.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-24/doc-inienxzt8258958.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "邓庆旭：追觅俞浩的底层逻辑",
+      "author": "意见领袖",
+      "hot": 174,
+      "timestamp": 1782293850000,
+      "url": "https://finance.sina.com.cn/zl/china/2026-06-24/zl-inienicz8350132.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/zl/china/2026-06-24/zl-inienicz8350132.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "美国5月新屋销售意外下滑 抵押贷款利率高企抑制需求",
+      "author": "环球市场播报",
+      "hot": 178,
+      "timestamp": 1782340946000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxk1350932.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxk1350932.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "黑龙江2026年高考分数线公布",
+      "author": "新浪新闻综合",
+      "hot": 180,
+      "timestamp": 1782323837000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-iniepeir8216554.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-iniepeir8216554.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "河南本科线历史类459物理类419",
+      "author": "新浪新闻综合",
+      "hot": 180,
+      "timestamp": 1782331431000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-iniepkru2913129.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-iniepkru2913129.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "[新浪彩票]足彩第26088期任九：日本坐和望赢",
+      "author": "新浪彩票",
+      "hot": 181,
+      "timestamp": 1782288188000,
+      "url": "https://sports.sina.com.cn/l/2026-06-24/doc-inienawc8403457.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-24/doc-inienawc8403457.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "小米智能存储官宣，4TB版本众筹到手价2299元",
+      "author": "界面新闻",
+      "hot": 184,
+      "timestamp": 1782341707000,
+      "url": "https://news.sina.com.cn/s/2026-06-24/doc-iniepqxs2880954.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-24/doc-iniepqxs2880954.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "5月美国独栋新房销量下滑，房屋售价大幅飙升",
+      "author": "环球市场播报",
+      "hot": 189,
+      "timestamp": 1782345004000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxk1378109.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-iniepqxk1378109.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "官方通报网传风干鸭腿内藏活蛆：举报内容不实",
+      "author": "界面新闻",
+      "hot": 189,
+      "timestamp": 1782341682000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-iniepqxk1357809.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-iniepqxk1357809.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "6月25日热门中概股多数下跌 阿里百度京东跌超2% 网易有道跌超8%",
+      "author": "环球市场播报",
+      "hot": 191,
+      "timestamp": 1782363144000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvh5838211.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvh5838211.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美联储压力测试显示：在资本规则改革之际，美国银行业可承受7080亿美元的损失",
+      "author": "环球市场播报",
+      "hot": 192,
+      "timestamp": 1782362350000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvc7865761.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvc7865761.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "曾被击落的美F15飞行员：伊朗无人机排出“水母阵型”，“像是外星人搞的鬼”",
+      "author": "成都商报",
+      "hot": 194,
+      "timestamp": 1782306982000,
+      "url": "https://news.sina.com.cn/w/2026-06-24/doc-inientty6263154.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-24/doc-inientty6263154.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "福建高考分数线发布",
+      "author": "人民日报",
+      "hot": 197,
+      "timestamp": 1782318942000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-inienxzs1518239.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-inienxzs1518239.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "总台海峡时评丨赖清德“维持现状说”，坐实“台独”日益陷入穷途末路",
+      "author": "央视",
+      "hot": 199,
+      "timestamp": 1782344099000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-iniepqxs2885657.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-iniepqxs2885657.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "谷歌进入道指后，道指风格愈发趋近纳指",
+      "author": "环球市场播报",
+      "hot": 203,
+      "timestamp": 1782348997000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfq2796323.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfq2796323.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "SpaceX发行的250亿美元债券走弱 长期债券领跌",
+      "author": "环球市场播报",
+      "hot": 209,
+      "timestamp": 1782352167000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1295699.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1295699.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "霍尔木兹海峡重开后原油供应激增 油市过剩迹象开始浮现",
+      "author": "环球市场播报",
+      "hot": 212,
+      "timestamp": 1782357136000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpn2712362.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpn2712362.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+      "author": "央视",
+      "hot": 212,
+      "timestamp": 1782346709000,
+      "url": "https://news.sina.com.cn/w/2026-06-25/doc-iniepvfq2780410.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-25/doc-iniepvfq2780410.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "今夜，全线暴跌！黄金、白银、原油，大跳水",
+      "author": "券商中国",
+      "hot": 212,
+      "timestamp": 1782340627000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxs2871208.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxs2871208.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "欧洲债市：德债与英债齐走高 油价下跌缓解通胀担忧",
+      "author": "环球市场播报",
+      "hot": 214,
+      "timestamp": 1782346334000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1256668.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1256668.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "国际原子能机构要求核查，伊朗称须在最终协议内",
+      "author": "北京日报客户端",
+      "hot": 217,
+      "timestamp": 1782339786000,
+      "url": "https://news.sina.com.cn/w/2026-06-24/doc-iniepqxq6080314.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-24/doc-iniepqxq6080314.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本",
+      "author": "环球市场播报",
+      "hot": 218,
+      "timestamp": 1782347032000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfq2783555.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfq2783555.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "美国5年期国债中标收益率创2025年1月以来最高",
+      "author": "环球市场播报",
+      "hot": 221,
+      "timestamp": 1782352522000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1297804.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1297804.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "深夜，大跳水！黄金、白银、原油，集体暴跌！特朗普发声",
+      "author": "证券时报",
+      "hot": 221,
+      "timestamp": 1782338212000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxq6073281.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxq6073281.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "小伙凌晨酒店按摩从房间坠亡，酒店称其事发前持刀致技师受伤 家属起诉索赔45.6万元被驳回",
+      "author": "成都商报",
+      "hot": 223,
+      "timestamp": 1782346179000,
+      "url": "https://news.sina.com.cn/s/2026-06-25/doc-iniepvfq2777815.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-25/doc-iniepvfq2777815.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "半导体板块逆大盘上涨行情走弱",
+      "author": "环球市场播报",
+      "hot": 231,
+      "timestamp": 1782347196000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1262580.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1262580.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "中国县域城镇居民人均收入10强出炉",
+      "author": "第一财经",
+      "hot": 240,
+      "timestamp": 1782325020000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-24/doc-iniepeiw2984578.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-24/doc-iniepeiw2984578.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "摩根大通上调标普500指数目标位至7800点，同时警示市场或出现“闪崩”",
+      "author": "环球市场播报",
+      "hot": 245,
+      "timestamp": 1782349144000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8053480.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8053480.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "银行通过美联储压力测试，为股东分红铺平道路。",
+      "author": "滚动播报",
+      "hot": 248,
+      "timestamp": 1782360015000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpe1207229.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpe1207229.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "高通与 Meta 宣布达成跨多代数据中心 CPU 战略合作协议。",
+      "author": "滚动播报",
+      "hot": 249,
+      "timestamp": 1782358232000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpe1196893.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpe1196893.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美光科技营收展望超出分析师预期 股价盘后大涨",
+      "author": "环球市场播报",
+      "hot": 254,
+      "timestamp": 1782362073000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7995262.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7995262.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "丰田在美国市场销量正快速逼近通用汽车",
+      "author": "环球市场播报",
+      "hot": 254,
+      "timestamp": 1782347406000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8040948.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8040948.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "美光科技股价大涨10% 营收翻四倍 内存供应紧缺导致价格飙升",
+      "author": "环球市场播报",
+      "hot": 267,
+      "timestamp": 1782362181000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7995790.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7995790.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "美能源部长：美国已终结伊朗封锁霍尔木兹海峡的能力",
+      "author": "环球市场播报",
+      "hot": 269,
+      "timestamp": 1782358956000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpn2722438.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpn2722438.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "高通拿下Meta数据中心处理器订单 AI硬件业务取得突破",
+      "author": "环球市场播报",
+      "hot": 277,
+      "timestamp": 1782358500000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7975755.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepzpf7975755.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "俄罗斯金融市场重挫 油价下跌与央行偏鹰立场打击投资者信心",
+      "author": "滚动播报",
+      "hot": 290,
+      "timestamp": 1782354590000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpn2698710.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-25/doc-iniepzpn2698710.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "普京：特别军事行动开始前，我们已忍耐8年",
+      "author": "新浪新闻综合",
+      "hot": 291,
+      "timestamp": 1782307828000,
+      "url": "https://news.sina.com.cn/o/2026-06-24/doc-inientty6273451.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-24/doc-inientty6273451.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "6月25日外盘头条：美光盘后股价大涨 营收翻四倍 谷歌又有两名AI干将跳槽Anthropic 美大型银行通过压力测试",
+      "author": "环球市场播报",
+      "hot": 298,
+      "timestamp": 1782365453000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvc7886813.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqfvc7886813.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "谷歌两名人工智能研发干将据悉计划跳槽至Anthropic",
+      "author": "环球市场播报",
+      "hot": 304,
+      "timestamp": 1782357064000,
+      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniepzpn2711936.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-25/doc-iniepzpn2711936.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "鲁比奥：美伊本月底将继续技术磋商",
+      "author": "央视",
+      "hot": 306,
+      "timestamp": 1782350259000,
+      "url": "https://news.sina.com.cn/w/2026-06-25/doc-iniepvfn6027878.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-25/doc-iniepvfn6027878.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "外交部：日阻挠设立“慰安妇”纪念雕像引发强烈愤慨",
+      "author": "海外网",
+      "hot": 312,
+      "timestamp": 1782316775000,
+      "url": "https://news.sina.com.cn/c/2026-06-24/doc-inienxzy3025269.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-24/doc-inienxzy3025269.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "英国政坛人物志：从党魁落选到首相热门 地方治理明星安迪·伯纳姆",
+      "author": "环球市场播报",
+      "hot": 313,
+      "timestamp": 1782347708000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1265871.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfh1265871.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "国际油价回落至美伊战前水平",
+      "author": "每日经济新闻",
+      "hot": 321,
+      "timestamp": 1782332337000,
+      "url": "https://news.sina.com.cn/w/2026-06-24/doc-iniepkru2921889.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-24/doc-iniepkru2921889.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "提前出局后，土耳其球员集体拒绝足协主席承诺赠予的别墅 土耳其记者：别墅连影子都没有",
+      "author": "成都商报",
+      "hot": 335,
+      "timestamp": 1782311315000,
+      "url": "https://news.sina.com.cn/s/2026-06-24/doc-inientua3063281.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-24/doc-inientua3063281.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "立陶宛，能不能吃一堑长一智",
+      "author": "长安街知事",
+      "hot": 341,
+      "timestamp": 1782369043000,
+      "url": "https://news.sina.com.cn/c/2026-06-25/doc-inieqfvc7921604.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-25/doc-inieqfvc7921604.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "贝森特：美伊谈判涵盖伊朗重返美元体系 强调美元主导地位至关重要",
+      "author": "环球市场播报",
+      "hot": 342,
+      "timestamp": 1782350522000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8062138.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniepvfi8062138.shtml"
+    }
+  ]
+}
