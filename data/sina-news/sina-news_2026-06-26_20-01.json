@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-26T12:01:38.030Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "民进党当局驳回沪闽旅游踩线团入岛申请 国台办回应",
+      "author": "新京报",
+      "hot": 84,
+      "timestamp": 1782316780000,
+      "url": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "国投瑞银价值成长一年持有混合C净值上涨4.04%",
+      "author": "新浪基金∞工作室",
+      "hot": 98,
+      "timestamp": 1782453008000,
+      "url": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-26/doc-iniesqzz7352086.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-06-26/doc-iniesqzz7352086.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "时政微观察丨“三夏”时节，总书记田间地头话农桑",
+      "author": "央视新闻客户端",
+      "hot": 1829,
+      "timestamp": 1782465325000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-06-26/doc-iniesviw0575168.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-06-26/doc-iniesviw0575168.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+      "author": "北京日报客户端",
+      "hot": 1867,
+      "timestamp": 1782487289000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inietnfr7270129.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inietnfr7270129.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "下血本！兰德尔&里德&未来7年首轮都没了 森林狼梭哈三球值得么？",
+      "author": "NBA综合",
+      "hot": 1905,
+      "timestamp": 1782463060000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-26/doc-iniesvka5246584.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-26/doc-iniesvka5246584.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "视频丨习近平总书记在山东德州考察引发热烈反响",
+      "author": "央视新闻客户端",
+      "hot": 1910,
+      "timestamp": 1782465680000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-06-26/doc-iniesviw0579827.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-06-26/doc-iniesviw0579827.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "国安部官微发文：除了李白，他们也是“永不消逝的电波”原型",
+      "author": "澎湃新闻",
+      "hot": 1949,
+      "timestamp": 1782458684000,
+      "url": "https://news.sina.com.cn/c/2026-06-26/doc-iniesrah2106332.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-26/doc-iniesrah2106332.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "特工假扮“35岁寂寞主妇”，诱男军官自拍泄密",
+      "author": "市场资讯",
+      "hot": 1971,
+      "timestamp": 1782469943000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-inieszru0528705.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-inieszru0528705.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "委内瑞拉地震已致至少188死1520伤，2名中国公民遇难",
+      "author": "央视新闻",
+      "hot": 2059,
+      "timestamp": 1782455047000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesrae5295017.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesrae5295017.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "美光业绩大超预期大涨15%，带动多只芯片股走强",
+      "author": "环球市场播报",
+      "hot": 2064,
+      "timestamp": 1782448342000,
+      "url": "https://finance.sina.com.cn/world/2026-06-26/doc-inieskua0668699.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-26/doc-inieskua0668699.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "市场上演分化行情 科技股表现遥遥领先",
+      "author": "上海证券报",
+      "hot": 2066,
+      "timestamp": 1782457338000,
+      "url": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-06-26/doc-iniesenf7540722.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-06-26/doc-iniesenf7540722.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "股海导航_2026年6月26日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 2067,
+      "timestamp": 1782461700000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-26/doc-iniesvka5228808.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-06-26/doc-iniesvka5228808.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "“国补”继续！第三批625亿元资金已下达",
+      "author": "澎湃新闻",
+      "hot": 2141,
+      "timestamp": 1782487159000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietnfw1953482.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietnfw1953482.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "6月26日收盘：美股三大指数收盘涨跌不一 纳指今年二月以来首次四连跌 非人工智能板块个股走强",
+      "author": "环球市场播报",
+      "hot": 2147,
+      "timestamp": 1782450388000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5385316.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5385316.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "每10股派280.24元，贵州茅台今日分红",
+      "author": "21世纪经济报道",
+      "hot": 2200,
+      "timestamp": 1782463713000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesvke2030946.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesvke2030946.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "发电装机突破40亿千瓦 电力供给能力迈上新台阶",
+      "author": "央视",
+      "hot": 2258,
+      "timestamp": 1782466820000,
+      "url": "https://news.sina.com.cn/gov/2026-06-26/doc-iniesvix7377277.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/2026-06-26/doc-iniesvix7377277.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "霍尔木兹海峡通航量恢复近六成，美媒：伊朗估计每年服务收费将达400亿美元！鲁比奥：任何国家无权征收通行费",
+      "author": "每日经济新闻",
+      "hot": 2291,
+      "timestamp": 1782433620000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inieryen5532364.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inieryen5532364.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "美媒：美国政府首次要求AI公司限量发布模型，OpenAI将分阶段推出GPT-5.6",
+      "author": "观察者网",
+      "hot": 2297,
+      "timestamp": 1782473049000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inieszsa2055129.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inieszsa2055129.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "欧盟向乌克兰拨付900亿欧元贷款首笔资金",
+      "author": "央视",
+      "hot": 2307,
+      "timestamp": 1782458818000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-iniesrae5318133.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-iniesrae5318133.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "受地震影响 日本成田机场部分跑道关闭",
+      "author": "央视",
+      "hot": 2355,
+      "timestamp": 1782477860000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inietfxy1971968.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inietfxy1971968.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "DeepSeek深夜发文：开启大规模“抢人”",
+      "author": "市场资讯",
+      "hot": 2362,
+      "timestamp": 1782461700000,
+      "url": "https://finance.sina.com.cn/chanjing/2026-06-26/doc-iniesvka5218338.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/chanjing/2026-06-26/doc-iniesvka5218338.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "138次余震1708死伤 百余年来最强地震重创委内瑞拉",
+      "author": "央视",
+      "hot": 2413,
+      "timestamp": 1782457936000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-iniesrae5325536.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-iniesrae5325536.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "布局高端光纤产业，002008出手",
+      "author": "上海证券报",
+      "hot": 2420,
+      "timestamp": 1782456535000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesqzz7389072.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-26/doc-iniesqzz7389072.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+      "author": "市场资讯",
+      "hot": 2429,
+      "timestamp": 1782459907000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-iniesrah2117356.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-iniesrah2117356.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "焦点大战！世界杯1/16决赛：巴西vs日本！时隔20年再度世界杯交手",
+      "author": "新浪新闻综合",
+      "hot": 2470,
+      "timestamp": 1782465053000,
+      "url": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvix7348227.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvix7348227.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "海力士去纳斯达克搞钱，最慌的是美光？",
+      "author": "市场资讯",
+      "hot": 2485,
+      "timestamp": 1782459377000,
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-26/doc-iniesqzy0638819.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/2026-06-26/doc-iniesqzy0638819.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "超20万亿投资！国家能源局详解“十五五”时期新型能源体系建设",
+      "author": "中国证券报-中证网",
+      "hot": 2488,
+      "timestamp": 1782478339000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietfxy1986136.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietfxy1986136.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "日本队就没想过故意避开巴西",
+      "author": "新浪体育讯",
+      "hot": 2548,
+      "timestamp": 1782471972000,
+      "url": "https://sports.sina.com.cn/china/2026-06-26/doc-inieszrv7339914.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/china/2026-06-26/doc-inieszrv7339914.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "一图看懂：A股，今天为何下跌？",
+      "author": "每日经济新闻",
+      "hot": 2593,
+      "timestamp": 1782489536000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-inietnfw2000838.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-inietnfw2000838.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "财经早报：一天12家！IPO受理步入高峰期 苹果官宣一大堆产品涨价丨2026年6月26日",
+      "author": "新浪证券",
+      "hot": 2635,
+      "timestamp": 1782461032000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-26/doc-iniesvka5219438.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-06-26/doc-iniesvka5219438.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "港交所要被挤爆了！“锣不够用了”",
+      "author": "市场资讯",
+      "hot": 2679,
+      "timestamp": 1782457641000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-26/doc-iniesqzz7401177.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-06-26/doc-iniesqzz7401177.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "国产先进封装掀扩产潮 龙头企业重点布局高端存储等赛道",
+      "author": "证券时报网",
+      "hot": 2770,
+      "timestamp": 1782460337000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesrae5344366.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesrae5344366.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "外交部回应新西兰政府所谓涉华“内部文件”：中国坚持走和平发展道路",
+      "author": "环球网",
+      "hot": 2878,
+      "timestamp": 1782488244000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-inietnfr7290063.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-inietnfr7290063.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "现货黄金失守4000美元/盎司",
+      "author": "界面新闻",
+      "hot": 2905,
+      "timestamp": 1782470547000,
+      "url": "https://news.sina.com.cn/c/2026-06-26/doc-inieszry5240468.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-26/doc-inieszry5240468.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "东道主头名出线！美国2-3土耳其 伯哈尔特传射 居莱尔世界杯处子球",
+      "author": "新浪新闻综合",
+      "hot": 2913,
+      "timestamp": 1782475569000,
+      "url": "https://news.sina.com.cn/zx/2026-06-26/doc-inieszry5312798.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-26/doc-inieszry5312798.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "就马岛主权问题，中方明确表态",
+      "author": "央视",
+      "hot": 2928,
+      "timestamp": 1782487329000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inietfxw5236831.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inietfxw5236831.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "快扔掉！戴一天，辐射量相当于拍117次胸片",
+      "author": "环球时报",
+      "hot": 2949,
+      "timestamp": 1782420346000,
+      "url": "https://mil.news.sina.com.cn/2026-06-25/doc-iniertwk0856395.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/2026-06-25/doc-iniertwk0856395.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "“港剧第一贵妇”苗金凤于今日下午3时去世，享年80岁",
+      "author": "新浪新闻综合",
+      "hot": 2949,
+      "timestamp": 1782421251000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-25/doc-iniertwq5578590.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-25/doc-iniertwq5578590.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "40家A股公司提示风险！回应存储、MLCC等多个热点事项",
+      "author": "市场资讯",
+      "hot": 3018,
+      "timestamp": 1782452080000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-inieskuh5400241.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-inieskuh5400241.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "13秒12！吴艳妮亮相2026年全国田径冠军赛，预赛第一晋级决赛",
+      "author": "成都商报",
+      "hot": 3168,
+      "timestamp": 1782478306000,
+      "url": "https://news.sina.com.cn/s/2026-06-26/doc-inietfxw5209042.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-26/doc-inietfxw5209042.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "委内瑞拉强震致20余名华人失联，三一重工等中资企业组成联合救援力量自发前往灾区核心，全面启动救援工作",
+      "author": "大象新闻",
+      "hot": 3199,
+      "timestamp": 1782475734000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa2090586.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa2090586.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
+      "author": "央视",
+      "hot": 3242,
+      "timestamp": 1782431221000,
+      "url": "https://news.sina.com.cn/w/2026-06-25/doc-inieryei7595669.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-25/doc-inieryei7595669.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "举国欢庆！逆转德国出线，厄瓜多尔总统宣布：6月26日全国放假！",
+      "author": "新浪新闻综合",
+      "hot": 3364,
+      "timestamp": 1782467779000,
+      "url": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvix7397842.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvix7397842.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "三星据悉将于下周宣布在韩国投资1000万亿韩元计划",
+      "author": "环球市场播报",
+      "hot": 3397,
+      "timestamp": 1782460113000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesrah2119156.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesrah2119156.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "世界杯小组末轮前瞻:法挪争头名 西班牙仍不稳",
+      "author": "新浪彩票",
+      "hot": 3403,
+      "timestamp": 1782455402000,
+      "url": "https://sports.sina.com.cn/l/2026-06-26/doc-iniertwm7664889.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-26/doc-iniertwm7664889.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "中创环保42岁董事长被刑拘 掌舵四年累亏4.72亿负债率103%",
+      "author": "长江商报",
+      "hot": 3421,
+      "timestamp": 1782461567000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-26/doc-iniesvke2003233.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-26/doc-iniesvke2003233.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+      "author": "澎湃新闻",
+      "hot": 3436,
+      "timestamp": 1782458744000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesrae5331923.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesrae5331923.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "收评：创业板指低开低走跌超4% 全市场超4600只个股飘绿",
+      "author": "新浪新闻综合",
+      "hot": 3448,
+      "timestamp": 1782486301000,
+      "url": "https://news.sina.com.cn/o/2026-06-26/doc-inietnfr7249041.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-26/doc-inietnfr7249041.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "2名中国公民在委内瑞拉地震中遇难",
+      "author": "央视",
+      "hot": 3500,
+      "timestamp": 1782454263000,
+      "url": "https://news.sina.com.cn/c/2026-06-26/doc-iniesrae5281255.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-26/doc-iniesrae5281255.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "一乘客与空乘人员发生冲突，美联航一上海飞旧金山航班备降东京，日本警员登机带走涉事女子",
+      "author": "红星新闻",
+      "hot": 3548,
+      "timestamp": 1782467303000,
+      "url": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvka5308492.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-26/doc-iniesvka5308492.shtml"
+    }
+  ]
+}
