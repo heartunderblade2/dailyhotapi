@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-27T12:01:34.154Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "民进党当局驳回沪闽旅游踩线团入岛申请 国台办回应",
+      "author": "新京报",
+      "hot": 84,
+      "timestamp": 1782316780000,
+      "url": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-24/doc-inienxzw6250707.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "特朗普谈伊朗袭击船只：他们不能干这种事",
+      "author": "环球市场播报",
+      "hot": 158,
+      "timestamp": 1782528264000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieupth4984340.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieupth4984340.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "一见·从多次考察党群服务中心，感悟总书记的关切",
+      "author": "人民日报客户端",
+      "hot": 576,
+      "timestamp": 1782553630000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-27/doc-inievequ0188591.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-27/doc-inievequ0188591.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "“当时毫无察觉，血流了7个多小时！”女子去山里徒步，下山时发现腿上一大片血迹 近期频繁出没，出门要小心",
+      "author": "极目新闻",
+      "hot": 919,
+      "timestamp": 1782569327000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-inievreu4705322.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-inievreu4705322.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "因“蹭热点”，巨力索具领高额罚单！",
+      "author": "中国经济网",
+      "hot": 920,
+      "timestamp": 1782547969000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inieuyia4894002.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inieuyia4894002.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "特朗普威胁：若欧洲国家征收数字服务税，将对其输美商品征收100%关税",
+      "author": "新浪新闻综合",
+      "hot": 920,
+      "timestamp": 1782531545000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inieuptc7123773.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inieuptc7123773.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "打虎！贺志亮被查",
+      "author": "新京报",
+      "hot": 932,
+      "timestamp": 1782584131000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-inievzus1338193.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-inievzus1338193.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "习近平就委内瑞拉强震向委代总统罗德里格斯致慰问电",
+      "author": "新华社",
+      "hot": 933,
+      "timestamp": 1782510080000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-26/doc-inieuccn5086342.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-26/doc-inieuccn5086342.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "1胜2平不败出线！比利时5-1新西兰 特罗萨德双响丁丁+卢卡库建功",
+      "author": "新浪新闻综合",
+      "hot": 934,
+      "timestamp": 1782565235000,
+      "url": "https://news.sina.com.cn/2026-06-27/doc-inievkww4803792.shtml",
+      "mobileUrl": "https://news.sina.com.cn/2026-06-27/doc-inievkww4803792.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "头名出线！西班牙1-0送乌拉圭出局 巴埃纳制胜穆斯莱拉送礼+被换",
+      "author": "新浪新闻综合",
+      "hot": 936,
+      "timestamp": 1782554527000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inievequ0198706.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inievequ0198706.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "山东曲阜尼山镇一牌坊倒塌，镇政府：正在统计伤亡情况",
+      "author": "澎湃新闻",
+      "hot": 958,
+      "timestamp": 1782577768000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inievvnu7119385.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inievvnu7119385.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "6月27日隔夜要闻：美股收跌 铝价连跌四周 金价走高 美伊冲突再起 美以黎达成三方框架协议",
+      "author": "环球市场播报",
+      "hot": 960,
+      "timestamp": 1782543687000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyie1631823.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyie1631823.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "6月27日红王解盘比赛解读：黑星铁桶再锁克罗地亚",
+      "author": "新浪彩票",
+      "hot": 963,
+      "timestamp": 1782575828000,
+      "url": "https://sports.sina.com.cn/l/2026-06-27/doc-inievvnu7107767.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-27/doc-inievvnu7107767.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "机器人产品营收暴涨！T链龙头业绩曝光",
+      "author": "上海证券报",
+      "hot": 994,
+      "timestamp": 1782547947000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inieuyhw0252337.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inieuyhw0252337.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "A股又现大牛股，5股年内狂飙超200%，一退市股单日重挫95%",
+      "author": "21世纪经济报道",
+      "hot": 999,
+      "timestamp": 1782566072000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievkww4811116.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievkww4811116.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "重磅利好！新能源“十五五”顶层规划落地，风电、光伏多股应声涨停",
+      "author": "市场资讯",
+      "hot": 1013,
+      "timestamp": 1782552937000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inieveqv6957188.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-27/doc-inieveqv6957188.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "美国对伊朗发动打击 以回应霍尔木兹海峡货船遭袭",
+      "author": "环球市场播报",
+      "hot": 1039,
+      "timestamp": 1782537217000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutzh1700786.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutzh1700786.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "071期周横大乐透预测奖号：大复式参考",
+      "author": "新浪彩票",
+      "hot": 1052,
+      "timestamp": 1782558854000,
+      "url": "https://sports.sina.com.cn/l/2026-06-27/doc-inievkww4750480.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-27/doc-inievkww4750480.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "Shams故意把3年7500万写成5年1.34亿！同行怒喷：心机太重！",
+      "author": "NBA综合",
+      "hot": 1086,
+      "timestamp": 1782570466000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-27/doc-inievreu4715253.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-27/doc-inievreu4715253.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "阿拉山口口岸前5个月进出口货运量双增长",
+      "author": "央视",
+      "hot": 1092,
+      "timestamp": 1782508542000,
+      "url": "https://news.sina.com.cn/c/2026-06-26/doc-inietwvq5198318.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-26/doc-inietwvq5198318.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "美伊又打起来了，伊朗伊斯兰革命卫队凌晨发表声明",
+      "author": "市场资讯",
+      "hot": 1097,
+      "timestamp": 1782553708000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievera1601108.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievera1601108.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "尴尬了！韩媒：有球迷花300万韩元预订淘汰赛球票 球迷们集体崩溃",
+      "author": "新浪新闻综合",
+      "hot": 1101,
+      "timestamp": 1782513704000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inieuccn5126559.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inieuccn5126559.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "这回是真的了：美国海军陆战队已接收首批无雷达F35",
+      "author": "观察者网",
+      "hot": 1106,
+      "timestamp": 1782512809000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inietwvs1969484.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inietwvs1969484.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "世界杯情报：乌兹别克提前出局 刚果金力拼出线",
+      "author": "新浪彩票",
+      "hot": 1139,
+      "timestamp": 1782548813000,
+      "url": "https://sports.sina.com.cn/l/2026-06-27/doc-inieuyie1680595.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-27/doc-inieuyie1680595.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "特朗普威胁欧洲国家：若开征数字服务税，就要面临100%关税",
+      "author": "新浪新闻综合",
+      "hot": 1144,
+      "timestamp": 1782573008000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievrey3994025.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievrey3994025.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "世界杯32强出炉28席：比利时、塞内加尔晋级，韩国、伊朗待定",
+      "author": "新浪新闻综合",
+      "hot": 1177,
+      "timestamp": 1782566633000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inievkww4815572.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inievkww4815572.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "将战阿根廷！佛得角0-0沙特三连平小组第二出线 沙特2分垫底出局",
+      "author": "新浪新闻综合",
+      "hot": 1184,
+      "timestamp": 1782554444000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inieveqv6974896.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inieveqv6974896.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "山西省长治市委原常委、市政府原副市长王玉圣被查",
+      "author": "界面新闻",
+      "hot": 1192,
+      "timestamp": 1782576858000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-inievvnu1414806.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-inievvnu1414806.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "世界杯情报：英格兰主力赖斯伤缺 巴拿马提前出局",
+      "author": "新浪彩票",
+      "hot": 1202,
+      "timestamp": 1782548813000,
+      "url": "https://sports.sina.com.cn/l/2026-06-27/doc-inieuyia4904473.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-27/doc-inieuyia4904473.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "美军称对伊朗实施打击以回应商船遭袭事件",
+      "author": "央视",
+      "hot": 1210,
+      "timestamp": 1782538325000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inieutzh1697645.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inieutzh1697645.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "霉菌蔓延、鼠患成灾，加拿大总理官邸闲置三年终于启动重建计划：预计耗资超1亿加元",
+      "author": "成都商报",
+      "hot": 1215,
+      "timestamp": 1782572087000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievreu4705036.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievreu4705036.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "5月份全国规模以上工业企业利润增长18.8%",
+      "author": "央视新闻客户端",
+      "hot": 1227,
+      "timestamp": 1782553562000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-inieveqy4823395.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-inieveqy4823395.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
+      "author": "市场资讯",
+      "hot": 1237,
+      "timestamp": 1782545217000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inieuyhw0224910.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-27/doc-inieuyhw0224910.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "伊朗高级官员：美国不遵守谈判和停火原则",
+      "author": "央视",
+      "hot": 1244,
+      "timestamp": 1782574416000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievreu4724046.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievreu4724046.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "特朗普称伊朗无人机袭击霍尔木兹海峡船只违反停火协议",
+      "author": "央视",
+      "hot": 1277,
+      "timestamp": 1782519505000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inieuimf7142657.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inieuimf7142657.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "江西财经大学一男生被指殴打、性侵17岁女生，校方高度重视，回应：已与警方取得联系",
+      "author": "新浪新闻综合",
+      "hot": 1281,
+      "timestamp": 1782509365000,
+      "url": "https://news.sina.com.cn/s/2026-06-26/doc-inietwvq5208653.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-26/doc-inietwvq5208653.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "布基纳法索：即日起与法国断交",
+      "author": "观察者网",
+      "hot": 1306,
+      "timestamp": 1782552027000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievera1574134.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievera1574134.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "OpenAI发布GPT-5.6系列模型，应美政府要求限量开放，直言不应成为长期默认做法",
+      "author": "市场资讯",
+      "hot": 1321,
+      "timestamp": 1782530514000,
+      "url": "https://finance.sina.com.cn/stock/t/2026-06-27/doc-inieupth5001597.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/t/2026-06-27/doc-inieupth5001597.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "6月27日外盘头条：美国对伊朗发动打击 特朗普对欧再发关税威胁 甲骨文股价本周暴跌19%",
+      "author": "环球市场播报",
+      "hot": 1346,
+      "timestamp": 1782539866000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0302772.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0302772.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "人口仅50多万的佛得角首次参加世界杯就以三连平的战绩晋级淘汰赛，全岛沸腾，球迷称“整个岛的人都去了港口”",
+      "author": "潇湘晨报",
+      "hot": 1358,
+      "timestamp": 1782563289000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inievkwt6940103.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inievkwt6940103.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "钓鱼佬在嘉陵江支流拍到疑似鳄鱼 渔政部门：不能确定 上下游无养殖基地",
+      "author": "成都商报",
+      "hot": 1428,
+      "timestamp": 1782565812000,
+      "url": "https://news.sina.com.cn/s/2026-06-27/doc-inievkww4807226.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-27/doc-inievkww4807226.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "芯片股再现恐慌抛售，存储三巨头跌超10%，中概股逆势上扬，金银反弹超1%",
+      "author": "第一财经",
+      "hot": 1446,
+      "timestamp": 1782554078000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievequ0193722.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievequ0193722.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "“今天或明天，就可能再打起来”",
+      "author": "新浪新闻综合",
+      "hot": 1455,
+      "timestamp": 1782516019000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inietwvk0455882.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inietwvk0455882.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "特朗普威胁：征收100%报复性关税",
+      "author": "观察者网",
+      "hot": 1456,
+      "timestamp": 1782572524000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievrew1508998.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievrew1508998.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "6月27日收盘：美股三大指数收跌 芯片股领跌 西部数据大跌13% 美光科技跌超6%",
+      "author": "环球市场播报",
+      "hot": 1459,
+      "timestamp": 1782536452000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutze4916958.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutze4916958.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+      "author": "市场资讯",
+      "hot": 1506,
+      "timestamp": 1782570705000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inievreq0089421.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-27/doc-inievreq0089421.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "小组第2出线！埃及1-1伊朗 哈利勒扎德绝杀无效 伊朗小组第3",
+      "author": "新浪新闻综合",
+      "hot": 1531,
+      "timestamp": 1782565553000,
+      "url": "https://news.sina.com.cn/o/2026-06-27/doc-inievkws0180648.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-27/doc-inievkws0180648.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "普京签署总统令 延长反制西方对俄石油限价措施",
+      "author": "央视",
+      "hot": 1576,
+      "timestamp": 1782516959000,
+      "url": "https://news.sina.com.cn/w/2026-06-26/doc-inieucch0470319.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-26/doc-inieucch0470319.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "以官员披露三方框架协议细节：以军继续驻留黎南部“安全区”",
+      "author": "央视",
+      "hot": 1634,
+      "timestamp": 1782528663000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inieuptc7082577.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inieuptc7082577.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "杨紫拿奖后哭了：想把白玉兰奖状拿给父母",
+      "author": "新浪新闻综合",
+      "hot": 1680,
+      "timestamp": 1782513376000,
+      "url": "https://news.sina.com.cn/2026-06-26/doc-inieuccq1899065.shtml",
+      "mobileUrl": "https://news.sina.com.cn/2026-06-26/doc-inieuccq1899065.shtml"
+    }
+  ]
+}
