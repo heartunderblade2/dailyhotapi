@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-06-28T12:01:26.490Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "特朗普签署行政令 推广再生农业实践",
+      "author": "美股AI助手",
+      "hot": 99,
+      "timestamp": 1782629006000,
+      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-28/doc-iniexche6628621.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-28/doc-iniexche6628621.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "织密流动党员服务网",
+      "author": "滚动播报",
+      "hot": 100,
+      "timestamp": 1782626685000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexchh3393354.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexchh3393354.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "世界杯32强只差4队：比利时、埃及、塞内加尔突围",
+      "author": "新浪彩票",
+      "hot": 178,
+      "timestamp": 1782580475000,
+      "url": "https://sports.sina.com.cn/l/2026-06-27/doc-inievvnu7145345.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-27/doc-inievvnu7145345.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "遭腐败指控后，阿根廷总统办公室最高负责人努埃尔·阿多尔尼宣布辞职。",
+      "author": "滚动播报",
+      "hot": 446,
+      "timestamp": 1782625495000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexcha4148434.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexcha4148434.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "索马里国防部称打死30名极端武装分子",
+      "author": "滚动播报",
+      "hot": 496,
+      "timestamp": 1782628691000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexche0943197.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexche0943197.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "专家晒三方交易提案：詹姆斯父子+艾顿去骑士 湖人得阿伦墨菲韦德",
+      "author": "NBA综合",
+      "hot": 554,
+      "timestamp": 1782635663000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-06-28/doc-iniexiqa0855108.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-06-28/doc-iniexiqa0855108.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "“每天都在赔钱 ”！金价大跌，有商家囤货资产缩水百万，“跌掉一辆迈巴赫”",
+      "author": "市场资讯",
+      "hot": 556,
+      "timestamp": 1782635266000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexipy4076120.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexipy4076120.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "武器、雷达大幅升级！歼-15T让辽宁舰战斗力跃升",
+      "author": "央视新闻客户端",
+      "hot": 562,
+      "timestamp": 1782571834000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-06-27/doc-inievrew1503896.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-06-27/doc-inievrew1503896.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "耻辱出局！记者：乌拉圭队取消包机，球员们将自行坐飞机返程",
+      "author": "新浪新闻综合",
+      "hot": 563,
+      "timestamp": 1782616048000,
+      "url": "https://news.sina.com.cn/zx/2026-06-28/doc-iniewssk1137002.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-28/doc-iniewssk1137002.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "委内瑞拉最大机场已部分恢复运营",
+      "author": "央视",
+      "hot": 567,
+      "timestamp": 1782605903000,
+      "url": "https://news.sina.com.cn/w/2026-06-28/doc-iniewnkq3658066.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-28/doc-iniewnkq3658066.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "中俄两国空军在日本海、东海、太平洋西部空域组织实施第11次联合空中战略巡航",
+      "author": "政知见",
+      "hot": 575,
+      "timestamp": 1782583515000,
+      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievzuq4557774.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievzuq4557774.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "几内亚总理：中国援建的这所水电站伴随我成长",
+      "author": "央视新闻客户端",
+      "hot": 582,
+      "timestamp": 1782640307000,
+      "url": "https://news.sina.com.cn/zx/2026-06-28/doc-iniexipy4113711.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-28/doc-iniexipy4113711.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "周末，一大波利好来了！明天A股怎么走？",
+      "author": "每日经济新闻",
+      "hot": 584,
+      "timestamp": 1782645965000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexpwa3256674.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexpwa3256674.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "巴基斯坦准军事部队遭恐袭 3名安全人员死亡",
+      "author": "央视",
+      "hot": 587,
+      "timestamp": 1782622410000,
+      "url": "https://news.sina.com.cn/w/2026-06-28/doc-iniewwyk3499806.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-28/doc-iniewwyk3499806.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美国前官员急喊话：再不抢6G频谱，下一轮AI竞争要输中国了",
+      "author": "观察者网",
+      "hot": 591,
+      "timestamp": 1782601955000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-iniewnkn1183181.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-iniewnkn1183181.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "巴基斯坦卡拉奇再次传出爆炸声",
+      "author": "央视",
+      "hot": 612,
+      "timestamp": 1782614079000,
+      "url": "https://news.sina.com.cn/w/2026-06-28/doc-iniewssk6811741.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-28/doc-iniewssk6811741.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "300054，高端光刻胶新增批量订单，股价创历史新高",
+      "author": "数据宝",
+      "hot": 633,
+      "timestamp": 1782634069000,
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexipy4067636.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexipy4067636.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "这个“杀手”太冷了",
+      "author": "新浪新闻综合",
+      "hot": 633,
+      "timestamp": 1782592219000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inieuyia4861203.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inieuyia4861203.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "伦敦发生疑似蓄意驾车撞人事件 致5人受伤",
+      "author": "滚动播报",
+      "hot": 646,
+      "timestamp": 1782631223000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3418214.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3418214.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "全胜头名晋级！阿根廷3-1约旦 梅西任意球破门打进世界杯第19球",
+      "author": "新浪新闻综合",
+      "hot": 647,
+      "timestamp": 1782647926000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy0818548.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy0818548.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "世界杯淘汰赛对阵:葡萄牙连遇强敌 阿根廷轻松",
+      "author": "新浪彩票",
+      "hot": 654,
+      "timestamp": 1782651995000,
+      "url": "https://sports.sina.com.cn/l/2026-06-28/doc-iniexucu3940003.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-06-28/doc-iniexucu3940003.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "以色列防长卡茨：若伊朗阻挠协议落实，以色列将予以反击。",
+      "author": "滚动播报",
+      "hot": 656,
+      "timestamp": 1782605490000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewnkk4431159.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewnkk4431159.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "德法或提前相遇！美加墨世界杯32强对阵表来了",
+      "author": "央视",
+      "hot": 679,
+      "timestamp": 1782650725000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexucw6383585.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexucw6383585.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "世界杯 | 32强对阵出炉！日本挑战巴西，梅罗不同半区，亚洲9队仅2队出线",
+      "author": "市场资讯",
+      "hot": 688,
+      "timestamp": 1782648328000,
+      "url": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexpvw4045521.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexpvw4045521.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "特朗普：美国或许将 “被迫” 动用军事手段彻底解决问题。",
+      "author": "滚动播报",
+      "hot": 692,
+      "timestamp": 1782630892000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3416047.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3416047.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "科威特称防空系统正应对袭击，巴林拉响警报",
+      "author": "滚动播报",
+      "hot": 700,
+      "timestamp": 1782635354000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexiqe3311535.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexiqe3311535.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "史上仅11次熔断 今年已5次！韩国股市波动为何如此剧烈？",
+      "author": "中国证券报",
+      "hot": 706,
+      "timestamp": 1782635892000,
+      "url": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexiqe3296201.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexiqe3296201.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "巴林内政部：巴林响起警报。",
+      "author": "滚动播报",
+      "hot": 712,
+      "timestamp": 1782632965000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexiqe3296927.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexiqe3296927.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "具身世界模型“我悟”通过合规备案",
+      "author": "界面新闻",
+      "hot": 718,
+      "timestamp": 1782582030000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-inievvnu7155150.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-inievvnu7155150.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "小组第2出线！葡萄牙0-0哥伦比亚战克罗地亚 哥伦比亚头名战加纳",
+      "author": "新浪新闻综合",
+      "hot": 763,
+      "timestamp": 1782638961000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexiqe3335233.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexiqe3335233.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "33岁男子咳嗽两个月没好，“真凶”就在每天上下班必经之路上，吸入即感染",
+      "author": "新浪新闻综合",
+      "hot": 768,
+      "timestamp": 1782593003000,
+      "url": "https://news.sina.com.cn/s/2026-06-27/doc-iniewhaq6962217.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-27/doc-iniewhaq6962217.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "688072，拟购买半导体公司，股票停牌！股价已涨近5倍！",
+      "author": "e公司",
+      "hot": 774,
+      "timestamp": 1782633264000,
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa6521288.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa6521288.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "足球报：韩国连遭7队反超无缘32强，伊朗也被逼到悬崖边",
+      "author": "新浪新闻综合",
+      "hot": 807,
+      "timestamp": 1782641775000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy6448846.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy6448846.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+      "author": "央视",
+      "hot": 814,
+      "timestamp": 1782622403000,
+      "url": "https://news.sina.com.cn/w/2026-06-28/doc-iniewwyh1028813.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-28/doc-iniewwyh1028813.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "韩媒：拥有孙兴慜李刚仁的韩国黄金一代耻辱出局！史上最糟糕一届",
+      "author": "新浪新闻综合",
+      "hot": 823,
+      "timestamp": 1782643590000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy0785315.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexpvy0785315.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美伊，又开打了？！伊朗：打击8处美军设施！特朗普威胁：伊朗或将不复存在",
+      "author": "证券时报",
+      "hot": 825,
+      "timestamp": 1782638831000,
+      "url": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa6557244.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa6557244.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "只有领导层才能吹空调？欧委会员工被激怒了：简直是封建制度",
+      "author": "观察者网",
+      "hot": 848,
+      "timestamp": 1782642281000,
+      "url": "https://news.sina.com.cn/w/2026-06-28/doc-iniexiqa6562474.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-28/doc-iniexiqa6562474.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "欧盟谴责伊朗最新针对巴林的无人机袭击。",
+      "author": "滚动播报",
+      "hot": 867,
+      "timestamp": 1782612287000,
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewssk1115758.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewssk1115758.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "输麻了！韩国小组出局，11亿韩元出线奖金泡汤！约487万人民币",
+      "author": "市场资讯",
+      "hot": 924,
+      "timestamp": 1782642464000,
+      "url": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexpwa3231383.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexpwa3231383.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
+      "author": "市场资讯",
+      "hot": 924,
+      "timestamp": 1782634707000,
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexiqe3307300.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexiqe3307300.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "毒贩悬赏缉毒警人头一颗200万",
+      "author": "滚动播报",
+      "hot": 936,
+      "timestamp": 1782602117000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-iniewnkn1188654.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-iniewnkn1188654.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "江西省委原书记、中央统战部原副部长万绍芬逝世，享年96岁",
+      "author": "澎湃新闻",
+      "hot": 999,
+      "timestamp": 1782596366000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-iniewhaq6979152.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-iniewhaq6979152.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "洪森再访华，中柬合作释放新信号",
+      "author": "胶东在线",
+      "hot": 1042,
+      "timestamp": 1782640045000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexipy4111916.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexipy4111916.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "世界杯32强出炉29席：克罗地亚出线，韩国、伊朗待定",
+      "author": "新浪新闻综合",
+      "hot": 1050,
+      "timestamp": 1782630609000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexcha4177911.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexcha4177911.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "韩国出局！韩媒一片哀嚎：没有奇迹！历史最差！球队收拾行李走人",
+      "author": "新浪新闻综合",
+      "hot": 1127,
+      "timestamp": 1782639793000,
+      "url": "https://news.sina.com.cn/o/2026-06-28/doc-iniexiqa6565258.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-06-28/doc-iniexiqa6565258.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "习言道｜走到田间地头，总书记说完夏粮说秋粮",
+      "author": "中国新闻网",
+      "hot": 1139,
+      "timestamp": 1782592300000,
+      "url": "https://news.sina.com.cn/c/xl/2026-06-27/doc-iniewhaq6957655.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-06-27/doc-iniewhaq6957655.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "AI洪流下，通信行业集体寻找下一张船票",
+      "author": "第一财经网",
+      "hot": 1166,
+      "timestamp": 1782601968000,
+      "url": "https://news.sina.com.cn/s/2026-06-27/doc-iniewnkn1184724.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-06-27/doc-iniewnkn1184724.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+      "author": "观察者网",
+      "hot": 1183,
+      "timestamp": 1782589239000,
+      "url": "https://news.sina.com.cn/w/2026-06-27/doc-inievzuq4559093.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-06-27/doc-inievzuq4559093.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "荷兰官方：对遭丧子之痛的加克波表示慰问 球员决定留队继续比赛",
+      "author": "新浪新闻综合",
+      "hot": 1198,
+      "timestamp": 1782616011000,
+      "url": "https://news.sina.com.cn/zx/2026-06-28/doc-iniewssh4360699.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-06-28/doc-iniewssh4360699.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "一夜四家！讲故事、做假账、挪资金、玩失联……监管密集点名",
+      "author": "21世纪经济报道",
+      "hot": 1236,
+      "timestamp": 1782602168000,
+      "url": "https://news.sina.com.cn/c/2026-06-27/doc-iniewnkn1184750.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-06-27/doc-iniewnkn1184750.shtml"
+    }
+  ]
+}
