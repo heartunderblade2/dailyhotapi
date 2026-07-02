@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-02T00:01:28.408Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "重忆长征光辉战事 坚守初心勇担使命",
+      "author": "滚动播报",
+      "hot": 52,
+      "timestamp": 1782950948000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifinuk0752161.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifinuk0752161.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "大长兴市监处罚〔2026〕166号",
+      "author": "市场监管总局",
+      "hot": 151,
+      "timestamp": 1782959088000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitaq2877202.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitaq2877202.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "沃什承诺将通胀率拉回2%目标水平",
+      "author": "环球市场播报",
+      "hot": 154,
+      "timestamp": 1782953307000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitah0636610.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitah0636610.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "特朗普：油价正在下跌。",
+      "author": "滚动播报",
+      "hot": 175,
+      "timestamp": 1782966441000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixke0580643.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixke0580643.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "美国决定不延长美墨加协定 改为实施年度审议",
+      "author": "环球市场播报",
+      "hot": 177,
+      "timestamp": 1782951880000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuq6160025.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuq6160025.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "Shams：湖人送出2首轮+2互换！4年1.3亿先签后换得凯斯勒！",
+      "author": "新浪新闻综合",
+      "hot": 183,
+      "timestamp": 1782950565000,
+      "url": "https://news.sina.com.cn/zx/2026-07-02/doc-inifinuk0749252.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-02/doc-inifinuk0749252.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "美国贸易代表：美国贸易代表办公室将继续就《美墨加协定》修订事宜与国会及公众开展磋...",
+      "author": "滚动播报",
+      "hot": 185,
+      "timestamp": 1782954060000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitah0640891.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitah0640891.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美联储主席沃什称近期通胀风险下降 重申维持物价稳定的决心",
+      "author": "环球市场播报",
+      "hot": 190,
+      "timestamp": 1782962643000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3784255.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3784255.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "党的十六大：跨越世纪启新程",
+      "author": "四川在线-华西都市报",
+      "hot": 192,
+      "timestamp": 1782962398000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifixkk6000478.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifixkk6000478.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "微软股价今日为何上涨4%？",
+      "author": "环球市场播报",
+      "hot": 192,
+      "timestamp": 1782962447000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3783400.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3783400.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "沃尔玛周三一度下跌5.3%，延续跌势至第六个交易日",
+      "author": "环球市场播报",
+      "hot": 197,
+      "timestamp": 1782961112000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3776722.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3776722.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "午盘：美股涨跌不一 道指上涨300点",
+      "author": "环球市场播报",
+      "hot": 198,
+      "timestamp": 1782950525000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuk0748897.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuk0748897.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "沃什承诺美联储将依托新型数据制定政策决策",
+      "author": "环球市场播报",
+      "hot": 207,
+      "timestamp": 1782953395000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitae3859877.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitae3859877.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "ADP数据：6月美国私营部门新增就业9.8万人，低于市场预期",
+      "author": "环球市场播报",
+      "hot": 210,
+      "timestamp": 1782951303000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuk0754448.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuk0754448.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "天津天价煎饼果子引热议 单套最高售价1380元",
+      "author": "快科技",
+      "hot": 212,
+      "timestamp": 1782902697000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifheze6428163.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifheze6428163.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "原油：供应过剩迹象日益增多 油价下跌",
+      "author": "环球市场播报",
+      "hot": 212,
+      "timestamp": 1782964263000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3792453.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3792453.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "兄妹合买中3.5亿巨奖 各自买房提高生活质量",
+      "author": "新浪彩票",
+      "hot": 212,
+      "timestamp": 1782892341000,
+      "url": "https://sports.sina.com.cn/l/2026-07-01/doc-iniffyta1134910.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-01/doc-iniffyta1134910.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "万斯：美伊间接会谈进展顺利 核问题相关讨论将很快开始",
+      "author": "央视",
+      "hot": 215,
+      "timestamp": 1782954919000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifitan6054689.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifitan6054689.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "美国拒绝延长协定 加拿大和墨西哥贸易前景蒙上阴影",
+      "author": "环球市场播报",
+      "hot": 217,
+      "timestamp": 1782960366000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkk5982722.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkk5982722.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "今起，这些新规与你我息息相关",
+      "author": "央视",
+      "hot": 219,
+      "timestamp": 1782903558000,
+      "url": "https://news.sina.com.cn/c/2026-07-01/doc-inifheyw4288944.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-01/doc-inifheyw4288944.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "尾盘：道指7月开局再创历史新高，纳指受芯片股拖累走低",
+      "author": "环球市场播报",
+      "hot": 219,
+      "timestamp": 1782960810000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0552282.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0552282.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "7月2日美股成交额前20：Meta筹划进军云计算，股价应声大涨",
+      "author": "环球市场播报",
+      "hot": 221,
+      "timestamp": 1782967724000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0587217.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0587217.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "世卫组织通报：苏丹新发霍乱疫情，已造成120人死亡。",
+      "author": "滚动播报",
+      "hot": 224,
+      "timestamp": 1782963621000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixkn2786605.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixkn2786605.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "Meta发力云业务、对外出售富余AI算力，股价大涨10%",
+      "author": "环球市场播报",
+      "hot": 225,
+      "timestamp": 1782949032000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifinuh3966768.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifinuh3966768.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "美联储主席沃什未暗示7月利率决议，但称通胀水平“依旧过高”",
+      "author": "环球市场播报",
+      "hot": 226,
+      "timestamp": 1782951148000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuq6152838.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifinuq6152838.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "国务院任免国家工作人员：江文胜任国务院副秘书长",
+      "author": "澎湃新闻",
+      "hot": 238,
+      "timestamp": 1782921907000,
+      "url": "https://news.sina.com.cn/c/2026-07-01/doc-inifhvws0968035.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-01/doc-inifhvws0968035.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美联储主席沃什重申倾向于缩表 并暗示这将是一个漫长过程",
+      "author": "环球市场播报",
+      "hot": 239,
+      "timestamp": 1782959334000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitah0674732.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifitah0674732.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "党的生日，天安门广场红旗飘飘，景观灯开启",
+      "author": "北京日报客户端",
+      "hot": 247,
+      "timestamp": 1782939508000,
+      "url": "https://news.sina.com.cn/c/2026-07-01/doc-inifihnu2972859.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-01/doc-inifihnu2972859.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "中国军舰在日本周边海域“刷屏出现”",
+      "author": "观察者网",
+      "hot": 252,
+      "timestamp": 1782922258000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-01/doc-inifhvwy3081481.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-01/doc-inifhvwy3081481.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "前体操冠军吴柳芳带货直播：40万外债刚还清，首场带货佣金将全数捐给嫣然天使基金",
+      "author": "极目新闻",
+      "hot": 256,
+      "timestamp": 1782935051000,
+      "url": "https://news.sina.com.cn/s/2026-07-01/doc-inifiaew3010535.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-01/doc-inifiaew3010535.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "为了金球拼了！32岁凯恩本届世界杯4场5球，攻防俱佳带英格兰前进",
+      "author": "新浪新闻综合",
+      "hot": 256,
+      "timestamp": 1782958705000,
+      "url": "https://news.sina.com.cn/zx/2026-07-02/doc-inifitan6097325.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-02/doc-inifitan6097325.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美伊多哈谈判结束，聚焦霍尔木兹海峡",
+      "author": "环球市场播报",
+      "hot": 258,
+      "timestamp": 1782970195000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkcsk2717099.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkcsk2717099.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "7月“金股”来了，上半年收益榜出炉",
+      "author": "滚动播报",
+      "hot": 261,
+      "timestamp": 1782934875000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifiaeq0930292.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifiaeq0930292.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "“大空头”迈克尔·伯里增持AI空头仓位，警告“狂欢已至终点”",
+      "author": "环球市场播报",
+      "hot": 269,
+      "timestamp": 1782963297000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkn2783851.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkn2783851.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "美伊官员7月1日在多哈举行间接会谈",
+      "author": "新华国际",
+      "hot": 282,
+      "timestamp": 1782920044000,
+      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifhvwq4167241.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-01/doc-inifhvwq4167241.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "收藏！一图学习习近平在庆祝建党105周年大会上的讲话",
+      "author": "人民日报客户端",
+      "hot": 284,
+      "timestamp": 1782940277000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-01/doc-inifhvws0979720.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-01/doc-inifhvws0979720.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "纽约期银日内跌1%，现报59.81美元/盎司。",
+      "author": "滚动播报",
+      "hot": 285,
+      "timestamp": 1782972008000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifkcsk2733388.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifkcsk2733388.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "乘金融科技东风：主动型ETF FDFF捕捉行业颠覆机遇",
+      "author": "环球市场播报",
+      "hot": 289,
+      "timestamp": 1782963501000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0565545.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0565545.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "美国不再续签《美墨加协定》，为与加拿大和墨西哥的谈判打开大门",
+      "author": "环球市场播报",
+      "hot": 293,
+      "timestamp": 1782961239000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3777416.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixka3777416.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "韩国执政阵营内部分裂加剧，李在明见文在寅展现团结",
+      "author": "观察者网",
+      "hot": 294,
+      "timestamp": 1782941101000,
+      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifihnu2984453.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-01/doc-inifihnu2984453.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "7月2日热门中概股多数上涨 拼多多涨8.18%，台积电跌6.96%",
+      "author": "环球市场播报",
+      "hot": 300,
+      "timestamp": 1782966128000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0579282.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixke0579282.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "中国空调在欧洲卖爆，京东物流、菜鸟也闷声赚大发了",
+      "author": "界面新闻",
+      "hot": 308,
+      "timestamp": 1782919310000,
+      "url": "https://news.sina.com.cn/c/2026-07-01/doc-inifhvws0934036.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-01/doc-inifhvws0934036.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "内塔尼亚胡迎来劲敌",
+      "author": "长安街知事",
+      "hot": 311,
+      "timestamp": 1782939442000,
+      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifihnu2973606.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-01/doc-inifihnu2973606.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "2-1翻盘，英格兰自1966年以来首次在世界杯先丢球后逆转",
+      "author": "新浪新闻综合",
+      "hot": 324,
+      "timestamp": 1782958813000,
+      "url": "https://news.sina.com.cn/o/2026-07-02/doc-inifitae3893678.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-02/doc-inifitae3893678.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "下周一A股交易有变，影响股一览",
+      "author": "21世纪经济报道",
+      "hot": 326,
+      "timestamp": 1782933757000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifiaeu6281885.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifiaeu6281885.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "美军直升机紧急迫降阿拉伯海",
+      "author": "滚动播报",
+      "hot": 345,
+      "timestamp": 1782955177000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitaq2838889.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitaq2838889.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "艰难过关！英格兰2-1逆转民主刚果晋级16强 凯恩双响+绝杀",
+      "author": "新浪新闻综合",
+      "hot": 350,
+      "timestamp": 1782957670000,
+      "url": "https://news.sina.com.cn/zx/2026-07-02/doc-inifitae3886981.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-02/doc-inifitae3886981.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "也门附近海域发生两起涉及船只的安全事件",
+      "author": "滚动播报",
+      "hot": 360,
+      "timestamp": 1782956727000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitah0658411.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifitah0658411.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "泽连斯基：乌方至今未掌握“北溪”爆炸案全部调查细节",
+      "author": "滚动播报",
+      "hot": 363,
+      "timestamp": 1782960313000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixka3772285.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixka3772285.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "特朗普：股市频频创下历史新高。",
+      "author": "滚动播报",
+      "hot": 368,
+      "timestamp": 1782966294000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixkk6033160.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-02/doc-inifixkk6033160.shtml"
+    }
+  ]
+}
