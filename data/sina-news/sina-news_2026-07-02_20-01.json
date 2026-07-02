@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-02T12:01:30.768Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "重忆长征光辉战事 坚守初心勇担使命",
+      "author": "滚动播报",
+      "hot": 52,
+      "timestamp": 1782950948000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifinuk0752161.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifinuk0752161.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "大长兴市监处罚〔2026〕166号",
+      "author": "市场监管总局",
+      "hot": 151,
+      "timestamp": 1782959088000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitaq2877202.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitaq2877202.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "连续3年财务造假，股价跌到只剩9毛钱！688496，遭遇双重退市危机",
+      "author": "每日经济新闻",
+      "hot": 2132,
+      "timestamp": 1782953590000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifitae3860814.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifitae3860814.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "世界杯16强已产生10席，3个东道主全部晋级",
+      "author": "中国新闻网",
+      "hot": 2148,
+      "timestamp": 1783011382000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkups3599983.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkups3599983.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "消息人士：美试图说服伊放弃征收霍尔木兹海峡通行费",
+      "author": "界面新闻",
+      "hot": 2161,
+      "timestamp": 1783004936000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkyvw5896154.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkyvw5896154.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "网记：布朗就换回这些筹码简直难以置信 这明摆着不想留在绿军了",
+      "author": "NBA综合",
+      "hot": 2190,
+      "timestamp": 1782981056000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-02/doc-inifkixy0419884.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-02/doc-inifkixy0419884.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "国内航线燃油附加费7月5日起下调 利好暑期出行需求",
+      "author": "证券日报",
+      "hot": 2218,
+      "timestamp": 1782967133000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifixka3806768.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifixka3806768.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "下半年A股“一九分化”难持续 机构看好“均值回归”行情",
+      "author": "证券时报",
+      "hot": 2230,
+      "timestamp": 1782957571000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitan6085794.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifitan6085794.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "民政部：禁止社会团体设立四类分支机构",
+      "author": "界面新闻",
+      "hot": 2250,
+      "timestamp": 1783004475000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvy2662287.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvy2662287.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "存储一哥跌停，“易中天”股价重挫，MINIMAX大跌13%",
+      "author": "21世纪经济报道",
+      "hot": 2275,
+      "timestamp": 1783001784000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkyvy2633607.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkyvy2633607.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "世界杯夺冠概率更新：法国断崖领先，阿根廷第2",
+      "author": "新浪体育讯",
+      "hot": 2358,
+      "timestamp": 1783001757000,
+      "url": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvs0285521.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvs0285521.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "四大证券报头版头条内容精华摘要_2026年7月2日_财经新闻",
+      "author": "股市直击",
+      "hot": 2360,
+      "timestamp": 1782975899000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-02/doc-inifkcry3731632.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-07-02/doc-inifkcry3731632.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "党的生日，天安门广场红旗飘飘，景观灯开启",
+      "author": "北京日报客户端",
+      "hot": 2454,
+      "timestamp": 1782939508000,
+      "url": "https://news.sina.com.cn/c/2026-07-01/doc-inifihnu2972859.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-01/doc-inifihnu2972859.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "股海导航_2026年7月2日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 2467,
+      "timestamp": 1782976272000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-07-02/doc-inifkcry3734433.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-07-02/doc-inifkcry3734433.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "明晚，成品油价或迎年内首个“三连跌”",
+      "author": "中证网",
+      "hot": 2503,
+      "timestamp": 1783003775000,
+      "url": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkyvy2655872.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkyvy2655872.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "长电科技：全球第三，能力一般",
+      "author": "虎嗅APP",
+      "hot": 2504,
+      "timestamp": 1782980331000,
+      "url": "https://finance.sina.com.cn/stock/newstock/2026-07-02/doc-inifkixw3634790.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/newstock/2026-07-02/doc-inifkixw3634790.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "毛宁“安利”中国降温神器",
+      "author": "长安街知事",
+      "hot": 2518,
+      "timestamp": 1783012655000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmfcw2633006.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmfcw2633006.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "内讧效果？比利时3分钟连进2球+绝杀，上演绝地逃生",
+      "author": "新浪体育讯",
+      "hot": 2614,
+      "timestamp": 1783001830000,
+      "url": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvy2634338.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvy2634338.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "委内瑞拉地震致9名中国公民遇难",
+      "author": "央视",
+      "hot": 2620,
+      "timestamp": 1782976431000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkcry3735504.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkcry3735504.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "美英法德对大陆海警船赴台湾岛以东海域开展执法巡查表达所谓“关切”，国台办驳斥",
+      "author": "环球网",
+      "hot": 2640,
+      "timestamp": 1782994770000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkqfw0414764.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkqfw0414764.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "阿富汗变相承认童婚，遭联合国痛批",
+      "author": "观察者网",
+      "hot": 2668,
+      "timestamp": 1782995856000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkuqa2683981.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkuqa2683981.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "电池起火直接赔新车 奇瑞发布犀牛电池安全兜底计划",
+      "author": "TechWeb",
+      "hot": 2685,
+      "timestamp": 1782978099000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixy0393243.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixy0393243.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "英格兰2比1逆转刚果金，60年没夺冠是有原因的",
+      "author": "新浪体育讯",
+      "hot": 2701,
+      "timestamp": 1783001830000,
+      "url": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvw5858235.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/g/2026-07-02/doc-inifkyvw5858235.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "在世界杯被红牌罚下！巴洛贡是2006年以来美国队首人",
+      "author": "新浪新闻综合",
+      "hot": 2732,
+      "timestamp": 1782985315000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqfw0345417.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqfw0345417.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "收藏！一图学习习近平在庆祝建党105周年大会上的讲话",
+      "author": "人民日报客户端",
+      "hot": 2739,
+      "timestamp": 1782940277000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-01/doc-inifhvws0979720.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-01/doc-inifhvws0979720.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "美加墨世界杯正酣，北美自贸协定却“悬”了",
+      "author": "新京报",
+      "hot": 2740,
+      "timestamp": 1782997259000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkupy5925655.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkupy5925655.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "让二追三！王楚钦/孙颖莎3-2A勒布伦/大藤沙月，晋级混双四强",
+      "author": "新浪新闻综合",
+      "hot": 2746,
+      "timestamp": 1782978839000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixy0397821.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixy0397821.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "A股交易新规！下周一正式施行",
+      "author": "21世纪经济报道",
+      "hot": 2831,
+      "timestamp": 1782978366000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkiyh2666583.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkiyh2666583.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "投研大咖把脉下半年A股：在景气主线中坚守，于“错杀”中淘金",
+      "author": "券商中国",
+      "hot": 2844,
+      "timestamp": 1782977900000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkixw3614637.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkixw3614637.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "卢卡申科访问北京大学",
+      "author": "北京日报客户端",
+      "hot": 2860,
+      "timestamp": 1782995364000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkuqa2677674.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkuqa2677674.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "渡边雄太：以现在这支日本男篮的实力 完全可以把中国男篮赢下来",
+      "author": "NBA综合",
+      "hot": 2882,
+      "timestamp": 1782991652000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-02/doc-inifkqha5980343.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-02/doc-inifkqha5980343.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "“花8800元买填志愿服务，换来20多页AI废话”",
+      "author": "北京日报客户端",
+      "hot": 2906,
+      "timestamp": 1782979880000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixy0406734.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixy0406734.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "央视体育预热葡萄牙vs克罗地亚：用纪录击碎质疑 41岁C罗还是C位",
+      "author": "新浪新闻综合",
+      "hot": 2934,
+      "timestamp": 1782999432000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkups3612166.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkups3612166.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "有“御用恶女”之称的香港演员梁珊离世，享年81岁，代表作有《天虹》《天龙八部》《再见十九岁》《奔向太阳》等",
+      "author": "中国新闻网",
+      "hot": 2978,
+      "timestamp": 1783005249000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvw5902520.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvw5902520.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "百万股民沸腾！刚刚，涨到停牌！深市史上最大IPO，大涨198%",
+      "author": null,
+      "hot": 2980,
+      "timestamp": 1782989167000,
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-02/doc-inifkqhe2716261.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-02/doc-inifkqhe2716261.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "7月2日收盘：美股周三收跌 芯片股拖累纳指走低",
+      "author": "环球市场播报",
+      "hot": 3009,
+      "timestamp": 1782965332000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkn2801477.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifixkn2801477.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美伊多哈谈判结束，聚焦霍尔木兹海峡",
+      "author": "环球市场播报",
+      "hot": 3147,
+      "timestamp": 1782970195000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkcsk2717099.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkcsk2717099.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "中国公民因涉嫌违反稀土出口管理规定被采取措施？外交部回应",
+      "author": "界面新闻",
+      "hot": 3177,
+      "timestamp": 1783006152000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvw5919710.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkyvw5919710.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "中国标准更严，越南水果出口要“卷质量”了",
+      "author": "观察者网",
+      "hot": 3223,
+      "timestamp": 1783000704000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkuqa2748457.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkuqa2748457.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "将战比利时！十人美国2-0波黑晋级 巴洛贡破门+直红蒂尔曼任意球",
+      "author": "新浪新闻综合",
+      "hot": 3366,
+      "timestamp": 1782986917000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqha5903207.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqha5903207.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "不到48小时被叫停，白宫“全员游说”沙特",
+      "author": "北京日报客户端",
+      "hot": 3589,
+      "timestamp": 1782997725000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkupu0370070.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkupu0370070.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "凌晨！中概股大涨，芯片股跳水！美联储主席，重磅发声！",
+      "author": "证券时报",
+      "hot": 3638,
+      "timestamp": 1782978737000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkixy0397210.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkixy0397210.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "让2追3！比利时加时3-2塞内加尔 蒂莱曼斯内讧+绝平+压哨点射绝杀",
+      "author": "新浪新闻综合",
+      "hot": 3763,
+      "timestamp": 1782975034000,
+      "url": "https://news.sina.com.cn/zx/2026-07-02/doc-inifkcsa0503142.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-02/doc-inifkcsa0503142.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "扎哈罗娃：冯德莱恩是个“出色的骗子”",
+      "author": "参考消息",
+      "hot": 3833,
+      "timestamp": 1782996531000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkupy5918673.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkupy5918673.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "“中国不是还在奔跑，而是已经冲线”",
+      "author": "环球时报",
+      "hot": 3839,
+      "timestamp": 1783000619000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkups3625691.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkups3625691.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "委内瑞拉强震遇难人数升至2295人",
+      "author": "央视",
+      "hot": 3902,
+      "timestamp": 1782972690000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifitaq2878458.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifitaq2878458.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "C罗魔笛世界杯终局之战!数据:葡萄牙恐陷加时",
+      "author": "新浪彩票",
+      "hot": 4061,
+      "timestamp": 1782975602000,
+      "url": "https://sports.sina.com.cn/l/2026-07-02/doc-inifiaeq0893002.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-02/doc-inifiaeq0893002.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "日本朝野为《皇室典范》修正案争吵",
+      "author": "环球时报",
+      "hot": 4120,
+      "timestamp": 1782987853000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqfu3611195.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqfu3611195.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "此行间·100秒看庆祝中国共产党成立105周年大会温暖瞬间",
+      "author": "人民日报客户端",
+      "hot": 4157,
+      "timestamp": 1783005464000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-07-02/doc-inifkyvw5906689.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-07-02/doc-inifkyvw5906689.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "“美国安抚印度：我不是中国，不让你当小弟”特朗普肯吗？",
+      "author": "观察者网",
+      "hot": 4206,
+      "timestamp": 1782987415000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqhe2684540.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkqhe2684540.shtml"
+    }
+  ]
+}
