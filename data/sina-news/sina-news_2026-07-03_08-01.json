@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-03T00:01:31.388Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744691",
+      "title": "特斯拉宣布三排六座版Model Y现已面向美国顾客发售",
+      "author": "环球市场播报",
+      "hot": 134,
+      "timestamp": 1783053277000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3831436.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3831436.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "特朗普：美联储理事会“有点敌意”",
+      "author": "环球市场播报",
+      "hot": 134,
+      "timestamp": 1783056697000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrh5707346.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrh5707346.shtml"
+    },
+    {
+      "id": "6744693",
+      "title": "东部战区海军某团有无人机协同海上实弹训练见闻",
+      "author": "中国新闻网",
+      "hot": 134,
+      "timestamp": 1783028044000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-02/doc-inifmrtq5815099.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-02/doc-inifmrtq5815099.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "三亚台风预警升级",
+      "author": "界面新闻",
+      "hot": 136,
+      "timestamp": 1783022178000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0908262.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0908262.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "一男子因在日本公共场所喷射驱熊剂被捕",
+      "author": "界面新闻",
+      "hot": 137,
+      "timestamp": 1783023470000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifmmmy0923861.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifmmmy0923861.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "欧洲股市再创新高 资金轮动至科技股以外板块",
+      "author": "环球市场播报",
+      "hot": 142,
+      "timestamp": 1783038469000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574913.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574913.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "创队史纪录！官方：曼城签23岁森林中场安德森，转会费1.16亿镑！",
+      "author": "新浪新闻综合",
+      "hot": 143,
+      "timestamp": 1783035589000,
+      "url": "https://news.sina.com.cn/o/2026-07-02/doc-inifmvzq2545539.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-02/doc-inifmvzq2545539.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "特斯拉二季度交付量远超预期，股价仍大跌7%",
+      "author": "环球市场播报",
+      "hot": 145,
+      "timestamp": 1783035967000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmvzn5772781.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmvzn5772781.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "强劲季度销量未能提振特斯拉股价 分析师等待AI方面有更多进展",
+      "author": "环球市场播报",
+      "hot": 147,
+      "timestamp": 1783040783000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzs4025459.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzs4025459.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "“跑了200公里，抢到最后一台中国空调”，极端热浪席卷欧洲：西班牙6月上千人因高温死亡，葡萄牙或迎47℃",
+      "author": "新浪新闻综合",
+      "hot": 147,
+      "timestamp": 1782997349000,
+      "url": "https://news.sina.com.cn/o/2026-07-02/doc-inifkuqa2704302.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-02/doc-inifkuqa2704302.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "崔瑞军被查，涉山西82人遇难煤矿爆炸事故",
+      "author": "中国新闻网",
+      "hot": 155,
+      "timestamp": 1782992065000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkqfw0441551.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkqfw0441551.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "安徽省药监局通报困难职工情况登记表相关情况",
+      "author": "界面新闻",
+      "hot": 156,
+      "timestamp": 1783021118000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmu2626848.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmu2626848.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "普京，更严峻的考验来了",
+      "author": "牛弹琴",
+      "hot": 157,
+      "timestamp": 1782982772000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifkiyh2662264.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifkiyh2662264.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "特斯拉：第二季度汽车交付量为480126辆",
+      "author": "界面新闻",
+      "hot": 158,
+      "timestamp": 1783027786000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrts2587913.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrts2587913.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "美国结束2022年针对69.5万辆特斯拉车辆意外制动问题的调查",
+      "author": "环球市场播报",
+      "hot": 158,
+      "timestamp": 1783037235000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5786586.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5786586.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "日本竟“抗议”：中方要求日本测量船停止作业",
+      "author": "观察者网",
+      "hot": 164,
+      "timestamp": 1782982366000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkiye5943339.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkiye5943339.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "乌克兰首都基辅遭空袭致27人死亡",
+      "author": "央视",
+      "hot": 167,
+      "timestamp": 1783058717000,
+      "url": "https://news.sina.com.cn/w/2026-07-03/doc-inifnhrk2459833.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-03/doc-inifnhrk2459833.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "竞彩大势：西班牙至多小胜 葡萄牙值得高看",
+      "author": "新浪彩票",
+      "hot": 171,
+      "timestamp": 1782978878000,
+      "url": "https://sports.sina.com.cn/l/2026-07-02/doc-inifkiye5895323.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-02/doc-inifkiye5895323.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "花旗数据显示交易员全力押注纳斯达克100指数 认为涨势还将继续",
+      "author": "环球市场播报",
+      "hot": 174,
+      "timestamp": 1783038373000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574130.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574130.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "爆冷！美国6月非农“腰斩”预期，黄金狂飙突破4100，美元崩了？",
+      "author": "市场资讯",
+      "hot": 177,
+      "timestamp": 1783026000000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifmmmy0943290.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifmmmy0943290.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "中共中央对外联络部副部长陆慷会见欧洲战略界人士",
+      "author": "界面新闻",
+      "hot": 179,
+      "timestamp": 1783021928000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0905016.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0905016.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "巴西批准南方共同市场多项贸易协定，全面取消出口关税",
+      "author": "滚动播报",
+      "hot": 181,
+      "timestamp": 1783052744000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-03/doc-inifnhrh5668837.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-03/doc-inifnhrh5668837.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "苹果大幅上调折叠屏iPhone备货预期，目标直指千万台",
+      "author": "环球市场播报",
+      "hot": 183,
+      "timestamp": 1783034248000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmvzn5757825.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmvzn5757825.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "宇树科技，IPO注册获批！打新攻略来了",
+      "author": "中证网",
+      "hot": 183,
+      "timestamp": 1783027191000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmrtq5804408.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmrtq5804408.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "AI债务洪流让美国公司债市场看似更安全 实则风险暗涌",
+      "author": "环球市场播报",
+      "hot": 189,
+      "timestamp": 1783041384000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5826966.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5826966.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "乌称基辅遭袭已致18死",
+      "author": "央视",
+      "hot": 197,
+      "timestamp": 1783018806000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifmmmu2579735.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifmmmu2579735.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "特朗普：认为马斯克将向“特朗普账户”捐赠SpaceX股票",
+      "author": "环球市场播报",
+      "hot": 199,
+      "timestamp": 1783058426000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0647520.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0647520.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "美迅速叫停霍尔木兹海峡“自由计划”内情遭披露：受到沙特阿拉伯方面的担忧和阻挠",
+      "author": "界面新闻",
+      "hot": 212,
+      "timestamp": 1783032575000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrtq5870188.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrtq5870188.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "中央气象台7月2日18时发布暴雨黄色预警",
+      "author": "界面新闻",
+      "hot": 213,
+      "timestamp": 1783020502000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmw4112025.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmw4112025.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "7月3日外盘头条：特朗普2025年交易逾2.1万笔 霍尔木兹海峡不复往日 微软计划8月推出Copilot全端整合产品",
+      "author": "环球市场播报",
+      "hot": 214,
+      "timestamp": 1783056386000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0629775.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0629775.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "是“倒车接人”，还是“狼来了”？基金公司火速解读：Meta出售算力不能等同于算力供需反转",
+      "author": "滚动播报",
+      "hot": 215,
+      "timestamp": 1783024820000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmmmw4161340.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmmmw4161340.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "美股集体高开，黄金板块领涨",
+      "author": "界面新闻",
+      "hot": 215,
+      "timestamp": 1783027955000,
+      "url": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrts2590028.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-02/doc-inifmrts2590028.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "新浪彩票名家大乐透第26074期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 217,
+      "timestamp": 1782992215000,
+      "url": "https://sports.sina.com.cn/l/2026-07-02/doc-inifkqfu3666788.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-02/doc-inifkqfu3666788.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "美国股市：道琼斯工业平均指数创新高 就业市场降温缓解加息担忧",
+      "author": "环球市场播报",
+      "hot": 218,
+      "timestamp": 1783054001000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3835153.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3835153.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "当前中日关系面临什么情况？四个字！",
+      "author": "新民周刊",
+      "hot": 224,
+      "timestamp": 1782982453000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixw3656357.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifkixw3656357.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "存储ETF即将创下上市以来最差单周表现",
+      "author": "环球市场播报",
+      "hot": 225,
+      "timestamp": 1783039689000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5809883.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5809883.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "突变！002371、603986跌停",
+      "author": "证券时报",
+      "hot": 231,
+      "timestamp": 1783013027000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifmfcw2639739.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifmfcw2639739.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "广东汕头一男子将一女孩丢进水沟，官方通报",
+      "author": "界面新闻",
+      "hot": 235,
+      "timestamp": 1783018695000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0869943.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0869943.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "近镜头｜最高礼遇致敬功勋党员",
+      "author": "新华社",
+      "hot": 237,
+      "timestamp": 1783023521000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-02/doc-inifmmms5883244.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-02/doc-inifmmms5883244.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "特斯拉交付数据表现亮眼，股价却大跌7%",
+      "author": "环球市场播报",
+      "hot": 239,
+      "timestamp": 1783039578000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2584842.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2584842.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "0.27%：藤森庆子的15年与秘鲁的裂痕",
+      "author": "新浪新闻综合",
+      "hot": 248,
+      "timestamp": 1783021641000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmms5857519.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmms5857519.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "“三连跌”将至，国内油价或迎来年内最大单次降幅",
+      "author": "澎湃新闻",
+      "hot": 248,
+      "timestamp": 1783029108000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifmrtw0851889.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifmrtw0851889.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "国务院批复同意设立上海辰山国家植物园",
+      "author": "央视",
+      "hot": 253,
+      "timestamp": 1783023427000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0923397.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmmmy0923397.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "官方通报车辆翻坠事故致8死",
+      "author": "中国新闻网",
+      "hot": 257,
+      "timestamp": 1783032015000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmrts2640032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmrts2640032.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "联播+｜两件国宝蕴藏的精神密码",
+      "author": "央视新闻客户端",
+      "hot": 270,
+      "timestamp": 1783023628000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-02/doc-inifmmmw4148341.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-02/doc-inifmmmw4148341.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "利好！A股公司，密集回购！",
+      "author": "证券时报",
+      "hot": 271,
+      "timestamp": 1783020249000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmmmw4109282.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmmmw4109282.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "7月3日美股成交额前20：特斯拉严控员工AI支出，每周最高200美元",
+      "author": "环球市场播报",
+      "hot": 285,
+      "timestamp": 1783054136000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrk2456201.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrk2456201.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美财长：只有中国敢买伊朗石油，其他人怕我们制裁",
+      "author": "观察者网",
+      "hot": 290,
+      "timestamp": 1782982262000,
+      "url": "https://news.sina.com.cn/o/2026-07-02/doc-inifkixy0431245.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-02/doc-inifkixy0431245.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "证监会同意宇树科技科创板IPO注册申请",
+      "author": "新浪新闻综合",
+      "hot": 303,
+      "timestamp": 1783012135000,
+      "url": "https://news.sina.com.cn/c/2026-07-02/doc-inifmfea0915640.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-02/doc-inifmfea0915640.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "明晚，成品油价或迎年内首个“三连跌”",
+      "author": "中证网",
+      "hot": 307,
+      "timestamp": 1783003775000,
+      "url": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkyvy2655872.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkyvy2655872.shtml"
+    }
+  ]
+}
