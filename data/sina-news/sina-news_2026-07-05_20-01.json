@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-05T12:01:23.214Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "东部战区海军某团有无人机协同海上实弹训练见闻",
+      "author": "中国新闻网",
+      "hot": 134,
+      "timestamp": 1783028044000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-02/doc-inifmrtq5815099.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-02/doc-inifmrtq5815099.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "076期云龙双色球预测奖号：012路分析",
+      "author": "新浪彩票",
+      "hot": 730,
+      "timestamp": 1783251018000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037610.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037610.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "076期马昕田双色球预测奖号：连号分析",
+      "author": "新浪彩票",
+      "hot": 732,
+      "timestamp": 1783251007000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtf2261362.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtf2261362.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "极力掩盖“慰安妇”罪行 日本在心虚什么",
+      "author": "央视",
+      "hot": 739,
+      "timestamp": 1783269038000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8973040.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8973040.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "国际油价震荡 为何外媒称“中国第二次拯救了世界经济”？",
+      "author": "央视",
+      "hot": 741,
+      "timestamp": 1783269071000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8973323.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8973323.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "一周军评：苏联轰炸机无法有效对抗航母 美国的就行了？",
+      "author": "观察者网",
+      "hot": 745,
+      "timestamp": 1783239098000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-05/doc-iniftfmf9551697.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-05/doc-iniftfmf9551697.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "第74集团军某旅携手多支空军部队开展跨域联训",
+      "author": "中国军网-解放军报",
+      "hot": 757,
+      "timestamp": 1783235894000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-05/doc-inifszch2884399.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-05/doc-inifszch2884399.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "资金连续出逃，美股芯片股大跌冲击波会否扩散",
+      "author": "第一财经",
+      "hot": 786,
+      "timestamp": 1783249610000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-05/doc-iniftmtc9506885.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-05/doc-iniftmtc9506885.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "男篮U17世界杯排位赛：中国队胜新西兰队",
+      "author": "北京日报客户端",
+      "hot": 804,
+      "timestamp": 1783250900000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2737117.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2737117.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+      "author": "央视",
+      "hot": 811,
+      "timestamp": 1783230090000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifsuvm9749076.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-inifsuvm9749076.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "[小炮APP]专家朱天佑竞彩推荐：英格兰击败东道主",
+      "author": "新浪彩票",
+      "hot": 819,
+      "timestamp": 1783265476000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftwia8933014.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftwia8933014.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "什么信号？超520亿元资金，撤离9只科技股",
+      "author": "中国证券报",
+      "hot": 819,
+      "timestamp": 1783249069000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-05/doc-iniftmth9016170.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-05/doc-iniftmth9016170.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "扎堆军演 离岛防御 日本加速“再军事化”释放哪些信号？专家解读",
+      "author": "央视",
+      "hot": 828,
+      "timestamp": 1783244327000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmf9595477.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmf9595477.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "内病外治，日菲勾连是下错了药方",
+      "author": "北京日报客户端",
+      "hot": 844,
+      "timestamp": 1783242112000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmk9055490.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmk9055490.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "华为首颗“韬芯片”霸气侧漏",
+      "author": "上海证券报",
+      "hot": 860,
+      "timestamp": 1783255951000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-05/doc-iniftryy2646621.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-05/doc-iniftryy2646621.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "076期王守礼双色球预测奖号：012路比分析",
+      "author": "新浪彩票",
+      "hot": 863,
+      "timestamp": 1783251029000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtf2261611.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtf2261611.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "新浪彩票名家大乐透第26075期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 866,
+      "timestamp": 1783252352000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtc9528508.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmtc9528508.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "U17男篮半场落后 主帅让位外籍助教指挥 下半场57-32大逆转新西兰",
+      "author": "NBA综合",
+      "hot": 873,
+      "timestamp": 1783254463000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-05/doc-iniftmth9075023.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-05/doc-iniftmth9075023.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "076期钱海峰双色球预测奖号：三区分析",
+      "author": "新浪彩票",
+      "hot": 887,
+      "timestamp": 1783251047000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037955.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037955.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "德国监管机构警示：拟议的信息法重大修订或将彻底废除政务透明机制。",
+      "author": "滚动播报",
+      "hot": 888,
+      "timestamp": 1783219074000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpp9824471.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpp9824471.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "076期刘景明双色球预测奖号：012路比分析",
+      "author": "新浪彩票",
+      "hot": 890,
+      "timestamp": 1783251047000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037957.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037957.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
+      "author": "滚动播报",
+      "hot": 897,
+      "timestamp": 1783255809000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-iniftrzc2182715.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-iniftrzc2182715.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "从“徐至摩”到连进世界杯八强 摩洛哥正在对的路上飞奔",
+      "author": "新浪新闻综合",
+      "hot": 900,
+      "timestamp": 1783258996000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-iniftryz9447974.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-iniftryz9447974.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "黎巴嫩部长表示，四十万因战争流离失所的黎巴嫩民众已重返南部家园。",
+      "author": "滚动播报",
+      "hot": 902,
+      "timestamp": 1783223377000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsuvq9127056.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsuvq9127056.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "壹视界·任仲平文章解读之三丨从“大国通途”读懂中国式现代化",
+      "author": "人民日报客户端",
+      "hot": 907,
+      "timestamp": 1783240223000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-05/doc-iniftfmk9034582.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-05/doc-iniftfmk9034582.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "内塔尼亚胡近期将访美与特朗普会晤",
+      "author": "央视",
+      "hot": 909,
+      "timestamp": 1783219707000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifsqpr2440300.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-inifsqpr2440300.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "以色列总理内塔尼亚胡称昨天与美国总统特朗普通了电话。",
+      "author": "滚动播报",
+      "hot": 926,
+      "timestamp": 1783215300000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpr2398619.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpr2398619.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+      "author": "市场资讯",
+      "hot": 938,
+      "timestamp": 1783244046000,
+      "url": "https://finance.sina.com.cn/world/2026-07-05/doc-iniftfmk9081231.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-05/doc-iniftfmk9081231.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "北京市发布雷电黄色预警",
+      "author": "界面新闻",
+      "hot": 959,
+      "timestamp": 1783242519000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmk9064591.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftfmk9064591.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "以色列消息人士：内塔尼亚胡与特朗普的会面尚未敲定相关安排。",
+      "author": "滚动播报",
+      "hot": 1019,
+      "timestamp": 1783225721000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsuvp2372680.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsuvp2372680.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "国有大行重启5年期大额存单！",
+      "author": "央视",
+      "hot": 1089,
+      "timestamp": 1783203287000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-04/doc-inifscxw9302907.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-04/doc-inifscxw9302907.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "伊朗驻华大使：计划按国际通行标准对霍尔木兹海峡通航收服务费",
+      "author": "滚动播报",
+      "hot": 1090,
+      "timestamp": 1783213060000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifskfq3137189.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifskfq3137189.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "创非洲历史！摩洛哥连续两届晋级世界杯8强，将战法国/巴拉圭胜者",
+      "author": "新浪新闻综合",
+      "hot": 1091,
+      "timestamp": 1783220971000,
+      "url": "https://news.sina.com.cn/o/2026-07-05/doc-inifsqpn3058075.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-05/doc-inifsqpn3058075.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "俄罗斯新识别系统可强制民用无人机降落",
+      "author": "北京日报客户端",
+      "hot": 1101,
+      "timestamp": 1783255356000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-iniftmtc9547179.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-iniftmtc9547179.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "比特币重回63000美元关口。",
+      "author": "滚动播报",
+      "hot": 1110,
+      "timestamp": 1783215345000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpp9801325.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-05/doc-inifsqpp9801325.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "076期山哥双色球预测奖号：奇偶走势分析",
+      "author": "新浪彩票",
+      "hot": 1140,
+      "timestamp": 1783251047000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037956.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftmth9037956.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "香港市民排队“打卡”抵港海军军舰",
+      "author": "央视",
+      "hot": 1158,
+      "timestamp": 1783269274000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8975729.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8975729.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "中俄“海上联合-2026”联合演习兵力集结完毕",
+      "author": "环球网",
+      "hot": 1211,
+      "timestamp": 1783257997000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9438398.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9438398.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "世界杯情报：对阵墨西哥是英格兰本届首次高原作战",
+      "author": "新浪彩票",
+      "hot": 1239,
+      "timestamp": 1783244559000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftfmk9093610.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftfmk9093610.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "太有活了！看台的巴拉圭球迷身着梗图“姆巴佩将军”T恤！",
+      "author": "新浪新闻综合",
+      "hot": 1329,
+      "timestamp": 1783235666000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifszcn9113493.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-inifszcn9113493.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "中国海军舰艇编队抵达越南进行访问",
+      "author": "北京日报客户端",
+      "hot": 1364,
+      "timestamp": 1783250839000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmtc9515591.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmtc9515591.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "南昌“佛得角”意外走红，老板娘称店名已用二十余年，因年轻人来打卡拍照才听说沃齐尼亚很厉害",
+      "author": "新浪新闻综合",
+      "hot": 1392,
+      "timestamp": 1783252951000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2755182.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2755182.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "女子手机被操控民警拔卡保住25万",
+      "author": "新浪新闻综合",
+      "hot": 1499,
+      "timestamp": 1783261074000,
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9462714.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9462714.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "巴西队主帅：内马尔已完全康复，可踢满90分钟",
+      "author": "新京报",
+      "hot": 1575,
+      "timestamp": 1783244392000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-iniftfmf9593325.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-iniftfmf9593325.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "陕西渭南临渭公安通报“未成年人电梯内被掌掴”：已依法处理",
+      "author": "新浪新闻综合",
+      "hot": 1634,
+      "timestamp": 1783246175000,
+      "url": "https://news.sina.com.cn/s/2026-07-05/doc-iniftfmf9611101.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-05/doc-iniftfmf9611101.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "维尼修斯大战哈兰德!数据示巴西力克苦主挪威",
+      "author": "新浪彩票",
+      "hot": 1710,
+      "timestamp": 1783246839000,
+      "url": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftfmi2344075.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-05/doc-iniftfmi2344075.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "马未都回应“被盗佛像争议”：高度相差16厘米、多处细节特征有差异",
+      "author": "封面新闻",
+      "hot": 1713,
+      "timestamp": 1783208368000,
+      "url": "https://news.sina.com.cn/zx/2026-07-04/doc-inifskft2455894.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-04/doc-inifskft2455894.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美国独立日当天，特朗普分别与普京、泽连斯基通电话",
+      "author": "观察者网",
+      "hot": 1725,
+      "timestamp": 1783240577000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-iniftfmi2249459.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-iniftfmi2249459.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "一家三口新疆自驾游突遇山洪，母子被冲走失联6天，孩子刚过11岁生日 孩子父亲：只想尽快找到妻儿",
+      "author": "成都商报",
+      "hot": 1822,
+      "timestamp": 1783197971000,
+      "url": "https://news.sina.com.cn/s/2026-07-04/doc-inifrxrx2550819.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-04/doc-inifrxrx2550819.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "俄方回应泽连斯基与普京会面提议",
+      "author": "央视",
+      "hot": 1853,
+      "timestamp": 1783230227000,
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifsuvm9755305.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-05/doc-inifsuvm9755305.shtml"
+    }
+  ]
+}
