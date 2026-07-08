@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-08T00:01:34.253Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "北京、天津机场航班大面积延误",
+      "author": "新浪新闻综合",
+      "hot": 273,
+      "timestamp": 1783446172000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyquw8351159.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyquw8351159.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "外媒关注中国海军成功试射潜射战略导弹",
+      "author": "新浪新闻综合",
+      "hot": 274,
+      "timestamp": 1783445166000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyqva5181364.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyqva5181364.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "两岸直飞航线密集复航",
+      "author": "新浪新闻综合",
+      "hot": 277,
+      "timestamp": 1783444703000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyquv1550177.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyquv1550177.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "成本仅300元，卖到上万元…确认是假货！嘉兴警方：4人被采取刑事强制措施",
+      "author": "新浪新闻综合",
+      "hot": 278,
+      "timestamp": 1783441539000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifykpa8492388.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifykpa8492388.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "美国打击伊朗并恢复石油制裁，停火面临最严峻考验之一",
+      "author": "环球市场播报",
+      "hot": 279,
+      "timestamp": 1783489471000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshi1503260.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshi1503260.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "多家媒体：比利时进球后众将跳\"特朗普之舞\"庆祝，疑似嘲讽特朗普",
+      "author": "新浪新闻综合",
+      "hot": 279,
+      "timestamp": 1783437921000,
+      "url": "https://news.sina.com.cn/w/2026-07-07/doc-inifykpe5223999.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-07/doc-inifykpe5223999.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "恒指期货夜盘收涨0.08%，报23492.28点，低水4.61点。",
+      "author": "滚动播报",
+      "hot": 292,
+      "timestamp": 1783479604000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmym1526819.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmym1526819.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "中共中央批准：周立伟任四川省委常委",
+      "author": "新京报",
+      "hot": 293,
+      "timestamp": 1783442753000,
+      "url": "https://news.sina.com.cn/o/2026-07-07/doc-inifykny8423145.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-07/doc-inifykny8423145.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "未来3天降雨仍将持续，广西防灾救灾面临三项艰巨任务",
+      "author": "界面新闻",
+      "hot": 317,
+      "timestamp": 1783458876000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvau8409501.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvau8409501.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "美国中央司令部：美军对伊朗发动打击",
+      "author": "环球市场播报",
+      "hot": 319,
+      "timestamp": 1783488870000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshq4960690.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshq4960690.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "7月8日外盘头条：美国打击伊朗并恢复石油制裁 Meta推出AI图像生成模型 北约盟国达成500亿美元国防工业协议",
+      "author": "环球市场播报",
+      "hot": 319,
+      "timestamp": 1783489917000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshn8191639.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshn8191639.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "伊朗外交部称，伊朗将采取一切其认为必要的措施，维护本国利益与国家安全。",
+      "author": "滚动播报",
+      "hot": 321,
+      "timestamp": 1783488229000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1489779.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1489779.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "伊朗媒体称，导弹击中锡里克港商用码头和渔业码头后，港口区域发生多起爆炸。",
+      "author": "滚动播报",
+      "hot": 322,
+      "timestamp": 1783490406000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1512927.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1512927.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "甘肃省委书记、省长：不惜一切代价搜救失联人员",
+      "author": "北京日报客户端",
+      "hot": 325,
+      "timestamp": 1783449829000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyqva5216028.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyqva5216028.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美国官员： 美国谈判代表仍秉持诚意推进谈判，以期达成最终协议。",
+      "author": "滚动播报",
+      "hot": 329,
+      "timestamp": 1783478968000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8295365.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8295365.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "瑞士锁定最后一席，一图速览世界杯8强。",
+      "author": "滚动播报",
+      "hot": 330,
+      "timestamp": 1783493663000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzwqf1419737.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzwqf1419737.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "美国“红牌缓刑”我也行！",
+      "author": "新浪新闻综合",
+      "hot": 340,
+      "timestamp": 1783440386000,
+      "url": "https://news.sina.com.cn/s/2026-07-07/doc-inifykpe5254280.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-07/doc-inifykpe5254280.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "韩国与北约将启动基础采购协议相关谈判。",
+      "author": "滚动播报",
+      "hot": 342,
+      "timestamp": 1783487872000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8262200.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8262200.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "日本央行政策委员会委员浅田：加息或拖累经济。",
+      "author": "滚动播报",
+      "hot": 351,
+      "timestamp": 1783488808000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8271973.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8271973.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "埃及裁判专家：主裁判漏判阿根廷红牌 绝杀应取消+埃及应获点球",
+      "author": "新浪新闻综合",
+      "hot": 355,
+      "timestamp": 1783479866000,
+      "url": "https://news.sina.com.cn/o/2026-07-08/doc-inifzmys5025734.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-08/doc-inifzmys5025734.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "周三重要财经信息提醒（以下均为北京时间）",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1783492054000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1532583.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1532583.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "标普道琼斯指数：印尼、土耳其、尼日利亚被纳入2027年潜在市场重分类观察名单。",
+      "author": "滚动播报",
+      "hot": 360,
+      "timestamp": 1783488760000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshn8182540.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshn8182540.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "巴基斯坦机场管理局：在卡拉奇以西约155海里处，雷达失联且通讯中断。",
+      "author": "滚动播报",
+      "hot": 360,
+      "timestamp": 1783480442000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8312453.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8312453.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "WTI原油日内涨2%，现报72.33美元/桶。",
+      "author": "滚动播报",
+      "hot": 362,
+      "timestamp": 1783490404000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8289023.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8289023.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "乌克兰首都基辅传出两轮强烈爆炸声",
+      "author": "滚动播报",
+      "hot": 363,
+      "timestamp": 1783490852000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1518361.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1518361.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "新浪彩票名家大乐透第26076期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 365,
+      "timestamp": 1783434935000,
+      "url": "https://sports.sina.com.cn/l/2026-07-07/doc-inifyefa8420950.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-07/doc-inifyefa8420950.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "美联储理事会就修订银行反洗钱制度相关监管规定的提案征求公众意见",
+      "author": "滚动播报",
+      "hot": 366,
+      "timestamp": 1783482550000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8333288.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8333288.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "未来五年旅游普惠性将进一步凸显",
+      "author": "滚动播报",
+      "hot": 369,
+      "timestamp": 1783474137000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzfsu5107701.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzfsu5107701.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "美国10年期国债期货下跌7个基点，30年期国债期货下跌12个基点。",
+      "author": "滚动播报",
+      "hot": 370,
+      "timestamp": 1783490547000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8290435.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8290435.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "台风在广西停留26小时，造成降雨时间长、雨量大、致灾性强",
+      "author": "界面新闻",
+      "hot": 370,
+      "timestamp": 1783458865000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvaw8432032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvaw8432032.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "奈飞、迪士尼、YouTube有意竞标世界杯美国地区转播权。",
+      "author": "滚动播报",
+      "hot": 373,
+      "timestamp": 1783488215000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8265693.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8265693.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "特朗普公开点名给巴洛贡吹红牌的巴西裁判：查查他的过去，这个裁判非常可疑",
+      "author": "红星新闻",
+      "hot": 373,
+      "timestamp": 1783448074000,
+      "url": "https://news.sina.com.cn/w/2026-07-07/doc-inifyquw8380665.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-07/doc-inifyquw8380665.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "勒庞：我将在不佩戴电子脚镣的情况下参加2027年总统选举。",
+      "author": "滚动播报",
+      "hot": 374,
+      "timestamp": 1783476604000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyq8222100.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyq8222100.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "巴基斯坦机场管理局：K2航空公司一架波音737客机上共有5名机组人员。",
+      "author": "滚动播报",
+      "hot": 374,
+      "timestamp": 1783480428000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8312365.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8312365.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "Wolfspeed对纳微半导体提起专利侵权诉讼。",
+      "author": "滚动播报",
+      "hot": 375,
+      "timestamp": 1783485791000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8235100.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8235100.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "美国军方：伊朗的公然侵略毫无正当理由、极度危险，且明显违反停火协议。",
+      "author": "滚动播报",
+      "hot": 376,
+      "timestamp": 1783487825000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8261726.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8261726.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "巴西食糖行业警告称，美国加征关税会威胁巴西东北部食糖出口。",
+      "author": "滚动播报",
+      "hot": 383,
+      "timestamp": 1783481075000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8318917.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8318917.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "市场资讯：美国空袭目标是防空系统和无人机基地。",
+      "author": "滚动播报",
+      "hot": 403,
+      "timestamp": 1783489589000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8280470.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8280470.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "巴西国家石油局（ANP）：根据协议，巴西石油公司将向该局支付 3 亿雷亚尔。",
+      "author": "滚动播报",
+      "hot": 412,
+      "timestamp": 1783478572000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmys5015251.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmys5015251.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "7月8日美股成交额前20：闪迪数据中心业务营收同比增长645%",
+      "author": "环球市场播报",
+      "hot": 445,
+      "timestamp": 1783486560000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshq4939963.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzshq4939963.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "平陆运河全线通水后首遭特大洪灾",
+      "author": "界面新闻",
+      "hot": 452,
+      "timestamp": 1783459174000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvat1637501.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvat1637501.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "上半年销量同比增逾八成 新能源重卡竞争转向",
+      "author": "滚动播报",
+      "hot": 455,
+      "timestamp": 1783491853000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshq4984959.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshq4984959.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "委内瑞拉两场强震遇难人数已升至 3685 人。",
+      "author": "滚动播报",
+      "hot": 458,
+      "timestamp": 1783489168000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8275936.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8275936.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "纽约曼哈顿中城一栋高楼出现结构险情 周边人员紧急疏散",
+      "author": "滚动播报",
+      "hot": 463,
+      "timestamp": 1783486395000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1466218.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshi1466218.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "美伊时隔9天再起冲突",
+      "author": "滚动播报",
+      "hot": 464,
+      "timestamp": 1783488955000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshn8184158.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshn8184158.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "广西贵港向全市高中配送生活物资 各校饮水餐食正常",
+      "author": "央视",
+      "hot": 478,
+      "timestamp": 1783471400000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inifzfss8303378.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inifzfss8303378.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "广西因灾死亡6人失联11人，紧急转移安置13万人",
+      "author": "北京日报客户端",
+      "hot": 482,
+      "timestamp": 1783460456000,
+      "url": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvat1614004.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-07/doc-inifyvat1614004.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "布伦特原油日内涨5%，现报75.62美元/桶。",
+      "author": "滚动播报",
+      "hot": 483,
+      "timestamp": 1783480205000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8310022.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzmyn8310022.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "国际奥委会：暂时解除对俄奥委会的禁赛",
+      "author": "央视",
+      "hot": 486,
+      "timestamp": 1783463960000,
+      "url": "https://news.sina.com.cn/w/2026-07-07/doc-inifyzkr1580813.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-07/doc-inifyzkr1580813.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "埃克森美孚预计二季度油价将带来37亿美元收益增量",
+      "author": "滚动播报",
+      "hot": 496,
+      "timestamp": 1783485396000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8230819.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inifzshk8230819.shtml"
+    }
+  ]
+}
