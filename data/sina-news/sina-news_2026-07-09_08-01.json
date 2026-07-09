@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-09T00:01:27.352Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "7月9日外盘头条：美国对伊朗发动新一轮空袭 Meta市值反超特斯拉 OpenAI发布GPT-Live语音模型",
+      "author": "环球市场播报",
+      "hot": 135,
+      "timestamp": 1783575870000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4555442.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4555442.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "伊朗外长：将以行动对特朗普言论作出回应",
+      "author": "央视",
+      "hot": 140,
+      "timestamp": 1783570820000,
+      "url": "https://news.sina.com.cn/w/2026-07-09/doc-inihcqxm1516691.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-09/doc-inihcqxm1516691.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "场面混乱！阿根廷、埃及球迷赛后爆发冲突，双方互掷啤酒等杂物",
+      "author": "新浪新闻综合",
+      "hot": 147,
+      "timestamp": 1783500905000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inifzwqh8291099.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inifzwqh8291099.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "特朗普要求全面切断与西班牙贸易",
+      "author": "界面新闻",
+      "hot": 147,
+      "timestamp": 1783527385000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihatty8008612.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihatty8008612.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "报道：美财政部等将向特朗普提交西班牙商品清单 供其考虑禁运",
+      "author": "环球市场播报",
+      "hot": 152,
+      "timestamp": 1783555655000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckru4781073.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckru4781073.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "可用B-52太少 空射核导弹都没法测试了",
+      "author": "观察者网",
+      "hot": 159,
+      "timestamp": 1783527659000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihatty8014196.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihatty8014196.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美国10年期国债中标收益率创2025年以来新高",
+      "author": "环球市场播报",
+      "hot": 160,
+      "timestamp": 1783562245000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxq7929987.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxq7929987.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美国称正对伊朗发动新一轮空袭，特朗普宣布临时协议“结束”",
+      "author": "环球市场播报",
+      "hot": 166,
+      "timestamp": 1783575133000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4550462.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4550462.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "荷兰大臣在华：同中方合作良好，希望解决安世半导体问题",
+      "author": "观察者网",
+      "hot": 167,
+      "timestamp": 1783502948000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihaawk4833165.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihaawk4833165.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "特朗普在北约峰会期间的讲话要点",
+      "author": "环球市场播报",
+      "hot": 168,
+      "timestamp": 1783562222000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxq7929814.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxq7929814.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "俄罗斯宣布实施柴油出口禁令",
+      "author": "央视",
+      "hot": 169,
+      "timestamp": 1783561673000,
+      "url": "https://news.sina.com.cn/w/2026-07-09/doc-inihckrs7980159.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-09/doc-inihckrs7980159.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "伊朗革命卫队称摧毁85处美军设施",
+      "author": "新华网",
+      "hot": 172,
+      "timestamp": 1783520411000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihapmx1448696.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihapmx1448696.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "特朗普北约峰会批评西班牙并重提格陵兰问题，后称联盟高度团结",
+      "author": "环球市场播报",
+      "hot": 173,
+      "timestamp": 1783567765000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfk8223779.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfk8223779.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "报道称霍尔木兹海峡油轮通行基本停止",
+      "author": "新浪新闻综合",
+      "hot": 174,
+      "timestamp": 1783547806000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihceir1543336.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihceir1543336.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "“太像猪鼻子” 宝马新X5外观引发群嘲，六成网友嫌丑！销量下滑，部分车型低至15万",
+      "author": "次世代车研所",
+      "hot": 179,
+      "timestamp": 1783534258000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-08/doc-inihaxzy4772535.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-08/doc-inihaxzy4772535.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "新华鲜报｜2025年度国家科学技术奖揭晓",
+      "author": "新华社",
+      "hot": 179,
+      "timestamp": 1783509527000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihaieh4808169.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihaieh4808169.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "乌克兰外长称打击俄后方目标已不再需要其他国家授权",
+      "author": "观察者网",
+      "hot": 180,
+      "timestamp": 1783526203000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihattv1408331.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihattv1408331.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "裁员10万人，大众汽车扛不住了",
+      "author": "市场资讯",
+      "hot": 186,
+      "timestamp": 1783523245000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihapmy8267306.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihapmy8267306.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "他原名荆涛，后改名矢板明夫搞“台独”，在台湾当街挨揍",
+      "author": "中国新闻网",
+      "hot": 193,
+      "timestamp": 1783528483000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihattw8240291.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihattw8240291.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "美联储官员警示可能需要调高利率的风险",
+      "author": "环球市场播报",
+      "hot": 203,
+      "timestamp": 1783568120000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfi1452583.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfi1452583.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "习近平：在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的讲话",
+      "author": "新华社",
+      "hot": 205,
+      "timestamp": 1783543626000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-08/doc-inihceir1470576.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-08/doc-inihceir1470576.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "大宗商品综述：中东紧张局势升级 油价飙升 黄金和铜下跌",
+      "author": "环球市场播报",
+      "hot": 209,
+      "timestamp": 1783574814000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4547866.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihczpn4547866.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "特朗普称“今夜可能再打伊朗”",
+      "author": "新华社",
+      "hot": 218,
+      "timestamp": 1783544979000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceis8270450.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceis8270450.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "中俄联演中方派出了哪些选手？",
+      "author": "央视军事微博",
+      "hot": 226,
+      "timestamp": 1783530755000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihatua4846581.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihatua4846581.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "活力中国调研行丨中国“药”从这里走向全球",
+      "author": "央视",
+      "hot": 232,
+      "timestamp": 1783545618000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihceiu8025007.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihceiu8025007.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "转移群众 抢修道路 广西抢险救灾持续进行",
+      "author": "央视",
+      "hot": 233,
+      "timestamp": 1783545971000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihceir1511494.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihceir1511494.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "新华社权威快报|陈立泉、贲德获国家最高科学技术奖",
+      "author": "新华社",
+      "hot": 235,
+      "timestamp": 1783509253000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihaiee8027892.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihaiee8027892.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "欧洲热销中国空调，澳学者质问“去风险”逻辑",
+      "author": "西部网",
+      "hot": 236,
+      "timestamp": 1783545533000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inihceiw4801297.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inihceiw4801297.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "美国队惨败出局，比利时首相：我不打算刺激特朗普",
+      "author": "北京日报客户端",
+      "hot": 236,
+      "timestamp": 1783526529000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihattw8197260.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihattw8197260.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "Meta市值反超特斯拉，AI支出疑虑拖累双股同跌",
+      "author": "环球市场播报",
+      "hot": 237,
+      "timestamp": 1783568187000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfn7845044.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfn7845044.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "空中客车上半年交付量增长15%至351架。",
+      "author": "滚动播报",
+      "hot": 243,
+      "timestamp": 1783554818000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inihckrp1524742.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-08/doc-inihckrp1524742.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "全世界哭笑不得，北约被骂懵，中国又躺枪",
+      "author": "牛弹琴",
+      "hot": 243,
+      "timestamp": 1783513284000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihaiee8082226.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihaiee8082226.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "午盘：美股跌幅扩大，道指下跌800点，布伦特原油突破80美元",
+      "author": "环球市场播报",
+      "hot": 246,
+      "timestamp": 1783555522000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckrq8311271.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckrq8311271.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "中国足球彩票胜负彩26091期欧洲四大机构最新数据(17:00)",
+      "author": "新浪彩票",
+      "hot": 254,
+      "timestamp": 1783519323000,
+      "url": "https://sports.sina.com.cn/l/2026-07-08/doc-inihapne4787888.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-08/doc-inihapne4787888.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "7月9日美股成交额前20：博通获苹果超300亿美元芯片大单",
+      "author": "环球市场播报",
+      "hot": 272,
+      "timestamp": 1783572833000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfk8296603.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcvfk8296603.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "中国足球彩票胜负彩26091期澳盘最新赔率(17:00)",
+      "author": "新浪彩票",
+      "hot": 273,
+      "timestamp": 1783519295000,
+      "url": "https://sports.sina.com.cn/l/2026-07-08/doc-inihapna8010427.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-08/doc-inihapna8010427.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "IMF下调世界经济增长预期，上调中国增长预期",
+      "author": "新华社",
+      "hot": 276,
+      "timestamp": 1783544543000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiu8011129.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiu8011129.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "广西贵港一学院上千学生被困，救援队自费约十万元购买救援设备转移受困者",
+      "author": "潇湘晨报",
+      "hot": 277,
+      "timestamp": 1783546953000,
+      "url": "https://news.sina.com.cn/s/2026-07-08/doc-inihceiu8040998.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-08/doc-inihceiu8040998.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "特朗普称伊朗人是“骗子”：不想再和他们浪费时间",
+      "author": "新浪新闻综合",
+      "hot": 298,
+      "timestamp": 1783540317000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihaxzy4862647.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihaxzy4862647.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "特朗普：如果必要，美军会打击伊朗更高级别的目标",
+      "author": "新浪新闻综合",
+      "hot": 299,
+      "timestamp": 1783546389000,
+      "url": "https://news.sina.com.cn/w/2026-07-08/doc-inihceiw4811423.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-08/doc-inihceiw4811423.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "国际排联宣布允许俄罗斯运动员重返比赛",
+      "author": "央视",
+      "hot": 301,
+      "timestamp": 1783561703000,
+      "url": "https://news.sina.com.cn/w/2026-07-09/doc-inihcqxn8222589.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-09/doc-inihcqxn8222589.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "4000公里，被缩短成上下班的寻常",
+      "author": "新浪新闻综合",
+      "hot": 306,
+      "timestamp": 1783545358000,
+      "url": "https://news.sina.com.cn/o/2026-07-08/doc-inihceiu8021969.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-08/doc-inihceiu8021969.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "贲德：攻坚克难 铸就国防“火眼金睛”",
+      "author": "央视",
+      "hot": 319,
+      "timestamp": 1783545771000,
+      "url": "https://news.sina.com.cn/c/2026-07-08/doc-inihceir1507803.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-08/doc-inihceir1507803.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "世界杯出局后首次更新，C罗社媒发文：葡萄牙永恒",
+      "author": "新浪新闻综合",
+      "hot": 324,
+      "timestamp": 1783575449000,
+      "url": "https://news.sina.com.cn/s/2026-07-09/doc-inihczpn4547921.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-09/doc-inihczpn4547921.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "美联储会议纪要：通胀担忧进一步加剧 少数官员认为6月有加息理由",
+      "author": "环球市场播报",
+      "hot": 327,
+      "timestamp": 1783563868000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxs4720051.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihcqxs4720051.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "炸弹卡车！歼16战斗机高清画面来了",
+      "author": "东部战区",
+      "hot": 343,
+      "timestamp": 1783523278000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihapmy8268041.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-08/doc-inihapmy8268041.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美联储6月会议纪要：通胀率进一步上升 远超长期目标",
+      "author": "央视",
+      "hot": 350,
+      "timestamp": 1783570852000,
+      "url": "https://news.sina.com.cn/w/2026-07-09/doc-inihcvfq4615695.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-09/doc-inihcvfq4615695.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "土耳其总统埃尔多安：与会盟国之间的团结在峰会上体现得十分明显。",
+      "author": "滚动播报",
+      "hot": 358,
+      "timestamp": 1783559953000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihcqxn8243808.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihcqxn8243808.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "特朗普：美国在人工智能领域领先。",
+      "author": "滚动播报",
+      "hot": 360,
+      "timestamp": 1783556622000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihckrp1551502.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihckrp1551502.shtml"
+    },
+    {
+      "id": "6744642",
+      "title": "瑞士央行行长：目前没有推出零售型中央银行数字货币的必要。",
+      "author": "滚动播报",
+      "hot": 361,
+      "timestamp": 1783560496000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihcqxq7916090.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-09/doc-inihcqxq7916090.shtml"
+    }
+  ]
+}
