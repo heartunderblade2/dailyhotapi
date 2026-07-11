@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-11T12:01:28.504Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "安徽省蚌埠市人民政府副市长吴永彬接受审查调查",
+      "author": "界面新闻",
+      "hot": 17,
+      "timestamp": 1783709434000,
+      "url": "https://news.sina.com.cn/c/2026-07-10/doc-inihinfx8412151.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-10/doc-inihinfx8412151.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "高市妹妹不美丽",
+      "author": "新民周刊",
+      "hot": 246,
+      "timestamp": 1783674445000,
+      "url": "https://news.sina.com.cn/w/2026-07-10/doc-inihhrai8346479.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-10/doc-inihhrai8346479.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "竞彩欧亚对照：蔚山现代存差异",
+      "author": "新浪彩票",
+      "hot": 842,
+      "timestamp": 1783761718000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzi8380474.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzi8380474.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
+      "author": "央视",
+      "hot": 844,
+      "timestamp": 1783789453000,
+      "url": "https://news.sina.com.cn/w/2026-07-11/doc-inihmrex8218235.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-11/doc-inihmrex8218235.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "AI“小登股”集体洗牌，是泡沫出清还是黄金坑？",
+      "author": "数据宝",
+      "hot": 859,
+      "timestamp": 1783774998000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmerf5076414.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmerf5076414.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "077期张世奇大乐透预测奖号：三区比分析",
+      "author": "新浪彩票",
+      "hot": 880,
+      "timestamp": 1783765221000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihkyia6696992.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihkyia6696992.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "7月11日美股成交额前20：Meta创2024年初以来最佳单周表现",
+      "author": "环球市场播报",
+      "hot": 881,
+      "timestamp": 1783745700000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6888600.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6888600.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美国原油期货结算价报每桶71.41美元，下跌67美分，跌幅0.93%。",
+      "author": "滚动播报",
+      "hot": 896,
+      "timestamp": 1783737059000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkccn6951061.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkccn6951061.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "市场消息：美国财政部以伊朗在霍尔木兹海峡发动袭击为由出台制裁措施。",
+      "author": "滚动播报",
+      "hot": 899,
+      "timestamp": 1783737138000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkcct5195748.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkcct5195748.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "亚马尔：我不怕法国队，该害怕的应该是他们，之前就被我们淘汰过",
+      "author": "新浪新闻综合",
+      "hot": 918,
+      "timestamp": 1783759867000,
+      "url": "https://news.sina.com.cn/zx/2026-07-11/doc-inihktzm5127840.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-11/doc-inihktzm5127840.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "伊朗议长放话：不会投降，若美方“背信”将全面防御",
+      "author": "滚动播报",
+      "hot": 935,
+      "timestamp": 1783731784000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkccn6892637.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-11/doc-inihkccn6892637.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "涉北京、河北、浙江、福建、台湾等地，今年首个暴雨红警来了",
+      "author": "长安街知事",
+      "hot": 950,
+      "timestamp": 1783769163000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihkyie3509578.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihkyie3509578.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "美联储半年度政策报告：关税和中东推高通胀，AI成双刃剑",
+      "author": "第一财经",
+      "hot": 958,
+      "timestamp": 1783757129000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihktzh3517204.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihktzh3517204.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "苹果起诉 OpenAI 及两名前员工窃取商业机密",
+      "author": "环球市场播报",
+      "hot": 962,
+      "timestamp": 1783746908000,
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "北京今天中雨转暴雨，局地大暴雨伴有雷电",
+      "author": "北京发布",
+      "hot": 997,
+      "timestamp": 1783762430000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihktzi8390937.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihktzi8390937.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "独家卫星图像曝光：伊朗或在重建多处核设施",
+      "author": "环球市场播报",
+      "hot": 1005,
+      "timestamp": 1783741187000,
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkimn3632620.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkimn3632620.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "不签5年2.51亿顶薪？！名记：文班正考虑降薪续约 帮球队保持灵活",
+      "author": "NBA综合",
+      "hot": 1016,
+      "timestamp": 1783740553000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-11/doc-inihkimn3628038.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-11/doc-inihkimn3628038.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "浙江提升防台风应急响应至Ⅰ级",
+      "author": "界面新闻",
+      "hot": 1081,
+      "timestamp": 1783768206000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihkyia6724671.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihkyia6724671.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "[小炮APP]专家马芝壤让球推荐：早场韩K2串关",
+      "author": "新浪彩票",
+      "hot": 1083,
+      "timestamp": 1783779152000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihmeqy6686831.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihmeqy6686831.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "世界杯仅剩6队，AI冠军预测还剩几支？5票巴西已出局，算法名单大洗牌",
+      "author": "新浪财经",
+      "hot": 1106,
+      "timestamp": 1783769507000,
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-07-11/doc-inihkyia6735795.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/shenji/2026-07-11/doc-inihkyia6735795.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "68.75米！严子怡钻石联赛四连冠",
+      "author": "澎湃新闻",
+      "hot": 1109,
+      "timestamp": 1783776418000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmerc8259032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmerc8259032.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "世界杯情报：阿根廷对战心理优势明显7战不败",
+      "author": "新浪彩票",
+      "hot": 1176,
+      "timestamp": 1783755473000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzm5058682.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzm5058682.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "从“世界工厂”到“世界景点”，中国生产线为何成国际游客打卡地？",
+      "author": "新浪新闻综合",
+      "hot": 1183,
+      "timestamp": 1783720959000,
+      "url": "https://news.sina.com.cn/o/2026-07-10/doc-inihisps6968520.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-10/doc-inihisps6968520.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "18岁362天！亚马尔成为世界杯历史上第三年轻出战1/4决赛的球员",
+      "author": "新浪新闻综合",
+      "hot": 1189,
+      "timestamp": 1783741784000,
+      "url": "https://news.sina.com.cn/w/2026-07-11/doc-inihkimr5128072.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-11/doc-inihkimr5128072.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "全球首次火箭网系回收！本周，我国实现多项重大突破",
+      "author": "央视新闻客户端",
+      "hot": 1218,
+      "timestamp": 1783756525000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihktzm5072446.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihktzm5072446.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "残阵瑞士难成梅西卫冕阻碍 数据示阿根廷小胜",
+      "author": "新浪彩票",
+      "hot": 1218,
+      "timestamp": 1783771916000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihmerc8261178.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihmerc8261178.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "证监会确定12个课题研究方向 透露出下一步资本市场改革发展重点",
+      "author": "上海证券报",
+      "hot": 1231,
+      "timestamp": 1783743577000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihkimk6873437.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihkimk6873437.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "特朗普：美方已同意继续和伊朗谈判",
+      "author": "央视",
+      "hot": 1233,
+      "timestamp": 1783723293000,
+      "url": "https://news.sina.com.cn/w/2026-07-10/doc-inihiwvt8335062.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-10/doc-inihiwvt8335062.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "局地有暴雨、大暴雨！中央气象台三预警齐发",
+      "author": "央视",
+      "hot": 1286,
+      "timestamp": 1783754041000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihkptk3601427.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihkptk3601427.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "世界杯情报：英格兰右路防线无人可用成隐患",
+      "author": "新浪彩票",
+      "hot": 1289,
+      "timestamp": 1783755473000,
+      "url": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzh3502101.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-11/doc-inihktzh3502101.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "视频丨交火对峙暂缓 口水战却未停 美伊谈判事宜频现“罗生门”",
+      "author": "央视新闻客户端",
+      "hot": 1297,
+      "timestamp": 1783755035000,
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihktzh3498155.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-11/doc-inihktzh3498155.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美记：文班抢先于Shams完成爆料 马刺CEO&GM&主帅昨日飞抵巴黎",
+      "author": "NBA综合",
+      "hot": 1325,
+      "timestamp": 1783740497000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-11/doc-inihkimn3627667.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-11/doc-inihkimn3627667.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
+      "author": "环球市场播报",
+      "hot": 1340,
+      "timestamp": 1783736676000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8412592.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8412592.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "浙江最高风速已达13级，全省9级风以上站点27个",
+      "author": "界面新闻",
+      "hot": 1354,
+      "timestamp": 1783782355000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkww6582132.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkww6582132.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "台风“巴威”即将登陆，为何浙江温州街头仍艳阳高照？千万别被今天的太阳骗了",
+      "author": "极目新闻",
+      "hot": 1389,
+      "timestamp": 1783717724000,
+      "url": "https://news.sina.com.cn/zx/2026-07-10/doc-inihispv8391701.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-10/doc-inihispv8391701.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "“巴威”再度增强为强台风级，最新路径公布",
+      "author": "央视新闻",
+      "hot": 1396,
+      "timestamp": 1783762710000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktze6800976.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktze6800976.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "全球媒体聚焦｜外媒：中国航天计划重大突破",
+      "author": "滚动播报",
+      "hot": 1417,
+      "timestamp": 1783764985000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkyif8300361.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkyif8300361.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "今年首个暴雨红色预警！多地停航停运停课 台风“巴威”最新路径→",
+      "author": "央视",
+      "hot": 1506,
+      "timestamp": 1783780173000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmkwz8234006.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmkwz8234006.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "“周星驰不演，电影要凉”《功夫女足》上映首日口碑两极分化，10亿票房才能回本？",
+      "author": "市场资讯",
+      "hot": 1552,
+      "timestamp": 1783786562000,
+      "url": "https://finance.sina.com.cn/china/gncj/2026-07-11/doc-inihmkxc5088732.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/gncj/2026-07-11/doc-inihmkxc5088732.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "最高等级！今年首个暴雨红色预警发布！台风“巴威”路径又变了，为何又减弱为台风级？专家解析",
+      "author": "每日经济新闻",
+      "hot": 1568,
+      "timestamp": 1783779542000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmkwz8226293.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmkwz8226293.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "替补登场失误致丢球！拉门斯成1974年以来世界杯首位门将",
+      "author": "新浪新闻综合",
+      "hot": 1590,
+      "timestamp": 1783748716000,
+      "url": "https://news.sina.com.cn/w/2026-07-11/doc-inihkptk3569943.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-11/doc-inihkptk3569943.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "中国科协新一届领导机构选举产生，王光谦当选主席",
+      "author": "界面新闻",
+      "hot": 1621,
+      "timestamp": 1783779358000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmeqy6688629.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmeqy6688629.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "又减弱为台风，“巴威”强度为何反复横跳？专家分析",
+      "author": "界面新闻",
+      "hot": 1694,
+      "timestamp": 1783780406000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkwy3342249.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkwy3342249.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "CBA冠军上海队球员怀特塞德兴奋剂违规",
+      "author": "界面新闻",
+      "hot": 1727,
+      "timestamp": 1783724619000,
+      "url": "https://news.sina.com.cn/c/2026-07-10/doc-inihiwvv5133344.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-10/doc-inihiwvv5133344.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "7月11日收盘：科技股推动美股收高，标普指数本周上涨1.2%",
+      "author": "环球市场播报",
+      "hot": 1783,
+      "timestamp": 1783742914000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8365703.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8365703.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "今年首个暴雨红色预警！多地停航停运停课 台风“巴威”最新路径",
+      "author": "央视",
+      "hot": 1920,
+      "timestamp": 1783781030000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkxc5010143.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmkxc5010143.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "百亿资金持续加仓！段永平：泡泡玛特10年升值空间大于茅台",
+      "author": "券商中国",
+      "hot": 1921,
+      "timestamp": 1783755120000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-11/doc-inihktzm5053558.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-07-11/doc-inihktzm5053558.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "美官员称伊朗私下就近期袭击商船认错",
+      "author": "新华社",
+      "hot": 1950,
+      "timestamp": 1783767163000,
+      "url": "https://news.sina.com.cn/w/2026-07-11/doc-inihkyie3492267.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-11/doc-inihkyie3492267.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "大摩、瑞银上调中国股票配置价值！下半年外资集体押注中国AI主线！",
+      "author": "证券市场周刊",
+      "hot": 1968,
+      "timestamp": 1783774606000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-11/doc-inihmera3425417.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-11/doc-inihmera3425417.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "英媒：获“压倒性支持”，伯纳姆距离接任英国首相仅一步之遥",
+      "author": "环球网",
+      "hot": 2017,
+      "timestamp": 1783754171000,
+      "url": "https://news.sina.com.cn/w/2026-07-11/doc-inihkptp5151550.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-11/doc-inihkptp5151550.shtml"
+    }
+  ]
+}
