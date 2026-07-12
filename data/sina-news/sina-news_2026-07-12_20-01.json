@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-12T12:01:31.988Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "阿根廷先下一城！麦卡头球破门，梅西送助攻独享世界杯助攻王",
+      "author": "新浪新闻综合",
+      "hot": 583,
+      "timestamp": 1783847664000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpcha6011430.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpcha6011430.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "伊朗称以实力掌控维护霍尔木兹海峡",
+      "author": "央视",
+      "hot": 592,
+      "timestamp": 1783867803000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihppvz7917384.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihppvz7917384.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "新浪彩票名家大乐透第26078期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 600,
+      "timestamp": 1783870119000,
+      "url": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpucx7808135.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpucx7808135.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "25岁南非国脚去世，于近日刚刚参加完美加墨世界杯，出战117分钟",
+      "author": "极目新闻",
+      "hot": 632,
+      "timestamp": 1783841133000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihnwye6089370.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihnwye6089370.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "莫兰特谈新队友：他们喜欢激怒对手 阿夫迪亚是其中的佼佼者",
+      "author": "NBA综合",
+      "hot": 643,
+      "timestamp": 1783837876000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-12/doc-inihnwyi7947760.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-12/doc-inihnwyi7947760.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "伊朗打击美国在中东地区目标，伊朗议长：要么信守承诺，要么付出代价",
+      "author": "观察者网",
+      "hot": 677,
+      "timestamp": 1783876196000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpucz4634817.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpucz4634817.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "血染赛场！梅西比赛中眼眶受伤出血，在场边接受了队医治疗",
+      "author": "新浪新闻综合",
+      "hot": 683,
+      "timestamp": 1783853797000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpiqa2709655.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpiqa2709655.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "国际足联：英格兰挪威比赛中足球未触碰线缆",
+      "author": "新华社",
+      "hot": 698,
+      "timestamp": 1783845757000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchf7902556.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchf7902556.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "宗申动力：筹划重大资产置换暨关联交易仍在推进中",
+      "author": "滚动播报",
+      "hot": 716,
+      "timestamp": 1783870425000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihpucz4587034.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihpucz4587034.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "2026暑期档单日大盘票房破3亿",
+      "author": "界面新闻",
+      "hot": 717,
+      "timestamp": 1783804401000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmzuq6371656.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmzuq6371656.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "市场消息：美军发动打击，布什尔省一处军事设施遭袭。",
+      "author": "滚动播报",
+      "hot": 726,
+      "timestamp": 1783846283000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihpcha5999430.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihpcha5999430.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "[小炮APP]专家张然竞彩推荐：韩K联2串1",
+      "author": "新浪彩票",
+      "hot": 758,
+      "timestamp": 1783869791000,
+      "url": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpuec2896393.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpuec2896393.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "委内瑞拉强震遇难人数上升至4333人",
+      "author": "央视",
+      "hot": 765,
+      "timestamp": 1783832182000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihnhan6350141.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihnhan6350141.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "上海闵行区一门面店发生火灾，未造成人员伤亡",
+      "author": "界面新闻",
+      "hot": 766,
+      "timestamp": 1783863022000,
+      "url": "https://news.sina.com.cn/c/2026-07-12/doc-inihppvy2650202.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-12/doc-inihppvy2650202.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美军本周第三次打击伊朗140个军事目标",
+      "author": "新华国际",
+      "hot": 771,
+      "timestamp": 1783857099000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqc7923718.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqc7923718.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "战舰云集 列阵海天——大图直击中俄“海上联合-2026”联合演习海上演练阶段精彩瞬间",
+      "author": "新华社",
+      "hot": 778,
+      "timestamp": 1783849042000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-12/doc-inihpcha6023041.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-12/doc-inihpcha6023041.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "双王加冕！梅西10助独享世界杯历史助攻王，21球领跑历史射手王",
+      "author": "新浪新闻综合",
+      "hot": 785,
+      "timestamp": 1783847744000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchf7937756.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchf7937756.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "哈兰德回应挪威淘汰：我想让挪威在世界足球版图上占有一席之地，并让我们成为世界最强的球队之一",
+      "author": "新浪新闻综合",
+      "hot": 790,
+      "timestamp": 1783851036000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchi4755275.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpchi4755275.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "水利部7月12日升级发布洪水黄色预警",
+      "author": "新浪新闻综合",
+      "hot": 809,
+      "timestamp": 1783866286000,
+      "url": "https://news.sina.com.cn/c/2026-07-12/doc-inihppvw5897075.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-12/doc-inihppvw5897075.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "[小炮APP]竞彩情报：布兰伤兵满营仨主力缺席",
+      "author": "新浪彩票",
+      "hot": 842,
+      "timestamp": 1783841817000,
+      "url": "https://sports.sina.com.cn/l/2026-07-12/doc-inihnwyi7991651.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-12/doc-inihnwyi7991651.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "克罗地亚多地突发山火 科尔丘拉岛火势猛烈",
+      "author": "央视",
+      "hot": 859,
+      "timestamp": 1783837529000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihnssm8053801.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihnssm8053801.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "哈兰德赛后发声 打进8强已是收获满满",
+      "author": "新京报",
+      "hot": 860,
+      "timestamp": 1783852166000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpche2825525.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpche2825525.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "伊朗伊斯兰议会议长：要么信守承诺，要么付出代价",
+      "author": "新华国际",
+      "hot": 868,
+      "timestamp": 1783860568000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqc7965418.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqc7965418.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "世界杯四强对阵:法国面对苦主 英格兰暗藏隐患",
+      "author": "新浪彩票",
+      "hot": 873,
+      "timestamp": 1783864437000,
+      "url": "https://sports.sina.com.cn/l/2026-07-12/doc-inihppvz7879076.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-12/doc-inihppvz7879076.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "联播+｜跨越600年 扬帆再远航",
+      "author": "央视",
+      "hot": 880,
+      "timestamp": 1783868086000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-12/doc-inihppwf3018718.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-12/doc-inihppwf3018718.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "知名主持人喷好难看！周星驰《功夫女足》口碑两极分化：有人力挺 有人吐槽烂片",
+      "author": "快科技",
+      "hot": 886,
+      "timestamp": 1783814580000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhar8098856.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhar8098856.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "AI时代的“卖铲人”，终于轮到有色金属了？",
+      "author": "21世纪经济报道",
+      "hot": 901,
+      "timestamp": 1783802815000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihmvnu3267093.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihmvnu3267093.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "世界杯4强全部产生：法国vs西班牙、英格兰vs阿根廷（附比赛时间）",
+      "author": "红星新闻",
+      "hot": 905,
+      "timestamp": 1783857046000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihpipy5958576.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihpipy5958576.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "国家海洋预报台7月12日08时发布风暴潮黄色警报。",
+      "author": "滚动播报",
+      "hot": 911,
+      "timestamp": 1783843864000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnwym4792555.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnwym4792555.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "消息人士：阿曼就霍尔木兹海峡航运航线提出一项协议。",
+      "author": "滚动播报",
+      "hot": 932,
+      "timestamp": 1783824848000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnnkp8076290.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnnkp8076290.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "拾光纪·习主席用这8个字形容中纳合作",
+      "author": "人民网",
+      "hot": 935,
+      "timestamp": 1783802777000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-11/doc-inihmvnu3266791.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-11/doc-inihmvnu3266791.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "[小炮APP]专家张然竞彩推荐：瑞典超2串1",
+      "author": "新浪彩票",
+      "hot": 939,
+      "timestamp": 1783869791000,
+      "url": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpuec2896396.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-12/doc-inihpuec2896396.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "全球媒体聚焦 | 外媒聚焦中国火箭“网系回收”",
+      "author": "海外网",
+      "hot": 943,
+      "timestamp": 1783802894000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmvnx5016738.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmvnx5016738.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "是绝杀吗？！第112分钟，阿尔瓦雷斯破门！阿根廷2-1领先瑞士",
+      "author": "新浪新闻综合",
+      "hot": 945,
+      "timestamp": 1783856036000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihpiqa2727808.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihpiqa2727808.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "“450美元一份”，世界杯赛场草皮开售",
+      "author": "新华国际",
+      "hot": 1011,
+      "timestamp": 1783857367000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpipy5961147.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpipy5961147.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "超级IPO来了！长鑫科技下周申购，A股怎么走？",
+      "author": "市场资讯",
+      "hot": 1028,
+      "timestamp": 1783859225000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-12/doc-inihpipy5975587.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-12/doc-inihpipy5975587.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "湖南常德回应“一国企董事长在办公室收礼”：情况属实，免职",
+      "author": "21世纪经济报道",
+      "hot": 1051,
+      "timestamp": 1783868627000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihppwf3021303.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihppwf3021303.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "GPT-5.6发布之际 马斯克与奥特曼隔空互怼",
+      "author": "滚动播报",
+      "hot": 1112,
+      "timestamp": 1783819930000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnhaq3131012.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnhaq3131012.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "伊朗打击美国在中东地区目标",
+      "author": "新华社",
+      "hot": 1210,
+      "timestamp": 1783852014000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpche2824468.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpche2824468.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+      "author": "观察者网",
+      "hot": 1249,
+      "timestamp": 1783879561000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpuec2937174.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpuec2937174.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "“神算子”贝克汉姆上线！预测世界杯四强全命中，英格兰、阿根廷、西班牙、法国一个没错",
+      "author": "新浪财经",
+      "hot": 1270,
+      "timestamp": 1783868410000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihppvz7923466.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-12/doc-inihppvz7923466.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "经济日报：资本市场要当好未来产业助推器",
+      "author": "滚动播报",
+      "hot": 1301,
+      "timestamp": 1783835833000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihnssh6185628.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihnssh6185628.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "伊朗称打击约旦哈桑王子空军基地，回应美军空袭",
+      "author": "央视",
+      "hot": 1303,
+      "timestamp": 1783855079000,
+      "url": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqa2719846.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-12/doc-inihpiqa2719846.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "人形机器人给猪做了手术，但“主刀者”还是人类医生",
+      "author": "第一财经网",
+      "hot": 1343,
+      "timestamp": 1783805546000,
+      "url": "https://news.sina.com.cn/o/2026-07-11/doc-inihmzuv4912087.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-11/doc-inihmzuv4912087.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "北京市解除暴雨红色预警",
+      "author": "北京日报客户端",
+      "hot": 1495,
+      "timestamp": 1783846188000,
+      "url": "https://news.sina.com.cn/c/2026-07-12/doc-inihpchf7914887.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-12/doc-inihpchf7914887.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "台风来前杭州出现粉紫色天空",
+      "author": "新浪新闻综合",
+      "hot": 1501,
+      "timestamp": 1783800310000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmvnu3247230.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmvnu3247230.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "数百亲友送别高善文博士：周小川、易纲、张晓慧、廖岷、陆磊均以花圈致哀",
+      "author": "市场资讯",
+      "hot": 1548,
+      "timestamp": 1783811232000,
+      "url": "https://finance.sina.com.cn/china/2026-07-11/doc-inihmzuq6426018.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/china/2026-07-11/doc-inihmzuq6426018.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "上海机场开启抗风模式 大风中绑完飞机绑舷梯",
+      "author": "看看新闻KNEWS",
+      "hot": 1572,
+      "timestamp": 1783804021000,
+      "url": "https://news.sina.com.cn/c/2026-07-11/doc-inihmvnu3275859.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-11/doc-inihmvnu3275859.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美军发起新一轮对伊打击 伊朗打击美在中东目标回应",
+      "author": "新华社",
+      "hot": 1575,
+      "timestamp": 1783862888000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihppwc4637498.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihppwc4637498.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "继续冲冠！英格兰淘汰挪威挺进世界杯半决赛，近3届2次晋级4强",
+      "author": "新浪新闻综合",
+      "hot": 1582,
+      "timestamp": 1783843241000,
+      "url": "https://news.sina.com.cn/o/2026-07-12/doc-inihnwyi8008048.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-12/doc-inihnwyi8008048.shtml"
+    }
+  ]
+}
