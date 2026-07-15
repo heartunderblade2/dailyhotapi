@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-15T00:01:37.760Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "伊朗革命卫队：对巴林及科威特的美军基地实施打击",
+      "author": "央视",
+      "hot": 176,
+      "timestamp": 1784085460000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihvivv7936176.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihvivv7936176.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "市场消息：伊朗阿巴斯港传来爆炸声。",
+      "author": "滚动播报",
+      "hot": 180,
+      "timestamp": 1784085957000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvivv7944334.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvivv7944334.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "无锡商业大厦大东方股份有限公司2026年半年度业绩预减公告",
+      "author": "上海证券报",
+      "hot": 181,
+      "timestamp": 1784088494000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-15/doc-inihvivu1196298.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-15/doc-inihvivu1196298.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "250万人签名请愿将阿根廷逐出世界杯，斯卡洛尼强硬回击",
+      "author": "新浪新闻综合",
+      "hot": 185,
+      "timestamp": 1784027644000,
+      "url": "https://news.sina.com.cn/zx/2026-07-14/doc-inihtvuk5309768.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-14/doc-inihtvuk5309768.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "花滑名将申雪、赵宏博入职哈工大",
+      "author": "新京报",
+      "hot": 187,
+      "timestamp": 1784051448000,
+      "url": "https://news.sina.com.cn/o/2026-07-14/doc-inihunsf8004574.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-14/doc-inihunsf8004574.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "又一轮“霍尔木兹决战”，打响了",
+      "author": "新浪新闻综合",
+      "hot": 189,
+      "timestamp": 1784052591000,
+      "url": "https://news.sina.com.cn/w/2026-07-14/doc-inihunsa5235783.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-14/doc-inihunsa5235783.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "美联储主席沃什淡化CPI数据影响 重申抗通胀和对央行改革决心",
+      "author": "环球市场播报",
+      "hot": 193,
+      "timestamp": 1784078667000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7989570.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7989570.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "IBM营收不及预期 股价创至少1968年以来最大跌幅 CEO承认“执行不到位”",
+      "author": "环球市场播报",
+      "hot": 196,
+      "timestamp": 1784076248000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpu5067180.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpu5067180.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "SK海力士ADR期权在美国开始交易 初期逾三分之二成交量来自短期合约",
+      "author": "环球市场播报",
+      "hot": 198,
+      "timestamp": 1784077241000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1194054.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1194054.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "“味精大王”业绩预喜，股价却跌停！公司最新回应",
+      "author": "每日经济新闻",
+      "hot": 198,
+      "timestamp": 1784088621000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpu5077551.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpu5077551.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "午盘：美股涨跌不一 IBM重挫逾25%",
+      "author": "环球市场播报",
+      "hot": 200,
+      "timestamp": 1784073999000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8064527.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8064527.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "哑火了，奥利塞对阵西班牙多项数据挂零被提前换下",
+      "author": "新浪新闻综合",
+      "hot": 200,
+      "timestamp": 1784092449000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihvivv7995381.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihvivv7995381.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "巴菲特，开始“清仓”自己",
+      "author": "新浪新闻综合",
+      "hot": 201,
+      "timestamp": 1784093304000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihvqct7899034.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihvqct7899034.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "习近平《在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的讲话》单行本出版",
+      "author": "新华社",
+      "hot": 207,
+      "timestamp": 1784063950000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-14/doc-inihusyc8051795.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-14/doc-inihusyc8051795.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "特朗普：伊朗或被添加到可能通过的对俄制裁法案中",
+      "author": "环球市场播报",
+      "hot": 210,
+      "timestamp": 1784078270000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8306644.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8306644.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
+      "author": "环球市场播报",
+      "hot": 211,
+      "timestamp": 1784078720000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8309733.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8309733.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "台风“巴威”是否可能再次登陆东北？专家分析",
+      "author": "观察者网",
+      "hot": 213,
+      "timestamp": 1784071304000,
+      "url": "https://news.sina.com.cn/c/2026-07-14/doc-inihuxfy1244609.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-14/doc-inihuxfy1244609.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "竞彩大势：法国难胜西班牙 吉奥里主场值得高看",
+      "author": "新浪彩票",
+      "hot": 217,
+      "timestamp": 1784015246000,
+      "url": "https://sports.sina.com.cn/l/2026-07-14/doc-inihtmei4137876.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-14/doc-inihtmei4137876.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "单刀破门，波罗当选法国vs西班牙全场最佳球员",
+      "author": "新浪新闻综合",
+      "hot": 222,
+      "timestamp": 1784092904000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihvqcn8142909.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihvqcn8142909.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "7月15日热门中概股涨跌不一 小鹏汽车涨3.28%，百度跌3.23%",
+      "author": "环球市场播报",
+      "hot": 229,
+      "timestamp": 1784089172000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1204142.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1204142.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "IBM业绩预警股价重挫，引发软件板块连锁暴跌",
+      "author": "环球市场播报",
+      "hot": 229,
+      "timestamp": 1784086749000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1176538.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1176538.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "2026世界人工智能大会看点速览",
+      "author": "新华社",
+      "hot": 238,
+      "timestamp": 1784064180000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-14/doc-inihusxy5219473.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-14/doc-inihusxy5219473.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "曾获1冠1亚！27岁姆巴佩生涯参加3次世界杯，本届首次无缘决赛！",
+      "author": "新浪新闻综合",
+      "hot": 242,
+      "timestamp": 1784093694000,
+      "url": "https://news.sina.com.cn/zx/2026-07-15/doc-inihvqcq4928726.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-15/doc-inihvqcq4928726.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "SK海力士在美国上市的第三个交易日大涨",
+      "author": "环球市场播报",
+      "hot": 243,
+      "timestamp": 1784073315000,
+      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5175248.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5175248.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "周星驰严选，谁在制造“功夫女足”？",
+      "author": "每日经济新闻",
+      "hot": 245,
+      "timestamp": 1784089696000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpx8034986.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpx8034986.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "香港39岁女警员从高处坠亡，警方回应：深表难过，现场未检获遗书",
+      "author": "红星新闻",
+      "hot": 250,
+      "timestamp": 1784055601000,
+      "url": "https://news.sina.com.cn/s/2026-07-14/doc-inihunsf8064999.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-14/doc-inihunsf8064999.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "普京誓言：“成倍报复”",
+      "author": "新浪新闻综合",
+      "hot": 253,
+      "timestamp": 1784032279000,
+      "url": "https://news.sina.com.cn/w/2026-07-14/doc-inihtvuc4204053.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-14/doc-inihtvuc4204053.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "亚马逊、微软领衔数据中心需求狂潮，运营商寻求数十亿美元融资",
+      "author": "环球市场播报",
+      "hot": 258,
+      "timestamp": 1784087248000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7957886.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7957886.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "伊朗开始接回此前因导航信号受干扰遭阿联酋扣押的55名渔民。",
+      "author": "滚动播报",
+      "hot": 264,
+      "timestamp": 1784073280000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-14/doc-inihuxfy1277939.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-14/doc-inihuxfy1277939.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "央行：将开展14000亿元买断式逆回购操作",
+      "author": "第一财经",
+      "hot": 264,
+      "timestamp": 1784050139000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihunry8429832.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihunry8429832.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "8.66元/股！长鑫科技，发行价出炉！周四打新，中签率可期",
+      "author": "券商中国",
+      "hot": 268,
+      "timestamp": 1784069260000,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-14/doc-inihuxfw5140253.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/zqgd/2026-07-14/doc-inihuxfw5140253.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "吉林梅河口紧急通告：全员居家，非必要不外出",
+      "author": "北京日报客户端",
+      "hot": 285,
+      "timestamp": 1784088255000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpx7970525.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihvcpx7970525.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "“请愿将阿根廷逐出世界杯人数已超500万”冲上热搜，阿根廷主帅曾回应：绝不存在任何偏袒，VAR时代偏袒“难如登天”",
+      "author": "观察者网",
+      "hot": 291,
+      "timestamp": 1784052903000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihunse1249084.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihunse1249084.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "伊朗称美进入正式战争状态",
+      "author": "界面新闻",
+      "hot": 300,
+      "timestamp": 1784059324000,
+      "url": "https://news.sina.com.cn/w/2026-07-14/doc-inihusya1203823.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-14/doc-inihusya1203823.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "董卿老公“坑”了中信证券？真相远比八卦更复杂",
+      "author": "21世纪经济报道",
+      "hot": 304,
+      "timestamp": 1784064151000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihusya1252088.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihusya1252088.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美债在美国CPI降温后走强 市场将7月美联储加息押注下调至20%",
+      "author": "环球市场播报",
+      "hot": 307,
+      "timestamp": 1784074096000,
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfz8065986.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfz8065986.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "7月15日美股成交额前20：IBM业绩预警股价重挫逾25%",
+      "author": "环球市场播报",
+      "hot": 325,
+      "timestamp": 1784090683000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7995999.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7995999.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "国务院重磅发文：房子被定位为“大宗耐用消费品”，还关系居民增收！专业机构最新解读",
+      "author": "每日经济新闻",
+      "hot": 327,
+      "timestamp": 1784070986000,
+      "url": "https://news.sina.com.cn/c/2026-07-14/doc-inihuxfw5152753.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-14/doc-inihuxfw5152753.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "午后A股暴力拉升，沪指3887点→3967点！原因找到了",
+      "author": "每日经济新闻",
+      "hot": 334,
+      "timestamp": 1784043209000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuhkh1229500.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuhkh1229500.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "伊拉克总理：美军今年9月30日前须撤出伊拉克",
+      "author": "央视",
+      "hot": 335,
+      "timestamp": 1784077473000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihvcps8291081.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihvcps8291081.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "罕见！以色列紧急指令：禁止美军加油机在最大机场降落",
+      "author": "每日经济新闻",
+      "hot": 351,
+      "timestamp": 1784067860000,
+      "url": "https://news.sina.com.cn/w/2026-07-14/doc-inihuxfw5125843.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-14/doc-inihuxfw5125843.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "周三重要财经信息提醒（以下均为北京时间）",
+      "author": "滚动播报",
+      "hot": 359,
+      "timestamp": 1784096998000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqcs1169676.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqcs1169676.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "澳大利亚、日本、美国与美国铝业宣布西澳镓项目完成最终投资审批。",
+      "author": "滚动播报",
+      "hot": 359,
+      "timestamp": 1784090796000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqct7866235.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqct7866235.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "优步洽谈以每股约40欧元的价格收购外卖企业Delivery Hero。",
+      "author": "滚动播报",
+      "hot": 365,
+      "timestamp": 1784077104000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcps8296863.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcps8296863.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "伊朗媒体：安迪梅什克发生的爆炸并非遭袭击所致。",
+      "author": "滚动播报",
+      "hot": 365,
+      "timestamp": 1784078186000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpw1207484.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpw1207484.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "事关国民经济、金融数据今天将举行两场重磅发布会",
+      "author": "滚动播报",
+      "hot": 366,
+      "timestamp": 1784095499000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqcs1152111.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvqcs1152111.shtml"
+    },
+    {
+      "id": "6744642",
+      "title": "美国炮弹击中伊朗格什姆岛目标。",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1784082253000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpx8033406.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpx8033406.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "以军称在加沙地带北部打死多名哈马斯武装人员",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1784079436000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpw1222595.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvcpw1222595.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "特朗普：海湾国家建议投资（美国）而非收费。",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1784074108000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihuxfu8405750.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihuxfu8405750.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "伊朗革命卫队：打击了位于巴林和科威特境内的敌方武器及零部件存放设施。",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1784083720000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvivq8214614.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihvivq8214614.shtml"
+    }
+  ]
+}
