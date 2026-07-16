@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-16T00:01:35.793Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "习近平上海行丨城市更新点亮旧社区 新方式共筑“心”家园——走进黄浦区半淞园路街道市民新村居民区",
+      "author": "央视",
+      "hot": 278,
+      "timestamp": 1784147333000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-15/doc-inihwvwy4761088.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-15/doc-inihwvwy4761088.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "60年等待继续！不敌卫冕冠军，英格兰近3届世界杯第2次止步半决赛",
+      "author": "新浪新闻综合",
+      "hot": 279,
+      "timestamp": 1784178725000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7960609.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7960609.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "特朗普谈伊朗：我不喜欢设定最后期限。",
+      "author": "滚动播报",
+      "hot": 294,
+      "timestamp": 1784168981000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1174085.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1174085.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "比尔·西蒙斯：如果绿军像英格兰那样输球 我估计得去医院急救了",
+      "author": "NBA综合",
+      "hot": 295,
+      "timestamp": 1784179425000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-16/doc-inihxtat7972561.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-16/doc-inihxtat7972561.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "美联储主席沃什国会首秀 一文总结五大要点",
+      "author": "环球市场播报",
+      "hot": 295,
+      "timestamp": 1784174182000,
+      "url": "https://finance.sina.com.cn/world/2026-07-16/doc-inihxtas1115175.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-16/doc-inihxtas1115175.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "7月16日美股成交额前20：传苹果寻求收购AI芯片企业",
+      "author": "滚动播报",
+      "hot": 305,
+      "timestamp": 1784177610000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtat7941757.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtat7941757.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "俄称“志愿联盟”国家在乌克兰部署兵力不可接受",
+      "author": "滚动播报",
+      "hot": 305,
+      "timestamp": 1784159581000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihxhnw1164605.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-15/doc-inihxhnw1164605.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "中央气象台7月16日06时继续发布高温黄色预警。",
+      "author": "滚动播报",
+      "hot": 317,
+      "timestamp": 1784181515000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxxkq1100997.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxxkq1100997.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "马来西亚总理表示将驱逐涉网校案以色列人",
+      "author": "北京日报客户端",
+      "hot": 319,
+      "timestamp": 1784159131000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnu4625538.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnu4625538.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "芯片板块全线跳水，美光大跌9%",
+      "author": "环球市场播报",
+      "hot": 322,
+      "timestamp": 1784163229000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnx7998809.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnx7998809.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "利空突袭，暴跌超25%！美股科技“老登”崩了！美联储主席，最新发声",
+      "author": "券商中国",
+      "hot": 323,
+      "timestamp": 1784101325000,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-15/doc-inihvumq1086650.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/bxjj/2026-07-15/doc-inihvumq1086650.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "特朗普：伊朗非常渴望达成和解。",
+      "author": "滚动播报",
+      "hot": 326,
+      "timestamp": 1784173015000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1098058.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1098058.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "美国副总统万斯：当伊朗违反承诺时，我们做出回应。",
+      "author": "滚动播报",
+      "hot": 332,
+      "timestamp": 1784165726000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1126976.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1126976.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "伊朗议长称为维护国家利益必须时刻做好准备",
+      "author": "滚动播报",
+      "hot": 341,
+      "timestamp": 1784170754000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7973965.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7973965.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "美军：对伊朗发动打击。",
+      "author": "滚动播报",
+      "hot": 342,
+      "timestamp": 1784171648000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7986926.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7986926.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "温州明珠七号邮轮侧翻，当地应急局称已成立指挥部处置，船上无人，超2亿元打造、曾闲置14年",
+      "author": "红星新闻",
+      "hot": 342,
+      "timestamp": 1784113710000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihvytk4896753.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihvytk4896753.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "中央气象台7月16日06时继续发布暴雨黄色预警。",
+      "author": "滚动播报",
+      "hot": 343,
+      "timestamp": 1784181516000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxxkr7876941.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxxkr7876941.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "特朗普：我们需要加快潜艇的建造速度。",
+      "author": "滚动播报",
+      "hot": 344,
+      "timestamp": 1784175384000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1133247.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1133247.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "白宫发言人谈伊朗：我们可以随时随地发动攻击。",
+      "author": "滚动播报",
+      "hot": 346,
+      "timestamp": 1784165840000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnus4575670.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnus4575670.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "美中央司令部：针对伊朗发起当日第二波打击行动",
+      "author": "滚动播报",
+      "hot": 349,
+      "timestamp": 1784172160000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7993241.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7993241.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "美国对伊朗发动更多空袭 特朗普重申德黑兰寻求会谈",
+      "author": "环球市场播报",
+      "hot": 351,
+      "timestamp": 1784174571000,
+      "url": "https://finance.sina.com.cn/world/2026-07-16/doc-inihxtaq4524092.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-16/doc-inihxtaq4524092.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "信任碎了，钱包空了，车也消失了 网红二手车商崩盘，帅车加盟模式遭质疑",
+      "author": "每日经济新闻",
+      "hot": 352,
+      "timestamp": 1784173776000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuv7972627.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuv7972627.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "乌克兰即将卸任的国防部长费奥多罗夫称，乌克兰成功完成了弹道导弹试射。",
+      "author": "滚动播报",
+      "hot": 352,
+      "timestamp": 1784171379000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1207028.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1207028.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "伊朗南部城市阿瓦士传出爆炸声，爆炸确切起因与事发地点暂未查明。",
+      "author": "滚动播报",
+      "hot": 354,
+      "timestamp": 1784172230000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuq7856569.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuq7856569.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "特朗普倾向扩大美国对伊朗军事行动，方案含出动地面部队、轰炸秘密核设施",
+      "author": "滚动播报",
+      "hot": 355,
+      "timestamp": 1784173583000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtan7738276.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtan7738276.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "法尔斯通讯社消息：伊朗军方在阿巴斯港击落美军 “卢卡斯” 无人机。",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1784163819000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1231501.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1231501.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "以色列国防军称在黎巴嫩南部打死三名真主党武装人员。",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1784168037000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1161955.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1161955.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "美国驻伊拉克埃尔比勒领馆附近传出爆炸声",
+      "author": "滚动播报",
+      "hot": 358,
+      "timestamp": 1784169696000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuq7834812.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuq7834812.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "美国铸币局即将开始生产一款刻有特朗普肖像的1美元硬币。",
+      "author": "滚动播报",
+      "hot": 363,
+      "timestamp": 1784173653000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1107678.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1107678.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "韩国总统李在明售卖自住房，挂牌价格据报为1317万元",
+      "author": "新京报",
+      "hot": 363,
+      "timestamp": 1784145067000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihwvxa1190192.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihwvxa1190192.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+      "author": "新京报",
+      "hot": 366,
+      "timestamp": 1784149115000,
+      "url": "https://news.sina.com.cn/o/2026-07-15/doc-inihxaey1124204.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-15/doc-inihxaey1124204.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "特朗普谈伊朗：我们能否与伊朗达成和解，届时自有分晓。",
+      "author": "滚动播报",
+      "hot": 366,
+      "timestamp": 1784173046000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1098491.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1098491.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "摩根大通CEO戴蒙警告Mythos不宜广泛开放 称相关风险是“现实问题”",
+      "author": "滚动播报",
+      "hot": 369,
+      "timestamp": 1784175518000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1135088.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1135088.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "伊朗科纳拉克附近传出两声爆炸声响。",
+      "author": "滚动播报",
+      "hot": 369,
+      "timestamp": 1784174307000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtat7893360.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtat7893360.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "美国军方：此次打击目标为伊朗用于威胁自由通行霍尔木兹海峡船只的军事设施。",
+      "author": "滚动播报",
+      "hot": 370,
+      "timestamp": 1784171671000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnus4628931.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnus4628931.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "夜盘期货收盘",
+      "author": "滚动播报",
+      "hot": 375,
+      "timestamp": 1784163605000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1228251.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1228251.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "7月15日增减持汇总：中创智领披露增持情况，科源制药等5股拟减持（表）",
+      "author": "新浪证券",
+      "hot": 379,
+      "timestamp": 1784151740000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-15/doc-inihxaew4680655.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-15/doc-inihxaew4680655.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "就在明天，长鑫科技打新攻略来了",
+      "author": "21世纪经济报道",
+      "hot": 391,
+      "timestamp": 1784159216000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhnx7923032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhnx7923032.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "伊朗前总统内贾德现身全国大会，打破“软禁”传闻，伊朗总统称做好奔赴前线战斗的准备，不怕殉难",
+      "author": "极目新闻",
+      "hot": 394,
+      "timestamp": 1784132682000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihwrre1139973.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihwrre1139973.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "拉美正“前所未有地加速右转”",
+      "author": "新华社",
+      "hot": 397,
+      "timestamp": 1784155663000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihxaew4723883.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihxaew4723883.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "梅西，还是梅西！劳塔罗，也是罗！",
+      "author": "津云",
+      "hot": 409,
+      "timestamp": 1784179311000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihxtat7970506.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihxtat7970506.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "巴菲特点评当前市场：“全民热衷投机博弈，价值标的难觅踪迹”",
+      "author": "环球市场播报",
+      "hot": 410,
+      "timestamp": 1784163499000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4684712.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4684712.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "特朗普：伊朗不久前打来电话，他们想达成协议",
+      "author": "新浪新闻综合",
+      "hot": 419,
+      "timestamp": 1784152848000,
+      "url": "https://news.sina.com.cn/zx/2026-07-15/doc-inihxaew4693379.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-15/doc-inihxaew4693379.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "新浪彩票双色球名家第26081期推荐汇总",
+      "author": "新浪彩票",
+      "hot": 421,
+      "timestamp": 1784126597000,
+      "url": "https://sports.sina.com.cn/l/2026-07-15/doc-inihwmii7925648.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-15/doc-inihwmii7925648.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "外媒：疑似违反欧盟规定，泽连斯基在欧洲“完全拧开瓶盖”举动引发网友热议",
+      "author": "环球网",
+      "hot": 436,
+      "timestamp": 1784158141000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnw1132680.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnw1132680.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "国产氦气技术破局 重构全球氦气供应链",
+      "author": "证券时报",
+      "hot": 443,
+      "timestamp": 1784172117000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuq7831765.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuq7831765.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "市场消息：特朗普政府官员拟延长燃料运输豁免政策。",
+      "author": "滚动播报",
+      "hot": 447,
+      "timestamp": 1784164833000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7891634.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuv7891634.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "不到24小时，特朗普170度大转弯了",
+      "author": "牛弹琴",
+      "hot": 449,
+      "timestamp": 1784102350000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-15/doc-inihvumn4864339.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-15/doc-inihvumn4864339.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "特朗普：美国很快将针对“非法”卡车司机采取行动。",
+      "author": "滚动播报",
+      "hot": 474,
+      "timestamp": 1784175800000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1138984.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1138984.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "国际油价15日微涨",
+      "author": "滚动播报",
+      "hot": 488,
+      "timestamp": 1784176995000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1155880.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxtas1155880.shtml"
+    }
+  ]
+}
