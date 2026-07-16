@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-16T12:01:40.767Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "习近平上海行丨城市更新点亮旧社区 新方式共筑“心”家园——走进黄浦区半淞园路街道市民新村居民区",
+      "author": "央视",
+      "hot": 278,
+      "timestamp": 1784147333000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-15/doc-inihwvwy4761088.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-15/doc-inihwvwy4761088.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "60年等待继续！不敌卫冕冠军，英格兰近3届世界杯第2次止步半决赛",
+      "author": "新浪新闻综合",
+      "hot": 279,
+      "timestamp": 1784178725000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7960609.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7960609.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "特朗普谈伊朗：我不喜欢设定最后期限。",
+      "author": "滚动播报",
+      "hot": 294,
+      "timestamp": 1784168981000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1174085.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxnuu1174085.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "法尔斯通讯社消息：伊朗军方在阿巴斯港击落美军 “卢卡斯” 无人机。",
+      "author": "滚动播报",
+      "hot": 357,
+      "timestamp": 1784163819000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1231501.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihxhnw1231501.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "贴脸开大！战胜英格兰后，阿根廷球员举横幅：马岛是阿根廷的",
+      "author": "新浪新闻综合",
+      "hot": 1716,
+      "timestamp": 1784186216000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtaq4591917.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtaq4591917.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "怒吼的队长，微笑的斯卡洛尼，燃尽的阿根廷，决赛！",
+      "author": "澎湃新闻",
+      "hot": 1725,
+      "timestamp": 1784194316000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihycsn1194444.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihycsn1194444.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "DeepSeek首轮融资落地，总额510亿元腾讯、宁德时代等参投，梁文锋持84%股权",
+      "author": "成都商报",
+      "hot": 1804,
+      "timestamp": 1784151018000,
+      "url": "https://news.sina.com.cn/s/2026-07-15/doc-inihxaew4662814.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-15/doc-inihxaew4662814.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "英格兰众名宿“公审”主帅图赫尔，鲁尼：领先后“主动投降”，球队为退守付出代价",
+      "author": "成都商报",
+      "hot": 1840,
+      "timestamp": 1784188851000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxxkk7767183.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxxkk7767183.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "凯恩：我们谈过很多次不能死守的话题，但说起来容易做起来难",
+      "author": "新浪新闻综合",
+      "hot": 1913,
+      "timestamp": 1784183890000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihxxkn4479217.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihxxkn4479217.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "央行：继续实施好适度宽松的货币政策 加大逆周期和跨周期调节力度",
+      "author": "证券日报",
+      "hot": 1962,
+      "timestamp": 1784182025000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihxxkk7697505.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihxxkk7697505.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "股海导航_2026年7月16日_沪深股市公告与交易提示",
+      "author": "股市直击",
+      "hot": 1972,
+      "timestamp": 1784186047000,
+      "url": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihxxkk7738229.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihxxkk7738229.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "詹杜联手？杜兰特：我俩都40岁了 我不觉得那会发生",
+      "author": "NBA综合",
+      "hot": 1979,
+      "timestamp": 1784190222000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-16/doc-inihycsp7885355.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-16/doc-inihycsp7885355.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "一见·再看基层党建，读懂总书记的关切",
+      "author": "人民日报客户端",
+      "hot": 2010,
+      "timestamp": 1784193400000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihycsn1174151.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihycsn1174151.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "恒大民族歌舞团有限公司主动申请破产清算！总资产仅3.55万元，负债约1.85亿元",
+      "author": "红星新闻",
+      "hot": 2014,
+      "timestamp": 1784145499000,
+      "url": "https://news.sina.com.cn/s/2026-07-15/doc-inihwvwy4744740.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-15/doc-inihwvwy4744740.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "巴新政府关闭“驻巴新台北经济办事处”，外交部：高度赞赏",
+      "author": "澎湃新闻",
+      "hot": 2061,
+      "timestamp": 1784215810000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihyuqf8045671.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihyuqf8045671.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "贵但没用！英格兰身价13.1亿法国15.3亿排世界杯前二，均无缘决赛",
+      "author": "新浪新闻综合",
+      "hot": 2112,
+      "timestamp": 1784179411000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihxtas1196018.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihxtas1196018.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "发现目标，战鹰迅疾出击！",
+      "author": "东部战区",
+      "hot": 2158,
+      "timestamp": 1784165166000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-16/doc-inihxnus4569774.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-16/doc-inihxnus4569774.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "美媒：美国防部正研究对古巴军事行动方案",
+      "author": "新华社",
+      "hot": 2159,
+      "timestamp": 1784200343000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihyiyk1210364.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihyiyk1210364.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "盈利预增超21倍，国产机器人龙头埃斯顿大爆发？",
+      "author": "21世纪经济报道",
+      "hot": 2191,
+      "timestamp": 1784159112000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhns7857017.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhns7857017.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "英媒:若FIFA介入调查 英格兰1.3亿巨星或遭追加禁赛",
+      "author": "新浪体育讯",
+      "hot": 2252,
+      "timestamp": 1784199417000,
+      "url": "https://sports.sina.com.cn/g/2026-07-16/doc-inihyiym7968923.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/g/2026-07-16/doc-inihyiym7968923.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "租金房价比持续抬升 一线城市租赁资产价值显现",
+      "author": "证券时报",
+      "hot": 2294,
+      "timestamp": 1784172140000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnus4608515.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnus4608515.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "中菲联手捣毁电诈窝点并遣返6名犯罪嫌疑人",
+      "author": "北京日报客户端",
+      "hot": 2350,
+      "timestamp": 1784219286000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihyuqa4428737.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihyuqa4428737.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "7月16日收盘：美股收高道指涨150点 谷歌等大型科技股推动股指上扬",
+      "author": "环球市场播报",
+      "hot": 2377,
+      "timestamp": 1784175023000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtas1128289.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtas1128289.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "韩国总统李在明，九折价卖首尔房产，卖出后名下将无房产",
+      "author": "每日经济新闻",
+      "hot": 2443,
+      "timestamp": 1784158013000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnx7911380.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihxhnx7911380.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "特朗普：伊朗允许一名被扣留美国公民离境",
+      "author": "新华社",
+      "hot": 2450,
+      "timestamp": 1784189914000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihycsp7879667.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihycsp7879667.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "上半年GDP同比增长4.7% 新动能贡献率超四成",
+      "author": "证券时报",
+      "hot": 2517,
+      "timestamp": 1784171992000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuv7955270.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihxnuv7955270.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "伊朗外交部称伊方目前没有谈判计划 专注于防御",
+      "author": "央视",
+      "hot": 2549,
+      "timestamp": 1784165236000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihxhnw1229726.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihxhnw1229726.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "就在明天，长鑫科技打新攻略来了",
+      "author": "21世纪经济报道",
+      "hot": 2572,
+      "timestamp": 1784159216000,
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhnx7923032.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-15/doc-inihxhnx7923032.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "A股跳水！原因找到了",
+      "author": "滚动播报",
+      "hot": 2580,
+      "timestamp": 1784217882000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihyuqf8094116.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihyuqf8094116.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "辽宁兴城一橡皮艇发生闪爆，致7人死亡1人失联",
+      "author": "界面新闻",
+      "hot": 2589,
+      "timestamp": 1784224385000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyyvy4437607.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyyvy4437607.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "阿根廷队击败英格兰队后，球员举横幅宣示马岛主权，或将遭到国际足联处罚",
+      "author": "成都商报",
+      "hot": 2661,
+      "timestamp": 1784191550000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsh7672057.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsh7672057.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "阿根廷能否卫冕？世界杯仅意大利和巴西两队卫冕成功，距今已64年",
+      "author": "新浪新闻综合",
+      "hot": 2664,
+      "timestamp": 1784180293000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtas1211301.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtas1211301.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "竞彩大势：桑托斯全身而退 西雅图取得完胜",
+      "author": "新浪彩票",
+      "hot": 2742,
+      "timestamp": 1784188500000,
+      "url": "https://sports.sina.com.cn/l/2026-07-16/doc-inihxxkn4540381.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-16/doc-inihxxkn4540381.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "伊朗前总统内贾德否认与以色列情报机构存在联系",
+      "author": "新华网",
+      "hot": 2760,
+      "timestamp": 1784193354000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-16/doc-inihycsn1173172.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-16/doc-inihycsn1173172.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "图赫尔：进球之后我们就是无法控制住球，感觉像慢慢等死一样",
+      "author": "新浪新闻综合",
+      "hot": 2979,
+      "timestamp": 1784183928000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxxkn4490974.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxxkn4490974.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "英阿大战赛后双方球员爆发冲突，贝林厄姆疑拍打阿根廷球员巴尔科后脑勺，可能面临国际足联进一步调查及追罚",
+      "author": "红星新闻",
+      "hot": 3071,
+      "timestamp": 1784192430000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsp7927353.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsp7927353.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "美国人开始在阿里巴巴上买房：2万美元一套，超300万人围观",
+      "author": "新浪科技",
+      "hot": 3088,
+      "timestamp": 1784212304000,
+      "url": "https://finance.sina.com.cn/tob/2026-07-16/doc-inihyqhh1317882.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tob/2026-07-16/doc-inihyqhh1317882.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "不是输不起！英媒曝贝林厄姆动手原因：巴尔科赛后挑衅图赫尔",
+      "author": "成都商报",
+      "hot": 3226,
+      "timestamp": 1784214952000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyuqf8023376.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyuqf8023376.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "金色相框｜习近平在上海考察",
+      "author": "新华社",
+      "hot": 3264,
+      "timestamp": 1784208570000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihyqhi8013890.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihyqhi8013890.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美国宣布对部分巴西进口商品加征25%关税",
+      "author": "央视",
+      "hot": 3284,
+      "timestamp": 1784207139000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihyqhe4403471.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihyqhe4403471.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "“为什么我们要替别人去和中国作对呢”",
+      "author": "环球网",
+      "hot": 3329,
+      "timestamp": 1784192414000,
+      "url": "https://mil.news.sina.com.cn/2026-07-16/doc-inihycsp7926902.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/2026-07-16/doc-inihycsp7926902.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "英格兰门将在水瓶上“打小抄”记录对手罚点偏好，赛后被阿根廷队传看",
+      "author": "环球网",
+      "hot": 3408,
+      "timestamp": 1784209411000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyqhh1241172.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyqhh1241172.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "输球后被猛批！英格兰主教练：赛后会有上百万“教练”冒出来，但我是在场上需要做决定的那个人",
+      "author": "新京报",
+      "hot": 3484,
+      "timestamp": 1784191803000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsn1138050.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihycsn1138050.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "“老师就在旁边，孩子躺倒16分钟没打120” 12岁女孩体育课跑步猝死，家属质疑校方急救不力，要求追责被拒",
+      "author": "新浪新闻综合",
+      "hot": 3663,
+      "timestamp": 1784203189000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyiye7724180.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyiye7724180.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "英格兰领先后图赫尔连换两后卫摆铁桶，最终被阿根廷逆转",
+      "author": "新浪新闻综合",
+      "hot": 3778,
+      "timestamp": 1784179002000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7965564.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtat7965564.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "巴菲特点评当前市场：“全民热衷投机博弈，价值标的难觅踪迹”",
+      "author": "环球市场播报",
+      "hot": 3870,
+      "timestamp": 1784163499000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4684712.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4684712.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "尴尬！五角大楼发现：耗巨资建的弹药厂，两年了，一枚急需的炮弹没造出来……",
+      "author": "环球网",
+      "hot": 3888,
+      "timestamp": 1784145433000,
+      "url": "https://news.sina.com.cn/w/2026-07-15/doc-inihwvxc7975156.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-15/doc-inihwvxc7975156.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "拾光纪·习近平心系上海发展",
+      "author": "人民日报客户端",
+      "hot": 3998,
+      "timestamp": 1784208392000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihyqhh1234078.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-07-16/doc-inihyqhh1234078.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "“股神”巴菲特再谈股市赌场论！感叹谷歌“买晚了”",
+      "author": "第一财经",
+      "hot": 4017,
+      "timestamp": 1784188455000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihxxkq1207427.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihxxkq1207427.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "黄瑞雪同志因病离世",
+      "author": "新浪新闻综合",
+      "hot": 4297,
+      "timestamp": 1784218076000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8097992.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8097992.shtml"
+    }
+  ]
+}
