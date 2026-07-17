@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-17T00:01:29.021Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "亨利：英格兰退守变阵太早了，阿根廷能成世界冠军真是有原因的",
+      "author": "新浪新闻综合",
+      "hot": 24,
+      "timestamp": 1784180219000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtaq4585302.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihxtaq4585302.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "隆达股份聘任45岁李培为财务总监，副总经理顾振年薪最高96万，非独立董事浦迅瑜薪酬最低为24万",
+      "author": "新浪财经-鹰眼工作室",
+      "hot": 174,
+      "timestamp": 1784246449000,
+      "url": "https://finance.sina.com.cn/stock/aiassist/ggbd/2026-07-17/doc-inihzrts4322403.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/aiassist/ggbd/2026-07-17/doc-inihzrts4322403.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "午盘：美股涨跌不一 半导体板块拖累纳指下跌",
+      "author": "环球市场播报",
+      "hot": 251,
+      "timestamp": 1784246396000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7675920.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7675920.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "派15万地面部队推翻伊朗政权？万斯回应",
+      "author": "新浪新闻综合",
+      "hot": 259,
+      "timestamp": 1784202625000,
+      "url": "https://news.sina.com.cn/w/2026-07-16/doc-inihyiym8036599.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-16/doc-inihyiym8036599.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "绕开霍尔木兹：海湾国家加速修铁路，中企迎来新一波机遇",
+      "author": "第一财经网",
+      "hot": 260,
+      "timestamp": 1784237986000,
+      "url": "https://news.sina.com.cn/o/2026-07-16/doc-inihzfcu7718133.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-16/doc-inihzfcu7718133.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "20多天疯狂网购1700余单！收到后全部退货退款……男子被上海警方刑拘！",
+      "author": "新浪新闻综合",
+      "hot": 262,
+      "timestamp": 1784191027000,
+      "url": "https://news.sina.com.cn/s/2026-07-16/doc-inihycsh7665269.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-16/doc-inihycsh7665269.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "长鑫科技网上发行中签率刷新科创板历史纪录",
+      "author": "证券时报",
+      "hot": 264,
+      "timestamp": 1784263554000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-inihzvzn7492715.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-inihzvzn7492715.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "李小加：一个20%GDP的国家，占了全球70%股市市值，却集中在两只手数得过来的公司",
+      "author": "新浪证券",
+      "hot": 274,
+      "timestamp": 1784207020000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihyqhe4417449.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihyqhe4417449.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "伊朗伊斯兰共和国通讯社消息：伊朗南部布什赫尔传出爆炸声。",
+      "author": "滚动播报",
+      "hot": 285,
+      "timestamp": 1784259146000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8121116.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8121116.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "7月17日美股成交额前20：谷歌推迟发布Gemini旗舰模型",
+      "author": "环球市场播报",
+      "hot": 288,
+      "timestamp": 1784263838000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7424382.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7424382.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "深夜，猛烈抛售！存储芯片，全线大跌！巴菲特，罕见发声",
+      "author": "券商中国",
+      "hot": 289,
+      "timestamp": 1784241845000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1379058.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1379058.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "“美军考虑派数千人突袭古巴”，中方表态",
+      "author": "长安街知事",
+      "hot": 292,
+      "timestamp": 1784219055000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8068924.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8068924.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "白宫：正在监测农产品疫情。",
+      "author": "滚动播报",
+      "hot": 293,
+      "timestamp": 1784253260000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8170536.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8170536.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "股民索赔再传捷报，逾3000名投资者获一审胜诉",
+      "author": "21世纪经济报道",
+      "hot": 299,
+      "timestamp": 1784215455000,
+      "url": "https://news.sina.com.cn/s/2026-07-16/doc-inihyuqa4409632.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-16/doc-inihyuqa4409632.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "中央气象台解除高温黄色预警，继续发布暴雨、强对流天气预警",
+      "author": "北京日报客户端",
+      "hot": 303,
+      "timestamp": 1784230076000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyyvy4470504.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyyvy4470504.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "7月16日增减持汇总：雪龙集团等3股披露增持情况，首华燃气拟减持（表）",
+      "author": "新浪证券",
+      "hot": 312,
+      "timestamp": 1784238773000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihzmmx8107946.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihzmmx8107946.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "纳斯达克中国金龙指数收涨1.79%",
+      "author": "滚动播报",
+      "hot": 313,
+      "timestamp": 1784260803000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8145091.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8145091.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "三年前各投5000美元买入亚马逊和好市多，如今分别能赚多少钱？收益差距超乎你的想象",
+      "author": "环球市场播报",
+      "hot": 322,
+      "timestamp": 1784248831000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7564858.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7564858.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "95后“顶流”明星，下场创业当老板，其小红书粉丝近2500万，手握多个大牌代言",
+      "author": "每日经济新闻",
+      "hot": 323,
+      "timestamp": 1784262844000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-inihzrts4336489.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-inihzrts4336489.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "闪迪股价持续下跌的背后原因",
+      "author": "环球市场播报",
+      "hot": 330,
+      "timestamp": 1784248987000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrts4342401.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrts4342401.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "科恩称实体电子游戏销售对GME已“无关紧要”",
+      "author": "滚动播报",
+      "hot": 331,
+      "timestamp": 1784254768000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1286640.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1286640.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "ARDIAN：AXA将出售该公司全部10%的股份。",
+      "author": "滚动播报",
+      "hot": 334,
+      "timestamp": 1784248431000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1333137.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1333137.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "关闭信号的船只和阿曼海域转运显示霍尔木兹海峡通行仍在继续",
+      "author": "环球市场播报",
+      "hot": 334,
+      "timestamp": 1784266182000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4225886.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4225886.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "皮尤最新调查：中国全球好感度超美国，说明什么？",
+      "author": "环球网",
+      "hot": 334,
+      "timestamp": 1784225407000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyywa1344364.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyywa1344364.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "现货铂金下跌约3%，报1624.10美元/盎司。",
+      "author": "滚动播报",
+      "hot": 343,
+      "timestamp": 1784251159000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8139461.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8139461.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "社评：美国民调测出中国人气，是意外吗",
+      "author": "环球网",
+      "hot": 345,
+      "timestamp": 1784250540000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-17/doc-inihzrts4353399.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-17/doc-inihzrts4353399.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "外露式、半隐藏门把手集体回归 网友直言干得漂亮",
+      "author": "快科技",
+      "hot": 349,
+      "timestamp": 1784243918000,
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-16/doc-inihzmms7652311.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/discovery/2026-07-16/doc-inihzmms7652311.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "世界人工智能大会即将启幕，聚焦哪些关键问题？",
+      "author": "央视",
+      "hot": 350,
+      "timestamp": 1784246020000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihzmms7652466.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihzmms7652466.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
+      "author": "环球市场播报",
+      "hot": 351,
+      "timestamp": 1784246482000,
+      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "市场消息：阿根廷6月份基本预算赤字为6968.4亿阿根廷比索。",
+      "author": "滚动播报",
+      "hot": 355,
+      "timestamp": 1784249609000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1345873.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1345873.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "科威特称拦截32架“敌方”无人机",
+      "author": "滚动播报",
+      "hot": 356,
+      "timestamp": 1784260142000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1359813.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1359813.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "邮报揭秘英格兰队崩盘内幕：装备被盗、酒店停电、球员被晒伤",
+      "author": "新浪新闻综合",
+      "hot": 358,
+      "timestamp": 1784265538000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniiaair8069123.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniiaair8069123.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "谷歌据悉推迟发布Gemini 3.5 Pro 因持续提升模型编程能力",
+      "author": "滚动播报",
+      "hot": 362,
+      "timestamp": 1784258926000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8118249.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8118249.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "标准核能公司预计开盘价为14/15美元，IPO价格为15美元。",
+      "author": "滚动播报",
+      "hot": 362,
+      "timestamp": 1784246071000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihzmmw1438091.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-16/doc-inihzmmw1438091.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "伊朗被曝或要求也门胡塞武装封锁曼德海峡",
+      "author": "新华社",
+      "hot": 363,
+      "timestamp": 1784233426000,
+      "url": "https://news.sina.com.cn/zx/2026-07-16/doc-inihzfcw4444092.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-16/doc-inihzfcw4444092.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "恒指期货夜盘收跌0.30%，报24914.75点，低水93.85点。",
+      "author": "滚动播报",
+      "hot": 363,
+      "timestamp": 1784257204000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzn7503475.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzn7503475.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "市场消息：伊朗称特朗普关于被关押美国人获释的说法不实。",
+      "author": "滚动播报",
+      "hot": 366,
+      "timestamp": 1784256437000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzn7497776.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzn7497776.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "泽连斯基解除基辅及两州军政负责人职务",
+      "author": "滚动播报",
+      "hot": 367,
+      "timestamp": 1784257400000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1320872.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1320872.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "白宫新闻秘书：涉事提词器操作员将不再在白宫任职。",
+      "author": "滚动播报",
+      "hot": 371,
+      "timestamp": 1784252431000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1381027.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1381027.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "市场消息：沃伦要求特朗普披露其14亿美元加密货币资产信息。",
+      "author": "滚动播报",
+      "hot": 371,
+      "timestamp": 1784249944000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1349489.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1349489.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "市场消息：阿波罗公司押注墨西哥，计划斥资200亿美元进行私人信贷投资。",
+      "author": "滚动播报",
+      "hot": 373,
+      "timestamp": 1784251806000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrts4364109.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrts4364109.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "美国政府新规收紧国际学生等入境居留期限",
+      "author": "滚动播报",
+      "hot": 373,
+      "timestamp": 1784268640000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-iniiaaiq1356177.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-iniiaaiq1356177.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "市场消息：达索系统洽谈按大约20亿美元收购ArisGlobal。",
+      "author": "滚动播报",
+      "hot": 374,
+      "timestamp": 1784254471000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8189062.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtv8189062.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "白宫称伊朗仍在与美国对话",
+      "author": "滚动播报",
+      "hot": 374,
+      "timestamp": 1784254747000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1286388.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzs1286388.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "伊朗方面消息：伊朗南部阿巴斯港的多个区域遭“美国炮弹”袭击。",
+      "author": "滚动播报",
+      "hot": 377,
+      "timestamp": 1784255310000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8069342.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzvzt8069342.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "白宫新闻秘书：特朗普认为被控参与下注的提词器操作员“可耻”。",
+      "author": "滚动播报",
+      "hot": 378,
+      "timestamp": 1784252344000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1379416.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1379416.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "纽约联邦储备银行7月16日接受了提交至逆回购工具的全部1.25亿美元申请量。",
+      "author": "滚动播报",
+      "hot": 381,
+      "timestamp": 1784251109000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1362590.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtu1362590.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "Newell Brands目标价被瑞银从4.25美元上调至4.75美元/股。",
+      "author": "滚动播报",
+      "hot": 381,
+      "timestamp": 1784254347000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtq7613036.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-inihzrtq7613036.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "林园发声！A股，明天利好来了！PCB人气股002141连收2个涨停！",
+      "author": "市场资讯",
+      "hot": 382,
+      "timestamp": 1784221789000,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihyupy7745079.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihyupy7745079.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "黄瑞雪同志因病离世",
+      "author": "新浪新闻综合",
+      "hot": 384,
+      "timestamp": 1784218076000,
+      "url": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8097992.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-16/doc-inihyuqf8097992.shtml"
+    }
+  ]
+}
