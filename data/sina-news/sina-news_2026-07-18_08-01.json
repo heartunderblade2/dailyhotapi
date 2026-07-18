@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-18T00:01:25.933Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "Netflix股价再度承压 公司宣布进一步减少观看数据发布频率",
+      "author": "环球市场播报",
+      "hot": 135,
+      "timestamp": 1784329611000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8205456.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8205456.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "美国民调测出中国人气，是意外吗",
+      "author": "环球时报",
+      "hot": 167,
+      "timestamp": 1784274494000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniiahrh7389044.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniiahrh7389044.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "广东省深圳市委原常委、统战部部长王强接受审查调查",
+      "author": "界面新闻",
+      "hot": 171,
+      "timestamp": 1784309632000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniiccva1480521.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniiccva1480521.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "英国工党新党首伯纳姆发表讲话 提出施政计划",
+      "author": "央视",
+      "hot": 172,
+      "timestamp": 1784320856000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniickay1514874.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniickay1514874.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "落子青岛，刘强东“探海”版图再下一城",
+      "author": "每日经济新闻",
+      "hot": 173,
+      "timestamp": 1784343746000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8281591.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8281591.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "财政部等三部门调整部分电池消费税政策",
+      "author": "界面新闻",
+      "hot": 174,
+      "timestamp": 1784306175000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiccuw7372186.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiccuw7372186.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "历史首次，世界杯将颁发冠军戒指",
+      "author": "观察者网",
+      "hot": 174,
+      "timestamp": 1784277330000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniiahrp8138829.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniiahrp8138829.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "7月18日热门中概股普跌 台积电跌2.81%，阿里巴巴跌2.14%",
+      "author": "环球市场播报",
+      "hot": 174,
+      "timestamp": 1784348356000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4025727.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4025727.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "郑钦文止步WTA雅典站1/4决赛",
+      "author": "央视",
+      "hot": 174,
+      "timestamp": 1784343839000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusu1527228.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusu1527228.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "旧金山市长敦促加强自动驾驶监管 此前Waymo引发交通瘫痪",
+      "author": "环球市场播报",
+      "hot": 176,
+      "timestamp": 1784332114000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1474704.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1474704.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "美国企业加速扩展AI原生微软运营模式",
+      "author": "环球市场播报",
+      "hot": 177,
+      "timestamp": 1784331614000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8241453.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8241453.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "上海男子帮台湾游客拍照竟是失联的大伯！男子回应因帮忙拍照相认台湾亲戚：全家人都难以置信",
+      "author": "潇湘晨报",
+      "hot": 177,
+      "timestamp": 1784286988000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniianxe7480244.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniianxe7480244.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "万斯批评以色列有人想破坏美伊谈判，白宫：特朗普同意",
+      "author": "观察者网",
+      "hot": 180,
+      "timestamp": 1784287733000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniiatfa7358897.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniiatfa7358897.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "王沪宁对朝鲜进行正式友好访问",
+      "author": "新浪新闻综合",
+      "hot": 184,
+      "timestamp": 1784301731000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniiaxpf8246634.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniiaxpf8246634.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "Catherine Wood晋升为First Horizon银行商业银行策略主管",
+      "author": "环球市场播报",
+      "hot": 184,
+      "timestamp": 1784331353000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4095454.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4095454.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "亚马逊修复AWS账单系统故障 部分客户被误计数十亿美元费用",
+      "author": "环球市场播报",
+      "hot": 185,
+      "timestamp": 1784331766000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1468061.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1468061.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "特朗普怒批加拿大山火，称美国将把污染成本加入关税",
+      "author": "环球市场播报",
+      "hot": 186,
+      "timestamp": 1784353085000,
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "美军空袭之下，伊朗最贫困地区首当其冲",
+      "author": "观察者网",
+      "hot": 188,
+      "timestamp": 1784344481000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniicqks7404585.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniicqks7404585.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "“肌肉价值千金”：Life Time专家分享女性力量训练顶级建议",
+      "author": "环球市场播报",
+      "hot": 193,
+      "timestamp": 1784331495000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1462740.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1462740.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "伊朗外长谴责美军打击伊朗桥梁",
+      "author": "央视",
+      "hot": 193,
+      "timestamp": 1784344010000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniicyyt8304724.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniicyyt8304724.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "[新浪彩票]足彩26093期冷热指数：赫根坐和望赢",
+      "author": "新浪彩票",
+      "hot": 193,
+      "timestamp": 1784274933000,
+      "url": "https://sports.sina.com.cn/l/2026-07-17/doc-iniiahrn1320289.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-17/doc-iniiahrn1320289.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "美国宣布对巴西加征关税，中方表态",
+      "author": "北京日报客户端",
+      "hot": 195,
+      "timestamp": 1784303483000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniiaxpa4239050.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniiaxpa4239050.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "四人共同操纵股票获利近1.57亿元，被证监会罚没6.27亿",
+      "author": "界面新闻",
+      "hot": 197,
+      "timestamp": 1784315497000,
+      "url": "https://news.sina.com.cn/s/2026-07-17/doc-iniickay1452102.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-17/doc-iniickay1452102.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "美股早盘走低 芯片巨头恐遭遇去年以来最惨一周",
+      "author": "环球市场播报",
+      "hot": 208,
+      "timestamp": 1784330430000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8219976.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8219976.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "美国股市：标普500指数结束两周连涨 半导体指数跌入熊市",
+      "author": "环球市场播报",
+      "hot": 210,
+      "timestamp": 1784352559000,
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4073954.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4073954.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "冲击万亿元市值！长鑫科技扛起DRAM国产化大旗，中国大厂多久能追上三星、SK海力士？",
+      "author": "每日经济新闻",
+      "hot": 210,
+      "timestamp": 1784343817000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8302152.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8302152.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "据报Meta洽谈向Anthropic租赁算力 价值最高可达100亿美元",
+      "author": "环球市场播报",
+      "hot": 217,
+      "timestamp": 1784337123000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1426421.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1426421.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "新华社评论员：让人工智能不断增进全人类福祉、推动人类文明进步",
+      "author": "国防部网站",
+      "hot": 220,
+      "timestamp": 1784335318000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniicuss4140716.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniicuss4140716.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "独家视频丨习近平会见泰国总理：中方始终是泰方可信赖、可依靠的战略合作伙伴",
+      "author": "央视",
+      "hot": 232,
+      "timestamp": 1784328389000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniicusu1408160.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniicusu1408160.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "中国国防部：希望有关方客观理性看待中俄军事合作",
+      "author": "中国新闻网",
+      "hot": 237,
+      "timestamp": 1784304907000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-17/doc-iniiccuy4129870.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-17/doc-iniiccuy4129870.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元",
+      "author": "环球市场播报",
+      "hot": 239,
+      "timestamp": 1784350214000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4044907.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4044907.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "欧洲债市：受避险情绪推动 欧洲长期政府债券上涨",
+      "author": "环球市场播报",
+      "hot": 244,
+      "timestamp": 1784334386000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7353819.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7353819.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "原油期货大幅上涨 市场担忧美伊冲突进一步升级",
+      "author": "环球市场播报",
+      "hot": 255,
+      "timestamp": 1784339691000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8247660.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8247660.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "苹果、英伟达角逐全球市值最高企业宝座",
+      "author": "环球市场播报",
+      "hot": 264,
+      "timestamp": 1784333360000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1494247.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1494247.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "阿斯麦拟向员工发放2万欧元一次性奖励 AI需求旺盛推动业绩增长",
+      "author": "环球市场播报",
+      "hot": 265,
+      "timestamp": 1784332542000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4109416.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4109416.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "重庆彭水山体崩塌现场已搜救出18人，其中8人遇难，还有34人失联",
+      "author": "长安街知事",
+      "hot": 268,
+      "timestamp": 1784328212000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniicqkx8308189.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniicqkx8308189.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "尾盘：美股继续下滑 标普指数下跌1%",
+      "author": "环球市场播报",
+      "hot": 277,
+      "timestamp": 1784342819000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4097744.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4097744.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "特朗普发表全国电视讲话：“别人都在笑话我们国家”，“没播我讲话的媒体是骗子，都该被吊销营业执照”",
+      "author": "新浪新闻综合",
+      "hot": 281,
+      "timestamp": 1784288364000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniiatfh1355106.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniiatfh1355106.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "美伊互袭升级 重陷全面战争风险加剧",
+      "author": "环球市场播报",
+      "hot": 288,
+      "timestamp": 1784331247000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusq7317451.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusq7317451.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "SpaceX星舰V3第二次试射点火后紧急中止",
+      "author": "环球市场播报",
+      "hot": 288,
+      "timestamp": 1784332358000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4107330.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4107330.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "早盘：美股周五早盘继续下滑，纳指下跌逾400点",
+      "author": "环球市场播报",
+      "hot": 293,
+      "timestamp": 1784325862000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqkw1492069.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqkw1492069.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "独家视频丨习近平：世界人工智能合作组织在上海应运而生 将成为人工智能发展史上的一个重要里程碑",
+      "author": "央视",
+      "hot": 301,
+      "timestamp": 1784328193000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniicqkx8311095.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniicqkx8311095.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "加州亿万富翁税提案：美国第一大州经济将面临何种风险",
+      "author": "环球市场播报",
+      "hot": 302,
+      "timestamp": 1784333712000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1500197.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1500197.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话",
+      "author": "环球市场播报",
+      "hot": 305,
+      "timestamp": 1784344194000,
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "特朗普：别人都在笑话美国",
+      "author": "新京报",
+      "hot": 316,
+      "timestamp": 1784307060000,
+      "url": "https://news.sina.com.cn/o/2026-07-17/doc-iniiccuy4162787.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-17/doc-iniiccuy4162787.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "美国：伊拉克-叙利亚输油管道每日将输送200万桶原油",
+      "author": "环球市场播报",
+      "hot": 330,
+      "timestamp": 1784343240000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4102175.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4102175.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "白宫：特朗普同意万斯",
+      "author": "观察者网",
+      "hot": 334,
+      "timestamp": 1784287249000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniianxh4261063.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniianxh4261063.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "现货黄金突破4020美元/盎司，日内涨1.11%。",
+      "author": "滚动播报",
+      "hot": 340,
+      "timestamp": 1784332389000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-17/doc-iniicusv8254937.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-17/doc-iniicusv8254937.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "中国博主称世界杯现场遭一阿根廷球迷歧视辱骂，已向国际足联举报",
+      "author": "新京报",
+      "hot": 340,
+      "timestamp": 1784314684000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniiccuy4129054.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniiccuy4129054.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅",
+      "author": "环球市场播报",
+      "hot": 353,
+      "timestamp": 1784347712000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4019165.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4019165.shtml"
+    }
+  ]
+}
