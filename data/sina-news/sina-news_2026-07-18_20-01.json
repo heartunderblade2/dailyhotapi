@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-18T12:01:23.897Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "Netflix股价再度承压 公司宣布进一步减少观看数据发布频率",
+      "author": "环球市场播报",
+      "hot": 135,
+      "timestamp": 1784329611000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8205456.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8205456.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "山河无言，见证一群军人的默默坚守",
+      "author": "中国军网-解放军报",
+      "hot": 899,
+      "timestamp": 1784365525000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-18/doc-iniierwe7205317.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-18/doc-iniierwe7205317.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "谨慎看待A股实验动物概念",
+      "author": "证券时报",
+      "hot": 909,
+      "timestamp": 1784344099000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyn7299969.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyn7299969.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "世界杯情报：法国队近7任主教练告别战6次输球",
+      "author": "新浪彩票",
+      "hot": 926,
+      "timestamp": 1784367664000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwk1593528.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwk1593528.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "韩国散户“勇敢者游戏”终结：杠杆ETF遭平仓，监管紧急降杠杆",
+      "author": "21世纪经济报道",
+      "hot": 930,
+      "timestamp": 1784358194000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqp8312283.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqp8312283.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "SpaceX股价暴跌，市值较峰值蒸发超过1万亿美元。",
+      "author": "滚动播报",
+      "hot": 932,
+      "timestamp": 1784347257000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniiefhk7238032.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniiefhk7238032.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "你恐慌我贪婪！超2100亿元资金借道ETF进场扫货，这些板块正被疯狂抄底",
+      "author": "每日经济新闻",
+      "hot": 933,
+      "timestamp": 1784379426000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifamy7130021.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifamy7130021.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "本周十大牛熊股出炉",
+      "author": "第一财经",
+      "hot": 935,
+      "timestamp": 1784364223000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwk1525030.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwk1525030.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "特朗普怒批加拿大山火，称美国将把污染成本加入关税",
+      "author": "环球市场播报",
+      "hot": 948,
+      "timestamp": 1784353085000,
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "证监会：2024年以来累计查办247起财务造假案件",
+      "author": "上海证券报",
+      "hot": 960,
+      "timestamp": 1784342722000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniicyyq4096779.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniicyyq4096779.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "昨夜！美股芯片股，集体重挫！存储概念股，尾盘突变！",
+      "author": "券商中国",
+      "hot": 1005,
+      "timestamp": 1784361266000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwm8240634.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwm8240634.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话",
+      "author": "环球市场播报",
+      "hot": 1012,
+      "timestamp": 1784344194000,
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "独家视频丨习近平会见柬埔寨首相：中柬铁杆友谊初心如磐 历久弥坚",
+      "author": "央视",
+      "hot": 1015,
+      "timestamp": 1784363953000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniierwk1519144.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniierwk1519144.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "任泽平“付费群”风波追踪：独家回应称“因有人发不实信息导致解散”，2980元课程已下架",
+      "author": "滚动播报",
+      "hot": 1016,
+      "timestamp": 1784370939000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewea7154458.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewea7154458.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "中签率0.47%，已有人收到券商通知！长鑫科技上市扛起DRAM国产化大旗，中国大厂多久能追上三星、SK海力士？",
+      "author": "每日经济新闻",
+      "hot": 1021,
+      "timestamp": 1784369633000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiewee3913345.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiewee3913345.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "竞彩欧亚对照：法国盘口存在差异",
+      "author": "新浪彩票",
+      "hot": 1046,
+      "timestamp": 1784365552000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwh3982504.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwh3982504.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "郑钦文止步WTA雅典站1/4决赛",
+      "author": "央视",
+      "hot": 1053,
+      "timestamp": 1784343839000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusu1527228.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusu1527228.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "时政微纪录丨习近平总书记上海行",
+      "author": "央视",
+      "hot": 1133,
+      "timestamp": 1784380809000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniifanf8350025.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniifanf8350025.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "图解2026世界人工智能大会十大镇馆之宝",
+      "author": "澎湃新闻",
+      "hot": 1204,
+      "timestamp": 1784376353000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwm8337845.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwm8337845.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "特朗普批评英格兰队主帅战术太“反常”：球队领先，却把最好的球员调去防守 透露曾和凯恩一同打过高尔夫",
+      "author": "红星新闻",
+      "hot": 1219,
+      "timestamp": 1784365973000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniierwm8334398.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniierwm8334398.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "冲击万亿元市值！长鑫科技扛起DRAM国产化大旗，中国大厂多久能追上三星、SK海力士？",
+      "author": "每日经济新闻",
+      "hot": 1229,
+      "timestamp": 1784343817000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8302152.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8302152.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "桂林一退休民警醉驾闯红灯致人重伤担责75万，服刑期间死亡，妻女自愿放弃继承权，剩43万判赔款至今无着落",
+      "author": "新浪新闻综合",
+      "hot": 1250,
+      "timestamp": 1784382264000,
+      "url": "https://news.sina.com.cn/s/2026-07-18/doc-iniifane1560476.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-18/doc-iniifane1560476.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "足坛名宿，死于头球导致的脑部疾病",
+      "author": "新浪新闻综合",
+      "hot": 1289,
+      "timestamp": 1784331006000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniicusq7306323.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniicusq7306323.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
+      "author": "央视",
+      "hot": 1302,
+      "timestamp": 1784354926000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniiemqh7173854.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniiemqh7173854.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "独家视频丨习近平会见古特雷斯：中国是联合国事业的坚定支持者",
+      "author": "央视",
+      "hot": 1302,
+      "timestamp": 1784363922000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniierwh3959906.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniierwh3959906.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "局势持续升级！美军连续第七晚空袭伊朗 被曝将向以增派数十架加油机",
+      "author": "智通财经网",
+      "hot": 1476,
+      "timestamp": 1784386191000,
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-18/doc-iniifhuc8303212.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-18/doc-iniifhuc8303212.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "日线六连阴！SpaceX市值蒸发超1万亿美元，机构散户全被套",
+      "author": "第一财经",
+      "hot": 1490,
+      "timestamp": 1784376196000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewee3998446.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewee3998446.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "上海足协发布对“禁足”人员申思的调查通报",
+      "author": "央视",
+      "hot": 1493,
+      "timestamp": 1784392677000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhtw7147671.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhtw7147671.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "080期韩佳琪大乐透预测奖号：单挑一注推荐",
+      "author": "新浪彩票",
+      "hot": 1525,
+      "timestamp": 1784361220000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwk1463664.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwk1463664.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "落子青岛，刘强东“探海”版图再下一城",
+      "author": "每日经济新闻",
+      "hot": 1538,
+      "timestamp": 1784343746000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8281591.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicusv8281591.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "生命迹象位置已确定 重庆彭水山体崩塌救援正在进行",
+      "author": "央视",
+      "hot": 1545,
+      "timestamp": 1784392176000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhuc8379042.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhuc8379042.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "重庆山体崩塌，最大一块崩塌山石约3000多立方米，相当于一栋楼 喊居民撤离的网格员，走在队伍最后面，被碎石击中",
+      "author": "新浪新闻综合",
+      "hot": 1554,
+      "timestamp": 1784367632000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwh4013962.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwh4013962.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "山西夏县发现东汉中晚期家族墓地",
+      "author": "央视",
+      "hot": 1616,
+      "timestamp": 1784374165000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniiewea7190718.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniiewea7190718.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "欧洲冠军PK美洲冠军!数据示西阿大战1-1进加时",
+      "author": "新浪彩票",
+      "hot": 1625,
+      "timestamp": 1784360534000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniiemqp8357708.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniiemqp8357708.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "TCL中环拟斥资近120亿元 加码半导体大硅片",
+      "author": "证券时报",
+      "hot": 1628,
+      "timestamp": 1784344271000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyq4076720.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyq4076720.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "决赛前，阿根廷主帅发声",
+      "author": "环球网",
+      "hot": 1691,
+      "timestamp": 1784389453000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniifhuc8330685.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniifhuc8330685.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅",
+      "author": "环球市场播报",
+      "hot": 1753,
+      "timestamp": 1784347712000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4019165.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4019165.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "锂电池，要和成品油一样交消费税了",
+      "author": "第一财经网",
+      "hot": 1835,
+      "timestamp": 1784326227000,
+      "url": "https://news.sina.com.cn/o/2026-07-17/doc-iniicqkw1497709.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-17/doc-iniicqkw1497709.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "author": "央视",
+      "hot": 1931,
+      "timestamp": 1784319858000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniickaw4209401.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-17/doc-iniickaw4209401.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "过去十年里的第七位英国首相：伯纳姆准备入主唐宁街10号",
+      "author": "环球网",
+      "hot": 1957,
+      "timestamp": 1784358399000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniiemqn1524293.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniiemqn1524293.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "特朗普帖文，花钱就能抢先看？",
+      "author": "环球时报",
+      "hot": 2023,
+      "timestamp": 1784322433000,
+      "url": "https://news.sina.com.cn/w/2026-07-17/doc-iniicqkw1432524.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-17/doc-iniicqkw1432524.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "美军连续第七晚空袭伊朗，伊打击美在巴林无人艇、警告进入“全面进攻和摧毁”阶段",
+      "author": "央视",
+      "hot": 2080,
+      "timestamp": 1784361199000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqk3966643.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqk3966643.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "股市大跌，十几家基金公司火速解读",
+      "author": "市场资讯",
+      "hot": 2080,
+      "timestamp": 1784326199000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniicqks7384876.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniicqks7384876.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "飞天茅台，明起涨价",
+      "author": "长安街知事",
+      "hot": 2209,
+      "timestamp": 1784331028000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniicusv8209066.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniicusv8209066.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "29岁男子坐办公室腰痛2天后大小便失禁，紧急就医后确诊！专家提醒：或留下终身后遗症",
+      "author": "极目新闻",
+      "hot": 2233,
+      "timestamp": 1784370000000,
+      "url": "https://news.sina.com.cn/s/2026-07-18/doc-iniieweh1510091.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-18/doc-iniieweh1510091.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "茅台提价难挽行业逆势 酒企扎堆去库存承压",
+      "author": "证券时报",
+      "hot": 2289,
+      "timestamp": 1784344321000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyn7299957.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniicyyn7299957.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "10年第7任！“70后”伯纳姆，将接任英国首相！被称为“北境之王”，对访华经历念念不忘",
+      "author": "华夏时报",
+      "hot": 2399,
+      "timestamp": 1784371412000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniieweh1537636.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniieweh1537636.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "锂电池要和成品油一样交消费税了！专家称油电同权坚实一步：对电车征养路费还远吗",
+      "author": "快科技",
+      "hot": 2400,
+      "timestamp": 1784371208000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-18/doc-iniiewea7158099.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-18/doc-iniiewea7158099.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "壹快评｜“纸上种田”挨批，真正危险的还不是造假",
+      "author": "第一财经网",
+      "hot": 2435,
+      "timestamp": 1784361770000,
+      "url": "https://news.sina.com.cn/o/2026-07-18/doc-iniierwm8250286.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-18/doc-iniierwm8250286.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "商务部新闻发言人就美不再延续涉港国家紧急状态答记者问",
+      "author": "界面新闻",
+      "hot": 2478,
+      "timestamp": 1784319350000,
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-iniickaz8289455.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-17/doc-iniickaz8289455.shtml"
+    }
+  ]
+}
