@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-19T00:01:28.685Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744692",
+      "title": "布伦森：没有试图招募詹姆斯加盟尼克斯 那是管理层该操心的事",
+      "author": "NBA综合",
+      "hot": 25,
+      "timestamp": 1784420620000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1417591.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1417591.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "媒体人：中国U17女篮没气馁 强撑着一股劲艰难取胜 锁定世界杯前6",
+      "author": "NBA综合",
+      "hot": 107,
+      "timestamp": 1784417011000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-18/doc-iniifxrv8291859.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-18/doc-iniifxrv8291859.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "把握应对人工智能机遇挑战 共创人类社会更加美好未来",
+      "author": "新华社",
+      "hot": 107,
+      "timestamp": 1784408590000,
+      "url": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniiftiw1560643.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/xl/2026-07-18/doc-iniiftiw1560643.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "通辽球迷看台上刮起蓝色“草原风”",
+      "author": "滚动播报",
+      "hot": 109,
+      "timestamp": 1784436625000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpn1213914.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpn1213914.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "29岁男子坐办公室腰痛2天后大小便失禁，紧急就医后确诊！专家提醒：或留下终身后遗症",
+      "author": "极目新闻",
+      "hot": 112,
+      "timestamp": 1784370000000,
+      "url": "https://news.sina.com.cn/s/2026-07-18/doc-iniieweh1510091.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-18/doc-iniieweh1510091.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "那达慕引客来",
+      "author": "滚动播报",
+      "hot": 113,
+      "timestamp": 1784430656000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfr8101054.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfr8101054.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "俄称乌无人机袭击致9死 乌称打击俄物流枢纽",
+      "author": "央视",
+      "hot": 116,
+      "timestamp": 1784427031000,
+      "url": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxs1418355.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxs1418355.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "王楚钦/孙颖莎2-3不敌袁励岑/王艺迪，无缘乒乓全锦赛决赛",
+      "author": "红星新闻",
+      "hot": 124,
+      "timestamp": 1784415861000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniifxrx4067070.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniifxrx4067070.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "竞彩大势：法国赢球可期 布兰客战全身而退",
+      "author": "新浪彩票",
+      "hot": 126,
+      "timestamp": 1784363747000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwh3957625.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwh3957625.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "2026年新疆兵团全民足球超级联赛开幕",
+      "author": "兵团日报",
+      "hot": 126,
+      "timestamp": 1784425899000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihcxv3982369.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihcxv3982369.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "“用人类智慧和国际共识引领人工智能发展”",
+      "author": "经济日报",
+      "hot": 127,
+      "timestamp": 1784441083000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpn1231050.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpn1231050.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "詹姆斯：我妻子主理家事 为生涯目标我牺牲了和朋友出去玩的机会",
+      "author": "NBA综合",
+      "hot": 128,
+      "timestamp": 1784424212000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1431472.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1431472.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "青鲁文旅产业协作转向“双向共赢”",
+      "author": "青海日报",
+      "hot": 129,
+      "timestamp": 1784427697000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfq1314343.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfq1314343.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "亚马尔伤情公布",
+      "author": "中国新闻网",
+      "hot": 129,
+      "timestamp": 1784396568000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifnzz8321002.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifnzz8321002.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "3分钟闪电进球！18分钟2-0领先！",
+      "author": "市场资讯",
+      "hot": 130,
+      "timestamp": 1784439087000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniihqpt0523340.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniihqpt0523340.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "全国工会已组建超5000支服务队深入开展“劳模工匠助企行”",
+      "author": "滚动播报",
+      "hot": 134,
+      "timestamp": 1784430654000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfv0637974.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfv0637974.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "埃安与中创新航接连发声！电池质保期延长至8年30万公里，可根据检测结果免费维修或更换电池包",
+      "author": "每日经济新闻",
+      "hot": 134,
+      "timestamp": 1784426965000,
+      "url": "https://news.sina.com.cn/c/2026-07-19/doc-iniifxrv8298488.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-19/doc-iniifxrv8298488.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "湖北一派出所所长遭实名举报涉黑涉恶，官方为其澄清正名！湖北通报7起相关典型案例",
+      "author": "新浪新闻综合",
+      "hot": 135,
+      "timestamp": 1784362660000,
+      "url": "https://news.sina.com.cn/s/2026-07-18/doc-iniierwm8269688.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-18/doc-iniierwm8269688.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "象形石：打开崂山的新方式",
+      "author": "铜川日报",
+      "hot": 140,
+      "timestamp": 1784428762000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniihkfv0634047.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniihkfv0634047.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "火力全开！李沅珊场均轰21.5分 是本届U17女篮世界杯的头号得分手",
+      "author": "NBA综合",
+      "hot": 142,
+      "timestamp": 1784420620000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1417589.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-19/doc-iniihcxs1417589.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "福斯特：英格兰在三四名决赛再不上梅努，裂痕就大了",
+      "author": "新浪新闻综合",
+      "hot": 148,
+      "timestamp": 1784430168000,
+      "url": "https://news.sina.com.cn/w/2026-07-19/doc-iniiftiz4135445.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-19/doc-iniiftiz4135445.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "沃尔沃CEO：中国制造商做对了很多事情，我们必须尊重",
+      "author": "市场资讯",
+      "hot": 152,
+      "timestamp": 1784432954000,
+      "url": "https://finance.sina.com.cn/stock/t/2026-07-19/doc-iniihkfv0642011.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/t/2026-07-19/doc-iniihkfv0642011.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
+      "author": "央视",
+      "hot": 153,
+      "timestamp": 1784427002000,
+      "url": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxv3963332.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxv3963332.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "巴基斯坦给伊朗划“红线”：对沙特的袭击就是对巴方的袭击",
+      "author": "每日经济新闻",
+      "hot": 158,
+      "timestamp": 1784406848000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniiftiz4136963.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniiftiz4136963.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "图解2026世界人工智能大会十大镇馆之宝",
+      "author": "澎湃新闻",
+      "hot": 158,
+      "timestamp": 1784376353000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwm8337845.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniierwm8337845.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "特朗普：痛心美军士兵遇难，绝不允许伊朗拥核，无视协议停摆",
+      "author": "滚动播报",
+      "hot": 159,
+      "timestamp": 1784438576000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihqpp7997199.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihqpp7997199.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "阿根廷回应“受国际足联偏袒”",
+      "author": "长安街知事",
+      "hot": 161,
+      "timestamp": 1784397291000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniifnzw3829159.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniifnzw3829159.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "决赛前，阿根廷主帅发声",
+      "author": "环球网",
+      "hot": 166,
+      "timestamp": 1784389453000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniifhuc8330685.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniifhuc8330685.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "玉渊谭天丨中国AI的开放逻辑",
+      "author": "央视",
+      "hot": 166,
+      "timestamp": 1784427119000,
+      "url": "https://news.sina.com.cn/c/2026-07-19/doc-iniihcxt8213475.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-19/doc-iniihcxt8213475.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "以“智”提效，扬州船舶向“新”而行",
+      "author": "滚动播报",
+      "hot": 169,
+      "timestamp": 1784437693000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpr3743444.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpr3743444.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "只剩最后两场！2026世界杯即将迎来最终决战",
+      "author": "央视",
+      "hot": 173,
+      "timestamp": 1784363554000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniierwe7176350.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniierwe7176350.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "美军连续七夜打击伊朗设施 伊朗反击多国美军基地并封锁海峡",
+      "author": "环球市场播报",
+      "hot": 173,
+      "timestamp": 1784428399000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihkfq1316672.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-19/doc-iniihkfq1316672.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "山西夏县发现东汉中晚期家族墓地",
+      "author": "央视",
+      "hot": 175,
+      "timestamp": 1784374165000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniiewea7190718.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniiewea7190718.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "伊朗最高领袖指责美国一再违约",
+      "author": "央视",
+      "hot": 176,
+      "timestamp": 1784427061000,
+      "url": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxv3972673.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-19/doc-iniihcxv3972673.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "[新浪彩票]足彩第26093期大势：法国坐和望赢",
+      "author": "新浪彩票",
+      "hot": 177,
+      "timestamp": 1784361488000,
+      "url": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwm8245025.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-18/doc-iniierwm8245025.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "重庆山体崩塌现场发现生命迹象，但雷达检测出崩塌现场位移，正研究科学搜救方案",
+      "author": "封面新闻",
+      "hot": 180,
+      "timestamp": 1784385049000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniifane1641760.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniifane1641760.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "U17女篮世界杯：中国队将与新西兰队争夺第五名",
+      "author": "央视",
+      "hot": 181,
+      "timestamp": 1784427078000,
+      "url": "https://news.sina.com.cn/c/2026-07-19/doc-iniihkfv0630101.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-19/doc-iniihkfv0630101.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "全力科学搜救 严防次生灾害 细致做好受灾群众安置和基本生活保障",
+      "author": "经济日报",
+      "hot": 184,
+      "timestamp": 1784441082000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpt0528404.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihqpt0528404.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "伊议员称海湾各国基建抗打击能力弱于伊朗",
+      "author": "环球市场播报",
+      "hot": 188,
+      "timestamp": 1784417853000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniifxru1520697.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniifxru1520697.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "全力投入抢险救援 压实责任排查隐患",
+      "author": "光明网",
+      "hot": 190,
+      "timestamp": 1784430450000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfr8099953.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniihkfr8099953.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "中国足协：阿尔马赞离任",
+      "author": "长安街知事",
+      "hot": 193,
+      "timestamp": 1784360111000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniiemqk4038177.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniiemqk4038177.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "以军空袭加沙城致8人死亡",
+      "author": "财联社",
+      "hot": 194,
+      "timestamp": 1784435131000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniihqpr3738436.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniihqpr3738436.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "真的太猛了啊！中国U17女篮赢了3个去年U16女篮欧洲杯前四的球队",
+      "author": "NBA综合",
+      "hot": 205,
+      "timestamp": 1784417013000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-18/doc-iniifxru1515713.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-18/doc-iniifxru1515713.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "外交部回应英钢国有化问题：密切关注，必要时将采取维权措施",
+      "author": "界面新闻",
+      "hot": 206,
+      "timestamp": 1784398430000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifnzy1567578.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifnzy1567578.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "柬埔寨指责泰国：带外媒访问诈骗园区，侵犯柬主权",
+      "author": "观察者网",
+      "hot": 211,
+      "timestamp": 1784400855000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniifnzw3842959.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniifnzw3842959.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "马兵已任山东大学新闻传播学院院长兼出版学院院长",
+      "author": "澎湃新闻",
+      "hot": 212,
+      "timestamp": 1784416634000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniifxrx4074732.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniifxrx4074732.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "重庆山体崩塌现场发现生命迹象",
+      "author": "澎湃新闻",
+      "hot": 217,
+      "timestamp": 1784380897000,
+      "url": "https://news.sina.com.cn/o/2026-07-18/doc-iniifane1569400.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-18/doc-iniifane1569400.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "民调：近半数美国人认为最高法院裁决受政治立场左右",
+      "author": "环球市场播报",
+      "hot": 224,
+      "timestamp": 1784415881000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniifxru1506340.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-18/doc-iniifxru1506340.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "生命迹象位置已确定 重庆彭水山体崩塌救援正在进行",
+      "author": "央视",
+      "hot": 224,
+      "timestamp": 1784392176000,
+      "url": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhuc8379042.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-18/doc-iniifhuc8379042.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "印度最大核电站发生大规模数据泄露",
+      "author": "央视",
+      "hot": 224,
+      "timestamp": 1784404706000,
+      "url": "https://news.sina.com.cn/w/2026-07-18/doc-iniiftiw1505629.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-18/doc-iniiftiw1505629.shtml"
+    }
+  ]
+}
