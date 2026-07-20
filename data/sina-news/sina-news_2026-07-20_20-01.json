@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-20T12:01:27.904Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "人民日报来信调查：毕节一县修建百余套公租房，闲置8年盘活遇梗阻",
+      "author": "澎湃新闻",
+      "hot": 585,
+      "timestamp": 1784532948000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxus8166856.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxus8166856.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "27分23秒，热议超长中场休息：感觉是在胡言乱语中穿插了球赛",
+      "author": "新浪新闻综合",
+      "hot": 1066,
+      "timestamp": 1784522204000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktnu8157722.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktnu8157722.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "芯片老兵杨崇和20年造芯荣膺全球榜首 澜起科技遭境外反垄断调查市值蒸发860亿",
+      "author": "长江商报",
+      "hot": 1583,
+      "timestamp": 1784536174000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimeam3020117.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimeam3020117.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "以军总参谋长称已做好立即恢复作战准备",
+      "author": "央视",
+      "hot": 2564,
+      "timestamp": 1784518086000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniikpey4912101.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniikpey4912101.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "梅西泪洒赛场！吉诺比利：很难不为之动容 谢谢你 天才",
+      "author": "NBA综合",
+      "hot": 2579,
+      "timestamp": 1784532214000,
+      "url": "https://sports.sina.com.cn/basketball/nba/2026-07-20/doc-iniikxup3111007.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/basketball/nba/2026-07-20/doc-iniikxup3111007.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "俄莫斯科州州长：3名中国公民在无人机袭击中受伤",
+      "author": "新京报",
+      "hot": 2601,
+      "timestamp": 1784565065000,
+      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuye9832105.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuye9832105.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "如何看待近期市场？相信中国资产的内在价值与支撑力",
+      "author": "证券时报",
+      "hot": 2699,
+      "timestamp": 1784507983000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniikhwx0087028.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniikhwx0087028.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "离谱！无实体公司却被追罚5500万，比亚迪印度税务罚单闹乌龙",
+      "author": "市场资讯",
+      "hot": 2722,
+      "timestamp": 1784536123000,
+      "url": "https://finance.sina.com.cn/stock/auto/2026-07-20/doc-iniimean9792792.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/auto/2026-07-20/doc-iniimean9792792.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美方发现：“伊朗规避美军拦截能力提升”",
+      "author": "牛弹琴",
+      "hot": 2794,
+      "timestamp": 1784533202000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeaq8040137.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeaq8040137.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
+      "author": "央视",
+      "hot": 2816,
+      "timestamp": 1784528056000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktnu8174282.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktnu8174282.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "竞彩大势：佐加顿斯信心十足 马尔默不败可期",
+      "author": "新浪彩票",
+      "hot": 2830,
+      "timestamp": 1784532721000,
+      "url": "https://sports.sina.com.cn/l/2026-07-20/doc-iniikxus8164158.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-20/doc-iniikxus8164158.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "紧急终止减持计划！周末加班、豁免会议通知时限！多家上市公司加急审议回购方案",
+      "author": "滚动播报",
+      "hot": 2872,
+      "timestamp": 1784489746000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwic0196972.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwic0196972.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "涉印度首条高铁项目，日本前高官吐槽印政府“荒唐”，印度反驳",
+      "author": "环球网",
+      "hot": 2878,
+      "timestamp": 1784532793000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxus8124466.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxus8124466.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "赛后冲突！内维尔和希勒批评阿根廷：这是耻辱，他们的反应很糟糕",
+      "author": "新浪新闻综合",
+      "hot": 2879,
+      "timestamp": 1784532015000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuq9885462.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuq9885462.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "胜负彩26094期国内部分专业媒体复式推荐总汇",
+      "author": "新浪彩票",
+      "hot": 2918,
+      "timestamp": 1784540538000,
+      "url": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeam3081776.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeam3081776.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "赛后打起来了！阿根廷球员帕雷德斯锁喉西班牙球员加西亚、抱摔加维",
+      "author": "羊城晚报金羊网",
+      "hot": 2952,
+      "timestamp": 1784536328000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeaq8084816.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeaq8084816.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "带娃能否优先安排下铺？12306回应：暂无特殊安排 网友建议增设“儿童车厢”与静音车厢相区分",
+      "author": "红星新闻",
+      "hot": 2965,
+      "timestamp": 1784497384000,
+      "url": "https://news.sina.com.cn/c/2026-07-19/doc-iniikaqz0127556.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-19/doc-iniikaqz0127556.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
+      "author": "澎湃新闻",
+      "hot": 3112,
+      "timestamp": 1784543097000,
+      "url": "https://news.sina.com.cn/s/2026-07-20/doc-iniimkkn8056859.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-20/doc-iniimkkn8056859.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "AI算力进入“超节点时代” 国产厂商能否借此打开新局面？",
+      "author": "每日经济新闻",
+      "hot": 3141,
+      "timestamp": 1784517038000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniikpey4960671.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniikpey4960671.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "沙特艾卜哈国际机场遭袭，外交部回应",
+      "author": "环球网",
+      "hot": 3214,
+      "timestamp": 1784562512000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuye9793992.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuye9793992.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "亚马尔突破疑似被塔利亚菲科拉倒，主裁温契奇给了阿根廷门球",
+      "author": "新浪新闻综合",
+      "hot": 3218,
+      "timestamp": 1784523153000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktns9941125.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktns9941125.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "美军导弹打击伊朗石油重镇 地区三国再称遭伊袭击",
+      "author": "央视",
+      "hot": 3328,
+      "timestamp": 1784540702000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimean9861879.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimean9861879.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "姆巴佩金靴、罗德里金球、乌奈西蒙金手套， 西班牙时隔16年再夺世界杯冠军",
+      "author": "扬子晚报",
+      "hot": 3398,
+      "timestamp": 1784531952000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4928286.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4928286.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "阿根廷与西班牙球员赛后爆发冲突原因公布：阿根廷球员莫利纳在西班牙球员冲入场内庆祝时，伸手打了罗德里一拳",
+      "author": "新浪新闻综合",
+      "hot": 3467,
+      "timestamp": 1784538336000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimeaq8118154.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimeaq8118154.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "欧洲警惕美国干涉选举，德国总理默茨发声警告",
+      "author": "环球网",
+      "hot": 3518,
+      "timestamp": 1784532873000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxus8124418.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxus8124418.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "盘点本届世界杯64项纪录：C罗6届进球，姆巴佩单届10球，西班牙连续6场零封",
+      "author": "新浪新闻综合",
+      "hot": 3519,
+      "timestamp": 1784545295000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimkkk9810424.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimkkk9810424.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "重磅！中国国新：增持！涉及金额超500亿元",
+      "author": "每日经济新闻",
+      "hot": 3523,
+      "timestamp": 1784500876000,
+      "url": "https://news.sina.com.cn/o/2026-07-19/doc-iniikhwx0025705.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-19/doc-iniikhwx0025705.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "此行间·让人工智能造福人类！100秒看习近平的“上海之约”",
+      "author": "人民日报客户端",
+      "hot": 3576,
+      "timestamp": 1784557777000,
+      "url": "https://news.sina.com.cn/gov/xlxw/2026-07-20/doc-iniimuyh8116394.shtml",
+      "mobileUrl": "https://news.sina.com.cn/gov/xlxw/2026-07-20/doc-iniimuyh8116394.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "AI 发展了4年，把应用发展没了？",
+      "author": "虎嗅APP",
+      "hot": 3621,
+      "timestamp": 1784535678000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeam3014815.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeam3014815.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "最新 | 阿根廷队主帅失声痛哭！",
+      "author": "天津广播",
+      "hot": 3647,
+      "timestamp": 1784541777000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimkkq4841001.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimkkq4841001.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "世界杯最终章：足球赢了 球王逃不过概率准则",
+      "author": "新浪体育讯",
+      "hot": 3690,
+      "timestamp": 1784543454000,
+      "url": "https://sports.sina.com.cn/china/2026-07-20/doc-iniimkkk9780069.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/china/2026-07-20/doc-iniimkkk9780069.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "内塔尼亚胡来纽约或逮捕他？分析：这一行为困难重重，可能本身就犯法",
+      "author": "成都商报",
+      "hot": 3710,
+      "timestamp": 1784558327000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimuyh8122222.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimuyh8122222.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "阿根廷主帅失声痛哭",
+      "author": "第一财经",
+      "hot": 3727,
+      "timestamp": 1784537620000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeam3036636.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimeam3036636.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "AI算力的“终极血管”，中国正在“换道超车”",
+      "author": "滚动播报",
+      "hot": 3739,
+      "timestamp": 1784526145000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4848456.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4848456.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "各路媒体质疑裁判：不出牌开危险先例 让阿根廷觉得可以粗暴比赛",
+      "author": "新浪新闻综合",
+      "hot": 3786,
+      "timestamp": 1784523351000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktns9942151.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniiktns9942151.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "事关A股，吴清最新发声",
+      "author": "中国证券报-中证网",
+      "hot": 3834,
+      "timestamp": 1784561801000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimuyk4983397.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimuyk4983397.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "英媒：伯纳姆今日接任英国首相，多个议题亟待处理",
+      "author": "环球网",
+      "hot": 3863,
+      "timestamp": 1784532926000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxup3085400.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniikxup3085400.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "西班牙阿根廷赛后打起来了 罗德里加冕2026世界杯金球奖",
+      "author": "金羊网",
+      "hot": 3870,
+      "timestamp": 1784532368000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4934450.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniikxuu4934450.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "财经早报：最高预增543.7%！A股又一波业绩利好来了丨2026年7月20日",
+      "author": "新浪证券",
+      "hot": 3967,
+      "timestamp": 1784535217000,
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-20/doc-iniimeas4843208.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/y/2026-07-20/doc-iniimeas4843208.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "欧洲市场制冷需求旺盛 中国空调品牌全速赶订单",
+      "author": "央视",
+      "hot": 4011,
+      "timestamp": 1784544210000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimkkq4899985.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimkkq4899985.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "稳定信号出现，五大A股主力联袂力挺",
+      "author": "市场资讯",
+      "hot": 4225,
+      "timestamp": 1784535334000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimeam3010868.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimeam3010868.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "绝对赢家，西班牙夺得世界杯的同时队内三名球员获得赛事奖项",
+      "author": "新浪新闻综合",
+      "hot": 4298,
+      "timestamp": 1784531102000,
+      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniikxuu4906764.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-20/doc-iniikxuu4906764.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "周末，A股重磅利好！“国家队”出手了",
+      "author": "市场资讯",
+      "hot": 4308,
+      "timestamp": 1784505679000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniikhwv3287435.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniikhwv3287435.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "帕雷德斯赛后锁喉埃里克-加西亚+抱摔加维，吃到直红！",
+      "author": "新浪新闻综合",
+      "hot": 4317,
+      "timestamp": 1784532602000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuu4884584.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuu4884584.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "西班牙瓜达拉哈拉省山火过火面积达1.6万公顷",
+      "author": "央视",
+      "hot": 4345,
+      "timestamp": 1784517919000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniikpey4993802.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniikpey4993802.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "港媒曝谢霆锋父亲去世",
+      "author": "新浪新闻综合",
+      "hot": 4456,
+      "timestamp": 1784562055000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimuyk4989477.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniimuyk4989477.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "Kimi K3发布2天后月之暗面Kimi称算力紧缺：暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+      "author": "新浪新闻综合",
+      "hot": 4692,
+      "timestamp": 1784521259000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniikhwv3269554.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniikhwv3269554.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "意名宿：劳塔罗一分钟没上令人震惊，除非阿根廷一开始就想拖点球",
+      "author": "新浪新闻综合",
+      "hot": 4708,
+      "timestamp": 1784532023000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuu4929447.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniikxuu4929447.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "阿根廷与西班牙决赛后爆发冲突，阿根廷球员挥拳锁喉，领奖时集体背身，冲突原因公布",
+      "author": "观察者网",
+      "hot": 4738,
+      "timestamp": 1784541649000,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimkkq4838327.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimkkq4838327.shtml"
+    },
+    {
+      "id": "6744643",
+      "title": "山西省长治市应急管理局党委书记、局长张文波被查",
+      "author": "新京报",
+      "hot": 4741,
+      "timestamp": 1784553048000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsf2998500.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsf2998500.shtml"
+    }
+  ]
+}
