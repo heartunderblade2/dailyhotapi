@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "name": "sina-news",
+  "title": "新浪新闻",
+  "type": "总排行",
+  "params": {
+    "type": {
+      "name": "榜单分类",
+      "type": {
+        "1": "总排行",
+        "2": "视频排行",
+        "3": "图片排行",
+        "4": "国内新闻",
+        "5": "国际新闻",
+        "6": "社会新闻",
+        "7": "体育新闻",
+        "8": "财经新闻",
+        "9": "娱乐新闻",
+        "10": "科技新闻",
+        "11": "军事新闻"
+      }
+    }
+  },
+  "link": "https://sinanews.sina.cn/",
+  "total": 50,
+  "updateTime": "2026-07-21T00:01:32.417Z",
+  "fromCache": false,
+  "data": [
+    {
+      "id": "6744693",
+      "title": "特朗普政府出新招：到美国建厂铝关税打对折",
+      "author": "环球市场播报",
+      "hot": 136,
+      "timestamp": 1784608002000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatu4866628.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatu4866628.shtml"
+    },
+    {
+      "id": "6744692",
+      "title": "斯塔默正式卸任英国首相",
+      "author": "央视",
+      "hot": 137,
+      "timestamp": 1784572188000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzhe8278751.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzhe8278751.shtml"
+    },
+    {
+      "id": "6744691",
+      "title": "亨通光电股价跌5.12%，交银施罗德基金旗下5只基金重仓，合计持有555.93万股浮亏损失1662.25万元",
+      "author": "新浪基金∞工作室",
+      "hot": 138,
+      "timestamp": 1784543852000,
+      "url": "https://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2026-07-20/doc-iniimkkk9787682.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2026-07-20/doc-iniimkkk9787682.shtml"
+    },
+    {
+      "id": "6744690",
+      "title": "伟大征程丨一枚香甜芒果见证共建“一带一路”发展成效",
+      "author": "央视",
+      "hot": 145,
+      "timestamp": 1784581953000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqe5073253.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqe5073253.shtml"
+    },
+    {
+      "id": "6744689",
+      "title": "逐渐脱离基本面！强监管下，韩国股市“史诗极牛市”结束了？",
+      "author": "第一财经网",
+      "hot": 147,
+      "timestamp": 1784563396000,
+      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyh8243439.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyh8243439.shtml"
+    },
+    {
+      "id": "6744688",
+      "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
+      "author": "新华网",
+      "hot": 151,
+      "timestamp": 1784564754000,
+      "url": "https://mil.news.sina.com.cn/zonghe/2026-07-20/doc-iniimuyh8266712.shtml",
+      "mobileUrl": "https://mil.news.sina.com.cn/zonghe/2026-07-20/doc-iniimuyh8266712.shtml"
+    },
+    {
+      "id": "6744687",
+      "title": "伊朗外交部确认收到调解方提议 但未透露详情",
+      "author": "央视",
+      "hot": 153,
+      "timestamp": 1784565445000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimuye9800924.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimuye9800924.shtml"
+    },
+    {
+      "id": "6744685",
+      "title": "美印关系降级，专家提醒：对华遏制本质未变，但美国不会放任印度成为下一个“中国”",
+      "author": "观察者网",
+      "hot": 154,
+      "timestamp": 1784552316000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsk8132698.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsk8132698.shtml"
+    },
+    {
+      "id": "6744686",
+      "title": "世界杯落幕，全48队排名出炉：西班牙第1，美国第12，佛得角第32，各队奖金一览！",
+      "author": "每日经济新闻",
+      "hot": 154,
+      "timestamp": 1784541622000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimean9872515.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimean9872515.shtml"
+    },
+    {
+      "id": "6744684",
+      "title": "估值有望进一步修复 银行板块走强",
+      "author": "上海证券报",
+      "hot": 161,
+      "timestamp": 1784571841000,
+      "url": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimzhe8272781.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimzhe8272781.shtml"
+    },
+    {
+      "id": "6744683",
+      "title": "美军称对伊朗发动新一轮打击",
+      "author": "央视",
+      "hot": 166,
+      "timestamp": 1784612738000,
+      "url": "https://news.sina.com.cn/w/2026-07-21/doc-iniipatp2673181.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-21/doc-iniipatp2673181.shtml"
+    },
+    {
+      "id": "6744682",
+      "title": "伊朗总统称伊朗正处于“全面战争”之中",
+      "author": "新华国际",
+      "hot": 171,
+      "timestamp": 1784576866000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfqa8228699.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfqa8228699.shtml"
+    },
+    {
+      "id": "6744680",
+      "title": "美官员：美国将向中东增派战机",
+      "author": "央视",
+      "hot": 172,
+      "timestamp": 1784587229000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniinmvw9674204.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniinmvw9674204.shtml"
+    },
+    {
+      "id": "6744681",
+      "title": "山西省长治市应急管理局党委书记、局长张文波被查",
+      "author": "新京报",
+      "hot": 172,
+      "timestamp": 1784553048000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsf2998500.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsf2998500.shtml"
+    },
+    {
+      "id": "6744679",
+      "title": "美伊冲突“局面正在失控”",
+      "author": "中国新闻网",
+      "hot": 179,
+      "timestamp": 1784573804000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzhh5081863.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzhh5081863.shtml"
+    },
+    {
+      "id": "6744678",
+      "title": "英国新首相伯纳姆发表就职演讲",
+      "author": "央视",
+      "hot": 184,
+      "timestamp": 1784576963000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfqa8230504.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfqa8230504.shtml"
+    },
+    {
+      "id": "6744677",
+      "title": "三大指数全线翻绿",
+      "author": "界面新闻",
+      "hot": 185,
+      "timestamp": 1784555217000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsk8197817.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimqsk8197817.shtml"
+    },
+    {
+      "id": "6744676",
+      "title": "世界杯的作业，中国足球何时能抄及格",
+      "author": "长安街知事",
+      "hot": 190,
+      "timestamp": 1784560093000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuyk4926017.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuyk4926017.shtml"
+    },
+    {
+      "id": "6744675",
+      "title": "李强主持召开国务院常务会议",
+      "author": "经济日报",
+      "hot": 196,
+      "timestamp": 1784613873000,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-21/doc-iniipatq9496441.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/jjxw/2026-07-21/doc-iniipatq9496441.shtml"
+    },
+    {
+      "id": "6744674",
+      "title": "SK海力士预警AI存储热潮难持续",
+      "author": "环球市场播报",
+      "hot": 198,
+      "timestamp": 1784603054000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmr2790186.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmr2790186.shtml"
+    },
+    {
+      "id": "6744673",
+      "title": "特朗普称伊朗将为杀害美军士兵“付出代价”，油价应声上涨",
+      "author": "环球市场播报",
+      "hot": 199,
+      "timestamp": 1784602221000,
+      "url": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmr2788039.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmr2788039.shtml"
+    },
+    {
+      "id": "6744672",
+      "title": "俄莫斯科州州长：3名中国公民在无人机袭击中受伤",
+      "author": "新京报",
+      "hot": 205,
+      "timestamp": 1784565065000,
+      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuye9832105.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuye9832105.shtml"
+    },
+    {
+      "id": "6744671",
+      "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
+      "author": "环球市场播报",
+      "hot": 207,
+      "timestamp": 1784599859000,
+      "url": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmu8168200.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmu8168200.shtml"
+    },
+    {
+      "id": "6744670",
+      "title": "7月21日热门中概股多数上涨 阿里巴巴涨4.69%，南茂科技跌8.33%",
+      "author": "环球市场播报",
+      "hot": 226,
+      "timestamp": 1784607875000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatq9449196.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatq9449196.shtml"
+    },
+    {
+      "id": "6744669",
+      "title": "7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停",
+      "author": "环球市场播报",
+      "hot": 234,
+      "timestamp": 1784611846000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatp2700533.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatp2700533.shtml"
+    },
+    {
+      "id": "6744668",
+      "title": "胜负彩26094期欧洲四大机构最新数据(17:00)",
+      "author": "新浪彩票",
+      "hot": 238,
+      "timestamp": 1784538192000,
+      "url": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeas4891004.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeas4891004.shtml"
+    },
+    {
+      "id": "6744667",
+      "title": "化工品涨价带动行业回暖，多家石油石化公司上半年业绩倍增",
+      "author": "滚动播报",
+      "hot": 239,
+      "timestamp": 1784616736000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-21/doc-iniiphzs4864434.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-21/doc-iniiphzs4864434.shtml"
+    },
+    {
+      "id": "6744665",
+      "title": "AMD获微软扩大AI合作，Azure将部署Helios系统",
+      "author": "环球市场播报",
+      "hot": 241,
+      "timestamp": 1784605967000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmu8212552.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmu8212552.shtml"
+    },
+    {
+      "id": "6744666",
+      "title": "土耳其主流媒体代表团参访新疆 从寻常巷陌感受民生暖意",
+      "author": "新浪新闻综合",
+      "hot": 241,
+      "timestamp": 1784581809000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqa8295350.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqa8295350.shtml"
+    },
+    {
+      "id": "6744664",
+      "title": "沙特艾卜哈国际机场遭袭，外交部回应",
+      "author": "环球网",
+      "hot": 244,
+      "timestamp": 1784562512000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuye9793992.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniimuye9793992.shtml"
+    },
+    {
+      "id": "6744663",
+      "title": "7月21日美股成交额前20：苹果涨价动摇核心用户升级意愿",
+      "author": "环球市场播报",
+      "hot": 245,
+      "timestamp": 1784609297000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatq9453604.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatq9453604.shtml"
+    },
+    {
+      "id": "6744662",
+      "title": "西班牙领奖时阿根廷球员集体背过身，被英国评论员批简直可耻",
+      "author": "新浪新闻综合",
+      "hot": 246,
+      "timestamp": 1784535165000,
+      "url": "https://news.sina.com.cn/s/2026-07-20/doc-iniimeas4842283.shtml",
+      "mobileUrl": "https://news.sina.com.cn/s/2026-07-20/doc-iniimeas4842283.shtml"
+    },
+    {
+      "id": "6744661",
+      "title": "胡塞武装宣布海上封锁沙特",
+      "author": "界面新闻",
+      "hot": 251,
+      "timestamp": 1784578567000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfpx2968149.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniinfpx2968149.shtml"
+    },
+    {
+      "id": "6744660",
+      "title": "守陵人黄定文：青杠坡上草木深，守望烈士的归乡路",
+      "author": "新浪新闻综合",
+      "hot": 252,
+      "timestamp": 1784581423000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqa8288896.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfqa8288896.shtml"
+    },
+    {
+      "id": "6744659",
+      "title": "特朗普：伊朗每杀害一名美国士兵都将付出“数倍”代价",
+      "author": "环球市场播报",
+      "hot": 253,
+      "timestamp": 1784595942000,
+      "url": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinscw8230667.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinscw8230667.shtml"
+    },
+    {
+      "id": "6744658",
+      "title": "俄罗斯延长对中国公民的免签入境政策",
+      "author": "央视",
+      "hot": 254,
+      "timestamp": 1784576817000,
+      "url": "https://news.sina.com.cn/zx/2026-07-20/doc-iniinfqa8228751.shtml",
+      "mobileUrl": "https://news.sina.com.cn/zx/2026-07-20/doc-iniinfqa8228751.shtml"
+    },
+    {
+      "id": "6744656",
+      "title": "谢霆锋父亲谢贤去世 生前最后露面画面曝光",
+      "author": "新浪新闻综合",
+      "hot": 259,
+      "timestamp": 1784564095000,
+      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyc3041532.shtml",
+      "mobileUrl": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyc3041532.shtml"
+    },
+    {
+      "id": "6744657",
+      "title": "“国家队”出手：600亿元大额增持中国股票资产",
+      "author": "家电网",
+      "hot": 259,
+      "timestamp": 1784570780000,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimzfz3008016.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimzfz3008016.shtml"
+    },
+    {
+      "id": "6744655",
+      "title": "特朗普暗示美军将对伊朗发动强硬报复",
+      "author": "央视",
+      "hot": 265,
+      "timestamp": 1784612235000,
+      "url": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwmw4985038.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwmw4985038.shtml"
+    },
+    {
+      "id": "6744654",
+      "title": "那达慕大会把外国记者看感动了：非常好看 真的很开心",
+      "author": "中国新闻网",
+      "hot": 267,
+      "timestamp": 1784581496000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfpx2991819.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfpx2991819.shtml"
+    },
+    {
+      "id": "6744652",
+      "title": "美国战略石油储备原油库存降至1983年3月以来最低水平",
+      "author": "央视",
+      "hot": 269,
+      "timestamp": 1784612295000,
+      "url": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwms9537212.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwms9537212.shtml"
+    },
+    {
+      "id": "6744653",
+      "title": "中国足球彩票胜负彩26094期澳盘最新赔率(17:00)",
+      "author": "新浪彩票",
+      "hot": 269,
+      "timestamp": 1784538031000,
+      "url": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeaq8111532.shtml",
+      "mobileUrl": "https://sports.sina.com.cn/l/2026-07-20/doc-iniimeaq8111532.shtml"
+    },
+    {
+      "id": "6744651",
+      "title": "特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温",
+      "author": "环球市场播报",
+      "hot": 270,
+      "timestamp": 1784604396000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmw4981708.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmw4981708.shtml"
+    },
+    {
+      "id": "6744650",
+      "title": "英国新任首相伯纳姆任命多名内阁成员",
+      "author": "央视",
+      "hot": 272,
+      "timestamp": 1784612382000,
+      "url": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwmw4966221.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-21/doc-iniinwmw4966221.shtml"
+    },
+    {
+      "id": "6744649",
+      "title": "约旦境内美军空军基地受损程度远超最初报道",
+      "author": "环球市场播报",
+      "hot": 281,
+      "timestamp": 1784600923000,
+      "url": "https://finance.sina.com.cn/7x24/2026-07-21/doc-iniinwmu8184328.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/7x24/2026-07-21/doc-iniinwmu8184328.shtml"
+    },
+    {
+      "id": "6744648",
+      "title": "尾盘：道指下跌逾200点，标普指数基本持平",
+      "author": "环球市场播报",
+      "hot": 285,
+      "timestamp": 1784601367000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmu8190250.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniinwmu8190250.shtml"
+    },
+    {
+      "id": "6744647",
+      "title": "高盛称对冲基金以创纪录的速度抛售美国科技股",
+      "author": "环球市场播报",
+      "hot": 290,
+      "timestamp": 1784599055000,
+      "url": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmu8152761.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/world/2026-07-21/doc-iniinwmu8152761.shtml"
+    },
+    {
+      "id": "6744646",
+      "title": "17岁被豪门抛弃、开二手车，他如何成为世界足球“金满贯”？",
+      "author": "新浪新闻综合",
+      "hot": 322,
+      "timestamp": 1784572067000,
+      "url": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzha9802867.shtml",
+      "mobileUrl": "https://news.sina.com.cn/w/2026-07-20/doc-iniimzha9802867.shtml"
+    },
+    {
+      "id": "6744645",
+      "title": "美国中央司令部：美军对伊朗发动新一轮打击",
+      "author": "环球市场播报",
+      "hot": 324,
+      "timestamp": 1784608132000,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatp2672967.shtml",
+      "mobileUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniipatp2672967.shtml"
+    },
+    {
+      "id": "6744644",
+      "title": "在这场大会，看到AI进化的中国速度",
+      "author": "央视",
+      "hot": 329,
+      "timestamp": 1784582119000,
+      "url": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfpx2996963.shtml",
+      "mobileUrl": "https://news.sina.com.cn/c/2026-07-20/doc-iniinfpx2996963.shtml"
+    }
+  ]
+}
